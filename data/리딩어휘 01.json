@@ -1,0 +1,302 @@
+[
+  {
+    "en": "renew",
+    "ko": "갱신하다, 연장하다",
+    "example": "I need to renew my driver's license next month.",
+    "mnemonic": "Re(다시) + new(새롭게). 낡은 것을 다시 새것으로 바꾸는 것."
+  },
+  {
+    "en": "in person",
+    "ko": "직접, 몸소",
+    "example": "You must apply for the visa in person.",
+    "mnemonic": "이메일이나 전화가 아니라 사람(person)이 그 안에(in) 직접 나타나는 것."
+  },
+  {
+    "en": "be about to do",
+    "ko": "막 ~하려고 하다",
+    "example": "I was about to leave when the phone rang.",
+    "mnemonic": "어떤 지점 '주변(about)'에 딱 붙어 있어서 곧 벌어질 일."
+  },
+  {
+    "en": "throw away",
+    "ko": "~을 버리다",
+    "example": "Don't throw away those old magazines.",
+    "mnemonic": "물건을 던져서(throw) 멀리(away) 보내버리는 것."
+  },
+  {
+    "en": "still",
+    "ko": "가만히 있는",
+    "example": "Keep still while I take your photograph.",
+    "mnemonic": "여전히(still) 움직이지 않고 그대로 멈춰있는 상태."
+  },
+  {
+    "en": "issue",
+    "ko": "(잡지, 신문 등의) 호, 발행물",
+    "example": "Have you seen the latest issue of Harvard Business Review?",
+    "mnemonic": "'문제'라는 뜻도 있지만, 정기적으로 밖으로 나오는 '간행물'을 뜻하기도 합니다."
+  },
+  {
+    "en": "enroll",
+    "ko": "입학시키다, 등록시키다",
+    "example": "I decided to enroll in an online AI course.",
+    "mnemonic": "명단(roll) 안에(en) 이름을 올리는 것."
+  },
+  {
+    "en": "donate",
+    "ko": "기부하다",
+    "example": "They donate a portion of their profits to charity every year.",
+    "mnemonic": "돈(don)을 내이트(ate/냈대). 아낌없이 주는 것."
+  },
+  {
+    "en": "in need",
+    "ko": "도움이 필요한, 어려운",
+    "example": "We should help those in need during the winter.",
+    "mnemonic": "필요(need)가 가득한 상태 안에(in) 있는 사람들."
+  },
+  {
+    "en": "drop by",
+    "ko": "잠깐 들르다",
+    "example": "Feel free to drop by my office anytime.",
+    "mnemonic": "가던 길에 물방울이 톡 떨어지듯(drop) 잠깐 방문하는 것."
+  },
+  {
+    "en": "rapidly",
+    "ko": "빠르게",
+    "example": "The technology is changing more rapidly than ever.",
+    "mnemonic": "Rapid(빠른) + ly. '래피드' 기차처럼 아주 빠른 속도."
+  },
+  {
+    "en": "take a risk",
+    "ko": "위험을 감수하다",
+    "example": "To succeed in business, you sometimes have to take a risk.",
+    "mnemonic": "위험(risk)을 내 것으로 가져와(take) 직접 부딪히는 것."
+  },
+  {
+    "en": "deceptively",
+    "ko": "믿을 수 없게도, 겉보기와 달리",
+    "example": "The exam was deceptively difficult.",
+    "mnemonic": "Deceive(속이다). 겉보기에는 안 그래 보이는데 실제론 '속임수'처럼 다른 상태."
+  },
+  {
+    "en": "clumsily",
+    "ko": "서투르게",
+    "example": "He clumsily spilled coffee on his laptop.",
+    "mnemonic": "손재주가 없고 덤벙거리는(clumsy) 모습."
+  },
+  {
+    "en": "end up with",
+    "ko": "결국 ~하게 되다",
+    "example": "I end up with a lot of work after the meeting.",
+    "mnemonic": "결국 마지막 끝(end)에 가서 손에 쥐게 되는 것."
+  },
+  {
+    "en": "exhaustion",
+    "ko": "극도의 피로, 기진맥진",
+    "example": "The marathon runners were suffering from exhaustion.",
+    "mnemonic": "에너지를 다 쓰고 배기가스(exhaust)만 남은 상태."
+  },
+  {
+    "en": "look forward to",
+    "ko": "~을 기대하다",
+    "example": "I look forward to meeting you in person.",
+    "mnemonic": "앞을(forward) 향해 고개를 쭉 빼고 바라보는(look) 모습."
+  },
+  {
+    "en": "permission form",
+    "ko": "허가서",
+    "example": "Please sign the permission form for the field trip.",
+    "mnemonic": "허락(permission)을 받기 위한 서류 양식(form)."
+  },
+  {
+    "en": "consideration",
+    "ko": "배려, 고려",
+    "example": "Thank you for your kind consideration.",
+    "mnemonic": "함께(con) 별(sider/star)을 보며 깊이 고민하고 생각하는 것."
+  },
+  {
+    "en": "glance",
+    "ko": "흘긋 보다",
+    "example": "He took a quick glance at his watch.",
+    "mnemonic": "'글랜스' 하고 빠르게 스쳐 지나가는 시선."
+  },
+  {
+    "en": "in rows",
+    "ko": "줄지어",
+    "example": "The students were sitting in rows.",
+    "mnemonic": "가로줄(row)을 맞춰서 나란히 서 있는 모습."
+  },
+  {
+    "en": "presence",
+    "ko": "~에 옴, 참석, 존재",
+    "example": "Your presence at the meeting is required.",
+    "mnemonic": "Present(참석한/현재의)의 명사형. 그 자리에 있음."
+  },
+  {
+    "en": "provide A with B",
+    "ko": "A에게 B를 제공하다",
+    "example": "The company provides employees with free snacks.",
+    "mnemonic": "A라는 대상을 B라는 물건과 함께(with) 있게 해주다."
+  },
+  {
+    "en": "feel free to do",
+    "ko": "거리낌 없이 ~하다",
+    "example": "Feel free to ask any questions.",
+    "mnemonic": "자유롭게(free) 느끼고(feel) 마음껏 행동하라는 권유."
+  },
+  {
+    "en": "appointed",
+    "ko": "정해진, 약속된",
+    "example": "We met at the appointed time.",
+    "mnemonic": "딱 찍어서(point) 정해놓은 것."
+  },
+  {
+    "en": "tremble",
+    "ko": "떨리다",
+    "example": "Her hands began to tremble with cold.",
+    "mnemonic": "추위나 공포로 '트렘블 트렘블' 몸을 떠는 것."
+  },
+  {
+    "en": "cannot help but do",
+    "ko": "~하지 않을 수 없다",
+    "example": "I cannot help but laugh at his jokes.",
+    "mnemonic": "피하고 싶지만 도울(help) 방법이 없어 결국 하게 되는 것."
+  },
+  {
+    "en": "competent",
+    "ko": "유능한",
+    "example": "She is a highly competent engineer.",
+    "mnemonic": "경쟁(compete)해서 이길 수 있을 만큼 실력이 좋은."
+  },
+  {
+    "en": "tragic",
+    "ko": "비참한, 비극의",
+    "example": "The news of the accident was truly tragic.",
+    "mnemonic": "비극(tragedy)적인 상황을 나타내는 형용사."
+  },
+  {
+    "en": "hospitalize",
+    "ko": "입원시키다",
+    "example": "He was hospitalized for a severe fever.",
+    "mnemonic": "병원(hospital)으로 만들다(ize) = 입원시키다."
+  },
+  {
+    "en": "take a nap",
+    "ko": "낮잠 자다",
+    "example": "I usually take a short nap after lunch.",
+    "mnemonic": "짧은 잠(nap)을 취하다(take)."
+  },
+  {
+    "en": "ease",
+    "ko": "덜다, 완화하다",
+    "example": "The medicine helped to ease the pain.",
+    "mnemonic": "이지(easy)하게 만들어주는 것 = 편하게 하다."
+  },
+  {
+    "en": "call for",
+    "ko": "~을 필요로 하다",
+    "example": "This situation calls for immediate action.",
+    "mnemonic": "큰 소리로 누군가를 부를(call) 만큼 간절히 필요한 것."
+  },
+  {
+    "en": "worthy",
+    "ko": "가치 있는",
+    "example": "The charity is a worthy cause to support.",
+    "mnemonic": "가치(worth)가 가득한 상태."
+  },
+  {
+    "en": "underestimate",
+    "ko": "과소평가하다",
+    "example": "Never underestimate the power of a simple idea.",
+    "mnemonic": "평가(estimate)를 기준 아래(under)로 낮게 잡는 것."
+  },
+  {
+    "en": "protest",
+    "ko": "항의하다",
+    "example": "They organized a march to protest against the new law.",
+    "mnemonic": "찬성하지 않고 앞으로(pro) 나가서 증언(test)하며 반대하는 것."
+  },
+  {
+    "en": "motivate",
+    "ko": "동기를 부여하다",
+    "example": "How can we motivate students to read more?",
+    "mnemonic": "움직임(motion)을 일으키게끔 마음을 흔드는 것."
+  },
+  {
+    "en": "consider A as B",
+    "ko": "A를 B로 여기다",
+    "example": "I consider him as one of my best friends.",
+    "mnemonic": "A를 B라고 깊이 생각(consider)해 주는 것."
+  },
+  {
+    "en": "acceptable",
+    "ko": "받아들일 만한",
+    "example": "His performance was acceptable but not outstanding.",
+    "mnemonic": "받아들이다(accept) + 가능한(able)."
+  },
+  {
+    "en": "substandard",
+    "ko": "표준 이하의",
+    "example": "The living conditions in the area were substandard.",
+    "mnemonic": "표준(standard)의 아래(sub)에 있는."
+  },
+  {
+    "en": "satisfactory",
+    "ko": "만족스러운",
+    "example": "The results of the test were satisfactory.",
+    "mnemonic": "만족(satisfy)을 주는 상태."
+  },
+  {
+    "en": "spouse",
+    "ko": "배우자",
+    "example": "Employees and their spouses are invited to the party.",
+    "mnemonic": "평생의 약속을 맺은 사람. (남편이나 아내)"
+  },
+  {
+    "en": "interdependent",
+    "ko": "상호 의존적인",
+    "example": "The two companies are interdependent.",
+    "mnemonic": "서로(inter) + 의존하는(dependent)."
+  },
+  {
+    "en": "long-term",
+    "ko": "장기적인",
+    "example": "We need a long-term strategy for the project.",
+    "mnemonic": "기간(term)이 길게(long) 잡힌."
+  },
+  {
+    "en": "disorderly",
+    "ko": "무질서한",
+    "example": "The crowd became disorderly after the game.",
+    "mnemonic": "순서(order)가 없는(dis) 상태."
+  },
+  {
+    "en": "disorganized",
+    "ko": "혼란스러운, 정리되지 않은",
+    "example": "The office was completely disorganized.",
+    "mnemonic": "조직(organize)이 안 된(dis) 엉망진창인 상태."
+  },
+  {
+    "en": "neatly",
+    "ko": "깔끔하게",
+    "example": "She arranged the books neatly on the shelf.",
+    "mnemonic": "니트(neat) 옷처럼 깔끔하게 정리된 모습."
+  },
+  {
+    "en": "manage",
+    "ko": "해내다, 관리하다",
+    "example": "How do you manage to stay so calm?",
+    "mnemonic": "매니저처럼 상황을 잘 다루어서 결국 해내는 것."
+  },
+  {
+    "en": "commit to",
+    "ko": "~에 전념하다",
+    "example": "You must commit to your goals to succeed.",
+    "mnemonic": "자신의 에너지를 한곳에 모두 보내는(mit) 것."
+  },
+  {
+    "en": "devote",
+    "ko": "바치다, 쏟다",
+    "example": "She devoted her life to helping the poor.",
+    "mnemonic": "맹세(vote)하고 자신의 모든 것을 바치는 것."
+  }
+]

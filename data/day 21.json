@@ -1,0 +1,302 @@
+[
+  {
+    "en": "alive",
+    "ko": "살아 있는",
+    "example": "He was lucky to be alive after the serious accident.",
+    "mnemonic": "a(상태) + live(살다). 현재 살아 있는 생생한 상태를 말합니다."
+  },
+  {
+    "en": "beg",
+    "ko": "빌다, 간청하다",
+    "example": "The children begged their parents to take them to the park.",
+    "mnemonic": "거지(beggar)가 무언가를 간절히 빌고 있는 모습을 상상하세요."
+  },
+  {
+    "en": "behave",
+    "ko": "행동하다",
+    "example": "The students were told to behave themselves during the trip.",
+    "mnemonic": "Be(있다) + have(가지다). 자기 자신을 잘 다스려 바르게 행동하는 것."
+  },
+  {
+    "en": "refresh",
+    "ko": "생기를 되찾다",
+    "example": "A glass of cold water will refresh you.",
+    "mnemonic": "Re(다시) + fresh(신선한). 웹브라우저의 '새로고침' 버튼을 생각하세요."
+  },
+  {
+    "en": "attain",
+    "ko": "달성하다",
+    "example": "She worked hard to attain her goal of becoming a doctor.",
+    "mnemonic": "At(~에) + tain(잡다). 목표 지점을 손으로 꽉 잡는(달성하는) 느낌."
+  },
+  {
+    "en": "bury",
+    "ko": "묻다, 매장하다",
+    "example": "The dog tried to bury its bone in the garden.",
+    "mnemonic": "베리(berry)를 땅에 '버리'듯이 묻는 장면을 연상하세요."
+  },
+  {
+    "en": "bring about",
+    "ko": "~을 야기하다",
+    "example": "The new law brought about significant changes in the industry.",
+    "mnemonic": "Bring(가져오다) + about(주변에). 어떤 결과를 주변으로 가져와 발생시키다."
+  },
+  {
+    "en": "discover",
+    "ko": "발견하다",
+    "example": "Scientists are working to discover a cure for the disease.",
+    "mnemonic": "Dis(반대) + cover(덮개). 덮여 있던 것을 열어서 찾아내는 것."
+  },
+  {
+    "en": "compete with",
+    "ko": "~와 경쟁하다",
+    "example": "Local shops have to compete with large supermarkets.",
+    "mnemonic": "Com(함께) + pete(찾다). 같은 목표를 함께 쫓으며 경쟁하는 것."
+  },
+  {
+    "en": "competition",
+    "ko": "경쟁, 시합",
+    "example": "There is a lot of competition for the prize.",
+    "mnemonic": "compete의 명사형. 치열한 경쟁 상황이나 시합 그 자체."
+  },
+  {
+    "en": "complaint",
+    "ko": "불평, 불만",
+    "example": "We received several complaints about the noise.",
+    "mnemonic": "complain(불평하다)의 명사형. 고객센터의 '컴플레인'을 떠올리세요."
+  },
+  {
+    "en": "complement",
+    "ko": "보완하다",
+    "example": "The red tie complements his blue suit perfectly.",
+    "mnemonic": "Complete(완성하다)와 어원이 같습니다. 부족한 걸 채워 '완성'시켜주는 것."
+  },
+  {
+    "en": "cooperatively",
+    "ko": "협력하여, 협동하여",
+    "example": "The two teams worked cooperatively to solve the problem.",
+    "mnemonic": "Co(함께) + operate(작동하다) + ly. 함께 힘을 합쳐 일하는 모습."
+  },
+  {
+    "en": "elder",
+    "ko": "나이가 더 많은",
+    "example": "You should show respect to your elder siblings.",
+    "mnemonic": "Old의 비교급 변형. 주로 가족 내 서열이나 손윗사람을 뜻합니다."
+  },
+  {
+    "en": "female",
+    "ko": "여성의",
+    "example": "The job is open to both male and female applicants.",
+    "mnemonic": "Male(남성) 앞에 Fe가 붙은 형태. 암컷이나 여성의 기호(♀)를 생각하세요."
+  },
+  {
+    "en": "decrease",
+    "ko": "감소, 감소하다",
+    "example": "The number of smokers has started to decrease.",
+    "mnemonic": "De(아래로) + crease(성장). 아래로 자라니 숫자가 줄어드는 것."
+  },
+  {
+    "en": "define",
+    "ko": "규정하다, 한정하다",
+    "example": "It is difficult to define the exact meaning of the word.",
+    "mnemonic": "De(강조) + fine(경계). 딱딱 끊어서 선을 긋고 의미를 정하는 것."
+  },
+  {
+    "en": "funeral",
+    "ko": "장례식",
+    "example": "Many friends and family attended the funeral service.",
+    "mnemonic": "엄숙하고 슬픈(funeral) 분위기의 장례식장을 연상하세요."
+  },
+  {
+    "en": "gender",
+    "ko": "성, 성별",
+    "example": "Discrimination based on gender is illegal.",
+    "mnemonic": "생물학적 성(sex)보다 사회적, 문화적 의미의 성별을 뜻합니다."
+  },
+  {
+    "en": "similar",
+    "ko": "유사한, 비슷한",
+    "example": "The two brothers look very similar to each other.",
+    "mnemonic": "Same(같은)과 비슷한 느낌. 완벽히 같진 않아도 닮은 상태."
+  },
+  {
+    "en": "ensure",
+    "ko": "보증하다, 확실하게 하다",
+    "example": "Please ensure that all the windows are closed.",
+    "mnemonic": "En(만들다) + sure(확실한). 확실한 상태로 만들어 두는 것."
+  },
+  {
+    "en": "exhibition",
+    "ko": "전시, 전시회",
+    "example": "There is a new art exhibition at the local gallery.",
+    "mnemonic": "Exhibit(전시하다)의 명사형. 밖으로(Ex) 보여주는(hibit) 행사."
+  },
+  {
+    "en": "fascinating",
+    "ko": "매혹적인, 흥미진진한",
+    "example": "I found the documentary about space absolutely fascinating.",
+    "mnemonic": "패션(fashion) 쇼를 보듯 눈을 뗄 수 없이 매력적인 상태."
+  },
+  {
+    "en": "fatigue",
+    "ko": "피로",
+    "example": "Driver fatigue is a major cause of road accidents.",
+    "mnemonic": "너무 힘들어서 몸이 '퍼티그(fatigue)'. 심한 육체적, 정신적 피로."
+  },
+  {
+    "en": "generation",
+    "ko": "세대",
+    "example": "There is a huge gap between the older and younger generations.",
+    "mnemonic": "Generate(발생시키다). 새로 태어난 사람들이 이루는 한 시대의 층."
+  },
+  {
+    "en": "grave",
+    "ko": "무덤, 묘",
+    "example": "They laid flowers on their grandfather's grave.",
+    "mnemonic": "Grave는 '엄숙한'이라는 뜻도 있습니다. 무덤가처럼 엄숙한 분위기."
+  },
+  {
+    "en": "in advance",
+    "ko": "사전에, 미리",
+    "example": "You need to book your tickets in advance.",
+    "mnemonic": "Advance(전진/앞선). 남들보다 앞선 시점에 행동하는 것."
+  },
+  {
+    "en": "identify",
+    "ko": "(신원을) 확인하다",
+    "example": "Passengers were asked to identify their luggage.",
+    "mnemonic": "ID 카드를 떠올리세요. '이게 그거 맞네'라고 확인해 주는 것."
+  },
+  {
+    "en": "instruct",
+    "ko": "가르치다, 지시하다",
+    "example": "The teacher instructed the class to open their books.",
+    "mnemonic": "Instructor(강사). 지식을 머릿속에 세워(struct) 넣어주는 것."
+  },
+  {
+    "en": "interfere",
+    "ko": "방해하다, 간섭하다",
+    "example": "I wish you would stop interfering in my life.",
+    "mnemonic": "Inter(사이에) + fere(치다). 남의 일 사이에 끼어들어 방해하는 것."
+  },
+  {
+    "en": "individual",
+    "ko": "각각의, 개인의",
+    "example": "We must respect the rights of the individual.",
+    "mnemonic": "In(not) + divide(나누다). 더 이상 나눌 수 없는 최소 단위인 '개인'."
+  },
+  {
+    "en": "maintain",
+    "ko": "보존하다, 유지하다",
+    "example": "It is important to maintain a healthy lifestyle.",
+    "mnemonic": "Main(손) + tain(잡다). 손으로 계속 잡고 있는 것처럼 현 상태를 지키는 것."
+  },
+  {
+    "en": "manage",
+    "ko": "경영하다, 관리하다",
+    "example": "She manages a team of twenty people.",
+    "mnemonic": "Manager(매니저). 손(man)으로 직접 다루며 이끌어가는 것."
+  },
+  {
+    "en": "nutrition",
+    "ko": "영양",
+    "example": "Good nutrition is essential for growing children.",
+    "mnemonic": "뉴트리션(Nutrition) 바. 몸에 좋은 영양분을 공급하는 것."
+  },
+  {
+    "en": "occupancy",
+    "ko": "이용률, 점유, 거주",
+    "example": "The hotel has an average occupancy rate of 80 percent.",
+    "mnemonic": "Occupy(차지하다)의 명사형. 공간이 차 있는 비율."
+  },
+  {
+    "en": "out of curiosity",
+    "ko": "호기심에서",
+    "example": "I asked the question just out of curiosity.",
+    "mnemonic": "호기심(curiosity)이라는 감정의 밖(out of)으로 나온 행동."
+  },
+  {
+    "en": "performance",
+    "ko": "수행, 실적, 공연",
+    "example": "The company's performance improved significantly this year.",
+    "mnemonic": "무대 위의 '퍼포먼스'뿐만 아니라 업무상 '성과'도 뜻합니다."
+  },
+  {
+    "en": "periodical",
+    "ko": "정기 간행물, 정기적인",
+    "example": "She reads several periodicals to stay updated in her field.",
+    "mnemonic": "Period(기간). 특정 기간마다 반복해서 나오는 잡지나 신문."
+  },
+  {
+    "en": "personal",
+    "ko": "개인의",
+    "example": "Please keep your personal belongings with you at all times.",
+    "mnemonic": "Person(사람) + al. 그 사람 한 명에게 속한 사적인 것."
+  },
+  {
+    "en": "produce",
+    "ko": "생산하다, 농산물",
+    "example": "The farm produces a variety of organic vegetables.",
+    "mnemonic": "Pro(앞으로) + duce(이끌다). 새로운 물건이나 작물을 세상 밖으로 내놓는 것."
+  },
+  {
+    "en": "projection",
+    "ko": "예상치, 견적",
+    "example": "The company's financial projections for next year are positive.",
+    "mnemonic": "Projector(영사기)가 앞 화면에 영상을 쏘듯이, 미래를 내다보는 것."
+  },
+  {
+    "en": "reaction",
+    "ko": "반응",
+    "example": "What was his reaction to the surprise news?",
+    "mnemonic": "Re(다시) + action(행동). 어떤 자극에 대해 돌아오는 행동."
+  },
+  {
+    "en": "slim",
+    "ko": "날씬한",
+    "example": "She has a slim and athletic build.",
+    "mnemonic": "몸매가 호리호리한 상태. '슬림한' 디자인을 떠올리세요."
+  },
+  {
+    "en": "mature",
+    "ko": "성숙한",
+    "example": "He is very mature for his age.",
+    "mnemonic": "열매가 맛있게 익거나 어른스럽게 행동하는 상태."
+  },
+  {
+    "en": "remind",
+    "ko": "~에게 상기시키다",
+    "example": "Please remind me to buy milk on the way home.",
+    "mnemonic": "Re(다시) + mind(마음). 마음속에 다시 그 생각을 떠올리게 해주는 것."
+  },
+  {
+    "en": "severely",
+    "ko": "심하게, 엄격하게",
+    "example": "The area was severely damaged by the storm.",
+    "mnemonic": "Serious(심각한)와 비슷한 느낌. 정도가 매우 심한 상태."
+  },
+  {
+    "en": "shortly",
+    "ko": "곧, 얼마 안 있어",
+    "example": "The manager will be with you shortly.",
+    "mnemonic": "Short(짧은) + ly. 시간이 아주 짧게 걸려 곧 온다는 뜻."
+  },
+  {
+    "en": "private",
+    "ko": "개인의, 사적인",
+    "example": "I need to have a private conversation with you.",
+    "mnemonic": "프라이버시(Privacy). 남들에게 알리지 않는 사적인 것."
+  },
+  {
+    "en": "spacious",
+    "ko": "공간이 넓은",
+    "example": "The new office is much more spacious than the old one.",
+    "mnemonic": "Space(공간) + ious(가득한). 공간이 넉넉한 느낌."
+  },
+  {
+    "en": "realize",
+    "ko": "알아차리다, 실현하다",
+    "example": "I didn't realize how late it was until I looked at my watch.",
+    "mnemonic": "Real(진짜) + ize. 머릿속으로 '진짜' 상황을 알게 되거나, 꿈을 '현실'로 만드는 것."
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "en": "virtual",
+    "ko": "가상의",
+    "example": "The website offers a virtual tour of the museum.",
+    "mnemonic": "VR(Virtual Reality, 가상현실) 기기를 떠올리세요. 실제는 아니지만 진짜 같은 것."
+  },
+  {
+    "en": "fertilizer",
+    "ko": "비료",
+    "example": "We use organic fertilizer for our garden.",
+    "mnemonic": "Fertile(비옥한) 땅으로 만들어주는(izer) 물질."
+  },
+  {
+    "en": "undesirable",
+    "ko": "달갑지 않은 것, 원하지 않는",
+    "example": "The drug has some undesirable side effects.",
+    "mnemonic": "Un(not) + desire(원하다) + able. 사람들이 바라지 않는 안 좋은 것."
+  },
+  {
+    "en": "district",
+    "ko": "구역, 지역",
+    "example": "She lives in a quiet residential district.",
+    "mnemonic": "서울의 '강남구'처럼 행정이나 특징에 따라 나눈 디스트릭트(구역)."
+  },
+  {
+    "en": "accessible",
+    "ko": "접근 가능한",
+    "example": "The documents are easily accessible online.",
+    "mnemonic": "Access(접근하다) + ible(가능한). 어디서나 쉽게 다가갈 수 있는 상태."
+  },
+  {
+    "en": "stack",
+    "ko": "쌓다, 무더기",
+    "example": "Please stack the chairs in the corner of the room.",
+    "mnemonic": "IT 개발에서 '기술 스택(Tech Stack)'이라 부르듯 층층이 쌓아 올리는 것."
+  },
+  {
+    "en": "be related to",
+    "ko": "~와 관계가 있다",
+    "example": "His illness may be related to stress.",
+    "mnemonic": "Relation(관계). 두 가지가 서로 끈으로 연결된 듯한 상황."
+  },
+  {
+    "en": "justification",
+    "ko": "정당화, 변명",
+    "example": "There is no justification for his rude behavior.",
+    "mnemonic": "Justify(정당화하다)의 명사형. 내 행동이 '정당함(just)'을 증명하려는 이유."
+  },
+  {
+    "en": "take the lead",
+    "ko": "선두에 있다, 앞장서다",
+    "example": "Our company aims to take the lead in AI technology.",
+    "mnemonic": "남들을 이끄는 리드(lead) 권한을 내 것으로 쥐는(take) 것."
+  },
+  {
+    "en": "cannot afford",
+    "ko": "~할 형편이 안 되다",
+    "example": "We cannot afford to buy a new car this year.",
+    "mnemonic": "금전적이나 시간적으로 그럴 만한 '여유(afford)'가 없다는 뜻."
+  },
+  {
+    "en": "secure",
+    "ko": "확보하다, 안전한",
+    "example": "They managed to secure a contract with the government.",
+    "mnemonic": "시큐어(Secure). 보안을 철저히 하듯, 안전하게 내 것으로 꽉 잡아두는 것."
+  },
+  {
+    "en": "restrain",
+    "ko": "억제하다, 제지하다",
+    "example": "He had to restrain his anger during the meeting.",
+    "mnemonic": "Re(뒤로) + strain(팽팽하게 당기다). 앞으로 나가지 못하게 뒤에서 줄로 당겨 막는 모습."
+  },
+  {
+    "en": "take over",
+    "ko": "장악하다, 인계받다",
+    "example": "The large corporation plans to take over the small startup.",
+    "mnemonic": "기존의 것 위(over)로 올라타서 내 것으로 취하는(take) 통제권 인수."
+  },
+  {
+    "en": "glimpse",
+    "ko": "언뜻 봄, 잠깐 봄",
+    "example": "I only caught a glimpse of the thief's face.",
+    "mnemonic": "시야에 '글림스' 하고 아주 짧은 순간 스쳐 지나가듯 보는 것."
+  },
+  {
+    "en": "maximize",
+    "ko": "최대화하다",
+    "example": "We need to redesign the office to maximize space.",
+    "mnemonic": "Max(최대) + imize(~화하다). 한계치까지 최대한으로 끌어올림."
+  },
+  {
+    "en": "authoritative",
+    "ko": "권위 있는",
+    "example": "The book provides an authoritative guide to the subject.",
+    "mnemonic": "Authority(권위/권한)에서 나온 말. 전문가로서 믿을 수 있는 힘이 있는 상태."
+  },
+  {
+    "en": "devalue",
+    "ko": "평가 절하하다",
+    "example": "Inflation tends to devalue the currency.",
+    "mnemonic": "De(아래로) + value(가치). 원래 있던 가치를 깎아내리는 것."
+  },
+  {
+    "en": "pack",
+    "ko": "무리, 떼, 집단",
+    "example": "A pack of wolves was seen near the forest.",
+    "mnemonic": "짐을 싸는 '팩(pack)'처럼 늑대나 개들이 한 묶음으로 뭉쳐 다니는 무리."
+  },
+  {
+    "en": "diminish",
+    "ko": "감소하다, 줄어들다",
+    "example": "The pain will gradually diminish over time.",
+    "mnemonic": "크기나 중요성을 미니(mini) 사이즈로 점점 줄여나가는 것."
+  },
+  {
+    "en": "spring",
+    "ko": "(식물이) 싹트다, 튀어 오르다",
+    "example": "New weeds spring up in the garden after the rain.",
+    "mnemonic": "봄(spring)이 되면 땅에서 새싹이 용수철(spring)처럼 통통 튀어 오르는 모습."
+  },
+  {
+    "en": "stabilize",
+    "ko": "안정시키다",
+    "example": "The government is trying to stabilize the economy.",
+    "mnemonic": "Stable(안정적인) 상태로 만들다(ize). 흔들림을 멈추게 함."
+  },
+  {
+    "en": "bank",
+    "ko": "둑, 제방",
+    "example": "We sat on the river bank and watched the boats.",
+    "mnemonic": "은행(bank)에 돈을 쌓아두듯, 강물이 넘치지 않게 흙을 높이 쌓아둔 둑."
+  },
+  {
+    "en": "deforestation",
+    "ko": "삼림 벌채",
+    "example": "Deforestation is a major cause of climate change.",
+    "mnemonic": "De(제거) + forest(숲) + ation. 숲의 나무들을 모조리 베어 없애는 작업."
+  },
+  {
+    "en": "demonstration",
+    "ko": "직접 보여 줌, 실연, 시위",
+    "example": "The chef gave a cooking demonstration.",
+    "mnemonic": "신제품 '데모(demo)' 버전을 보여주며 어떻게 작동하는지 눈앞에서 증명하는 것."
+  },
+  {
+    "en": "have nothing to do with",
+    "ko": "~와 아무 관련이 없다",
+    "example": "His decision has nothing to do with me.",
+    "mnemonic": "그것과 함께(with) 할 일(to do)이 아무것도 없다(nothing)는 뜻."
+  },
+  {
+    "en": "take on",
+    "ko": "~을 떠맡다",
+    "example": "I can't take on any extra work at the moment.",
+    "mnemonic": "새로운 짐이나 책임을 내 어깨 위(on)로 가져와(take) 짊어지는 것."
+  },
+  {
+    "en": "openly",
+    "ko": "터놓고, 솔직하게",
+    "example": "They discussed their problems openly.",
+    "mnemonic": "마음이나 생각의 문을 활짝 열고(open) 숨김없이 말하는 태도."
+  },
+  {
+    "en": "aggression",
+    "ko": "공격, 침략",
+    "example": "The team played with a lot of aggression.",
+    "mnemonic": "Aggressive(공격적인)의 명사형. 남을 향해 이빨을 드러내는 적대적인 행동."
+  },
+  {
+    "en": "cope with",
+    "ko": "~에 대처하다",
+    "example": "She has a lot of stress to cope with at work.",
+    "mnemonic": "힘든 문제와 맞서 싸우며(코피 터지게) 간신히 감당해 내는 모습."
+  },
+  {
+    "en": "tolerant",
+    "ko": "관대한, 잘 견디는",
+    "example": "We should be tolerant of different viewpoints.",
+    "mnemonic": "프랑스의 '톨레랑스(관용)'. 나와 다른 의견이나 불편함을 너그럽게 품어주는 성품."
+  },
+  {
+    "en": "discriminate",
+    "ko": "차별하다, 구별하다",
+    "example": "It is illegal to discriminate against anyone based on race.",
+    "mnemonic": "Dis(분리) + crimin(구분). 사람들 사이에 선을 긋고 편견으로 나누는 것."
+  },
+  {
+    "en": "claim",
+    "ko": "주장하다, 청구하다",
+    "example": "He claims that he was not at the scene of the crime.",
+    "mnemonic": "고객센터에 '클레임'을 걸듯, 내 권리나 사실을 강하게 요구하며 말하는 것."
+  },
+  {
+    "en": "sick of",
+    "ko": "~에 질린, 싫증 난",
+    "example": "I'm sick of eating the same food every day.",
+    "mnemonic": "너무 반복되어서 마음의 병(sick)이 날 정도로 꼴도 보기 싫은 상태."
+  },
+  {
+    "en": "sooner or later",
+    "ko": "조만간, 머지않아",
+    "example": "Sooner or later, you will have to make a decision.",
+    "mnemonic": "더 빠르든(sooner) 아니면 더 늦든(later), 결국 언젠가는 일어날 일."
+  },
+  {
+    "en": "attend to",
+    "ko": "~에 주의를 기울이다, 처리하다",
+    "example": "A nurse will attend to your injuries shortly.",
+    "mnemonic": "그곳으로 향해 참석(attend)하여 온 신경을 집중하고 돌보는 것."
+  },
+  {
+    "en": "detect",
+    "ko": "감지하다, 발견하다",
+    "example": "The alarm is designed to detect smoke.",
+    "mnemonic": "탐정(Detective)이 숨겨진 단서를 예민하게 찾아내듯 알아채는 것."
+  },
+  {
+    "en": "receptionist",
+    "ko": "접수 담당자",
+    "example": "Please leave your keys with the receptionist.",
+    "mnemonic": "회사나 호텔의 리셉션(Reception) 데스크에서 손님을 가장 먼저 맞는 사람."
+  },
+  {
+    "en": "considerate",
+    "ko": "배려하는, 사려 깊은",
+    "example": "It was very considerate of you to bring an umbrella.",
+    "mnemonic": "남의 입장을 깊이 고려(consider)해 주고 마음을 써주는 다정한 성격."
+  },
+  {
+    "en": "now that",
+    "ko": "~이므로, ~이기 때문에",
+    "example": "Now that you are here, we can start the meeting.",
+    "mnemonic": "이제(now) 상황이 그렇게(that) 되었으니, 바탕에 깔린 이유를 설명할 때 씀."
+  },
+  {
+    "en": "impartial",
+    "ko": "치우치지 않은, 편견 없는",
+    "example": "A judge must be completely impartial.",
+    "mnemonic": "Im(not) + part(부분/편). 어느 한쪽 편을 들지 않고 공평한 상태."
+  },
+  {
+    "en": "intentionally",
+    "ko": "의도적으로, 고의로",
+    "example": "I did not delete the file intentionally.",
+    "mnemonic": "Intent(의도) + ionally. 실수나 우연이 아니라 마음속으로 작정하고 한 행동."
+  },
+  {
+    "en": "problematic",
+    "ko": "문제가 되는, 골칫거리의",
+    "example": "The current software system is highly problematic.",
+    "mnemonic": "Problem(문제)을 잔뜩 일으키는 특성(atic)을 가진."
+  },
+  {
+    "en": "obsession",
+    "ko": "사로잡힘, 강박 관념",
+    "example": "His interest in cars has become an obsession.",
+    "mnemonic": "마음속에 나쁜 영혼이나 생각에 꽉 눌려 다른 것은 생각 못 하는 강박."
+  },
+  {
+    "en": "tireless",
+    "ko": "지칠 줄 모르는",
+    "example": "She is a tireless worker for human rights.",
+    "mnemonic": "Tire(지치다) + less(없는). 타이어가 닳지 않는 듯 에너지가 방전되지 않는 모습."
+  },
+  {
+    "en": "evolutionary",
+    "ko": "진화의, 점진적인",
+    "example": "The development of language was an evolutionary process.",
+    "mnemonic": "Evolution(진화)의 형용사형. 오랜 시간 서서히 발전해 나가는 형태."
+  },
+  {
+    "en": "digestion",
+    "ko": "소화",
+    "example": "Walking after a meal can aid digestion.",
+    "mnemonic": "음식물을 다이제스트(digest/소화하다) 시켜 에너지를 흡수하는 몸의 작용."
+  },
+  {
+    "en": "compulsive",
+    "ko": "상습적인, 강박적인",
+    "example": "He is a compulsive buyer who shops every day.",
+    "mnemonic": "이성적으로는 안 되는 걸 알면서도 스스로 통제하지 못하고 반복하는 성향."
+  },
+  {
+    "en": "marvel at",
+    "ko": "~에 놀라다, 경이로워하다",
+    "example": "Visitors marvel at the beauty of the grand cathedral.",
+    "mnemonic": "마블(Marvel) 영웅들의 초능력을 보듯 입을 벌리고 감탄하는 것."
+  },
+  {
+    "en": "breakthrough",
+    "ko": "돌파구, 획기적인 발전",
+    "example": "Scientists have made a major breakthrough in cancer research.",
+    "mnemonic": "꽉 막혀있던 벽을 깨고(break) 통과해서(through) 앞으로 나아가는 큰 발전."
+  },
+  {
+    "en": "consensus",
+    "ko": "합의, 의견 일치",
+    "example": "It took hours for the committee to reach a consensus.",
+    "mnemonic": "Con(함께) + sense(느끼다). 모두의 감각과 생각이 한곳으로 모인 상태."
+  }
+]

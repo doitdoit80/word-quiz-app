@@ -1,0 +1,302 @@
+[
+  {
+    "en": "ahead",
+    "ko": "미리, 앞서서",
+    "example": "We need to plan ahead for the upcoming project.",
+    "mnemonic": "머리(head)가 향하는 앞쪽(a)을 내다보고 미리 준비하는 것."
+  },
+  {
+    "en": "analysis",
+    "ko": "분석",
+    "example": "The report provides a detailed analysis of the market.",
+    "mnemonic": "전체를 하나하나 잘게 나누어서(ana) 풀어보는(lysis) 과정."
+  },
+  {
+    "en": "antibiotic",
+    "ko": "항생제",
+    "example": "The doctor prescribed a course of antibiotics.",
+    "mnemonic": "Anti(반대) + bio(생명/세균). 나쁜 세균의 생존을 막는 약."
+  },
+  {
+    "en": "applicant",
+    "ko": "지원자, 신청자",
+    "example": "Every applicant will be invited for an interview.",
+    "mnemonic": "Apply(지원하다)하는 사람(ant)."
+  },
+  {
+    "en": "boring",
+    "ko": "지루한",
+    "example": "The lecture was so boring that I fell asleep.",
+    "mnemonic": "드릴로 구멍(bore)을 뚫는 소리처럼 단조롭고 따분한."
+  },
+  {
+    "en": "be subject to",
+    "ko": "~에 영향을 받기 쉽다",
+    "example": "Prices are subject to change without notice.",
+    "mnemonic": "아래에(sub) 던져져(ject) 있어서 상황의 지배를 받는 상태."
+  },
+  {
+    "en": "be supposed to",
+    "ko": "~하기로 되어 있다",
+    "example": "You are supposed to be here at 9 AM.",
+    "mnemonic": "그렇게 행동할 것이라고 사회적으로 생각(suppose)되어 있는 약속."
+  },
+  {
+    "en": "cozy",
+    "ko": "아늑한, 안락한",
+    "example": "The cabin was warm and cozy.",
+    "mnemonic": "코~ 자고 싶을 만큼 따뜻하고 편안한 분위기."
+  },
+  {
+    "en": "courage",
+    "ko": "용기",
+    "example": "It takes courage to speak the truth.",
+    "mnemonic": "심장(cour/heart)에서 우러나오는 두려움을 이기는 힘."
+  },
+  {
+    "en": "curious",
+    "ko": "호기심이 강한",
+    "example": "I was curious about his background.",
+    "mnemonic": "주의를 기울여(cure) 무언가를 몹시 알고 싶어 하는."
+  },
+  {
+    "en": "diligent",
+    "ko": "부지런한, 근면한",
+    "example": "She is a very diligent and hardworking student.",
+    "mnemonic": "계약(deal)을 성사시키려고 부지런히 발로 뛰는 모습."
+  },
+  {
+    "en": "creative",
+    "ko": "창조적인, 독창적인",
+    "example": "He is a highly creative designer.",
+    "mnemonic": "Create(창조하다) + ive(~성향의). 남다른 아이디어를 만드는."
+  },
+  {
+    "en": "fierce",
+    "ko": "사나운, 치열한",
+    "example": "The competition in the smartphone market is fierce.",
+    "mnemonic": "귀를 뚫는(pierce) 피어싱처럼 날카롭고 사나운."
+  },
+  {
+    "en": "degree",
+    "ko": "학위, 정도, (온도/각도의) 도",
+    "example": "She holds a master's degree in computer science.",
+    "mnemonic": "단계(grade)를 하나씩 밟아 올라가 얻은 증서나 수준."
+  },
+  {
+    "en": "delay",
+    "ko": "연기하다, 지연",
+    "example": "The flight was delayed due to heavy snow.",
+    "mnemonic": "일정을 뒤로(de) 눕혀서(lay) 미루는 것."
+  },
+  {
+    "en": "disruption",
+    "ko": "중단, 혼란",
+    "example": "The strike caused severe disruption to train services.",
+    "mnemonic": "Dis(떨어져) + rupt(부서지다). 정상적인 흐름이 깨져서 생긴 혼란."
+  },
+  {
+    "en": "expect",
+    "ko": "예상하다, 기대하다",
+    "example": "We expect the delivery to arrive tomorrow.",
+    "mnemonic": "밖을(ex) 내다보며(spect) 누군가 오기를 기다리는 모습."
+  },
+  {
+    "en": "expire",
+    "ko": "만기가 되다",
+    "example": "My passport will expire next month.",
+    "mnemonic": "Ex(밖으로) + pire(숨쉬다). 숨이 밖으로 다 빠져나가 수명이 끝남."
+  },
+  {
+    "en": "generous",
+    "ko": "너그러운, 관대한",
+    "example": "It was very generous of you to pay for dinner.",
+    "mnemonic": "좋은 유전자(gene)를 타고나 마음 씀씀이가 넓은 사람."
+  },
+  {
+    "en": "negative",
+    "ko": "부정적인",
+    "example": "Don't be so negative about the new plan.",
+    "mnemonic": "Negate(부인하다)하는 성향. 안 좋은 쪽으로만 생각하는 것."
+  },
+  {
+    "en": "fix",
+    "ko": "수리하다, 고치다",
+    "example": "Can you fix this broken chair?",
+    "mnemonic": "흔들리거나 고장 난 것을 딱 고정(fix)시켜 제자리로 돌려놓는 것."
+  },
+  {
+    "en": "guarantee",
+    "ko": "보장하다, 보증",
+    "example": "The TV comes with a one-year guarantee.",
+    "mnemonic": "가드(guard)가 든든하게 지켜주듯 품질을 확실히 약속하는 것."
+  },
+  {
+    "en": "odd",
+    "ko": "이상한, 별난, 홀수의",
+    "example": "That's an odd thing to say during a meeting.",
+    "mnemonic": "짝이 안 맞아 덩그러니 튀어나온 하나처럼 이상하고 특이한."
+  },
+  {
+    "en": "ordinary",
+    "ko": "보통의, 평범한",
+    "example": "It was just an ordinary day at the office.",
+    "mnemonic": "늘 정해진 순서나 질서(order)대로 흘러가는 튀지 않는 일상."
+  },
+  {
+    "en": "indicator",
+    "ko": "지표, 지수",
+    "example": "Sales figures are a good indicator of market trends.",
+    "mnemonic": "상황의 안(in)을 가리켜서(dict) 보여주는 화살표나 계기판."
+  },
+  {
+    "en": "innovative",
+    "ko": "혁신적인, 획기적인",
+    "example": "The team came up with an innovative solution.",
+    "mnemonic": "In(안으로) + nov(새로운). 내부에서부터 완전히 새롭게 바꾸는."
+  },
+  {
+    "en": "inquire",
+    "ko": "질문하다",
+    "example": "I am writing to inquire about the job opening.",
+    "mnemonic": "정보의 안으로(in) 파고들어 답을 구하다(quire)."
+  },
+  {
+    "en": "passive",
+    "ko": "소극적인",
+    "example": "He is very passive and rarely speaks in meetings.",
+    "mnemonic": "스스로 움직이지 않고 남이 던져주는 것을 받기만(pass) 하는."
+  },
+  {
+    "en": "polite",
+    "ko": "공손한, 예의 바른",
+    "example": "It is important to be polite to our customers.",
+    "mnemonic": "표면이 매끄럽게 폴리싱(polish)된 것처럼 거친 구석 없이 예의 바른 사람."
+  },
+  {
+    "en": "mining",
+    "ko": "채굴, 채광",
+    "example": "The town's economy relies heavily on coal mining.",
+    "mnemonic": "지하 광산(mine)에서 값진 광물을 캐내는 작업."
+  },
+  {
+    "en": "rude",
+    "ko": "무례한",
+    "example": "It is rude to interrupt someone while they are speaking.",
+    "mnemonic": "가공되지 않고 거친(crude) 날것 그대로의 무례한 태도."
+  },
+  {
+    "en": "order",
+    "ko": "주문하다, 주문, 규칙",
+    "example": "Are you ready to order your meal?",
+    "mnemonic": "명령(order)을 내려서 원하는 물건을 내게 가져오도록 하는 것."
+  },
+  {
+    "en": "sincere",
+    "ko": "진실한, 진심 어린",
+    "example": "Please accept my sincere apologies.",
+    "mnemonic": "불순물이 섞이지 않아 맑고 투명한 진심."
+  },
+  {
+    "en": "praise",
+    "ko": "칭찬하다, 칭찬",
+    "example": "The manager praised the team for their hard work.",
+    "mnemonic": "그 사람의 가치(price)를 높게 쳐주며 띄워주는 것."
+  },
+  {
+    "en": "precisely",
+    "ko": "정확히",
+    "example": "That is precisely what I meant to say.",
+    "mnemonic": "Pre(미리) + cise(자르다). 필요한 만큼만 딱 맞게 잘라둔 것처럼 한 치의 오차도 없음."
+  },
+  {
+    "en": "strict",
+    "ko": "엄격한",
+    "example": "The school has strict rules about uniforms.",
+    "mnemonic": "팽팽하게 당겨진(strict) 끈처럼 여유나 예외를 두지 않는 태도."
+  },
+  {
+    "en": "temper",
+    "ko": "성질, 기질, 화",
+    "example": "He needs to learn to control his temper.",
+    "mnemonic": "온도(temperature)가 확 올라가듯 불같이 화를 내는 성질."
+  },
+  {
+    "en": "regular",
+    "ko": "정규적인, 단골 손님",
+    "example": "We have regular team meetings every Monday.",
+    "mnemonic": "정해진 규칙이나 주기(rule/reg)에 맞게 일정하게 일어나는."
+  },
+  {
+    "en": "regulation",
+    "ko": "규정, 규칙",
+    "example": "Safety regulations must be strictly followed.",
+    "mnemonic": "무언가를 통제하고 조절(regulate)하기 위해 만들어둔 규칙."
+  },
+  {
+    "en": "weird",
+    "ko": "기이한, 괴상한",
+    "example": "I had a really weird dream last night.",
+    "mnemonic": "마법이나 으스스한 운명(weird)에 얽힌 것처럼 오싹하고 이상한."
+  },
+  {
+    "en": "solution",
+    "ko": "해결책",
+    "example": "We need to find a long-term solution to this problem.",
+    "mnemonic": "꽉 막힌 덩어리를 화학 용액(solution)으로 부드럽게 풀어서(solve) 해결하는 것."
+  },
+  {
+    "en": "admire",
+    "ko": "감탄하다, 존경하다",
+    "example": "I really admire your dedication to the project.",
+    "mnemonic": "Ad(~로) + mire(놀라다). 기적(miracle)을 본 것처럼 우러러보는 마음."
+  },
+  {
+    "en": "structure",
+    "ko": "구조물, 구성하다",
+    "example": "The building has a complex steel structure.",
+    "mnemonic": "건축물이나 뼈대를 세워서(struct) 형태를 잡은 것."
+  },
+  {
+    "en": "summary",
+    "ko": "요약",
+    "example": "Here is a brief summary of the financial report.",
+    "mnemonic": "전체의 내용의 합(sum)을 짧게 줄여서 핵심만 모아둔 것."
+  },
+  {
+    "en": "amaze",
+    "ko": "놀라게 하다",
+    "example": "Her outstanding performance amazed everyone.",
+    "mnemonic": "복잡한 미로(maze)에 빠진 것처럼 어리둥절하고 깜짝 놀라게 하다."
+  },
+  {
+    "en": "appeal",
+    "ko": "마음에 들다, 매력, 호소하다",
+    "example": "The new game design appeals to younger players.",
+    "mnemonic": "사람의 시선이나 마음을 강하게 끌어당겨(pull) 매력을 어필하는 것."
+  },
+  {
+    "en": "calm",
+    "ko": "고요한, 침착한",
+    "example": "Try to stay calm during the emergency.",
+    "mnemonic": "바람 한 점 불지 않는 호수처럼 흔들림 없는 평온한 상태."
+  },
+  {
+    "en": "cheerful",
+    "ko": "명랑한",
+    "example": "She always greets us with a cheerful smile.",
+    "mnemonic": "운동경기에서 응원(cheer)할 때처럼 에너지가 가득하고 밝은(ful)."
+  },
+  {
+    "en": "undoubtedly",
+    "ko": "의심할 여지 없이",
+    "example": "He is undoubtedly the best candidate for the job.",
+    "mnemonic": "Un(not) + doubt(의심하다) + edly. 의심의 여지가 단 1%도 없는 확실함."
+  },
+  {
+    "en": "comfortable",
+    "ko": "편안한",
+    "example": "Please make yourself comfortable.",
+    "mnemonic": "지친 마음이나 몸을 위로(comfort)해 줄 수 있을 만큼 안락한(able)."
+  }
+]
