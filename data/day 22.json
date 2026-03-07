@@ -1,0 +1,302 @@
+[
+  {
+    "en": "recall",
+    "ko": "기억해내다, 생각나게 하다",
+    "example": "I can't recall exactly where I left my keys.",
+    "mnemonic": "Re(다시) + call(부르다). 머릿속에서 정보를 다시 불러내는 것."
+  },
+  {
+    "en": "strange",
+    "ko": "이상한, 낯선",
+    "example": "I heard a strange noise coming from the basement.",
+    "mnemonic": "익숙하지 않은(stranger/낯선 사람) 것을 보는 느낌."
+  },
+  {
+    "en": "tiny",
+    "ko": "아주 작은",
+    "example": "A tiny insect was crawling on the leaf.",
+    "mnemonic": "타이니(tiny)하게 아주 작은 개미를 상상하세요."
+  },
+  {
+    "en": "recognize",
+    "ko": "알아보다, 인정하다",
+    "example": "I didn't recognize him at first with his new beard.",
+    "mnemonic": "Re(다시) + cogn(알다). 다시 보고 누구인지 인지하는 것."
+  },
+  {
+    "en": "announce",
+    "ko": "발표하다",
+    "example": "The company will announce the new product tomorrow.",
+    "mnemonic": "아나운서(Announcer)가 소식을 전하는 모습을 떠올리세요."
+  },
+  {
+    "en": "reject",
+    "ko": "거절하다",
+    "example": "The proposal was rejected by the board of directors.",
+    "mnemonic": "Re(뒤로) + ject(던지다). 받은 것을 다시 뒤로 던져버리며 거절함."
+  },
+  {
+    "en": "by hand",
+    "ko": "손으로, 직접",
+    "example": "This furniture was made entirely by hand.",
+    "mnemonic": "기계가 아니라 손(hand)을 사용하여 직접 만든 상태."
+  },
+  {
+    "en": "container",
+    "ko": "그릇, 용기",
+    "example": "Store the leftovers in an airtight container.",
+    "mnemonic": "Contain(담다) + er(것). 물건을 담는 큰 상자나 그릇."
+  },
+  {
+    "en": "contaminate",
+    "ko": "오염시키다",
+    "example": "The water supply was contaminated by factory waste.",
+    "mnemonic": "Con(함께) + tame(길들이다/접촉하다). 나쁜 것과 섞여 더러워지는 것."
+  },
+  {
+    "en": "contend",
+    "ko": "주장하다, 경쟁하다",
+    "example": "Several players are contending for the championship title.",
+    "mnemonic": "Con(함께) + tend(뻗다). 손을 뻗어 승리를 다투거나 의견을 굽히지 않음."
+  },
+  {
+    "en": "contestant",
+    "ko": "경기자, 응시자",
+    "example": "Each contestant had three minutes to speak.",
+    "mnemonic": "콘테스트(Contest)에 참여한 사람을 말합니다."
+  },
+  {
+    "en": "senior",
+    "ko": "상위의, 연장자, 선배",
+    "example": "He is a senior engineer at the company.",
+    "mnemonic": "나이나 직급이 더 높은 사람. 수석연구원님과 같은 '시니어'를 뜻합니다."
+  },
+  {
+    "en": "decide",
+    "ko": "결정하다, 결심하다",
+    "example": "It was difficult to decide which car to buy.",
+    "mnemonic": "De(완전히) + cide(자르다). 고민을 싹둑 자르고 하나를 정하는 것."
+  },
+  {
+    "en": "declare",
+    "ko": "세관에 신고하다, 선언하다",
+    "example": "Do you have anything to declare at customs?",
+    "mnemonic": "De(강조) + clare(맑게/밝게). 숨김없이 명확하게 말하는 것."
+  },
+  {
+    "en": "detour",
+    "ko": "우회, 우회하다",
+    "example": "We had to take a detour because of the road construction.",
+    "mnemonic": "De(멀리) + tour(여행/돌다). 길을 돌아가는 것."
+  },
+  {
+    "en": "weight",
+    "ko": "무게",
+    "example": "He's been lifting weights at the gym to build muscle.",
+    "mnemonic": "Weigh(무게를 재다)의 명사형. 저울 위 눈금을 생각하세요."
+  },
+  {
+    "en": "draw on",
+    "ko": "~을 이용하다, ~에 의지하다",
+    "example": "I will draw on my experience to solve this problem.",
+    "mnemonic": "필요한 것을 밖으로 끌어당겨(draw) 사용하는 모습."
+  },
+  {
+    "en": "youth",
+    "ko": "젊음, 청소년",
+    "example": "In my youth, I used to play soccer every day.",
+    "mnemonic": "Young(젊은)의 명사형. 인생의 봄날인 청춘을 뜻합니다."
+  },
+  {
+    "en": "entirely",
+    "ko": "완전히",
+    "example": "I agree with you entirely on this matter.",
+    "mnemonic": "Entire(전체의) + ly. 부분적이 아닌 100% 전체를 의미함."
+  },
+  {
+    "en": "attractive",
+    "ko": "매력 있는",
+    "example": "The city is very attractive to tourists.",
+    "mnemonic": "At(~로) + tract(끌다). 사람의 마음을 끌어당기는 힘."
+  },
+  {
+    "en": "balance",
+    "ko": "균형",
+    "example": "It is important to maintain a work-life balance.",
+    "mnemonic": "양쪽 저울이 평평하게 맞는 상태. '워라밸'을 생각하세요."
+  },
+  {
+    "en": "foresee",
+    "ko": "예견하다, 예감하다",
+    "example": "No one could foresee the economic crisis.",
+    "mnemonic": "Fore(앞을) + see(보다). 미래를 미리 보는 것."
+  },
+  {
+    "en": "beard",
+    "ko": "턱수염",
+    "example": "He decided to grow a beard for the winter.",
+    "mnemonic": "입 주변이 아닌 턱(턱수염)에 난 털."
+  },
+  {
+    "en": "charm",
+    "ko": "매력",
+    "example": "The old town has a certain charm.",
+    "mnemonic": "사람을 홀리는 마법 같은 매력. '차밍(charming)'하다는 표현."
+  },
+  {
+    "en": "aggressive",
+    "ko": "공격적인, 의욕적인",
+    "example": "The company has an aggressive marketing strategy.",
+    "mnemonic": "나쁘게는 공격적이지만, 좋게는 매우 '적극적인' 모습."
+  },
+  {
+    "en": "describe",
+    "ko": "묘사하다, 설명하다",
+    "example": "Could you describe the man you saw?",
+    "mnemonic": "De(아래에) + scribe(쓰다). 본 것을 글로 적어 설명하는 것."
+  },
+  {
+    "en": "dye",
+    "ko": "염색하다",
+    "example": "She decided to dye her hair blue.",
+    "mnemonic": "다이(dye)와 죽다(die)는 발음이 같으니 주의하세요. 색을 입히는 것."
+  },
+  {
+    "en": "invaluable",
+    "ko": "매우 귀중한",
+    "example": "Your advice was invaluable to the project's success.",
+    "mnemonic": "In(not) + valuable(가치를 매길 수 있는). 가치를 매길 수 없을 만큼 소중한."
+  },
+  {
+    "en": "ambitious",
+    "ko": "야심찬",
+    "example": "He has ambitious plans for his career.",
+    "mnemonic": "Ambition(야망). 더 높은 곳을 향해 가고 싶어 하는 마음."
+  },
+  {
+    "en": "fit",
+    "ko": "맞다, 건강한",
+    "example": "I need to exercise more to get fit.",
+    "mnemonic": "옷이 몸에 딱 맞거나, 몸 상태가 아주 좋은(건강한) 상태."
+  },
+  {
+    "en": "marginal",
+    "ko": "약간의, 별로 중요하지 않은",
+    "example": "The difference between the two products is marginal.",
+    "mnemonic": "여백(margin)에 적힌 메모처럼 중심이 아닌 주변부의 작은 것."
+  },
+  {
+    "en": "bold",
+    "ko": "대담한",
+    "example": "It was a bold decision to quit his job.",
+    "mnemonic": "글씨를 굵게(bold) 하듯, 행동을 크고 자신감 있게 하는 것."
+  },
+  {
+    "en": "height",
+    "ko": "신장, 높이",
+    "example": "What is the maximum height of this building?",
+    "mnemonic": "High(높은)의 명사형. 키나 높이를 잴 때 사용함."
+  },
+  {
+    "en": "out of control",
+    "ko": "통제되지 않는",
+    "example": "The car spun out of control on the icy road.",
+    "mnemonic": "통제(control)의 범위 밖(out of)으로 벗어난 위험한 상황."
+  },
+  {
+    "en": "preferred",
+    "ko": "우선의, 선호되는",
+    "example": "What is your preferred method of communication?",
+    "mnemonic": "Prefer(선호하다) + ed. 더 좋아하는 것으로 선택된."
+  },
+  {
+    "en": "medium",
+    "ko": "중간의",
+    "example": "I'd like my steak cooked medium, please.",
+    "mnemonic": "크지도 작지도 않은 중간 사이즈."
+  },
+  {
+    "en": "productivity",
+    "ko": "생산성",
+    "example": "Remote work can actually improve productivity.",
+    "mnemonic": "Produce(생산하다)의 명사형. 얼마나 효율적으로 만들어내는가."
+  },
+  {
+    "en": "representative",
+    "ko": "대표자, 대리인",
+    "example": "A sales representative will call you shortly.",
+    "mnemonic": "Represent(대표하다) + ative(사람). 누군가를 대신해 나온 사람."
+  },
+  {
+    "en": "reputation",
+    "ko": "평판, 명성",
+    "example": "The restaurant has a good reputation for its service.",
+    "mnemonic": "사람들 사이에서 반복(Re)해서 말해지는(put) 평가."
+  },
+  {
+    "en": "request",
+    "ko": "요청, 요구",
+    "example": "The company received a request for more information.",
+    "mnemonic": "Re(다시) + quest(찾다). 원하는 것을 얻기 위해 정중히 묻는 것."
+  },
+  {
+    "en": "run over",
+    "ko": "(차 등으로) 치다",
+    "example": "The cat was almost run over by a bus.",
+    "mnemonic": "차가 사람이나 사물 위로(over) 달려(run) 지나가는 사고."
+  },
+  {
+    "en": "neat",
+    "ko": "깔끔한",
+    "example": "She always keeps her desk very neat.",
+    "mnemonic": "니트(neat) 옷처럼 단정하고 깨끗하게 정리된."
+  },
+  {
+    "en": "pale",
+    "ko": "창백한",
+    "example": "She looked pale after hearing the bad news.",
+    "mnemonic": "얼굴에 핏기가 하나도 없는 하얀 상태."
+  },
+  {
+    "en": "steadily",
+    "ko": "착실하게, 끊임없이",
+    "example": "The number of users is increasing steadily.",
+    "mnemonic": "Steady(안정된) + ly. 흔들림 없이 꾸준하게 가는 모습."
+  },
+  {
+    "en": "successive",
+    "ko": "연속되는",
+    "example": "This is the third successive day of rain.",
+    "mnemonic": "Success(성공)가 아니라 Succeed(계승하다/잇다)에서 온 단어. 줄줄이 이어지는."
+  },
+  {
+    "en": "surpass",
+    "ko": "~을 능가하다, 넘어서다",
+    "example": "His performance surpassed all expectations.",
+    "mnemonic": "Sur(위로) + pass(지나가다). 남보다 더 위로 지나가서 앞지름."
+  },
+  {
+    "en": "take account of",
+    "ko": "~을 고려하다",
+    "example": "You must take account of the cost before making a decision.",
+    "mnemonic": "어떤 사실을 계산(account) 안에 넣고(take) 생각함."
+  },
+  {
+    "en": "pattern",
+    "ko": "무늬, 모양",
+    "example": "The fabric has a beautiful floral pattern.",
+    "mnemonic": "반복되는 기하학적 혹은 꽃무늬 같은 무늬."
+  },
+  {
+    "en": "unstable",
+    "ko": "불안정한",
+    "example": "The political situation in the country remains unstable.",
+    "mnemonic": "Un(not) + stable(안정된). 곧 무너질 듯 흔들리는 상태."
+  },
+  {
+    "en": "physical",
+    "ko": "육체의, 신체의",
+    "example": "Physical exercise is good for mental health.",
+    "mnemonic": "정신적인 것이 아닌 눈에 보이는 '몸'에 관한 것."
+  }
+]

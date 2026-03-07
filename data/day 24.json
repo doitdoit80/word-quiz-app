@@ -1,0 +1,302 @@
+[
+  {
+    "en": "delight",
+    "ko": "기쁨",
+    "example": "To my great delight, I passed the exam.",
+    "mnemonic": "빛(light)이 들어오듯 마음이 환해지고 기뻐지는 상태."
+  },
+  {
+    "en": "desire",
+    "ko": "욕망, 바라다, 희망하다",
+    "example": "He has a strong desire to win the game.",
+    "mnemonic": "별(sire/star)에게 소원을 빌며 간절히 바라는 마음."
+  },
+  {
+    "en": "accurately",
+    "ko": "정확하게",
+    "example": "The weather forecast predicted the storm accurately.",
+    "mnemonic": "Accurate(정확한) + ly. 화살이 과녁의 한가운데를 딱 맞추듯 틀림없이."
+  },
+  {
+    "en": "eager",
+    "ko": "갈망하는, 몹시 하고 싶은",
+    "example": "The children were eager to open their presents.",
+    "mnemonic": "이거(eager) 꼭 하고 싶다고 조르는 아이의 간절한 표정을 떠올리세요."
+  },
+  {
+    "en": "adopt",
+    "ko": "채택하다, 양자로 삼다",
+    "example": "The company decided to adopt a new marketing strategy.",
+    "mnemonic": "Ad(~로) + opt(선택하다). 여러 개 중 하나를 내 것으로 골라 받아들이는 것."
+  },
+  {
+    "en": "excite",
+    "ko": "흥분시키다",
+    "example": "The news of the trip excited the kids.",
+    "mnemonic": "감정이나 에너지를 밖으로(ex) 불러일으켜(cite) 신나게 만드는 것."
+  },
+  {
+    "en": "fantastic",
+    "ko": "멋진, 환상적인",
+    "example": "We had a fantastic time at the concert.",
+    "mnemonic": "판타지(Fantasy) 영화처럼 현실에서는 보기 힘들 만큼 훌륭한."
+  },
+  {
+    "en": "fond",
+    "ko": "매우 좋아하는",
+    "example": "I am very fond of playing table tennis.",
+    "mnemonic": "폰(phone)에 가장 좋아하는 사람의 사진을 담아두고 아끼는 마음."
+  },
+  {
+    "en": "chronic",
+    "ko": "만성의",
+    "example": "He suffers from chronic back pain.",
+    "mnemonic": "크로노스(시간의 신)처럼 아주 오랜 시간 동안 낫지 않고 계속되는."
+  },
+  {
+    "en": "impress",
+    "ko": "감동시키다, 깊은 인상을 주다",
+    "example": "Her singing skills really impressed the judges.",
+    "mnemonic": "Im(안으로) + press(누르다). 마음속 깊이 꾹 눌러 자국(인상)을 남기는 것."
+  },
+  {
+    "en": "combination",
+    "ko": "결합, 연합",
+    "example": "The pizza has a great combination of flavors.",
+    "mnemonic": "Combine(결합하다)의 명사형. 콤비네이션 피자처럼 여러 가지가 하나로 섞인 것."
+  },
+  {
+    "en": "count on",
+    "ko": "~을 믿다, 의지하다",
+    "example": "You can always count on me for help.",
+    "mnemonic": "숫자를 세듯 그 사람을 내 편으로 세어(count) 위에 기대는(on) 것."
+  },
+  {
+    "en": "depress",
+    "ko": "우울하게 하다",
+    "example": "The bad weather is starting to depress me.",
+    "mnemonic": "De(아래로) + press(누르다). 기분이나 경제를 밑바닥으로 꾹 눌러 가라앉히는 것."
+  },
+  {
+    "en": "innocent",
+    "ko": "순결한, 결백한",
+    "example": "The jury found him innocent of all charges.",
+    "mnemonic": "In(not) + nocent(해로운). 남에게 해를 끼친 적이 없어 죄가 없고 순수한 상태."
+  },
+  {
+    "en": "pleasure",
+    "ko": "기쁨, 즐거움",
+    "example": "It is a pleasure to meet you.",
+    "mnemonic": "Please(기쁘게 하다)의 명사형. 마음이 흡족하고 기쁜 감정."
+  },
+  {
+    "en": "division",
+    "ko": "부서, 분할",
+    "example": "She works in the sales division of the company.",
+    "mnemonic": "Divide(나누다)의 명사형. 큰 회사를 역할별로 쪼개놓은 각각의 부서."
+  },
+  {
+    "en": "possible",
+    "ko": "가능한",
+    "example": "Is it possible to finish the work by Friday?",
+    "mnemonic": "Poss(할 수 있는) + ible. 현실에서 충분히 일어날 수 있는 일."
+  },
+  {
+    "en": "embrace",
+    "ko": "안다, 포옹하다, 받아들이다",
+    "example": "He ran to embrace his mother.",
+    "mnemonic": "Em(안으로) + brace(팔). 두 팔을 벌려 품 안으로 껴안는 모습."
+  },
+  {
+    "en": "enforce",
+    "ko": "강요하다, 시행하다",
+    "example": "The police are trying to enforce the new traffic laws.",
+    "mnemonic": "En(만들다) + force(힘). 법이나 규칙을 힘을 써서 억지로라도 지키게 만드는 것."
+  },
+  {
+    "en": "engage",
+    "ko": "관여하다, 종사하다, 약혼하다",
+    "example": "They are engaged in a serious discussion.",
+    "mnemonic": "어떤 일이나 사람과 굳은 약속을 맺고 깊이 엮이는 것."
+  },
+  {
+    "en": "face",
+    "ko": "직면하다, 표면, 외관",
+    "example": "We have to face the facts.",
+    "mnemonic": "얼굴(face)을 피하지 않고 문제나 상황을 똑바로 마주 보는 것."
+  },
+  {
+    "en": "forecast",
+    "ko": "예보, 예측, 예보하다",
+    "example": "The weather forecast says it will rain tomorrow.",
+    "mnemonic": "Fore(미리) + cast(던지다). 앞으로 일어날 일을 미리 내다보고 사람들에게 던져주는 것."
+  },
+  {
+    "en": "relax",
+    "ko": "쉬다, 긴장을 풀다",
+    "example": "I just want to sit down and relax.",
+    "mnemonic": "Re(다시) + lax(느슨한). 팽팽했던 몸과 마음의 끈을 다시 느슨하게 풀어주는 것."
+  },
+  {
+    "en": "hold",
+    "ko": "~을 쥐다, 개최하다, 보류",
+    "example": "They will hold a conference next week.",
+    "mnemonic": "손으로 물건을 꽉 쥐거나, 행사를 직접 열어서 통제력을 갖는 것."
+  },
+  {
+    "en": "illustrate",
+    "ko": "설명하다, 예증하다, 삽화를 넣다",
+    "example": "The teacher used examples to illustrate the theory.",
+    "mnemonic": "글만으로 어려운 내용을 일러스트(그림)를 그려서 밝게 보여주며 설명하는 것."
+  },
+  {
+    "en": "in addition to",
+    "ko": "~외에도",
+    "example": "In addition to English, she speaks French.",
+    "mnemonic": "Addition(추가). 기존에 있던 것에 무언가를 더 얹어서(in addition)."
+  },
+  {
+    "en": "increasingly",
+    "ko": "점점, 더욱 더",
+    "example": "It is becoming increasingly difficult to find a job.",
+    "mnemonic": "Increase(증가하다) + ingly. 어떤 상태가 시간과 함께 위로 쭉쭉 늘어나는 모습."
+  },
+  {
+    "en": "incredible",
+    "ko": "믿을 수 없는",
+    "example": "The view from the top of the mountain was incredible.",
+    "mnemonic": "In(not) + credible(믿을 수 있는). 너무 훌륭하거나 놀라워서 차마 믿기 힘든."
+  },
+  {
+    "en": "in trouble",
+    "ko": "곤경에 빠져, 난처하여",
+    "example": "If you don't finish the report, you'll be in trouble.",
+    "mnemonic": "문제나 골칫거리(trouble) 한가운데 푹 빠져(in) 있는 상태."
+  },
+  {
+    "en": "locate",
+    "ko": "찾아내다, 위치시키다",
+    "example": "I was unable to locate the missing document.",
+    "mnemonic": "Location(위치). 지도에서 특정 장소나 물건이 어디 있는지 정확히 점을 찍어내는 것."
+  },
+  {
+    "en": "modestly",
+    "ko": "겸손하게",
+    "example": "He spoke modestly about his achievements.",
+    "mnemonic": "Modest(겸손한) + ly. 잘난 척하지 않고 자신을 낮추어 얌전하게 행동하는."
+  },
+  {
+    "en": "satisfy",
+    "ko": "만족시키다, 충족시키다",
+    "example": "The food was enough to satisfy my hunger.",
+    "mnemonic": "마음의 기준치나 배고픔을 꽉 채워서 기분 좋게 만들어주는 것."
+  },
+  {
+    "en": "negotiation",
+    "ko": "교섭, 협상",
+    "example": "The two countries are in negotiations for a peace treaty.",
+    "mnemonic": "서로 원하는 것을 얻기 위해 테이블에 앉아 밀고 당기기를 하는 과정."
+  },
+  {
+    "en": "occasionally",
+    "ko": "때때로, 가끔",
+    "example": "We occasionally meet for a cup of coffee.",
+    "mnemonic": "Occasion(때/행사). 매일은 아니지만 특별한 기회나 상황이 생길 때마다 한 번씩."
+  },
+  {
+    "en": "splendid",
+    "ko": "화려한, 훌륭한",
+    "example": "We had a splendid view of the ocean from our room.",
+    "mnemonic": "빛이 반짝반짝 나듯 아주 멋지고 훌륭해서 박수가 나오는 상태."
+  },
+  {
+    "en": "provision",
+    "ko": "조항, 규정, 준비, 식량",
+    "example": "The contract includes a provision for sick leave.",
+    "mnemonic": "Provide(제공하다)의 명사형. 미리 제공하기 위해 준비해둔 규칙이나 식량."
+  },
+  {
+    "en": "publishing company",
+    "ko": "출판사",
+    "example": "She works as an editor at a publishing company.",
+    "mnemonic": "Public(대중)에게 책을 만들어 세상에 알리는(Publish) 회사."
+  },
+  {
+    "en": "purpose",
+    "ko": "목적, 의도",
+    "example": "The main purpose of the meeting is to discuss the budget.",
+    "mnemonic": "Pur(앞에) + pose(놓다). 달성하기 위해 내 눈앞에 놓아둔 목표."
+  },
+  {
+    "en": "terrific",
+    "ko": "훌륭한, 굉장한",
+    "example": "You did a terrific job on this project.",
+    "mnemonic": "원래 '무서운(terror)'에서 출발했지만, 현대에는 '소름 돋을 정도로 훌륭한'으로 쓰입니다."
+  },
+  {
+    "en": "resume",
+    "ko": "다시 시작하다, (자리로) 돌아가다",
+    "example": "The game will resume after a short break.",
+    "mnemonic": "Re(다시) + sume(취하다). 잠시 멈췄던 것을 다시 잡고 이어가는 것."
+  },
+  {
+    "en": "revolutionary",
+    "ko": "혁신적인, 획기적인",
+    "example": "The smartphone was a revolutionary invention.",
+    "mnemonic": "Revolution(혁명) + ary. 세상을 완전히 뒤집어 놓을 만큼 새로운."
+  },
+  {
+    "en": "reward",
+    "ko": "~에 보답하다, 보상",
+    "example": "He received a cash reward for finding the lost dog.",
+    "mnemonic": "Re(뒤로) + ward(바라보다). 수고한 사람에게 그만한 가치를 돌려주는 것."
+  },
+  {
+    "en": "sophisticated",
+    "ko": "정교한, 복잡한, 세련된",
+    "example": "The software is very sophisticated and easy to use.",
+    "mnemonic": "단순하지 않고 톱니바퀴가 아주 세밀하게 얽혀서 수준이 높은 상태."
+  },
+  {
+    "en": "annoy",
+    "ko": "괴롭히다, 화나게 하다",
+    "example": "Please stop making that noise, it's annoying me.",
+    "mnemonic": "파리가 계속 윙윙거리듯 성가시게 해서 짜증이 나게 만드는 것."
+  },
+  {
+    "en": "ashamed",
+    "ko": "부끄러운",
+    "example": "He felt ashamed of his bad behavior.",
+    "mnemonic": "A + shame(부끄러움). 자기 잘못 때문에 쥐구멍에 숨고 싶은 감정."
+  },
+  {
+    "en": "awful",
+    "ko": "끔찍한, 지독한",
+    "example": "The weather was awful all weekend.",
+    "mnemonic": "Awe(두려움/경외) + ful. 너무 나쁘거나 심해서 헉 소리가 나는 상태."
+  },
+  {
+    "en": "confuse",
+    "ko": "혼란스럽게 하다, 헷갈리다",
+    "example": "The new road signs confuse a lot of drivers.",
+    "mnemonic": "Con(함께) + fuse(붓다). 여러 가지가 한꺼번에 섞여서 머리가 복잡해지는 것."
+  },
+  {
+    "en": "thrive",
+    "ko": "번영하다, 성공하다",
+    "example": "Children thrive when they are given love and support.",
+    "mnemonic": "식물이나 사업이 쑥쑥 잘 자라고 활기차게 크는 모습."
+  },
+  {
+    "en": "cruel",
+    "ko": "잔인한",
+    "example": "It is cruel to keep animals in small cages.",
+    "mnemonic": "크루엘라(Cruella)처럼 남의 고통을 즐기거나 동정심이 없는 차가운 성격."
+  },
+  {
+    "en": "utilize",
+    "ko": "이용하다, 활용하다",
+    "example": "We must utilize all available resources.",
+    "mnemonic": "Utility(유용함/공공시설)를 100% 쓸모 있게 잘 가져다 쓰는 것."
+  }
+]

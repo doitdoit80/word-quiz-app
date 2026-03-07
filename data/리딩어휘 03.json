@@ -1,0 +1,299 @@
+[
+  {
+    "en": "wavelength",
+    "ko": "(빛 소리 등의) 파장",
+    "example": "Different colors of light have different wavelengths.",
+    "mnemonic": "Wave(파도) + length(길이). 파동이 한 번 진동할 때 이동하는 거리."
+  },
+  {
+    "en": "insincere",
+    "ko": "진실되지 못한, 거짓의",
+    "example": "His apology sounded completely insincere.",
+    "mnemonic": "In(not) + sincere(진실한). 속마음과 다르게 겉발림으로 말하는."
+  },
+  {
+    "en": "primarily",
+    "ko": "주로",
+    "example": "The disease affects primarily older people.",
+    "mnemonic": "Primary(주요한, 첫째의) + ly. 가장 첫 번째로, 혹은 가장 큰 비중으로."
+  },
+  {
+    "en": "noticeably",
+    "ko": "눈에 띄게, 확연히",
+    "example": "Her English has improved noticeably this year.",
+    "mnemonic": "Notice(알아채다) + able + ly. 누구나 금방 알아챌 수 있을 만큼."
+  },
+  {
+    "en": "obtainable",
+    "ko": "얻을 수 있는",
+    "example": "This information is easily obtainable from the internet.",
+    "mnemonic": "Obtain(얻다) + able(가능한). 손에 넣을 수 있는 상태."
+  },
+  {
+    "en": "cultivate",
+    "ko": "경작하다",
+    "example": "The farmers cultivate corn and wheat here.",
+    "mnemonic": "거친 땅을 갈고닦아(cultivate) 농작물을 키워내는 것."
+  },
+  {
+    "en": "expertise",
+    "ko": "전문 지식",
+    "example": "We need someone with expertise in artificial intelligence.",
+    "mnemonic": "Expert(전문가)들이 오랜 시간 쌓아 올린 깊은 지식."
+  },
+  {
+    "en": "executive",
+    "ko": "간부, 임원",
+    "example": "She is a senior executive at a large tech company.",
+    "mnemonic": "Execute(실행하다)에서 온 말. 회사의 중요한 결정을 직접 실행하는 사람들."
+  },
+  {
+    "en": "respective",
+    "ko": "각각의",
+    "example": "They all went back to their respective homes.",
+    "mnemonic": "각자(respect)의 몫이나 위치로 나뉘어진 상태."
+  },
+  {
+    "en": "under consideration",
+    "ko": "고려 중에",
+    "example": "Your proposal is currently under consideration.",
+    "mnemonic": "Consideration(고려)이라는 과정 아래(under)에 놓여있는 상태."
+  },
+  {
+    "en": "specify",
+    "ko": "명시하다",
+    "example": "Please specify your requirements in the email.",
+    "mnemonic": "Specific(구체적인)하게 콕 집어서 말해주다(ify)."
+  },
+  {
+    "en": "consistency",
+    "ko": "일관성",
+    "example": "Consistency is the key to success in learning a language.",
+    "mnemonic": "Consist(구성되다). 처음부터 끝까지 변함없이 단단하게 유지되는 상태."
+  },
+  {
+    "en": "criterion",
+    "ko": "기준",
+    "example": "What is the main criterion for selecting the winner?",
+    "mnemonic": "무언가를 판단하거나 결정할 때 잣대가 되는 것."
+  },
+  {
+    "en": "burial",
+    "ko": "매장",
+    "example": "The archaeologists discovered an ancient burial site.",
+    "mnemonic": "Bury(묻다)의 명사형. 시신이나 물건을 땅속에 묻는 의식."
+  },
+  {
+    "en": "on top of that",
+    "ko": "게다가",
+    "example": "I lost my keys, and on top of that, it started raining.",
+    "mnemonic": "어떤 일의 꼭대기(top)에 또 하나를 얹어서(on) 엎친 데 덮친 격을 표현."
+  },
+  {
+    "en": "courteous",
+    "ko": "예의 바른",
+    "example": "The hotel staff was very courteous and helpful.",
+    "mnemonic": "Court(궁전)에서 왕이나 귀족을 대할 때처럼 깍듯한 태도."
+  },
+  {
+    "en": "at ease",
+    "ko": "마음 편히",
+    "example": "He felt completely at ease around her.",
+    "mnemonic": "Ease(편안함)라는 상태에(at) 머무르는 것."
+  },
+  {
+    "en": "costly",
+    "ko": "비싼",
+    "example": "Replacing the engine would be too costly.",
+    "mnemonic": "Cost(비용)가 많이 들게끔(ly) 값비싼."
+  },
+  {
+    "en": "medieval",
+    "ko": "중세의",
+    "example": "We visited a medieval castle in Europe.",
+    "mnemonic": "Medi(중간) + eval(시대). 고대와 근대 사이에 끼어있는 중세 시대."
+  },
+  {
+    "en": "rigid",
+    "ko": "엄격한",
+    "example": "The school has a rigid code of conduct.",
+    "mnemonic": "고무줄처럼 늘어나지 않고 뻣뻣하고 딱딱한 규칙이나 태도."
+  },
+  {
+    "en": "nobility",
+    "ko": "귀족",
+    "example": "Members of the nobility lived in grand palaces.",
+    "mnemonic": "Noble(고귀한) 계급을 가진 사람들의 집단."
+  },
+  {
+    "en": "grant",
+    "ko": "주다, 허락하다",
+    "example": "The government granted him a visa.",
+    "mnemonic": "권리나 돈 등을 공식적으로 승인하여 내어주는 것."
+  },
+  {
+    "en": "civilization",
+    "ko": "문명",
+    "example": "Ancient Egypt was a great civilization.",
+    "mnemonic": "Civil(시민의) 사람들이 모여 이룩한 사회 발달 상태."
+  },
+  {
+    "en": "occupant",
+    "ko": "거주자",
+    "example": "The previous occupant of this house left yesterday.",
+    "mnemonic": "Occupy(차지하다) + ant(사람). 어떤 공간을 꿰차고 있는 사람."
+  },
+  {
+    "en": "sculpture",
+    "ko": "조각하다",
+    "example": "He learned how to sculpture marble into beautiful shapes.",
+    "mnemonic": "돌이나 나무를 깎고 빚어서 입체적인 형태를 만드는 것."
+  },
+  {
+    "en": "integral",
+    "ko": "필수적인, 빠뜨릴 수 없는",
+    "example": "Vegetables are an integral part of a healthy diet.",
+    "mnemonic": "Integer(완전한 전체)를 이루기 위해 빠지면 안 되는 핵심 부분."
+  },
+  {
+    "en": "designate",
+    "ko": "지정하다, 지명하다",
+    "example": "This area has been designated as a national park.",
+    "mnemonic": "Design(표시하다) + ate. 손가락으로 콕 짚어서 역할을 주거나 자리를 정하는 것."
+  },
+  {
+    "en": "via",
+    "ko": "~을 통하여",
+    "example": "I flew to New York via Tokyo.",
+    "mnemonic": "어떤 길이나 수단을 거쳐서 간다는 뜻의 전치사."
+  },
+  {
+    "en": "passive",
+    "ko": "수동적인, 소극적인",
+    "example": "He plays a passive role in the relationship.",
+    "mnemonic": "스스로 움직이지 않고 남이 던져주는 것을 받기만(pass) 하는 태도."
+  },
+  {
+    "en": "offensive",
+    "ko": "무례한",
+    "example": "I found his jokes deeply offensive.",
+    "mnemonic": "Offense(공격) + ive. 남의 기분을 공격하여 불쾌하게 만드는."
+  },
+  {
+    "en": "assertive",
+    "ko": "적극적인, 자기 주장이 강한",
+    "example": "You need to be more assertive in meetings.",
+    "mnemonic": "Assert(주장하다) + ive. 눈치 보지 않고 내 생각을 당당하게 밀어붙이는."
+  },
+  {
+    "en": "sufficiently",
+    "ko": "충분히",
+    "example": "Make sure the meat is sufficiently cooked.",
+    "mnemonic": "Sufficient(충분한) + ly. 모자람 없이 양이나 정도가 꽉 찬 상태로."
+  },
+  {
+    "en": "enhance",
+    "ko": "높이다, 향상시키다",
+    "example": "We use spices to enhance the flavor of the food.",
+    "mnemonic": "이미 있는 가치, 매력, 품질 등을 한 단계 더 위로 끌어올리는 것."
+  },
+  {
+    "en": "disastrous",
+    "ko": "피해가 막심한, 처참한",
+    "example": "The storm had a disastrous effect on the crops.",
+    "mnemonic": "Disaster(재앙) + ous. 수습하기 힘들 정도로 결과가 파괴적인."
+  },
+  {
+    "en": "tidy",
+    "ko": "정돈된",
+    "example": "She keeps her room very tidy.",
+    "mnemonic": "먼지(티) 하나 없이 물건들이 제자리에 깔끔하게 정리된 상태."
+  },
+  {
+    "en": "annually",
+    "ko": "매년, 해마다",
+    "example": "The festival is held annually in October.",
+    "mnemonic": "Annual(1년 단위의) + ly. 1년에 한 번씩 꼬박꼬박 일어나는."
+  },
+  {
+    "en": "commodity",
+    "ko": "물건",
+    "example": "Oil is an important commodity in the world market.",
+    "mnemonic": "시장에서 사고팔기 위해 생산되는 실용적인 상품이나 물건."
+  },
+  {
+    "en": "resolve",
+    "ko": "결심하다",
+    "example": "She resolved to study harder this semester.",
+    "mnemonic": "Re(다시) + solve(풀다). 마음속으로 굳게 다짐하고 뜻을 굳히는 것."
+  },
+  {
+    "en": "disoriented",
+    "ko": "혼란스러운",
+    "example": "He woke up feeling completely disoriented.",
+    "mnemonic": "Dis(잃다) + orient(방향). 동서남북을 몰라 어리둥절한 상태."
+  },
+  {
+    "en": "validate",
+    "ko": "승인하다, 인정하다",
+    "example": "You need to validate your parking ticket at the desk.",
+    "mnemonic": "Valid(타당한) 상태로 만들다(ate). 진짜라고 도장을 찍어 증명해 주는 것."
+  },
+  {
+    "en": "sooner than later",
+    "ko": "머지않아",
+    "example": "We need to fix this issue sooner than later.",
+    "mnemonic": "나중(later)으로 미루기보다는 더 빨리(sooner) 다가올 미래."
+  },
+  {
+    "en": "archaeological",
+    "ko": "고고학의",
+    "example": "The team is conducting an archaeological dig in Egypt.",
+    "mnemonic": "Archaeo(고대의) + logical(학문의). 오래전 흔적을 캐내는 학문."
+  },
+  {
+    "en": "in existence",
+    "ko": "현존하는",
+    "example": "It is the oldest bridge currently in existence.",
+    "mnemonic": "Existence(존재)라는 상태 안(in)에 머물러 있는."
+  },
+  {
+    "en": "dwelling",
+    "ko": "서식하는, 거주하는",
+    "example": "The forest is home to many ground-dwelling animals.",
+    "mnemonic": "Dwell(살다, 머무르다) + ing. 특정 장소에 자리를 잡고 살아가는 모습."
+  },
+  {
+    "en": "betrayal",
+    "ko": "배신, 배반",
+    "example": "He felt a deep sense of betrayal by his friend.",
+    "mnemonic": "Betray(배신하다)의 명사형. 믿었던 사람의 뒤통수를 치는 행위."
+  },
+  {
+    "en": "be conscious of",
+    "ko": "~을 의식하다",
+    "example": "She is very conscious of her appearance.",
+    "mnemonic": "Conscious(깨어있는). 주변 시선이나 상황을 분명히 인지하고 신경 쓰는 것."
+  },
+  {
+    "en": "life expectancy",
+    "ko": "평균 수명",
+    "example": "Life expectancy has increased due to better healthcare.",
+    "mnemonic": "사람이나 동물이 얼마나 길게 살 것인지 기대(expect)되는 나이."
+  },
+  {
+    "en": "demanding",
+    "ko": "(일 등이) 힘든, 고된",
+    "example": "Being a nurse is a very demanding job.",
+    "mnemonic": "Demand(요구하다) + ing. 시간이나 체력을 너무 많이 내놓으라고 요구해서 피곤한."
+  },
+  {
+    "en": "overload",
+    "ko": "과부하를 걸다, 너무 많은 부담을 주다",
+    "example": "Don't overload the washing machine with too many clothes.",
+    "mnemonic": "Over(초과해서) + load(짐을 싣다). 감당할 수 있는 양보다 훨씬 더 얹어버리는 것."
+  },
+  {
+    "en": "belonging",
+    "ko": "소지품",
+    "example": "Please take all
