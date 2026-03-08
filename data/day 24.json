@@ -25,7 +25,7 @@
   },
   {
     "en": "adopt",
-    "ko": "채택하다, 양자로 삼다",
+    "ko": "채택하다, 양자로 삼다, 양녀로 삼다",
     "example": "The company decided to adopt a new marketing strategy.",
     "mnemonic": "Ad(~로) + opt(선택하다). 여러 개 중 하나를 내 것으로 골라 받아들이는 것."
   },
@@ -55,7 +55,7 @@
   },
   {
     "en": "impress",
-    "ko": "감동시키다, 깊은 인상을 주다",
+    "ko": "감동시키다",
     "example": "Her singing skills really impressed the judges.",
     "mnemonic": "Im(안으로) + press(누르다). 마음속 깊이 꾹 눌러 자국(인상)을 남기는 것."
   },
@@ -85,7 +85,7 @@
   },
   {
     "en": "pleasure",
-    "ko": "기쁨, 즐거움",
+    "ko": "기쁨",
     "example": "It is a pleasure to meet you.",
     "mnemonic": "Please(기쁘게 하다)의 명사형. 마음이 흡족하고 기쁜 감정."
   },
@@ -103,7 +103,7 @@
   },
   {
     "en": "embrace",
-    "ko": "안다, 포옹하다, 받아들이다",
+    "ko": "안다, 포옹하다",
     "example": "He ran to embrace his mother.",
     "mnemonic": "Em(안으로) + brace(팔). 두 팔을 벌려 품 안으로 껴안는 모습."
   },
@@ -115,7 +115,7 @@
   },
   {
     "en": "engage",
-    "ko": "관여하다, 종사하다, 약혼하다",
+    "ko": "관여하다, 종사하다",
     "example": "They are engaged in a serious discussion.",
     "mnemonic": "어떤 일이나 사람과 굳은 약속을 맺고 깊이 엮이는 것."
   },
@@ -127,7 +127,7 @@
   },
   {
     "en": "forecast",
-    "ko": "예보, 예측, 예보하다",
+    "ko": "예보, 예측, 예언하다, 예보하다",
     "example": "The weather forecast says it will rain tomorrow.",
     "mnemonic": "Fore(미리) + cast(던지다). 앞으로 일어날 일을 미리 내다보고 사람들에게 던져주는 것."
   },
@@ -139,7 +139,7 @@
   },
   {
     "en": "hold",
-    "ko": "~을 쥐다, 개최하다, 보류",
+    "ko": "~을 쥐다, 수용하다, 개최하다, 쥠, 보류",
     "example": "They will hold a conference next week.",
     "mnemonic": "손으로 물건을 꽉 쥐거나, 행사를 직접 열어서 통제력을 갖는 것."
   },
@@ -175,7 +175,7 @@
   },
   {
     "en": "locate",
-    "ko": "찾아내다, 위치시키다",
+    "ko": "찾아내다, ~을 위치시키다",
     "example": "I was unable to locate the missing document.",
     "mnemonic": "Location(위치). 지도에서 특정 장소나 물건이 어디 있는지 정확히 점을 찍어내는 것."
   },
@@ -211,9 +211,9 @@
   },
   {
     "en": "provision",
-    "ko": "조항, 규정, 준비, 식량",
+    "ko": "조항, 규정, 준비",
     "example": "The contract includes a provision for sick leave.",
-    "mnemonic": "Provide(제공하다)의 명사형. 미리 제공하기 위해 준비해둔 규칙이나 식량."
+    "mnemonic": "Provide(제공하다)의 명사형. 미리 제공하기 위해 준비해둔 규정이나 식량."
   },
   {
     "en": "publishing company",
@@ -229,13 +229,13 @@
   },
   {
     "en": "terrific",
-    "ko": "훌륭한, 굉장한",
+    "ko": "훌륭한",
     "example": "You did a terrific job on this project.",
     "mnemonic": "원래 '무서운(terror)'에서 출발했지만, 현대에는 '소름 돋을 정도로 훌륭한'으로 쓰입니다."
   },
   {
     "en": "resume",
-    "ko": "다시 시작하다, (자리로) 돌아가다",
+    "ko": "다시 시작하다",
     "example": "The game will resume after a short break.",
     "mnemonic": "Re(다시) + sume(취하다). 잠시 멈췄던 것을 다시 잡고 이어가는 것."
   },
@@ -247,13 +247,13 @@
   },
   {
     "en": "reward",
-    "ko": "~에 보답하다, 보상",
+    "ko": "~에 보답하다, 보상, 포상",
     "example": "He received a cash reward for finding the lost dog.",
     "mnemonic": "Re(뒤로) + ward(바라보다). 수고한 사람에게 그만한 가치를 돌려주는 것."
   },
   {
     "en": "sophisticated",
-    "ko": "정교한, 복잡한, 세련된",
+    "ko": "정교한, 복잡한",
     "example": "The software is very sophisticated and easy to use.",
     "mnemonic": "단순하지 않고 톱니바퀴가 아주 세밀하게 얽혀서 수준이 높은 상태."
   },
@@ -271,7 +271,7 @@
   },
   {
     "en": "awful",
-    "ko": "끔찍한, 지독한",
+    "ko": "끔찍한",
     "example": "The weather was awful all weekend.",
     "mnemonic": "Awe(두려움/경외) + ful. 너무 나쁘거나 심해서 헉 소리가 나는 상태."
   },

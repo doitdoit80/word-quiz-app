@@ -91,7 +91,7 @@
   },
   {
     "en": "decrease",
-    "ko": "감소, 감소하다",
+    "ko": "감소, 감소하다, 줄다",
     "example": "The number of smokers has started to decrease.",
     "mnemonic": "De(아래로) + crease(성장). 아래로 자라니 숫자가 줄어드는 것."
   },
@@ -193,7 +193,7 @@
   },
   {
     "en": "manage",
-    "ko": "경영하다, 관리하다",
+    "ko": "~을 경영하다, ~을 관리하다, 그렇저럭 ~하다",
     "example": "She manages a team of twenty people.",
     "mnemonic": "Manager(매니저). 손(man)으로 직접 다루며 이끌어가는 것."
   },
@@ -217,13 +217,13 @@
   },
   {
     "en": "performance",
-    "ko": "수행, 실적, 공연",
+    "ko": "업무 수행, 실적, 공연, 연주",
     "example": "The company's performance improved significantly this year.",
     "mnemonic": "무대 위의 '퍼포먼스'뿐만 아니라 업무상 '성과'도 뜻합니다."
   },
   {
     "en": "periodical",
-    "ko": "정기 간행물, 정기적인",
+    "ko": "정기 간행물, 정기 간행의, 정기적인",
     "example": "She reads several periodicals to stay updated in her field.",
     "mnemonic": "Period(기간). 특정 기간마다 반복해서 나오는 잡지나 신문."
   },
@@ -235,7 +235,7 @@
   },
   {
     "en": "produce",
-    "ko": "생산하다, 농산물",
+    "ko": "생산하다, 생산액, 농산물",
     "example": "The farm produces a variety of organic vegetables.",
     "mnemonic": "Pro(앞으로) + duce(이끌다). 새로운 물건이나 작물을 세상 밖으로 내놓는 것."
   },
@@ -265,7 +265,7 @@
   },
   {
     "en": "remind",
-    "ko": "~에게 상기시키다",
+    "ko": "~에게 상기시키다, 일깨우다",
     "example": "Please remind me to buy milk on the way home.",
     "mnemonic": "Re(다시) + mind(마음). 마음속에 다시 그 생각을 떠올리게 해주는 것."
   },
@@ -283,9 +283,9 @@
   },
   {
     "en": "private",
-    "ko": "개인의, 사적인",
+    "ko": "개인의",
     "example": "I need to have a private conversation with you.",
-    "mnemonic": "프라이버시(Privacy). 남들에게 알리지 않는 사적인 것."
+    "mnemonic": "프라이버시(Privacy). 남들에게 알리지 않는 개인의, 사적인"
   },
   {
     "en": "spacious",

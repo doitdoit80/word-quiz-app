@@ -2,7 +2,25 @@ export function checkAnswer(input: string, koMeaning: string): boolean {
   const normalize = (s: string) => s.trim().replace(/[\s\p{P}\p{S}]/gu, '').toLowerCase();
   const trimmed = normalize(input);
   if (!trimmed) return false;
-  const meanings = koMeaning.split(',').map((m) => m.trim()).filter(Boolean);
+  // 괄호 안의 쉼표는 구분자로 사용하지 않음
+  const splitMeanings = (s: string): string[] => {
+    const results: string[] = [];
+    let depth = 0;
+    let current = '';
+    for (const char of s) {
+      if (char === '(') depth++;
+      else if (char === ')') depth--;
+      else if (char === ',' && depth === 0) {
+        if (current.trim()) results.push(current.trim());
+        current = '';
+        continue;
+      }
+      current += char;
+    }
+    if (current.trim()) results.push(current.trim());
+    return results;
+  };
+  const meanings = splitMeanings(koMeaning);
   return meanings.some((m) => {
     if (normalize(m) === trimmed) return true;
     // 괄호 안 내용을 제거한 버전과도 비교

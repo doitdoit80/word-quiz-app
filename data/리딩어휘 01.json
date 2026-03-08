@@ -31,7 +31,7 @@
   },
   {
     "en": "issue",
-    "ko": "(잡지, 신문 등의) 호, 발행물",
+    "ko": "(잡지, 신문 등의) 호",
     "example": "Have you seen the latest issue of Harvard Business Review?",
     "mnemonic": "'문제'라는 뜻도 있지만, 정기적으로 밖으로 나오는 '간행물'을 뜻하기도 합니다."
   },
@@ -73,9 +73,9 @@
   },
   {
     "en": "deceptively",
-    "ko": "믿을 수 없게도, 겉보기와 달리",
-    "example": "The exam was deceptively difficult.",
-    "mnemonic": "Deceive(속이다). 겉보기에는 안 그래 보이는데 실제론 '속임수'처럼 다른 상태."
+    "ko": "믿을 수 없게도",
+    "example": "The river is deceptively deep.",
+    "mnemonic": "deceive (속이다) ➔ 내 눈을 속일 정도로 ➔ (실제로는 달라서) 믿을 수 없게도"
   },
   {
     "en": "clumsily",
@@ -97,7 +97,7 @@
   },
   {
     "en": "look forward to",
-    "ko": "~을 기대하다",
+    "ko": "~을 기대하다, ~을 손꼽아 기다리다",
     "example": "I look forward to meeting you in person.",
     "mnemonic": "앞을(forward) 향해 고개를 쭉 빼고 바라보는(look) 모습."
   },
@@ -127,7 +127,7 @@
   },
   {
     "en": "presence",
-    "ko": "~에 옴, 참석, 존재",
+    "ko": "~에 옴, 참석",
     "example": "Your presence at the meeting is required.",
     "mnemonic": "Present(참석한/현재의)의 명사형. 그 자리에 있음."
   },
@@ -211,7 +211,7 @@
   },
   {
     "en": "protest",
-    "ko": "항의하다",
+    "ko": "이의를 제기하다, 항의하다",
     "example": "They organized a march to protest against the new law.",
     "mnemonic": "찬성하지 않고 앞으로(pro) 나가서 증언(test)하며 반대하는 것."
   },
@@ -229,13 +229,13 @@
   },
   {
     "en": "acceptable",
-    "ko": "받아들일 만한",
+    "ko": "받아들일 만한, 만족할 만한",
     "example": "His performance was acceptable but not outstanding.",
     "mnemonic": "받아들이다(accept) + 가능한(able)."
   },
   {
     "en": "substandard",
-    "ko": "표준 이하의",
+    "ko": "표준 이하의, 수준 이하의",
     "example": "The living conditions in the area were substandard.",
     "mnemonic": "표준(standard)의 아래(sub)에 있는."
   },
@@ -283,7 +283,7 @@
   },
   {
     "en": "manage",
-    "ko": "해내다, 관리하다",
+    "ko": "(어려운 상황인데도) 해내다",
     "example": "How do you manage to stay so calm?",
     "mnemonic": "매니저처럼 상황을 잘 다루어서 결국 해내는 것."
   },
