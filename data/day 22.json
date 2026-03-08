@@ -37,7 +37,7 @@
   },
   {
     "en": "by hand",
-    "ko": "손으로, 직접",
+    "ko": "손으로, 인편으로, 직접",
     "example": "This furniture was made entirely by hand.",
     "mnemonic": "기계가 아니라 손(hand)을 사용하여 직접 만든 상태."
   },
@@ -67,7 +67,7 @@
   },
   {
     "en": "senior",
-    "ko": "상위의, 연장자, 선배",
+    "ko": "상위의, 졸업반의, 연장자, 상급생",
     "example": "He is a senior engineer at the company.",
     "mnemonic": "나이나 직급이 더 높은 사람. 수석연구원님과 같은 '시니어'를 뜻합니다."
   },
@@ -199,7 +199,7 @@
   },
   {
     "en": "out of control",
-    "ko": "통제되지 않는",
+    "ko": "통제되지 않는, 제어할 수 없는",
     "example": "The car spun out of control on the icy road.",
     "mnemonic": "통제(control)의 범위 밖(out of)으로 벗어난 위험한 상황."
   },
@@ -223,7 +223,7 @@
   },
   {
     "en": "representative",
-    "ko": "대표자, 대리인",
+    "ko": "대표자, 직원, 판매 대리인, 대표의, 대리의",
     "example": "A sales representative will call you shortly.",
     "mnemonic": "Represent(대표하다) + ative(사람). 누군가를 대신해 나온 사람."
   },
@@ -235,7 +235,7 @@
   },
   {
     "en": "request",
-    "ko": "요청, 요구",
+    "ko": "요청, 요구, ~을 요청하다",
     "example": "The company received a request for more information.",
     "mnemonic": "Re(다시) + quest(찾다). 원하는 것을 얻기 위해 정중히 묻는 것."
   },
@@ -265,7 +265,7 @@
   },
   {
     "en": "successive",
-    "ko": "연속되는",
+    "ko": "연속되는, 후속의",
     "example": "This is the third successive day of rain.",
     "mnemonic": "Success(성공)가 아니라 Succeed(계승하다/잇다)에서 온 단어. 줄줄이 이어지는."
   },
@@ -289,7 +289,7 @@
   },
   {
     "en": "unstable",
-    "ko": "불안정한",
+    "ko": "불안정한, 변하기 쉬운",
     "example": "The political situation in the country remains unstable.",
     "mnemonic": "Un(not) + stable(안정된). 곧 무너질 듯 흔들리는 상태."
   },

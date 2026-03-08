@@ -73,19 +73,19 @@
   },
   {
     "en": "fierce",
-    "ko": "사나운, 치열한",
+    "ko": "사나운",
     "example": "The competition in the smartphone market is fierce.",
     "mnemonic": "귀를 뚫는(pierce) 피어싱처럼 날카롭고 사나운."
   },
   {
     "en": "degree",
-    "ko": "학위, 정도, (온도/각도의) 도",
+    "ko": "학위",
     "example": "She holds a master's degree in computer science.",
     "mnemonic": "단계(grade)를 하나씩 밟아 올라가 얻은 증서나 수준."
   },
   {
     "en": "delay",
-    "ko": "연기하다, 지연",
+    "ko": "연기하다, ~을 뒤로 미루다, 연기, 지연",
     "example": "The flight was delayed due to heavy snow.",
     "mnemonic": "일정을 뒤로(de) 눕혀서(lay) 미루는 것."
   },
@@ -127,13 +127,13 @@
   },
   {
     "en": "guarantee",
-    "ko": "보장하다, 보증",
+    "ko": "보장하다, 보증, 보증서",
     "example": "The TV comes with a one-year guarantee.",
     "mnemonic": "가드(guard)가 든든하게 지켜주듯 품질을 확실히 약속하는 것."
   },
   {
     "en": "odd",
-    "ko": "이상한, 별난, 홀수의",
+    "ko": "이상한, 별난",
     "example": "That's an odd thing to say during a meeting.",
     "mnemonic": "짝이 안 맞아 덩그러니 튀어나온 하나처럼 이상하고 특이한."
   },
@@ -187,7 +187,7 @@
   },
   {
     "en": "order",
-    "ko": "주문하다, 주문, 규칙",
+    "ko": "주문하다, 주문, 주문품",
     "example": "Are you ready to order your meal?",
     "mnemonic": "명령(order)을 내려서 원하는 물건을 내게 가져오도록 하는 것."
   },
@@ -223,7 +223,7 @@
   },
   {
     "en": "regular",
-    "ko": "정규적인, 단골 손님",
+    "ko": "정규적인, 정기적인, 단골 손님",
     "example": "We have regular team meetings every Monday.",
     "mnemonic": "정해진 규칙이나 주기(rule/reg)에 맞게 일정하게 일어나는."
   },
@@ -271,7 +271,7 @@
   },
   {
     "en": "appeal",
-    "ko": "마음에 들다, 매력, 호소하다",
+    "ko": "마음에 들다, 매력, 인기",
     "example": "The new game design appeals to younger players.",
     "mnemonic": "사람의 시선이나 마음을 강하게 끌어당겨(pull) 매력을 어필하는 것."
   },

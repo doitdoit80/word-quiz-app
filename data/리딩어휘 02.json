@@ -13,8 +13,8 @@
   },
   {
     "en": "undesirable",
-    "ko": "달갑지 않은 것, 원하지 않는",
-    "example": "The drug has some undesirable side effects.",
+    "ko": "달갑지 않은 것",
+    "example": "We need to filter out the undesirables from the data.",
     "mnemonic": "Un(not) + desire(원하다) + able. 사람들이 바라지 않는 안 좋은 것."
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "en": "stack",
-    "ko": "쌓다, 무더기",
+    "ko": "쌓다",
     "example": "Please stack the chairs in the corner of the room.",
-    "mnemonic": "IT 개발에서 '기술 스택(Tech Stack)'이라 부르듯 층층이 쌓아 올리는 것."
+    "mnemonic": "책상 위에 교재들을 \"스윽~ 탁!\" 하고 소리 내며 하나씩 쌓는 모습"
   },
   {
     "en": "be related to",
@@ -49,7 +49,7 @@
   },
   {
     "en": "take the lead",
-    "ko": "선두에 있다, 앞장서다",
+    "ko": "선두에 있다",
     "example": "Our company aims to take the lead in AI technology.",
     "mnemonic": "남들을 이끄는 리드(lead) 권한을 내 것으로 쥐는(take) 것."
   },
@@ -61,7 +61,7 @@
   },
   {
     "en": "secure",
-    "ko": "확보하다, 안전한",
+    "ko": "확보하다",
     "example": "They managed to secure a contract with the government.",
     "mnemonic": "시큐어(Secure). 보안을 철저히 하듯, 안전하게 내 것으로 꽉 잡아두는 것."
   },
@@ -73,7 +73,7 @@
   },
   {
     "en": "take over",
-    "ko": "장악하다, 인계받다",
+    "ko": "장악하다, 더 중요해지다",
     "example": "The large corporation plans to take over the small startup.",
     "mnemonic": "기존의 것 위(over)로 올라타서 내 것으로 취하는(take) 통제권 인수."
   },
@@ -109,15 +109,15 @@
   },
   {
     "en": "diminish",
-    "ko": "감소하다, 줄어들다",
+    "ko": "감소하다",
     "example": "The pain will gradually diminish over time.",
     "mnemonic": "크기나 중요성을 미니(mini) 사이즈로 점점 줄여나가는 것."
   },
   {
     "en": "spring",
-    "ko": "(식물이) 싹트다, 튀어 오르다",
+    "ko": "(식물이) 싹트다",
     "example": "New weeds spring up in the garden after the rain.",
-    "mnemonic": "봄(spring)이 되면 땅에서 새싹이 용수철(spring)처럼 통통 튀어 오르는 모습."
+    "mnemonic": "봄(spring)이 되면 땅에서 새싹이 용수철(spring)처럼 통통 싹트는 모습."
   },
   {
     "en": "stabilize",
@@ -139,7 +139,7 @@
   },
   {
     "en": "demonstration",
-    "ko": "직접 보여 줌, 실연, 시위",
+    "ko": "직접 보여 줌, 실연",
     "example": "The chef gave a cooking demonstration.",
     "mnemonic": "신제품 '데모(demo)' 버전을 보여주며 어떻게 작동하는지 눈앞에서 증명하는 것."
   },
@@ -163,7 +163,7 @@
   },
   {
     "en": "aggression",
-    "ko": "공격, 침략",
+    "ko": "공격",
     "example": "The team played with a lot of aggression.",
     "mnemonic": "Aggressive(공격적인)의 명사형. 남을 향해 이빨을 드러내는 적대적인 행동."
   },
@@ -175,43 +175,43 @@
   },
   {
     "en": "tolerant",
-    "ko": "관대한, 잘 견디는",
+    "ko": "관대한",
     "example": "We should be tolerant of different viewpoints.",
     "mnemonic": "프랑스의 '톨레랑스(관용)'. 나와 다른 의견이나 불편함을 너그럽게 품어주는 성품."
   },
   {
     "en": "discriminate",
-    "ko": "차별하다, 구별하다",
+    "ko": "차별하다",
     "example": "It is illegal to discriminate against anyone based on race.",
     "mnemonic": "Dis(분리) + crimin(구분). 사람들 사이에 선을 긋고 편견으로 나누는 것."
   },
   {
     "en": "claim",
-    "ko": "주장하다, 청구하다",
+    "ko": "주장하다",
     "example": "He claims that he was not at the scene of the crime.",
     "mnemonic": "고객센터에 '클레임'을 걸듯, 내 권리나 사실을 강하게 요구하며 말하는 것."
   },
   {
     "en": "sick of",
-    "ko": "~에 질린, 싫증 난",
+    "ko": "~에 질린",
     "example": "I'm sick of eating the same food every day.",
     "mnemonic": "너무 반복되어서 마음의 병(sick)이 날 정도로 꼴도 보기 싫은 상태."
   },
   {
     "en": "sooner or later",
-    "ko": "조만간, 머지않아",
+    "ko": "조만간, 머잖아",
     "example": "Sooner or later, you will have to make a decision.",
     "mnemonic": "더 빠르든(sooner) 아니면 더 늦든(later), 결국 언젠가는 일어날 일."
   },
   {
     "en": "attend to",
-    "ko": "~에 주의를 기울이다, 처리하다",
+    "ko": "~에 주의를 기울이다",
     "example": "A nurse will attend to your injuries shortly.",
     "mnemonic": "그곳으로 향해 참석(attend)하여 온 신경을 집중하고 돌보는 것."
   },
   {
     "en": "detect",
-    "ko": "감지하다, 발견하다",
+    "ko": "감지하다",
     "example": "The alarm is designed to detect smoke.",
     "mnemonic": "탐정(Detective)이 숨겨진 단서를 예민하게 찾아내듯 알아채는 것."
   },
@@ -241,7 +241,7 @@
   },
   {
     "en": "intentionally",
-    "ko": "의도적으로, 고의로",
+    "ko": "의도적으로",
     "example": "I did not delete the file intentionally.",
     "mnemonic": "Intent(의도) + ionally. 실수나 우연이 아니라 마음속으로 작정하고 한 행동."
   },
@@ -265,7 +265,7 @@
   },
   {
     "en": "evolutionary",
-    "ko": "진화의, 점진적인",
+    "ko": "진화의",
     "example": "The development of language was an evolutionary process.",
     "mnemonic": "Evolution(진화)의 형용사형. 오랜 시간 서서히 발전해 나가는 형태."
   },
@@ -283,7 +283,7 @@
   },
   {
     "en": "marvel at",
-    "ko": "~에 놀라다, 경이로워하다",
+    "ko": "~에 놀라다",
     "example": "Visitors marvel at the beauty of the grand cathedral.",
     "mnemonic": "마블(Marvel) 영웅들의 초능력을 보듯 입을 벌리고 감탄하는 것."
   },
@@ -295,7 +295,7 @@
   },
   {
     "en": "consensus",
-    "ko": "합의, 의견 일치",
+    "ko": "합의",
     "example": "It took hours for the committee to reach a consensus.",
     "mnemonic": "Con(함께) + sense(느끼다). 모두의 감각과 생각이 한곳으로 모인 상태."
   }
