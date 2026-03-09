@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { useApp } from '@/contexts/AppContext';
 import type { Word } from '@/lib/types';
@@ -24,7 +24,29 @@ export default function WordBookPage() {
   const [editingWordId, setEditingWordId] = useState<string | null>(null);
   const [editForm, setEditForm] = useState<WordFormData>(emptyForm);
   const [showStats, setShowStats] = useState(false);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [playingIndex, setPlayingIndex] = useState<number>(-1);
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const playingRef = useRef(false);
+  const koVoiceRef = useRef<SpeechSynthesisVoice | null>(null);
+
+  useEffect(() => {
+    function pickKoVoice() {
+      const voices = window.speechSynthesis.getVoices();
+      const koVoices = voices.filter((v) => v.lang.startsWith('ko'));
+      // 선호 순서: Google > Microsoft > 기타, 그 안에서 여성 음성 우선
+      const priority = ['Google', 'Microsoft'];
+      for (const brand of priority) {
+        const match = koVoices.find((v) => v.name.includes(brand));
+        if (match) { koVoiceRef.current = match; return; }
+      }
+      if (koVoices.length > 0) koVoiceRef.current = koVoices[0];
+    }
+    pickKoVoice();
+    // Chrome은 voiceschanged 이후에 목록이 채워짐
+    window.speechSynthesis.addEventListener('voiceschanged', pickKoVoice);
+    return () => window.speechSynthesis.removeEventListener('voiceschanged', pickKoVoice);
+  }, []);
 
   const wordBook = data.wordBooks.find((wb) => wb.id === id);
 
@@ -35,6 +57,60 @@ export default function WordBookPage() {
     utter.lang = 'en-US';
     utter.rate = 0.9;
     window.speechSynthesis.speak(utter);
+  }
+
+  function stopPlayAll() {
+    playingRef.current = false;
+    setIsPlaying(false);
+    setPlayingIndex(-1);
+    window.speechSynthesis?.cancel();
+  }
+
+  function playAll() {
+    if (!wordBook || wordBook.words.length === 0) return;
+    if (isPlaying) { stopPlayAll(); return; }
+
+    playingRef.current = true;
+    setIsPlaying(true);
+
+    const words = wordBook.words;
+
+    function playWord(index: number) {
+      if (!playingRef.current || index >= words.length) {
+        playingRef.current = false;
+        setIsPlaying(false);
+        setPlayingIndex(-1);
+        return;
+      }
+
+      setPlayingIndex(index);
+      const word = words[index];
+
+      const enUtter = new SpeechSynthesisUtterance(word.en);
+      enUtter.lang = 'en-US';
+      enUtter.rate = 0.85;
+
+      const koUtter = new SpeechSynthesisUtterance(word.ko);
+      koUtter.lang = 'ko-KR';
+      koUtter.rate = 0.9;
+      if (koVoiceRef.current) koUtter.voice = koVoiceRef.current;
+
+      koUtter.onend = () => {
+        if (!playingRef.current) return;
+        // 단어 사이 0.5초 간격
+        setTimeout(() => playWord(index + 1), 500);
+      };
+
+      enUtter.onend = () => {
+        if (!playingRef.current) return;
+        setTimeout(() => window.speechSynthesis.speak(koUtter), 300);
+      };
+
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(enUtter);
+    }
+
+    playWord(0);
   }
 
   if (!wordBook) {
@@ -173,6 +249,17 @@ export default function WordBookPage() {
           JSON 가져오기
         </button>
         <input ref={fileInputRef} type="file" accept=".json" className="hidden" onChange={importJSON} />
+        <button
+          onClick={playAll}
+          disabled={wordBook.words.length === 0}
+          className={`border px-4 py-2 rounded-lg text-sm font-medium disabled:opacity-40 disabled:cursor-not-allowed transition-colors ${
+            isPlaying
+              ? 'border-red-300 text-red-600 bg-red-50 hover:bg-red-100'
+              : 'border-gray-300 text-gray-700 hover:bg-gray-50'
+          }`}
+        >
+          {isPlaying ? '⏹ 중지' : '▶ 전체 듣기'}
+        </button>
         {weakWords.length > 0 && (
           <button
             onClick={() => setShowStats(!showStats)}
@@ -282,15 +369,22 @@ export default function WordBookPage() {
         </div>
       ) : (
         <div className="space-y-2">
-          {wordBook.words.map((word) => {
+          {wordBook.words.map((word, idx) => {
             const stat = data.wordStats[word.id];
             const isEditing = editingWordId === word.id;
             const total = stat ? stat.correct + stat.wrong : 0;
             const isWeak = total >= 2 && stat.correct / total < 0.5;
+            const isCurrentlyPlaying = playingIndex === idx;
             return (
               <div
                 key={word.id}
-                className={`border rounded-xl p-4 shadow-sm ${isWeak ? 'bg-red-50 border-red-200' : 'bg-white border-gray-200'}`}
+                className={`border rounded-xl p-4 shadow-sm transition-colors ${
+                  isCurrentlyPlaying
+                    ? 'bg-blue-50 border-blue-300'
+                    : isWeak
+                    ? 'bg-red-50 border-red-200'
+                    : 'bg-white border-gray-200'
+                }`}
               >
                 {isEditing ? (
                   <div className="space-y-3">

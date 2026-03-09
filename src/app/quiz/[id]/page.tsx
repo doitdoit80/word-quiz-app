@@ -37,6 +37,7 @@ export default function QuizPage() {
   }
   const [userAnswer, setUserAnswer] = useState('');
   const [results, setResults] = useState<QuizResult[]>([]);
+  const [timeLeft, setTimeLeft] = useState(30);
 
   const inputRef = useRef<HTMLInputElement>(null);
   const nextBtnRef = useRef<HTMLButtonElement>(null);
@@ -112,6 +113,30 @@ export default function QuizPage() {
     }
   }, [phase, currentIndex]);
 
+  // 30초 카운트다운 타이머
+  useEffect(() => {
+    if (phase !== 'question') return;
+    setTimeLeft(30);
+    const interval = setInterval(() => {
+      setTimeLeft((t) => {
+        if (t <= 1) {
+          clearInterval(interval);
+          return 0;
+        }
+        return t - 1;
+      });
+    }, 1000);
+    return () => clearInterval(interval);
+  }, [phase, currentIndex]);
+
+  // 시간 초과 처리
+  useEffect(() => {
+    if (phase === 'question' && timeLeft === 0) {
+      submitAnswer('');
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [timeLeft]);
+
   // 단어 음성 재생 (영어→한글 모드에서만)
   useEffect(() => {
     if (phase === 'question' && words.length > 0 && direction === 'en-to-ko') {
@@ -134,13 +159,16 @@ export default function QuizPage() {
     return () => clearTimeout(timer);
   }, [phase, goNext]);
 
-  function submitAnswer() {
-    if (!userAnswer.trim()) return;
+  function submitAnswer(answer?: string) {
+    const ans = answer ?? userAnswer;
+    if (!ans.trim() && answer === undefined) return;
     const word = words[currentIndex];
-    const correct = direction === 'en-to-ko'
-      ? checkAnswer(userAnswer, word.ko)
-      : checkAnswer(userAnswer, word.en);
-    const result: QuizResult = { word, isCorrect: correct, userAnswer };
+    const correct = ans.trim()
+      ? direction === 'en-to-ko'
+        ? checkAnswer(ans, word.ko)
+        : checkAnswer(ans, word.en)
+      : false;
+    const result: QuizResult = { word, isCorrect: correct, userAnswer: ans };
     setResults((prev) => [...prev, result]);
     setPhase(correct ? 'correct' : 'wrong');
   }
@@ -273,7 +301,7 @@ export default function QuizPage() {
                     <span className="text-lg font-semibold text-gray-900">
                       {direction === 'en-to-ko' ? r.word.en : r.word.ko}
                     </span>
-                    <span className="text-red-500 line-through text-sm">{r.userAnswer}</span>
+                    <span className="text-red-500 line-through text-sm">{r.userAnswer || '(시간 초과)'}</span>
                     <span className="text-green-600 font-medium text-sm">
                       → {direction === 'en-to-ko' ? r.word.ko : r.word.en}
                     </span>
@@ -381,7 +409,7 @@ export default function QuizPage() {
             <div className="bg-red-50 border border-red-100 rounded-xl p-4 mb-4">
               <div className="flex items-center gap-2 mb-3">
                 <span className="text-red-500 font-medium text-sm">내 답:</span>
-                <span className="text-red-400 line-through">{results[results.length - 1]?.userAnswer || '(없음)'}</span>
+                <span className="text-red-400 line-through">{results[results.length - 1]?.userAnswer || '(시간 초과)'}</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="text-green-600 font-medium text-sm">정답:</span>
@@ -428,9 +456,23 @@ export default function QuizPage() {
         {/* 질문 입력 */}
         {phase === 'question' && (
           <div>
-            <label className="block text-xs text-gray-400 mb-2 text-center">
-              {direction === 'en-to-ko' ? '한국어 뜻을 입력하세요' : '영어 단어를 입력하세요'}
-            </label>
+            {/* 타이머 */}
+            <div className="mb-4">
+              <div className="flex justify-between text-xs mb-1">
+                <span className="text-gray-400">
+                  {direction === 'en-to-ko' ? '한국어 뜻을 입력하세요' : '영어 단어를 입력하세요'}
+                </span>
+                <span className={`font-semibold tabular-nums ${timeLeft <= 10 ? 'text-red-500' : 'text-gray-400'}`}>
+                  {timeLeft}초
+                </span>
+              </div>
+              <div className="w-full bg-gray-100 rounded-full h-1.5">
+                <div
+                  className={`h-1.5 rounded-full transition-all duration-1000 ${timeLeft <= 10 ? 'bg-red-400' : 'bg-blue-400'}`}
+                  style={{ width: `${(timeLeft / 30) * 100}%` }}
+                />
+              </div>
+            </div>
             <input
               ref={inputRef}
               type="text"
