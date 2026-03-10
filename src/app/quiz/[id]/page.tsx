@@ -483,7 +483,7 @@ export default function QuizPage() {
               className="w-full border-2 border-gray-200 rounded-xl px-4 py-3 text-center text-lg focus:outline-none focus:border-blue-400"
             />
             <button
-              onClick={submitAnswer}
+              onClick={() => submitAnswer()}
               disabled={!userAnswer.trim()}
               className="w-full mt-3 bg-blue-600 text-white py-3 rounded-xl hover:bg-blue-700 font-medium text-base disabled:opacity-40 disabled:cursor-not-allowed"
             >
