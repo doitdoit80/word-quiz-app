@@ -1,0 +1,152 @@
+[
+  {
+    "en": "hand",
+    "ko": "손",
+    "example": "Raise your hand if you know the answer.",
+    "mnemonic": "'핸드'폰을 손에 들고 있죠."
+  },
+  {
+    "en": "ice",
+    "ko": "얼음",
+    "example": "Put some ice in my drink, please.",
+    "mnemonic": "'아이스'크림의 아이스, 얼음!"
+  },
+  {
+    "en": "kind",
+    "ko": "친절한",
+    "example": "She is very kind to everyone.",
+    "mnemonic": "'카인드'한 사람은 친절한 사람."
+  },
+  {
+    "en": "love",
+    "ko": "사랑",
+    "example": "I love my family.",
+    "mnemonic": "'러브'레터는 사랑의 편지."
+  },
+  {
+    "en": "moon",
+    "ko": "달",
+    "example": "The moon is bright tonight.",
+    "mnemonic": "'문'라이트(달빛)의 문, 달!"
+  },
+  {
+    "en": "night",
+    "ko": "밤",
+    "example": "Good night! Sleep well.",
+    "mnemonic": "'나이트' = 밤. 굿나이트!"
+  },
+  {
+    "en": "open",
+    "ko": "열다",
+    "example": "Open your textbook to page 10.",
+    "mnemonic": "'오픈'하면 문을 여는 것."
+  },
+  {
+    "en": "pen",
+    "ko": "펜",
+    "example": "Can I borrow your pen?",
+    "mnemonic": "'펜'은 한국어로도 같아요!"
+  },
+  {
+    "en": "run",
+    "ko": "달리다",
+    "example": "He can run very fast.",
+    "mnemonic": "'런'닝머신에서 달리기!"
+  },
+  {
+    "en": "sing",
+    "ko": "노래하다",
+    "example": "She likes to sing songs.",
+    "mnemonic": "'싱'어(singer)는 노래하는 사람."
+  },
+  {
+    "en": "time",
+    "ko": "시간",
+    "example": "What time is it now?",
+    "mnemonic": "'타임'머신은 시간을 여행하는 기계."
+  },
+  {
+    "en": "uncle",
+    "ko": "삼촌",
+    "example": "My uncle lives in Busan.",
+    "mnemonic": "'엉클'은 아빠의 형제, 삼촌!"
+  },
+  {
+    "en": "very",
+    "ko": "매우",
+    "example": "This movie is very interesting.",
+    "mnemonic": "'베리'굿! 매우 좋다!"
+  },
+  {
+    "en": "window",
+    "ko": "창문",
+    "example": "Open the window, please.",
+    "mnemonic": "'윈도우'는 컴퓨터 운영체제 이름이기도 하고 창문!"
+  },
+  {
+    "en": "year",
+    "ko": "년",
+    "example": "I am thirteen years old.",
+    "mnemonic": "'이어'(year)마다 한 해가 지나요."
+  },
+  {
+    "en": "zoo",
+    "ko": "동물원",
+    "example": "We went to the zoo last Sunday.",
+    "mnemonic": "'주'토피아는 동물(zoo) 유토피아!"
+  },
+  {
+    "en": "art",
+    "ko": "미술",
+    "example": "I like art class the most.",
+    "mnemonic": "'아트'갤러리에서 예술 작품을 감상해요."
+  },
+  {
+    "en": "bed",
+    "ko": "침대",
+    "example": "I go to bed at 10 o'clock.",
+    "mnemonic": "'베드'룸은 침대가 있는 방."
+  },
+  {
+    "en": "city",
+    "ko": "도시",
+    "example": "Seoul is a big city.",
+    "mnemonic": "'시티'투어 버스로 도시를 구경해요."
+  },
+  {
+    "en": "desk",
+    "ko": "책상",
+    "example": "Put your books on the desk.",
+    "mnemonic": "'데스크'탑 컴퓨터를 올려놓는 책상."
+  },
+  {
+    "en": "ear",
+    "ko": "귀",
+    "example": "He whispered in my ear.",
+    "mnemonic": "'이어'폰을 귀에 꽂죠."
+  },
+  {
+    "en": "face",
+    "ko": "얼굴",
+    "example": "She has a round face.",
+    "mnemonic": "'페이스'북에 얼굴 사진을 올려요."
+  },
+  {
+    "en": "game",
+    "ko": "게임",
+    "example": "Let's play a game together.",
+    "mnemonic": "'게임'은 한국어로도 같아요!"
+  },
+  {
+    "en": "hat",
+    "ko": "모자",
+    "example": "He is wearing a red hat.",
+    "mnemonic": "'햇'은 머리에 쓰는 모자."
+  },
+  {
+    "en": "island",
+    "ko": "섬",
+    "example": "Jeju is a beautiful island.",
+    "mnemonic": "아이(i) + land(땅). 물 위의 땅이 섬!"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "en": "obstacle",
+    "ko": "장애물",
+    "example": "We must overcome many obstacles.",
+    "mnemonic": "ob(앞에) + stacle(서다). 앞에 서면 장애물."
+  },
+  {
+    "en": "obvious",
+    "ko": "명백한",
+    "example": "The answer is obvious.",
+    "mnemonic": "ob(앞에) + vious(보다). 앞에 보이면 명백!"
+  },
+  {
+    "en": "occasion",
+    "ko": "경우",
+    "example": "It was a special occasion.",
+    "mnemonic": "oc(향해) + cas(떨어지다). 다가오는 특별한 경우!"
+  },
+  {
+    "en": "occupy",
+    "ko": "차지하다",
+    "example": "The army occupied the city.",
+    "mnemonic": "oc(향해) + cupy(잡다). 향해 잡으면 차지!"
+  },
+  {
+    "en": "oppose",
+    "ko": "반대하다",
+    "example": "Many people opposed the plan.",
+    "mnemonic": "op(반대) + pose(놓다). 반대쪽에 놓으면 반대!"
+  },
+  {
+    "en": "overcome",
+    "ko": "극복하다",
+    "example": "She overcame her fear of heights.",
+    "mnemonic": "over(위로) + come(오다). 위로 넘어오면 극복!"
+  },
+  {
+    "en": "participate",
+    "ko": "참여하다",
+    "example": "Everyone should participate in the discussion.",
+    "mnemonic": "part(부분) + icipate(잡다). 한 부분을 잡으면 참여!"
+  },
+  {
+    "en": "perceive",
+    "ko": "인식하다",
+    "example": "People perceive things differently.",
+    "mnemonic": "per(완전히) + ceive(잡다). 완전히 잡으면 인식!"
+  },
+  {
+    "en": "permanent",
+    "ko": "영구적인",
+    "example": "Is this a permanent or temporary job?",
+    "mnemonic": "per(완전히) + man(남다). 완전히 남으면 영구적!"
+  },
+  {
+    "en": "perspective",
+    "ko": "관점",
+    "example": "Try to see things from a different perspective.",
+    "mnemonic": "per(통해) + spect(보다). 통해서 보는 관점."
+  },
+  {
+    "en": "phenomenon",
+    "ko": "현상",
+    "example": "The northern lights are a natural phenomenon.",
+    "mnemonic": "pheno(보이는) + menon(것). 보이는 놀라운 현상."
+  },
+  {
+    "en": "portion",
+    "ko": "부분",
+    "example": "She ate a small portion of the cake.",
+    "mnemonic": "port(나르다) + ion. 나눠 나르는 부분!"
+  },
+  {
+    "en": "possess",
+    "ko": "소유하다",
+    "example": "He possesses great talent.",
+    "mnemonic": "pos(할 수 있다) + sess(앉다). 앉아 있을 수 있으면 소유!"
+  },
+  {
+    "en": "potential",
+    "ko": "잠재적인",
+    "example": "She has great potential.",
+    "mnemonic": "potent(강한) + ial. 강한 가능성이 잠재력!"
+  },
+  {
+    "en": "precede",
+    "ko": "앞서다",
+    "example": "The introduction precedes the main text.",
+    "mnemonic": "pre(앞에) + cede(가다). 앞에 가면 앞서다!"
+  },
+  {
+    "en": "predict",
+    "ko": "예측하다",
+    "example": "Scientists predict the weather.",
+    "mnemonic": "pre(미리) + dict(말하다). 미리 말하면 예측!"
+  },
+  {
+    "en": "preserve",
+    "ko": "보존하다",
+    "example": "We should preserve our cultural heritage.",
+    "mnemonic": "pre(미리) + serve(지키다). 미리 지키면 보존!"
+  },
+  {
+    "en": "primary",
+    "ko": "주요한",
+    "example": "Education is our primary concern.",
+    "mnemonic": "prim(첫 번째) + ary. 첫 번째로 중요한!"
+  },
+  {
+    "en": "prohibit",
+    "ko": "금지하다",
+    "example": "Smoking is prohibited in this area.",
+    "mnemonic": "pro(앞에) + hibit(잡다). 앞에서 잡아 막으면 금지!"
+  },
+  {
+    "en": "promote",
+    "ko": "촉진하다",
+    "example": "Exercise promotes good health.",
+    "mnemonic": "pro(앞으로) + mote(움직이다). 앞으로 움직이면 촉진!"
+  },
+  {
+    "en": "proportion",
+    "ko": "비율",
+    "example": "A large proportion of students passed.",
+    "mnemonic": "pro(앞에) + portion(부분). 부분의 앞뒤 비교가 비율!"
+  },
+  {
+    "en": "prospect",
+    "ko": "전망",
+    "example": "The job prospects are good.",
+    "mnemonic": "pro(앞을) + spect(보다). 앞을 보면 전망!"
+  },
+  {
+    "en": "pursue",
+    "ko": "추구하다",
+    "example": "She pursued her dream of becoming a doctor.",
+    "mnemonic": "pur(앞으로) + sue(따라가다). 앞으로 따라가면 추구!"
+  },
+  {
+    "en": "rational",
+    "ko": "합리적인",
+    "example": "We need a rational approach.",
+    "mnemonic": "ratio(비율) + nal. 비율에 맞게 생각하면 합리적!"
+  },
+  {
+    "en": "reasonable",
+    "ko": "합리적인",
+    "example": "The price is reasonable.",
+    "mnemonic": "reason(이유) + able. 이유가 있으면 합리적!"
+  }
+]

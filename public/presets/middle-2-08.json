@@ -1,0 +1,152 @@
+[
+  {
+    "en": "rely",
+    "ko": "의지하다",
+    "example": "You can rely on me.",
+    "mnemonic": "re(다시) + ly(묶다). 다시 묶여 의지하다!"
+  },
+  {
+    "en": "scene",
+    "ko": "장면, 현장",
+    "example": "The last scene of the movie was sad.",
+    "mnemonic": "'씬'은 영화의 한 장면!"
+  },
+  {
+    "en": "seek",
+    "ko": "찾다",
+    "example": "He is seeking a new job.",
+    "mnemonic": "'시크'하게 찾아 나서는 것!"
+  },
+  {
+    "en": "settle",
+    "ko": "정착하다",
+    "example": "They settled in a small town.",
+    "mnemonic": "set(놓다) + tle. 한 곳에 놓으면 정착!"
+  },
+  {
+    "en": "signal",
+    "ko": "신호",
+    "example": "Wait for the green signal.",
+    "mnemonic": "'시그널'은 교통 신호!"
+  },
+  {
+    "en": "source",
+    "ko": "원천",
+    "example": "What is the source of this information?",
+    "mnemonic": "'소스'는 정보가 나오는 원천!"
+  },
+  {
+    "en": "specific",
+    "ko": "구체적인",
+    "example": "Can you be more specific?",
+    "mnemonic": "'스페시픽'은 딱 정해진 특정한 것!"
+  },
+  {
+    "en": "standard",
+    "ko": "기준",
+    "example": "We need to meet high standards.",
+    "mnemonic": "'스탠다드'는 기본이 되는 기준!"
+  },
+  {
+    "en": "suffer",
+    "ko": "고통받다",
+    "example": "He suffered from a headache.",
+    "mnemonic": "suf(아래에서) + fer(견디다). 아래서 견디면 고통!"
+  },
+  {
+    "en": "system",
+    "ko": "체계",
+    "example": "We need a better system.",
+    "mnemonic": "'시스템'은 한국어로도 쓰이는 체계!"
+  },
+  {
+    "en": "task",
+    "ko": "과제",
+    "example": "Finish this task by Friday.",
+    "mnemonic": "'태스크'는 해야 할 과제!"
+  },
+  {
+    "en": "tend",
+    "ko": "~하는 경향이 있다",
+    "example": "Children tend to be curious.",
+    "mnemonic": "'텐드'는 한쪽으로 기우는 경향!"
+  },
+  {
+    "en": "term",
+    "ko": "용어",
+    "example": "What does this term mean?",
+    "mnemonic": "'텀'은 학기(기간)나 전문 용어!"
+  },
+  {
+    "en": "threat",
+    "ko": "위협",
+    "example": "Pollution is a threat to wildlife.",
+    "mnemonic": "'스렛'은 위험을 알리는 위협!"
+  },
+  {
+    "en": "tool",
+    "ko": "도구",
+    "example": "A hammer is a useful tool.",
+    "mnemonic": "'툴'은 일할 때 쓰는 도구!"
+  },
+  {
+    "en": "topic",
+    "ko": "주제",
+    "example": "What is the topic of today's lesson?",
+    "mnemonic": "'토픽'은 이야기의 주제!"
+  },
+  {
+    "en": "transport",
+    "ko": "수송하다",
+    "example": "Goods are transported by truck.",
+    "mnemonic": "trans(건너) + port(나르다). 건너 나르면 수송!"
+  },
+  {
+    "en": "treat",
+    "ko": "대하다",
+    "example": "She treats everyone with kindness.",
+    "mnemonic": "'트릿'은 할로윈에서 대접(treat)해주는 것!"
+  },
+  {
+    "en": "trend",
+    "ko": "추세",
+    "example": "Social media trends change quickly.",
+    "mnemonic": "'트렌드'는 한국어로도 쓰이는 유행!"
+  },
+  {
+    "en": "typical",
+    "ko": "전형적인",
+    "example": "This is a typical Korean meal.",
+    "mnemonic": "type(유형) + ical. 유형에 딱 맞는 전형적인!"
+  },
+  {
+    "en": "unite",
+    "ko": "연합하다",
+    "example": "We must unite to solve this problem.",
+    "mnemonic": "uni(하나) + te. 하나로 합치면 통합!"
+  },
+  {
+    "en": "visual",
+    "ko": "시각의",
+    "example": "This movie has amazing visual effects.",
+    "mnemonic": "vis(보다) + ual. 보는 것과 관련된 시각!"
+  },
+  {
+    "en": "ability",
+    "ko": "능력",
+    "example": "She has the ability to lead.",
+    "mnemonic": "able(할 수 있는) + ity. 할 수 있는 능력!"
+  },
+  {
+    "en": "absent",
+    "ko": "결석한",
+    "example": "He was absent from school.",
+    "mnemonic": "ab(떨어져) + sent(보내다). 떨어져 있으면 결석!"
+  },
+  {
+    "en": "accident",
+    "ko": "사고",
+    "example": "There was a car accident.",
+    "mnemonic": "악시던트는 갑자기 일어나는 사고!"
+  }
+]

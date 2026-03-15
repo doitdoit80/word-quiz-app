@@ -1,0 +1,152 @@
+[
+  {
+    "en": "exhibit",
+    "ko": "전시하다",
+    "example": "The museum exhibits ancient artifacts.",
+    "mnemonic": "ex(밖으로) + hibit(갖다). 밖으로 내놓으면 전시!"
+  },
+  {
+    "en": "expand",
+    "ko": "확장하다",
+    "example": "The company plans to expand.",
+    "mnemonic": "ex(밖으로) + pand(펼치다). 밖으로 펼치면 확장!"
+  },
+  {
+    "en": "exploit",
+    "ko": "이용하다",
+    "example": "We should not exploit natural resources.",
+    "mnemonic": "ex(밖으로) + ploit(접다). 밖으로 펴서 이용!"
+  },
+  {
+    "en": "expose",
+    "ko": "노출시키다",
+    "example": "Don't expose your skin to the sun too long.",
+    "mnemonic": "ex(밖으로) + pose(놓다). 밖에 놓으면 노출!"
+  },
+  {
+    "en": "extend",
+    "ko": "연장하다",
+    "example": "They extended the deadline by a week.",
+    "mnemonic": "ex(밖으로) + tend(늘이다). 밖으로 늘이면 연장!"
+  },
+  {
+    "en": "extraordinary",
+    "ko": "놀라운",
+    "example": "She has extraordinary talent.",
+    "mnemonic": "extra(넘어서) + ordinary(평범한). 평범을 넘으면 비범!"
+  },
+  {
+    "en": "factor",
+    "ko": "요인",
+    "example": "Price is an important factor.",
+    "mnemonic": "fact(만들다) + or. 결과를 만드는 것이 요인!"
+  },
+  {
+    "en": "federal",
+    "ko": "연방의",
+    "example": "The federal government passed a new law.",
+    "mnemonic": "feder(동맹) + al. 동맹을 맺은 연방!"
+  },
+  {
+    "en": "formula",
+    "ko": "공식",
+    "example": "We learned a math formula today.",
+    "mnemonic": "form(형태) + ula. 정해진 형태가 공식!"
+  },
+  {
+    "en": "found",
+    "ko": "설립하다",
+    "example": "He founded the company in 2000.",
+    "mnemonic": "found(기초)를 놓으면 설립!"
+  },
+  {
+    "en": "fraction",
+    "ko": "분수",
+    "example": "Only a fraction of students passed.",
+    "mnemonic": "fract(깨다) + ion. 깨뜨린 조각이 분수/일부!"
+  },
+  {
+    "en": "fundamental",
+    "ko": "기본적인",
+    "example": "Reading is a fundamental skill.",
+    "mnemonic": "funda(기초) + mental. 기초가 되는 근본!"
+  },
+  {
+    "en": "generate",
+    "ko": "생성하다",
+    "example": "Solar panels generate electricity.",
+    "mnemonic": "gener(만들다) + ate. 만들어내면 생성!"
+  },
+  {
+    "en": "grant",
+    "ko": "수여하다",
+    "example": "She was granted a scholarship.",
+    "mnemonic": "'그랜트'는 허락하고 주는 보조금!"
+  },
+  {
+    "en": "guarantee",
+    "ko": "보증하다",
+    "example": "I guarantee you will succeed.",
+    "mnemonic": "'개런티'는 확실히 보증하는 것."
+  },
+  {
+    "en": "hesitate",
+    "ko": "망설이다",
+    "example": "Don't hesitate to ask for help.",
+    "mnemonic": "'헤지테이트'는 결정 못 하고 머뭇거리는 것!"
+  },
+  {
+    "en": "identify",
+    "ko": "확인하다",
+    "example": "Can you identify this plant?",
+    "mnemonic": "ID(신분증) + entify. 신분을 확인!"
+  },
+  {
+    "en": "illustrate",
+    "ko": "설명하다",
+    "example": "The teacher illustrated the concept with examples.",
+    "mnemonic": "illustr(밝히다) + ate. 밝혀서 설명!"
+  },
+  {
+    "en": "implement",
+    "ko": "실행하다",
+    "example": "We need to implement the new rules.",
+    "mnemonic": "im(안에) + ple(채우다) + ment. 안에 채워 실행!"
+  },
+  {
+    "en": "imply",
+    "ko": "암시하다",
+    "example": "What are you implying?",
+    "mnemonic": "im(안에) + ply(접다). 안에 접어두면 암시!"
+  },
+  {
+    "en": "impose",
+    "ko": "부과하다",
+    "example": "The government imposed a new tax.",
+    "mnemonic": "im(위에) + pose(놓다). 위에 놓으면 부과!"
+  },
+  {
+    "en": "incident",
+    "ko": "사건",
+    "example": "The police investigated the incident.",
+    "mnemonic": "in(안에) + cid(떨어지다). 안에서 벌어진 사건!"
+  },
+  {
+    "en": "individual",
+    "ko": "개인의",
+    "example": "Every individual has rights.",
+    "mnemonic": "in(아닌) + divide(나누다). 더 나눌 수 없는 개인!"
+  },
+  {
+    "en": "inevitable",
+    "ko": "피할 수 없는",
+    "example": "Change is inevitable.",
+    "mnemonic": "in(아닌) + evit(피하다) + able. 피할 수 없는!"
+  },
+  {
+    "en": "initial",
+    "ko": "처음의",
+    "example": "My initial reaction was surprise.",
+    "mnemonic": "init(시작) + ial. 시작의 = 처음의!"
+  }
+]

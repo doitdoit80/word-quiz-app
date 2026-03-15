@@ -22,7 +22,9 @@ type Action =
       stats: Record<string, { correct: number; wrong: number }>;
     }
   | { type: 'REORDER_WORDBOOKS'; ids: string[] }
-  | { type: 'RENAME_WORDBOOK'; id: string; name: string };
+  | { type: 'RENAME_WORDBOOK'; id: string; name: string }
+  | { type: 'ADD_WORDBOOK_WITH_WORDS'; name: string; words: Omit<Word, 'id'>[]; isPreset?: boolean }
+  | { type: 'RESET_CONQUERED_PRESET'; name: string };
 
 function reducer(state: AppData, action: Action): AppData {
   switch (action.type) {
@@ -132,10 +134,21 @@ function reducer(state: AppData, action: Action): AppData {
           lastTested: now,
         };
       }
+      const wb = state.wordBooks.find((w) => w.id === action.record.wordBookId);
+      const conquered = [...state.conqueredPresets];
+      if (
+        wb?.isPreset &&
+        action.record.total > 0 &&
+        action.record.score / action.record.total >= 0.9 &&
+        !conquered.includes(wb.name)
+      ) {
+        conquered.push(wb.name);
+      }
       return {
         ...state,
         testHistory: [{ ...action.record, id: generateId() }, ...state.testHistory],
         wordStats: updatedStats,
+        conqueredPresets: conquered,
       };
     }
 
@@ -145,6 +158,27 @@ function reducer(state: AppData, action: Action): AppData {
         wordBooks: state.wordBooks.map((wb) =>
           wb.id === action.id ? { ...wb, name: action.name } : wb
         ),
+      };
+
+    case 'ADD_WORDBOOK_WITH_WORDS':
+      return {
+        ...state,
+        wordBooks: [
+          ...state.wordBooks,
+          {
+            id: generateId(),
+            name: action.name,
+            words: action.words.map((w) => ({ ...w, id: generateId() })),
+            createdAt: new Date().toISOString(),
+            isPreset: action.isPreset,
+          },
+        ],
+      };
+
+    case 'RESET_CONQUERED_PRESET':
+      return {
+        ...state,
+        conqueredPresets: state.conqueredPresets.filter((n) => n !== action.name),
       };
 
     case 'REORDER_WORDBOOKS':
@@ -172,6 +206,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     wordBooks: [],
     wordStats: {},
     testHistory: [],
+    conqueredPresets: [],
   });
   const [isLoaded, setIsLoaded] = useState(false);
 

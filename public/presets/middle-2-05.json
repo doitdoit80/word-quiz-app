@@ -1,0 +1,152 @@
+[
+  {
+    "en": "position",
+    "ko": "위치",
+    "example": "He got a good position in the company.",
+    "mnemonic": "'포지션'은 축구에서의 위치처럼!"
+  },
+  {
+    "en": "prefer",
+    "ko": "선호하다",
+    "example": "I prefer tea to coffee.",
+    "mnemonic": "pre(미리) + fer(가져오다). 미리 가져올 만큼 선호!"
+  },
+  {
+    "en": "prepare",
+    "ko": "준비하다",
+    "example": "We need to prepare for the exam.",
+    "mnemonic": "pre(미리) + pare(대비). 미리 대비하면 준비!"
+  },
+  {
+    "en": "present",
+    "ko": "선물",
+    "example": "She presented her project to the class.",
+    "mnemonic": "pre(앞에) + sent(보내다). 앞에 보내면 발표!"
+  },
+  {
+    "en": "prevent",
+    "ko": "예방하다",
+    "example": "Vaccines prevent diseases.",
+    "mnemonic": "pre(미리) + vent(오다). 미리 막아 오지 못하게!"
+  },
+  {
+    "en": "process",
+    "ko": "과정",
+    "example": "Learning is a slow process.",
+    "mnemonic": "pro(앞으로) + cess(가다). 앞으로 나아가는 과정!"
+  },
+  {
+    "en": "produce",
+    "ko": "생산하다",
+    "example": "This factory produces cars.",
+    "mnemonic": "pro(앞으로) + duce(이끌다). 앞으로 이끌어 내면 생산!"
+  },
+  {
+    "en": "progress",
+    "ko": "진행",
+    "example": "We are making good progress.",
+    "mnemonic": "pro(앞으로) + gress(걷다). 앞으로 걸어가면 진행!"
+  },
+  {
+    "en": "promise",
+    "ko": "약속하다",
+    "example": "I promise I'll be there.",
+    "mnemonic": "pro(앞으로) + mise(보내다). 앞으로 보내는 약속!"
+  },
+  {
+    "en": "prove",
+    "ko": "증명하다",
+    "example": "He proved his innocence.",
+    "mnemonic": "'프루브'는 시험(proof)으로 보여주는 증명!"
+  },
+  {
+    "en": "provide",
+    "ko": "제공하다",
+    "example": "The school provides free lunch.",
+    "mnemonic": "pro(앞에) + vide(보다). 앞에서 보살펴 제공!"
+  },
+  {
+    "en": "publish",
+    "ko": "출판하다",
+    "example": "She published her first book.",
+    "mnemonic": "public(대중) + sh. 대중에게 내놓으면 출판!"
+  },
+  {
+    "en": "realize",
+    "ko": "깨닫다",
+    "example": "I realized I was wrong.",
+    "mnemonic": "real(진짜) + ize. 진짜를 알게 되면 깨달음!"
+  },
+  {
+    "en": "receive",
+    "ko": "받다",
+    "example": "I received a gift from my friend.",
+    "mnemonic": "re(다시) + ceive(잡다). 다시 잡으면 받다!"
+  },
+  {
+    "en": "recommend",
+    "ko": "추천하다",
+    "example": "I recommend this restaurant.",
+    "mnemonic": "re(다시) + commend(칭찬). 다시 칭찬할 만큼 추천!"
+  },
+  {
+    "en": "reflect",
+    "ko": "반사하다",
+    "example": "The lake reflects the mountains.",
+    "mnemonic": "re(다시) + flect(구부리다). 빛이 다시 구부러지면 반사!"
+  },
+  {
+    "en": "relate",
+    "ko": "관련짓다",
+    "example": "These two events are related.",
+    "mnemonic": "re(다시) + late(가져오다). 다시 가져와 연결하면 관련!"
+  },
+  {
+    "en": "remain",
+    "ko": "남다",
+    "example": "Only two pieces remain.",
+    "mnemonic": "re(뒤에) + main(머무르다). 뒤에 머무르면 남다!"
+  },
+  {
+    "en": "remove",
+    "ko": "제거하다",
+    "example": "Please remove your shoes.",
+    "mnemonic": "re(뒤로) + move(움직이다). 뒤로 치우면 제거!"
+  },
+  {
+    "en": "replace",
+    "ko": "교체하다",
+    "example": "We need to replace the old batteries.",
+    "mnemonic": "re(다시) + place(놓다). 다시 놓으면 교체!"
+  },
+  {
+    "en": "represent",
+    "ko": "대표하다",
+    "example": "This flag represents our country.",
+    "mnemonic": "re(다시) + present(보여주다). 다시 보여주면 대표!"
+  },
+  {
+    "en": "research",
+    "ko": "연구",
+    "example": "Scientists do a lot of research.",
+    "mnemonic": "re(다시) + search(찾다). 다시 찾으면 연구!"
+  },
+  {
+    "en": "respect",
+    "ko": "존경하다",
+    "example": "We should respect our elders.",
+    "mnemonic": "re(다시) + spect(보다). 다시 볼 만한 사람을 존경!"
+  },
+  {
+    "en": "respond",
+    "ko": "응답하다",
+    "example": "He didn't respond to my message.",
+    "mnemonic": "re(다시) + spond(약속). 약속에 다시 답하면 응답!"
+  },
+  {
+    "en": "result",
+    "ko": "결과",
+    "example": "What was the result of the game?",
+    "mnemonic": "re(다시) + sult(뛰다). 뛰고 난 후의 결과!"
+  }
+]

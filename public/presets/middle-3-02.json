@@ -1,0 +1,152 @@
+[
+  {
+    "en": "authority",
+    "ko": "권위",
+    "example": "The authorities investigated the case.",
+    "mnemonic": "author(만든 사람) + ity. 만든 사람의 권위!"
+  },
+  {
+    "en": "characteristic",
+    "ko": "특성",
+    "example": "Patience is her main characteristic.",
+    "mnemonic": "character(성격) + istic. 성격의 특성."
+  },
+  {
+    "en": "circumstance",
+    "ko": "상황",
+    "example": "Under no circumstances should you lie.",
+    "mnemonic": "circum(주위) + stance(서다). 주위에 서 있는 상황."
+  },
+  {
+    "en": "civil",
+    "ko": "시민의",
+    "example": "Civil rights are important in a democracy.",
+    "mnemonic": "'시빌'리안(civilian)은 시민!"
+  },
+  {
+    "en": "collapse",
+    "ko": "무너지다",
+    "example": "The old building collapsed.",
+    "mnemonic": "col(함께) + lapse(미끄러지다). 함께 미끄러지면 붕괴!"
+  },
+  {
+    "en": "commit",
+    "ko": "저지르다",
+    "example": "He committed himself to the project.",
+    "mnemonic": "com(함께) + mit(보내다). 마음을 함께 보내면 전념!"
+  },
+  {
+    "en": "complicated",
+    "ko": "복잡한",
+    "example": "This math problem is complicated.",
+    "mnemonic": "com(함께) + plic(접다). 여러 번 접으면 복잡!"
+  },
+  {
+    "en": "concentrate",
+    "ko": "집중하다",
+    "example": "I need to concentrate on my study.",
+    "mnemonic": "con(함께) + centr(중심). 중심에 모으면 집중!"
+  },
+  {
+    "en": "conflict",
+    "ko": "갈등",
+    "example": "There is a conflict between the two groups.",
+    "mnemonic": "con(함께) + flict(부딪치다). 함께 부딪치면 충돌!"
+  },
+  {
+    "en": "consequence",
+    "ko": "결과",
+    "example": "Every action has consequences.",
+    "mnemonic": "con(함께) + sequence(순서). 순서대로 따라오는 결과."
+  },
+  {
+    "en": "consist",
+    "ko": "~으로 이루어지다",
+    "example": "The team consists of five members.",
+    "mnemonic": "con(함께) + sist(서다). 함께 서 있으면 구성!"
+  },
+  {
+    "en": "constant",
+    "ko": "끊임없는",
+    "example": "There was a constant noise outside.",
+    "mnemonic": "con(함께) + stant(서다). 계속 서 있으면 일정한!"
+  },
+  {
+    "en": "construct",
+    "ko": "건설하다",
+    "example": "They constructed a new bridge.",
+    "mnemonic": "con(함께) + struct(쌓다). 함께 쌓으면 건설!"
+  },
+  {
+    "en": "consume",
+    "ko": "소비하다",
+    "example": "We consume too much plastic.",
+    "mnemonic": "con(완전히) + sume(취하다). 완전히 취하면 소비!"
+  },
+  {
+    "en": "contribute",
+    "ko": "기여하다",
+    "example": "Everyone can contribute to the community.",
+    "mnemonic": "con(함께) + tribute(주다). 함께 주면 기여!"
+  },
+  {
+    "en": "controversy",
+    "ko": "논란",
+    "example": "The decision caused a lot of controversy.",
+    "mnemonic": "contra(반대) + versy(돌다). 반대로 돌면 논란."
+  },
+  {
+    "en": "convince",
+    "ko": "확신시키다",
+    "example": "I tried to convince him to stay.",
+    "mnemonic": "con(완전히) + vince(이기다). 완전히 이기면 설득!"
+  },
+  {
+    "en": "cooperate",
+    "ko": "협력하다",
+    "example": "Countries should cooperate to solve problems.",
+    "mnemonic": "co(함께) + operate(작동). 함께 작동하면 협력!"
+  },
+  {
+    "en": "crucial",
+    "ko": "결정적인",
+    "example": "This is a crucial moment.",
+    "mnemonic": "cruc(십자가) + ial. 십자가처럼 중대한 순간."
+  },
+  {
+    "en": "currency",
+    "ko": "통화",
+    "example": "The currency of Japan is the yen.",
+    "mnemonic": "curr(흐르다) + ency. 흘러 다니는 돈이 화폐!"
+  },
+  {
+    "en": "decade",
+    "ko": "10년",
+    "example": "Technology has changed a lot in the last decade.",
+    "mnemonic": "deca(10) + de. 10년 단위!"
+  },
+  {
+    "en": "declare",
+    "ko": "선언하다",
+    "example": "The country declared independence.",
+    "mnemonic": "de(완전히) + clare(명확히). 명확히 말하면 선언!"
+  },
+  {
+    "en": "define",
+    "ko": "정의하다",
+    "example": "How do you define success?",
+    "mnemonic": "de(완전히) + fine(끝). 끝까지 정해주면 정의!"
+  },
+  {
+    "en": "delay",
+    "ko": "지연",
+    "example": "The flight was delayed by two hours.",
+    "mnemonic": "de(떨어져) + lay(놓다). 떨어져 놓으면 지연!"
+  },
+  {
+    "en": "demonstrate",
+    "ko": "보여주다",
+    "example": "He demonstrated how to use the machine.",
+    "mnemonic": "de(완전히) + monstr(보여주다). 완전히 보여주면 시범!"
+  }
+]

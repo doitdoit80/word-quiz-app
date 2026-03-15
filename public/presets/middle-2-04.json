@@ -1,0 +1,152 @@
+[
+  {
+    "en": "express",
+    "ko": "표현하다",
+    "example": "He expressed his feelings honestly.",
+    "mnemonic": "ex(밖으로) + press(누르다). 밖으로 눌러 내면 표현!"
+  },
+  {
+    "en": "feature",
+    "ko": "특징",
+    "example": "The phone has many useful features.",
+    "mnemonic": "feat(행하다) + ure. 눈에 띄게 행해지는 특징!"
+  },
+  {
+    "en": "forever",
+    "ko": "영원히",
+    "example": "I will remember you forever.",
+    "mnemonic": "for(위해) + ever(항상). 항상 위해 = 영원히!"
+  },
+  {
+    "en": "gather",
+    "ko": "모으다",
+    "example": "We gathered around the campfire.",
+    "mnemonic": "'개더'링은 사람들이 모이는 모임!"
+  },
+  {
+    "en": "habit",
+    "ko": "습관",
+    "example": "Eating breakfast is a good habit.",
+    "mnemonic": "'해빗'은 매일 반복하는 습관."
+  },
+  {
+    "en": "handle",
+    "ko": "다루다",
+    "example": "She can handle the situation well.",
+    "mnemonic": "hand(손) + le. 손으로 다루는 것!"
+  },
+  {
+    "en": "ignore",
+    "ko": "무시하다",
+    "example": "Don't ignore the warning signs.",
+    "mnemonic": "ig(아닌) + nore(알다). 모르는 척하면 무시!"
+  },
+  {
+    "en": "improve",
+    "ko": "개선하다",
+    "example": "I want to improve my English.",
+    "mnemonic": "im(안에) + prove(증명). 안에서 증명하면 향상!"
+  },
+  {
+    "en": "insist",
+    "ko": "주장하다",
+    "example": "She insisted on paying for dinner.",
+    "mnemonic": "in(안에) + sist(서다). 안에 꿋꿋이 서면 고집!"
+  },
+  {
+    "en": "introduce",
+    "ko": "소개하다",
+    "example": "Let me introduce myself.",
+    "mnemonic": "intro(안으로) + duce(이끌다). 안으로 이끌면 소개!"
+  },
+  {
+    "en": "invent",
+    "ko": "발명하다",
+    "example": "Edison invented the light bulb.",
+    "mnemonic": "in(안에서) + vent(오다). 안에서 나오면 발명!"
+  },
+  {
+    "en": "involve",
+    "ko": "포함하다",
+    "example": "The project involves many people.",
+    "mnemonic": "in(안에) + volve(감다). 안에 감아 넣으면 포함!"
+  },
+  {
+    "en": "judge",
+    "ko": "판단하다",
+    "example": "Don't judge people by their looks.",
+    "mnemonic": "'저지'는 판결을 내리는 재판관!"
+  },
+  {
+    "en": "lack",
+    "ko": "부족",
+    "example": "He failed due to lack of effort.",
+    "mnemonic": "'랙'이 걸리면 뭔가가 부족한 것!"
+  },
+  {
+    "en": "limit",
+    "ko": "제한",
+    "example": "There is a speed limit on this road.",
+    "mnemonic": "'리밋'은 더 이상 갈 수 없는 한계."
+  },
+  {
+    "en": "manage",
+    "ko": "관리하다",
+    "example": "She manages the team well.",
+    "mnemonic": "'매니저'가 팀을 관리하는 것!"
+  },
+  {
+    "en": "manner",
+    "ko": "방법",
+    "example": "She has good manners.",
+    "mnemonic": "'매너'가 좋다 = 예절이 좋다!"
+  },
+  {
+    "en": "mention",
+    "ko": "언급하다",
+    "example": "He mentioned your name.",
+    "mnemonic": "ment(마음) + ion. 마음에 있는 걸 말하면 언급!"
+  },
+  {
+    "en": "notice",
+    "ko": "알아차리다",
+    "example": "I noticed a change in her behavior.",
+    "mnemonic": "'노티스'보드에 알림을 붙여 알아차리게!"
+  },
+  {
+    "en": "obtain",
+    "ko": "얻다",
+    "example": "She obtained a scholarship.",
+    "mnemonic": "ob(향해) + tain(잡다). 향해 잡으면 얻다!"
+  },
+  {
+    "en": "occur",
+    "ko": "발생하다",
+    "example": "Accidents can occur at any time.",
+    "mnemonic": "oc(향해) + cur(달리다). 달려오면 발생!"
+  },
+  {
+    "en": "organize",
+    "ko": "조직하다",
+    "example": "She organized a charity event.",
+    "mnemonic": "organ(기관) + ize. 기관처럼 체계를 세우면 조직!"
+  },
+  {
+    "en": "perform",
+    "ko": "수행하다",
+    "example": "The band performed on stage.",
+    "mnemonic": "per(완전히) + form(형태). 완전한 형태로 보여주면 공연!"
+  },
+  {
+    "en": "period",
+    "ko": "기간",
+    "example": "It rained for a long period.",
+    "mnemonic": "'피리어드'는 문장 끝의 마침표이자 기간."
+  },
+  {
+    "en": "permit",
+    "ko": "허락하다",
+    "example": "Smoking is not permitted here.",
+    "mnemonic": "per(통해) + mit(보내다). 통과시켜 보내면 허가!"
+  }
+]

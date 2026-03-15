@@ -1,0 +1,152 @@
+[
+  {
+    "en": "discover",
+    "ko": "발견하다",
+    "example": "Columbus discovered America.",
+    "mnemonic": "dis(벗기다) + cover(덮개). 덮개를 벗기면 발견!"
+  },
+  {
+    "en": "industry",
+    "ko": "산업",
+    "example": "The car industry is growing.",
+    "mnemonic": "'인더스트리'는 공장에서 물건 만드는 산업."
+  },
+  {
+    "en": "pollution",
+    "ko": "오염, 공해",
+    "example": "Air pollution is a serious problem.",
+    "mnemonic": "pollute(오염시키다) + ion. 더럽히는 것이 오염."
+  },
+  {
+    "en": "protect",
+    "ko": "보호하다",
+    "example": "We must protect endangered animals.",
+    "mnemonic": "pro(앞에) + tect(덮다). 앞에서 덮어주면 보호!"
+  },
+  {
+    "en": "purpose",
+    "ko": "목적",
+    "example": "What is the purpose of this meeting?",
+    "mnemonic": "pur(위해) + pose(놓다). 무엇을 위해 놓은 것이 목적."
+  },
+  {
+    "en": "confidence",
+    "ko": "자신감",
+    "example": "She speaks with confidence.",
+    "mnemonic": "con(완전히) + fid(믿다). 완전히 믿으면 자신감!"
+  },
+  {
+    "en": "influence",
+    "ko": "영향",
+    "example": "Music has a big influence on people.",
+    "mnemonic": "in(안으로) + flu(흐르다). 안으로 흘러들어 영향."
+  },
+  {
+    "en": "require",
+    "ko": "필요로 하다",
+    "example": "This job requires experience.",
+    "mnemonic": "re(다시) + quire(구하다). 반복해서 구하면 요구!"
+  },
+  {
+    "en": "condition",
+    "ko": "조건",
+    "example": "The car is in good condition.",
+    "mnemonic": "con(함께) + dition(말하다). 함께 정한 것이 조건."
+  },
+  {
+    "en": "supply",
+    "ko": "공급",
+    "example": "The company supplies food to schools.",
+    "mnemonic": "sup(아래에서) + ply(채우다). 채워주면 공급!"
+  },
+  {
+    "en": "demand",
+    "ko": "요구",
+    "example": "There is a high demand for smartphones.",
+    "mnemonic": "de(완전히) + mand(명령). 완전히 명령하면 강한 요구."
+  },
+  {
+    "en": "discuss",
+    "ko": "토론하다",
+    "example": "Let's discuss the problem together.",
+    "mnemonic": "dis(떨어져) + cuss(흔들다). 의견을 흔들어 논의!"
+  },
+  {
+    "en": "consider",
+    "ko": "고려하다",
+    "example": "Please consider my suggestion.",
+    "mnemonic": "con(함께) + sider(별). 별을 함께 보며 깊이 생각."
+  },
+  {
+    "en": "reduce",
+    "ko": "줄이다",
+    "example": "We should reduce waste.",
+    "mnemonic": "re(뒤로) + duce(이끌다). 뒤로 이끌면 줄이는 것."
+  },
+  {
+    "en": "impossible",
+    "ko": "불가능한",
+    "example": "Nothing is impossible.",
+    "mnemonic": "im(아닌) + possible(가능한). 가능하지 않은!"
+  },
+  {
+    "en": "material",
+    "ko": "재료",
+    "example": "What material is this made of?",
+    "mnemonic": "'머티리얼'은 물건을 만드는 재료."
+  },
+  {
+    "en": "situation",
+    "ko": "상황",
+    "example": "We are in a difficult situation.",
+    "mnemonic": "situ(위치) + ation. 어떤 위치에 있는 것이 상황."
+  },
+  {
+    "en": "responsibility",
+    "ko": "책임",
+    "example": "It's your responsibility to clean up.",
+    "mnemonic": "response(응답) + ability(능력). 응답할 능력이 책임."
+  },
+  {
+    "en": "accept",
+    "ko": "받아들이다",
+    "example": "She accepted my apology.",
+    "mnemonic": "ac(~에) + cept(잡다). 잡아서 받아들이다!"
+  },
+  {
+    "en": "achieve",
+    "ko": "달성하다",
+    "example": "He achieved his dream.",
+    "mnemonic": "a + chief(주요한). 주요한 것을 이루면 달성!"
+  },
+  {
+    "en": "allow",
+    "ko": "허락하다",
+    "example": "My parents allow me to stay up late.",
+    "mnemonic": "all(모두) + ow. 모두에게 OK하면 허락!"
+  },
+  {
+    "en": "appear",
+    "ko": "나타나다",
+    "example": "A rainbow appeared in the sky.",
+    "mnemonic": "ap(~에) + pear(보이다). 눈에 보이면 나타나다!"
+  },
+  {
+    "en": "approach",
+    "ko": "접근하다",
+    "example": "The cat slowly approached the bird.",
+    "mnemonic": "ap(~에) + proach(가까이). 가까이 다가가면 접근!"
+  },
+  {
+    "en": "avoid",
+    "ko": "피하다",
+    "example": "I try to avoid junk food.",
+    "mnemonic": "a(~에서) + void(빈). 빈 곳으로 가면 피하기!"
+  },
+  {
+    "en": "belong",
+    "ko": "~에 속하다",
+    "example": "This book belongs to me.",
+    "mnemonic": "be + long(긴). 오래 있으면 그곳에 속하게 돼요."
+  }
+]

@@ -1,19 +1,54 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { useApp } from '@/contexts/AppContext';
 import { formatDate } from '@/lib/utils';
+
+interface Preset {
+  id: string;
+  name: string;
+  description: string;
+  fileName: string;
+  wordCount: number;
+  tags: string[];
+}
 
 export default function HomePage() {
   const { data, dispatch } = useApp();
   const router = useRouter();
   const [newBookName, setNewBookName] = useState('');
   const [showForm, setShowForm] = useState(false);
+  const [showPresets, setShowPresets] = useState(false);
+  const [presets, setPresets] = useState<Preset[]>([]);
+  const [loadingPreset, setLoadingPreset] = useState<string | null>(null);
   const [draggedId, setDraggedId] = useState<string | null>(null);
   const [dragOverId, setDragOverId] = useState<string | null>(null);
   const [editingNameId, setEditingNameId] = useState<string | null>(null);
   const [editingName, setEditingName] = useState('');
+
+  useEffect(() => {
+    if (showPresets && presets.length === 0) {
+      fetch('/presets/index.json')
+        .then((res) => res.json())
+        .then((data) => setPresets(data))
+        .catch(() => {});
+    }
+  }, [showPresets, presets.length]);
+
+  async function addPreset(preset: Preset) {
+    if (data.wordBooks.some((wb) => wb.name === preset.name)) return;
+    setLoadingPreset(preset.id);
+    try {
+      const res = await fetch(`/presets/${preset.fileName}`);
+      const words = await res.json();
+      dispatch({ type: 'ADD_WORDBOOK_WITH_WORDS', name: preset.name, words, isPreset: true });
+    } catch {
+      alert('단어장을 불러오는데 실패했습니다.');
+    } finally {
+      setLoadingPreset(null);
+    }
+  }
 
   function addWordBook() {
     const name = newBookName.trim();
@@ -106,14 +141,107 @@ export default function HomePage() {
             </button>
           </div>
         ) : (
-          <button
-            onClick={() => setShowForm(true)}
-            className="bg-blue-600 text-white px-5 py-2.5 rounded-lg hover:bg-blue-700 font-medium"
-          >
-            + 새 단어장 추가
-          </button>
+          <div className="flex gap-2">
+            <button
+              onClick={() => setShowForm(true)}
+              className="bg-blue-600 text-white px-5 py-2.5 rounded-lg hover:bg-blue-700 font-medium"
+            >
+              + 내 단어장 추가
+            </button>
+            <button
+              onClick={() => setShowPresets(!showPresets)}
+              className={`px-5 py-2.5 rounded-lg font-medium border transition-colors ${
+                showPresets
+                  ? 'bg-purple-50 border-purple-300 text-purple-700'
+                  : 'border-purple-300 text-purple-600 hover:bg-purple-50'
+              }`}
+            >
+              AI가 만든 단어장
+            </button>
+          </div>
         )}
       </div>
+
+      {/* AI 프리셋 단어장 */}
+      {showPresets && (
+        <div className="mb-8 bg-gradient-to-br from-purple-50 to-blue-50 rounded-xl border border-purple-200 p-5">
+          <div className="flex items-center justify-between mb-4">
+            <div>
+              <div className="flex items-center gap-2 mb-0.5">
+                <span className="text-lg">🤖</span>
+                <h2 className="text-lg font-bold text-purple-800">AI가 만든 단어장</h2>
+              </div>
+              <p className="text-xs text-purple-500">좌우로 스크롤하여 세트를 선택하세요</p>
+            </div>
+            <span className="text-xs text-purple-400">총 750개</span>
+          </div>
+
+          {[
+            { grade: '중1', level: '기초', badgeCls: 'bg-green-100 text-green-700' },
+            { grade: '중2', level: '중급', badgeCls: 'bg-blue-100 text-blue-700' },
+            { grade: '중3', level: '심화', badgeCls: 'bg-purple-100 text-purple-700' },
+          ].map(({ grade, level, badgeCls }) => {
+            const gradePresets = presets.filter((p) => p.tags[0] === grade);
+            const conqueredCount = gradePresets.filter((p) => data.conqueredPresets.includes(p.name)).length;
+            return (
+              <div key={grade} className="mb-4 last:mb-0">
+                <div className="flex items-center gap-2 mb-2">
+                  <span className={`text-xs font-bold px-2 py-0.5 rounded-full ${badgeCls}`}>
+                    {grade}
+                  </span>
+                  <span className="text-sm font-medium text-gray-700">{level}</span>
+                  {conqueredCount > 0 && (
+                    <span className="text-xs text-green-600 font-medium">👑 {conqueredCount}/10 정복</span>
+                  )}
+                </div>
+                <div
+                  className="flex gap-2 overflow-x-auto pb-2"
+                  style={{ scrollbarWidth: 'thin' }}
+                >
+                  {gradePresets.map((preset, idx) => {
+                    const isAdded = data.wordBooks.some((wb) => wb.name === preset.name);
+                    const isConquered = data.conqueredPresets.includes(preset.name);
+                    const isLoading = loadingPreset === preset.id;
+                    return (
+                      <button
+                        key={preset.id}
+                        onClick={() => addPreset(preset)}
+                        disabled={isAdded || isLoading}
+                        className={`flex-shrink-0 w-28 rounded-xl p-3 text-left transition-all relative ${
+                          isAdded
+                            ? 'bg-gray-100 border border-gray-200 opacity-60'
+                            : isConquered
+                            ? 'bg-green-50 border border-green-300 hover:border-green-400 hover:shadow-md active:scale-95'
+                            : isLoading
+                            ? 'bg-purple-100 border border-purple-300 animate-pulse'
+                            : 'bg-white border border-purple-200 hover:border-purple-400 hover:shadow-md active:scale-95'
+                        }`}
+                      >
+                        {isConquered && (
+                          <span className="absolute top-1.5 right-1.5 text-sm" title="정복 완료!">👑</span>
+                        )}
+                        <div className={`text-2xl font-bold mb-1 ${
+                          isAdded ? 'text-gray-400' : isConquered ? 'text-green-600' : 'text-purple-600'
+                        }`}>
+                          {String(idx + 1).padStart(2, '0')}
+                        </div>
+                        <div className="text-xs text-gray-500 leading-tight">
+                          {preset.wordCount}개
+                        </div>
+                        <div className={`text-xs mt-1.5 font-medium ${
+                          isAdded ? 'text-green-500' : isLoading ? 'text-purple-500' : 'text-purple-600'
+                        }`}>
+                          {isAdded ? '추가됨 ✓' : isLoading ? '추가 중...' : '+ 추가'}
+                        </div>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      )}
 
       {/* 단어장 목록 */}
       {data.wordBooks.length === 0 ? (
@@ -166,10 +294,17 @@ export default function HomePage() {
                       />
                     ) : (
                       <h2
-                        className="text-xl font-semibold text-gray-900 leading-tight truncate cursor-pointer hover:text-blue-600 transition-colors"
-                        title="클릭하여 이름 수정"
-                        onClick={() => startEditName(wb)}
+                        className={`text-xl font-semibold text-gray-900 leading-tight truncate transition-colors ${
+                          wb.isPreset ? '' : 'cursor-pointer hover:text-blue-600'
+                        }`}
+                        title={wb.isPreset ? undefined : '클릭하여 이름 수정'}
+                        onClick={() => !wb.isPreset && startEditName(wb)}
                       >
+                        {wb.isPreset && (
+                          <span className="inline-flex items-center text-xs font-bold text-purple-600 bg-purple-100 rounded-full px-1.5 py-0.5 mr-1.5 align-middle" title="AI가 만든 단어장">
+                            AI
+                          </span>
+                        )}
                         {wb.name}
                       </h2>
                     )}

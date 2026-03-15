@@ -1,0 +1,152 @@
+[
+  {
+    "en": "correspond",
+    "ko": "일치하다",
+    "example": "The results correspond with the theory.",
+    "mnemonic": "cor(함께) + respond(응답). 함께 응답하면 일치!"
+  },
+  {
+    "en": "criteria",
+    "ko": "기준(복수)",
+    "example": "What are the criteria for selection?",
+    "mnemonic": "크라이티리아는 판단하는 기준들!"
+  },
+  {
+    "en": "critique",
+    "ko": "비평",
+    "example": "The teacher critiqued the essay.",
+    "mnemonic": "크리틱은 작품을 평가하는 비평!"
+  },
+  {
+    "en": "cultivate",
+    "ko": "경작하다",
+    "example": "Farmers cultivate rice.",
+    "mnemonic": "cult(경작) + ivate. 밭을 갈아 경작!"
+  },
+  {
+    "en": "deficit",
+    "ko": "적자",
+    "example": "The company has a budget deficit.",
+    "mnemonic": "de(아래) + ficit(만들다). 아래로 가면 적자!"
+  },
+  {
+    "en": "delegate",
+    "ko": "대표",
+    "example": "She delegated the task to her assistant.",
+    "mnemonic": "de(아래로) + legate(보내다). 아래로 보내면 위임!"
+  },
+  {
+    "en": "deliberate",
+    "ko": "고의적인",
+    "example": "It was a deliberate decision.",
+    "mnemonic": "de(완전히) + liber(저울). 저울질하면 숙고!"
+  },
+  {
+    "en": "demographic",
+    "ko": "인구통계의",
+    "example": "The demographic data shows population changes.",
+    "mnemonic": "demo(사람) + graphic(기록). 사람을 기록!"
+  },
+  {
+    "en": "derive",
+    "ko": "유래하다",
+    "example": "The word derives from Latin.",
+    "mnemonic": "de(아래에서) + rive(강). 강에서 끌어내면 유래!"
+  },
+  {
+    "en": "detect",
+    "ko": "발견하다",
+    "example": "The sensor detected movement.",
+    "mnemonic": "de(떼다) + tect(덮다). 덮개를 떼면 발견!"
+  },
+  {
+    "en": "deteriorate",
+    "ko": "악화되다",
+    "example": "The weather deteriorated rapidly.",
+    "mnemonic": "de(아래로) + terior(나쁜). 나빠지면 악화!"
+  },
+  {
+    "en": "devote",
+    "ko": "헌신하다",
+    "example": "He devoted his life to science.",
+    "mnemonic": "de(완전히) + vote(맹세). 완전히 맹세하면 헌신!"
+  },
+  {
+    "en": "dignity",
+    "ko": "존엄",
+    "example": "Everyone deserves dignity.",
+    "mnemonic": "dign(가치) + ity. 가치 있음이 존엄!"
+  },
+  {
+    "en": "dilemma",
+    "ko": "딜레마",
+    "example": "She faced a difficult dilemma.",
+    "mnemonic": "di(둘) + lemma(제안). 두 가지 중 고민!"
+  },
+  {
+    "en": "dimension",
+    "ko": "차원",
+    "example": "The room has large dimensions.",
+    "mnemonic": "di(떨어져) + mension(측정). 측정하면 차원!"
+  },
+  {
+    "en": "diminish",
+    "ko": "줄어들다",
+    "example": "The pain gradually diminished.",
+    "mnemonic": "di(떨어져) + minish(작은). 작아지면 줄어들다!"
+  },
+  {
+    "en": "diplomacy",
+    "ko": "외교",
+    "example": "Diplomacy is better than war.",
+    "mnemonic": "diploma(문서) + cy. 문서로 소통하는 외교!"
+  },
+  {
+    "en": "discipline",
+    "ko": "규율",
+    "example": "The school has strict discipline.",
+    "mnemonic": "disciple(제자) + ine. 제자를 가르치는 규율!"
+  },
+  {
+    "en": "discourse",
+    "ko": "담론",
+    "example": "The discourse on climate change continued.",
+    "mnemonic": "dis(떨어져) + course(달리다). 의견이 오가는 담론!"
+  },
+  {
+    "en": "discrimination",
+    "ko": "차별",
+    "example": "Discrimination is against the law.",
+    "mnemonic": "dis(떨어져) + crimin(구분). 구분해서 떼면 차별!"
+  },
+  {
+    "en": "displace",
+    "ko": "옮기다",
+    "example": "Many people were displaced by the flood.",
+    "mnemonic": "dis(떨어져) + place(장소). 장소에서 떼어내면 이주!"
+  },
+  {
+    "en": "dispose",
+    "ko": "처분하다",
+    "example": "Dispose of waste properly.",
+    "mnemonic": "dis(떨어져) + pose(놓다). 떨어져 놓으면 처분!"
+  },
+  {
+    "en": "dispute",
+    "ko": "분쟁",
+    "example": "The two countries have a territorial dispute.",
+    "mnemonic": "dis(떨어져) + pute(생각). 생각이 다르면 분쟁!"
+  },
+  {
+    "en": "diversity",
+    "ko": "다양성",
+    "example": "We celebrate diversity in our school.",
+    "mnemonic": "divers(다양한) + ity. 다양한 상태가 다양성!"
+  },
+  {
+    "en": "doctrine",
+    "ko": "교리",
+    "example": "The doctrine was widely accepted.",
+    "mnemonic": "doct(가르치다) + rine. 가르치는 것이 교리!"
+  }
+]

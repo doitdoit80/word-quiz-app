@@ -1,0 +1,152 @@
+[
+  {
+    "en": "apple",
+    "ko": "사과",
+    "example": "I eat an apple every morning.",
+    "mnemonic": "'애플' 로고를 떠올리면 바로 사과!"
+  },
+  {
+    "en": "bag",
+    "ko": "가방, 백",
+    "example": "She put her books in the bag.",
+    "mnemonic": "'백'팩의 백이 바로 가방."
+  },
+  {
+    "en": "boy",
+    "ko": "소년, 남자아이",
+    "example": "The boy is playing in the park.",
+    "mnemonic": "'보이'밴드의 보이, 소년들의 그룹!"
+  },
+  {
+    "en": "cat",
+    "ko": "고양이",
+    "example": "The cat is sleeping on the sofa.",
+    "mnemonic": "'캣'우먼은 고양이 여자!"
+  },
+  {
+    "en": "dog",
+    "ko": "개",
+    "example": "I walk my dog every evening.",
+    "mnemonic": "'도그'는 우리 친구 강아지."
+  },
+  {
+    "en": "egg",
+    "ko": "달걀, 계란",
+    "example": "I had two eggs for breakfast.",
+    "mnemonic": "'에그'타르트 속 달걀 크림!"
+  },
+  {
+    "en": "fish",
+    "ko": "물고기, 생선",
+    "example": "We caught three fish at the lake.",
+    "mnemonic": "'피시'방에서 물고기를 잡아요(낚시 게임)."
+  },
+  {
+    "en": "girl",
+    "ko": "소녀, 여자아이",
+    "example": "The girl is reading a book.",
+    "mnemonic": "'걸'그룹의 걸, 소녀들!"
+  },
+  {
+    "en": "house",
+    "ko": "집",
+    "example": "My house has a big garden.",
+    "mnemonic": "'하우스'는 집 그 자체."
+  },
+  {
+    "en": "juice",
+    "ko": "주스",
+    "example": "Would you like some orange juice?",
+    "mnemonic": "'주스'는 한국어로도 그대로!"
+  },
+  {
+    "en": "key",
+    "ko": "열쇠, 키",
+    "example": "I lost my key yesterday.",
+    "mnemonic": "'키'보드의 키, 자물쇠를 여는 열쇠."
+  },
+  {
+    "en": "lion",
+    "ko": "사자",
+    "example": "The lion is the king of animals.",
+    "mnemonic": "'라이온' 킹! 사자 왕."
+  },
+  {
+    "en": "milk",
+    "ko": "우유",
+    "example": "I drink milk every day.",
+    "mnemonic": "'밀크'쉐이크에 들어가는 우유."
+  },
+  {
+    "en": "name",
+    "ko": "이름",
+    "example": "What is your name?",
+    "mnemonic": "'네임'태그에 적는 이름."
+  },
+  {
+    "en": "orange",
+    "ko": "오렌지",
+    "example": "This orange is very sweet.",
+    "mnemonic": "'오렌지'는 한국어로도 같죠!"
+  },
+  {
+    "en": "park",
+    "ko": "공원",
+    "example": "Let's go to the park.",
+    "mnemonic": "'파크'는 놀이공원의 파크!"
+  },
+  {
+    "en": "rain",
+    "ko": "비",
+    "example": "It will rain tomorrow.",
+    "mnemonic": "'레인'보우(무지개)가 비 온 뒤에 뜨죠."
+  },
+  {
+    "en": "snow",
+    "ko": "눈(날씨)",
+    "example": "Children love to play in the snow.",
+    "mnemonic": "'스노우'맨(눈사람)을 만드는 눈!"
+  },
+  {
+    "en": "tree",
+    "ko": "나무",
+    "example": "There is a big tree in the garden.",
+    "mnemonic": "크리스마스 '트리'가 바로 나무."
+  },
+  {
+    "en": "water",
+    "ko": "물",
+    "example": "Can I have a glass of water?",
+    "mnemonic": "'워터'파크에서 신나게 노는 물!"
+  },
+  {
+    "en": "book",
+    "ko": "책, 도서",
+    "example": "She is reading a book in the library.",
+    "mnemonic": "'북'마크를 꽂는 곳이 책."
+  },
+  {
+    "en": "chair",
+    "ko": "의자",
+    "example": "Please sit on the chair.",
+    "mnemonic": "'체어'맨은 의자에 앉은 회장님."
+  },
+  {
+    "en": "door",
+    "ko": "문",
+    "example": "Please close the door.",
+    "mnemonic": "'도어'벨을 누르면 문이 열려요."
+  },
+  {
+    "en": "eye",
+    "ko": "눈(신체)",
+    "example": "She has beautiful blue eyes.",
+    "mnemonic": "'아이'라이너를 눈에 그려요."
+  },
+  {
+    "en": "food",
+    "ko": "음식",
+    "example": "Korean food is delicious.",
+    "mnemonic": "'푸드'코트에서 먹는 음식!"
+  }
+]

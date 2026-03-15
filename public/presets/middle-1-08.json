@@ -1,0 +1,152 @@
+[
+  {
+    "en": "pass",
+    "ko": "지나가다",
+    "example": "Can you pass me the salt?",
+    "mnemonic": "'패스'는 공을 넘기거나 시험을 통과!"
+  },
+  {
+    "en": "road",
+    "ko": "도로",
+    "example": "Be careful when crossing the road.",
+    "mnemonic": "'로드'트립은 길 위의 여행!"
+  },
+  {
+    "en": "sound",
+    "ko": "소리",
+    "example": "I heard a strange sound.",
+    "mnemonic": "'사운드'트랙은 영화의 소리/음악."
+  },
+  {
+    "en": "thing",
+    "ko": "것",
+    "example": "Put your things away.",
+    "mnemonic": "'씽'은 모든 것을 가리키는 말."
+  },
+  {
+    "en": "spring",
+    "ko": "봄",
+    "example": "Flowers bloom in spring.",
+    "mnemonic": "'스프링'은 용수철처럼 튀어나오는 봄!"
+  },
+  {
+    "en": "summer",
+    "ko": "여름",
+    "example": "I love swimming in summer.",
+    "mnemonic": "'서머'타임은 여름 시간!"
+  },
+  {
+    "en": "fall",
+    "ko": "가을",
+    "example": "Leaves fall from trees in fall.",
+    "mnemonic": "'폴'은 낙엽이 떨어지는 가을!"
+  },
+  {
+    "en": "winter",
+    "ko": "겨울",
+    "example": "It snows a lot in winter.",
+    "mnemonic": "'윈터'는 추운 겨울!"
+  },
+  {
+    "en": "wear",
+    "ko": "입다",
+    "example": "She wears a uniform to school.",
+    "mnemonic": "'웨어'러블은 입는 기기!"
+  },
+  {
+    "en": "wait",
+    "ko": "기다리다",
+    "example": "Wait for me at the bus stop.",
+    "mnemonic": "'웨이트'는 기다리는 것. 웨이팅!"
+  },
+  {
+    "en": "buy",
+    "ko": "사다, 구매하다",
+    "example": "I want to buy a new phone.",
+    "mnemonic": "'바이'는 물건을 구매하는 것."
+  },
+  {
+    "en": "sell",
+    "ko": "팔다, 판매하다",
+    "example": "He sells fruit at the market.",
+    "mnemonic": "'셀'러는 물건을 파는 사람."
+  },
+  {
+    "en": "try",
+    "ko": "시도하다",
+    "example": "Try your best.",
+    "mnemonic": "'트라이'는 도전해보는 것!"
+  },
+  {
+    "en": "work",
+    "ko": "일하다",
+    "example": "My dad works at a bank.",
+    "mnemonic": "'워크'는 일하는 것. 워킹!"
+  },
+  {
+    "en": "country",
+    "ko": "나라",
+    "example": "Korea is a beautiful country.",
+    "mnemonic": "'컨트리' 음악은 시골 느낌의 나라 음악."
+  },
+  {
+    "en": "family",
+    "ko": "가족, 식구",
+    "example": "My family has five members.",
+    "mnemonic": "'패밀리' 레스토랑에 온 가족이 모여요."
+  },
+  {
+    "en": "happy",
+    "ko": "행복한",
+    "example": "She looks very happy today.",
+    "mnemonic": "'해피' 바이러스처럼 행복이 퍼지는 느낌."
+  },
+  {
+    "en": "morning",
+    "ko": "아침",
+    "example": "I wake up early in the morning.",
+    "mnemonic": "'모닝콜'이 울리면 아침이 시작!"
+  },
+  {
+    "en": "beautiful",
+    "ko": "아름다운",
+    "example": "The flowers are beautiful.",
+    "mnemonic": "'뷰티풀'한 풍경을 보면 감탄이 나오죠."
+  },
+  {
+    "en": "important",
+    "ko": "중요한",
+    "example": "This test is very important.",
+    "mnemonic": "im(안에) + port(항구). 항구 안에 있는 건 중요한 물건!"
+  },
+  {
+    "en": "student",
+    "ko": "학생",
+    "example": "She is a good student.",
+    "mnemonic": "'스튜던트'는 study(공부)하는 사람."
+  },
+  {
+    "en": "teacher",
+    "ko": "선생님, 교사",
+    "example": "Our teacher is very kind.",
+    "mnemonic": "'티처'는 teach(가르치다) + er(사람)."
+  },
+  {
+    "en": "different",
+    "ko": "다른",
+    "example": "We have different opinions.",
+    "mnemonic": "'디퍼런트'는 서로 다른 것들."
+  },
+  {
+    "en": "popular",
+    "ko": "인기 있는",
+    "example": "This song is very popular.",
+    "mnemonic": "'파퓰러'는 pop(대중)에서 온 말."
+  },
+  {
+    "en": "color",
+    "ko": "색",
+    "example": "What is your favorite color?",
+    "mnemonic": "'컬러'풀한 무지개를 떠올려보세요."
+  }
+]

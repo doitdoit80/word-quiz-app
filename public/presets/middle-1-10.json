@@ -1,0 +1,152 @@
+[
+  {
+    "en": "weak",
+    "ko": "약한",
+    "example": "I feel weak after the flu.",
+    "mnemonic": "'위크'는 strong의 반대, 약한!"
+  },
+  {
+    "en": "deep",
+    "ko": "깊은",
+    "example": "The ocean is very deep.",
+    "mnemonic": "'딥'러닝은 깊이 학습하는 것!"
+  },
+  {
+    "en": "wide",
+    "ko": "넓은",
+    "example": "The river is very wide.",
+    "mnemonic": "'와이드'스크린은 넓은 화면!"
+  },
+  {
+    "en": "thin",
+    "ko": "얇은",
+    "example": "The ice is too thin to walk on.",
+    "mnemonic": "'씬'은 얇고 가느다란 것."
+  },
+  {
+    "en": "thick",
+    "ko": "두꺼운",
+    "example": "This book is very thick.",
+    "mnemonic": "'씩'은 두꺼운 것. thin의 반대!"
+  },
+  {
+    "en": "soft",
+    "ko": "부드러운",
+    "example": "The pillow is very soft.",
+    "mnemonic": "'소프트'웨어는 부드러운(유연한) 프로그램."
+  },
+  {
+    "en": "hard",
+    "ko": "딱딱한",
+    "example": "This test is very hard.",
+    "mnemonic": "'하드'디스크는 딱딱한 저장장치!"
+  },
+  {
+    "en": "bright",
+    "ko": "밝은",
+    "example": "The sun is very bright today.",
+    "mnemonic": "'브라이트'한 미래는 밝은 미래!"
+  },
+  {
+    "en": "safe",
+    "ko": "안전한",
+    "example": "Is it safe to swim here?",
+    "mnemonic": "'세이프'는 안전한 금고도 뜻해요!"
+  },
+  {
+    "en": "lucky",
+    "ko": "운이 좋은",
+    "example": "You are so lucky!",
+    "mnemonic": "'럭키'세븐! 행운의 7!"
+  },
+  {
+    "en": "busy",
+    "ko": "바쁜",
+    "example": "I'm busy with homework.",
+    "mnemonic": "'비지'니스는 바쁘게 일하는 것!"
+  },
+  {
+    "en": "because",
+    "ko": "왜냐하면",
+    "example": "I stayed home because it was raining.",
+    "mnemonic": "비커즈는 이유를 설명할 때 쓰는 접속사!"
+  },
+  {
+    "en": "today",
+    "ko": "오늘",
+    "example": "Today is Monday.",
+    "mnemonic": "to + day. 이 날 = 오늘!"
+  },
+  {
+    "en": "tomorrow",
+    "ko": "내일",
+    "example": "See you tomorrow!",
+    "mnemonic": "to + morrow(아침). 다음 아침 = 내일!"
+  },
+  {
+    "en": "yesterday",
+    "ko": "어제",
+    "example": "I went to the movies yesterday.",
+    "mnemonic": "yester + day. 지나간 날 = 어제!"
+  },
+  {
+    "en": "always",
+    "ko": "항상",
+    "example": "She always smiles.",
+    "mnemonic": "all(모든) + ways(방법). 모든 경우에 = 항상!"
+  },
+  {
+    "en": "never",
+    "ko": "절대 ~않다",
+    "example": "I never eat fast food.",
+    "mnemonic": "네버엔딩 = 절대 끝나지 않는!"
+  },
+  {
+    "en": "often",
+    "ko": "자주",
+    "example": "I often visit the library.",
+    "mnemonic": "오프튼은 자주 반복하는 것."
+  },
+  {
+    "en": "before",
+    "ko": "~전에",
+    "example": "Wash your hands before eating.",
+    "mnemonic": "be + fore(앞). 앞에 있으면 ~전에!"
+  },
+  {
+    "en": "after",
+    "ko": "~후에",
+    "example": "Let us meet after school.",
+    "mnemonic": "애프터스쿨은 학교 후에!"
+  },
+  {
+    "en": "during",
+    "ko": "~동안",
+    "example": "I fell asleep during the movie.",
+    "mnemonic": "듀링은 어떤 시간 동안."
+  },
+  {
+    "en": "around",
+    "ko": "~주위에",
+    "example": "There are trees around the house.",
+    "mnemonic": "어라운드 더 월드 = 세계 주위!"
+  },
+  {
+    "en": "already",
+    "ko": "이미",
+    "example": "I already finished my homework.",
+    "mnemonic": "all + ready. 모두 준비됨 = 이미!"
+  },
+  {
+    "en": "again",
+    "ko": "다시",
+    "example": "Can you say that again?",
+    "mnemonic": "어겐은 다시 한 번 반복!"
+  },
+  {
+    "en": "every",
+    "ko": "모든",
+    "example": "I exercise every day.",
+    "mnemonic": "에브리바디(everybody)에서 모든 사람!"
+  }
+]

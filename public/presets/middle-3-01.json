@@ -1,0 +1,152 @@
+[
+  {
+    "en": "accomplish",
+    "ko": "달성하다",
+    "example": "She accomplished her goal.",
+    "mnemonic": "ac(~을) + complish(채우다). 목표를 채우면 달성!"
+  },
+  {
+    "en": "accurate",
+    "ko": "정확한",
+    "example": "The information must be accurate.",
+    "mnemonic": "ac(~에) + cur(주의) + ate. 주의를 기울이면 정확!"
+  },
+  {
+    "en": "acknowledge",
+    "ko": "인정하다",
+    "example": "He acknowledged his mistake.",
+    "mnemonic": "ac(~을) + knowledge(지식). 알고 있음을 인정."
+  },
+  {
+    "en": "acquire",
+    "ko": "얻다",
+    "example": "She acquired new skills through practice.",
+    "mnemonic": "ac(~에) + quire(구하다). 구해서 얻다!"
+  },
+  {
+    "en": "adapt",
+    "ko": "적응하다",
+    "example": "Animals adapt to their environment.",
+    "mnemonic": "ad(~에) + apt(적합한). 적합하게 맞추면 적응!"
+  },
+  {
+    "en": "adequate",
+    "ko": "적절한",
+    "example": "Is the lighting adequate for reading?",
+    "mnemonic": "ad(~에) + equate(같게). 필요한 것과 같으면 충분!"
+  },
+  {
+    "en": "adjust",
+    "ko": "조정하다",
+    "example": "Please adjust the volume.",
+    "mnemonic": "ad(~에) + just(바로). 바로 맞추면 조정!"
+  },
+  {
+    "en": "admire",
+    "ko": "감탄하다",
+    "example": "I admire her courage.",
+    "mnemonic": "ad(~에) + mire(놀라다). 놀라워하면 감탄!"
+  },
+  {
+    "en": "adopt",
+    "ko": "채택하다",
+    "example": "They adopted a new policy.",
+    "mnemonic": "ad(~에) + opt(선택). 선택해서 받아들이면 채택!"
+  },
+  {
+    "en": "affect",
+    "ko": "영향을 미치다",
+    "example": "The weather affects our mood.",
+    "mnemonic": "af(~에) + fect(만들다). ~에 영향을 만들다!"
+  },
+  {
+    "en": "alternative",
+    "ko": "대안",
+    "example": "We need an alternative plan.",
+    "mnemonic": "alter(다른) + native(태어난). 다른 곳에서 태어난 대안!"
+  },
+  {
+    "en": "analyze",
+    "ko": "분석하다",
+    "example": "We need to analyze the data carefully.",
+    "mnemonic": "ana(위로) + lyze(풀다). 위에서 풀어보면 분석!"
+  },
+  {
+    "en": "announce",
+    "ko": "발표하다",
+    "example": "The teacher announced the test results.",
+    "mnemonic": "an(~에) + nounce(알리다). 알려주면 발표!"
+  },
+  {
+    "en": "anticipate",
+    "ko": "예상하다",
+    "example": "We didn't anticipate this problem.",
+    "mnemonic": "anti(미리) + cipate(잡다). 미리 잡으면 예상!"
+  },
+  {
+    "en": "apparent",
+    "ko": "명백한",
+    "example": "It was apparent that he was lying.",
+    "mnemonic": "ap(~에) + parent(보이는). 눈에 보이면 명백!"
+  },
+  {
+    "en": "appreciate",
+    "ko": "감사하다",
+    "example": "I appreciate your help.",
+    "mnemonic": "ap(~에) + preci(가치). 가치를 알면 감사!"
+  },
+  {
+    "en": "appropriate",
+    "ko": "적절한",
+    "example": "Wear appropriate clothes for the interview.",
+    "mnemonic": "ap(~에) + propri(자신의). 자기에게 맞으면 적절!"
+  },
+  {
+    "en": "approximately",
+    "ko": "대략",
+    "example": "There are approximately 100 students.",
+    "mnemonic": "ap + proxim(가까운). 가까이 = 대략!"
+  },
+  {
+    "en": "aspect",
+    "ko": "측면",
+    "example": "We should consider every aspect of the problem.",
+    "mnemonic": "a(~에) + spect(보다). 바라보는 면이 측면!"
+  },
+  {
+    "en": "assess",
+    "ko": "평가하다",
+    "example": "The teacher assessed our performance.",
+    "mnemonic": "as(~에) + sess(앉다). 앉아서 살펴보면 평가!"
+  },
+  {
+    "en": "assign",
+    "ko": "배정하다",
+    "example": "The teacher assigned homework.",
+    "mnemonic": "as(~에) + sign(표시). 표시해서 배정!"
+  },
+  {
+    "en": "associate",
+    "ko": "연관시키다",
+    "example": "I associate summer with the beach.",
+    "mnemonic": "as(~에) + soci(동료). 동료처럼 연결하면 연관!"
+  },
+  {
+    "en": "assume",
+    "ko": "가정하다",
+    "example": "I assumed you knew about it.",
+    "mnemonic": "as(~에) + sume(취하다). 취해서 당연하게 여기면 가정!"
+  },
+  {
+    "en": "atmosphere",
+    "ko": "대기",
+    "example": "The atmosphere of the restaurant was cozy.",
+    "mnemonic": "atmo(증기) + sphere(구). 지구를 감싼 증기 구가 대기!"
+  },
+  {
+    "en": "attach",
+    "ko": "붙이다",
+    "example": "Please attach a photo to the application.",
+    "mnemonic": "at(~에) + tach(붙다). ~에 붙이면 첨부!"
+  }
+]

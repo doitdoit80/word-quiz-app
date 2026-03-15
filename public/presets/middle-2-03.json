@@ -1,0 +1,152 @@
+[
+  {
+    "en": "benefit",
+    "ko": "이익",
+    "example": "Exercise has many health benefits.",
+    "mnemonic": "bene(좋은) + fit(맞는). 잘 맞으면 이익!"
+  },
+  {
+    "en": "challenge",
+    "ko": "도전",
+    "example": "It was a big challenge for me.",
+    "mnemonic": "'챌린지'는 유튜브에서도 하는 도전!"
+  },
+  {
+    "en": "choice",
+    "ko": "선택",
+    "example": "It was a difficult choice.",
+    "mnemonic": "choose(선택하다)의 명사형. 골라잡는 선택!"
+  },
+  {
+    "en": "comfortable",
+    "ko": "편안한",
+    "example": "This sofa is very comfortable.",
+    "mnemonic": "comfort(위안) + able(할 수 있는). 편히 쉴 수 있는!"
+  },
+  {
+    "en": "common",
+    "ko": "흔한",
+    "example": "Colds are common in winter.",
+    "mnemonic": "com(함께) + mon(하나). 다 함께 하는 흔한 것."
+  },
+  {
+    "en": "complete",
+    "ko": "완성하다",
+    "example": "I completed the puzzle.",
+    "mnemonic": "com(함께) + plete(채우다). 다 채우면 완성!"
+  },
+  {
+    "en": "concern",
+    "ko": "걱정",
+    "example": "Safety is our main concern.",
+    "mnemonic": "con(함께) + cern(구분). 함께 신경 쓰는 걱정."
+  },
+  {
+    "en": "connect",
+    "ko": "연결하다",
+    "example": "Connect the cable to the TV.",
+    "mnemonic": "con(함께) + nect(묶다). 함께 묶으면 연결!"
+  },
+  {
+    "en": "continue",
+    "ko": "계속하다",
+    "example": "Let's continue the discussion tomorrow.",
+    "mnemonic": "con(함께) + tinue(잡다). 계속 잡고 있으면 계속하다!"
+  },
+  {
+    "en": "control",
+    "ko": "통제하다",
+    "example": "You need to control your anger.",
+    "mnemonic": "'컨트롤'러로 게임을 조절하듯이!"
+  },
+  {
+    "en": "create",
+    "ko": "만들다",
+    "example": "She created a beautiful painting.",
+    "mnemonic": "'크리에이트'는 새로운 것을 만드는 창작!"
+  },
+  {
+    "en": "culture",
+    "ko": "문화",
+    "example": "Korean culture is becoming popular worldwide.",
+    "mnemonic": "'컬처'는 한 나라의 문화. K-컬처!"
+  },
+  {
+    "en": "decision",
+    "ko": "결정",
+    "example": "It was a hard decision to make.",
+    "mnemonic": "decide(결정하다)의 명사형. 결정!"
+  },
+  {
+    "en": "depend",
+    "ko": "~에 달려 있다",
+    "example": "Success depends on hard work.",
+    "mnemonic": "de(아래에) + pend(매달리다). 매달려 있으면 ~에 달려 있다!"
+  },
+  {
+    "en": "describe",
+    "ko": "묘사하다",
+    "example": "Describe your favorite place.",
+    "mnemonic": "de(아래로) + scribe(쓰다). 자세히 써내려가면 묘사!"
+  },
+  {
+    "en": "destroy",
+    "ko": "파괴하다",
+    "example": "The fire destroyed the building.",
+    "mnemonic": "de(완전히) + stroy(쌓다의 반대). 완전히 부수면 파괴!"
+  },
+  {
+    "en": "determine",
+    "ko": "결정하다",
+    "example": "She determined to study harder.",
+    "mnemonic": "de(완전히) + termine(끝). 완전히 끝내면 결정!"
+  },
+  {
+    "en": "display",
+    "ko": "전시하다",
+    "example": "The shop displays shoes in the window.",
+    "mnemonic": "dis(펼치다) + play(놓다). 펼쳐 놓으면 전시!"
+  },
+  {
+    "en": "effect",
+    "ko": "효과",
+    "example": "The medicine had a good effect.",
+    "mnemonic": "ef(밖으로) + fect(만들다). 밖으로 만들어진 효과!"
+  },
+  {
+    "en": "effort",
+    "ko": "노력",
+    "example": "She made a great effort to pass the test.",
+    "mnemonic": "ef(밖으로) + fort(강한). 강하게 밖으로 내면 노력!"
+  },
+  {
+    "en": "escape",
+    "ko": "탈출하다",
+    "example": "The bird escaped from the cage.",
+    "mnemonic": "es(밖으로) + cape(망토). 망토 두르고 밖으로! 탈출!"
+  },
+  {
+    "en": "examine",
+    "ko": "조사하다",
+    "example": "The doctor examined the patient.",
+    "mnemonic": "exam(시험) + ine. 시험하듯 꼼꼼히 검사."
+  },
+  {
+    "en": "exist",
+    "ko": "존재하다",
+    "example": "Do aliens exist?",
+    "mnemonic": "ex(밖에) + ist(서다). 밖에 서 있으면 존재!"
+  },
+  {
+    "en": "expect",
+    "ko": "기대하다",
+    "example": "I didn't expect to win.",
+    "mnemonic": "ex(밖을) + pect(보다). 밖을 내다보면 기대!"
+  },
+  {
+    "en": "explain",
+    "ko": "설명하다",
+    "example": "Can you explain this to me?",
+    "mnemonic": "ex(밖으로) + plain(평평한). 평평하게 펼쳐 설명!"
+  }
+]

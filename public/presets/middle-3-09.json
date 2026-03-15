@@ -1,0 +1,152 @@
+[
+  {
+    "en": "candidate",
+    "ko": "후보자, 지원자",
+    "example": "She is a candidate for president.",
+    "mnemonic": "캔디데이트는 선거에 나온 후보자!"
+  },
+  {
+    "en": "capable",
+    "ko": "~할 수 있는",
+    "example": "She is capable of great things.",
+    "mnemonic": "cap(잡다) + able. 잡을 수 있으면 능력 있는!"
+  },
+  {
+    "en": "census",
+    "ko": "인구 조사",
+    "example": "The census is conducted every ten years.",
+    "mnemonic": "cens(세다) + us. 우리를 세면 인구 조사!"
+  },
+  {
+    "en": "chronic",
+    "ko": "만성적인",
+    "example": "He suffers from chronic pain.",
+    "mnemonic": "chron(시간) + ic. 오래 시간이 지난 만성!"
+  },
+  {
+    "en": "coincide",
+    "ko": "동시에 일어나다",
+    "example": "The two events coincided.",
+    "mnemonic": "co(함께) + incide(떨어지다). 함께 떨어지면 동시!"
+  },
+  {
+    "en": "commodity",
+    "ko": "상품",
+    "example": "Oil is an important commodity.",
+    "mnemonic": "commod(편리한) + ity. 편리하게 쓰는 상품!"
+  },
+  {
+    "en": "compensate",
+    "ko": "보상하다",
+    "example": "They compensated for the damage.",
+    "mnemonic": "com(함께) + pens(무게). 무게를 맞추면 보상!"
+  },
+  {
+    "en": "competent",
+    "ko": "유능한",
+    "example": "She is a competent manager.",
+    "mnemonic": "compete(경쟁) + ent. 경쟁할 수 있는 유능!"
+  },
+  {
+    "en": "complement",
+    "ko": "보완하다",
+    "example": "The two colors complement each other.",
+    "mnemonic": "com(완전히) + ple(채우다). 완전히 채우면 보완!"
+  },
+  {
+    "en": "comply",
+    "ko": "따르다",
+    "example": "You must comply with the rules.",
+    "mnemonic": "com(함께) + ply(접다). 함께 접으면 따르는!"
+  },
+  {
+    "en": "conceive",
+    "ko": "생각해내다",
+    "example": "She conceived a brilliant plan.",
+    "mnemonic": "con(함께) + ceive(잡다). 머릿속에 잡으면 착상!"
+  },
+  {
+    "en": "concrete",
+    "ko": "구체적인",
+    "example": "Give me a concrete example.",
+    "mnemonic": "con(함께) + crete(자라다). 함께 굳어진 구체적!"
+  },
+  {
+    "en": "condemn",
+    "ko": "비난하다",
+    "example": "The public condemned the act.",
+    "mnemonic": "con(완전히) + demn(벌). 완전히 벌하면 비난!"
+  },
+  {
+    "en": "confer",
+    "ko": "수여하다",
+    "example": "The university conferred a degree.",
+    "mnemonic": "con(함께) + fer(가져오다). 함께 가져오면 협의!"
+  },
+  {
+    "en": "confine",
+    "ko": "가두다",
+    "example": "The animals were confined to cages.",
+    "mnemonic": "con(함께) + fine(끝). 끝까지 가두면 제한!"
+  },
+  {
+    "en": "conform",
+    "ko": "따르다",
+    "example": "Students must conform to the dress code.",
+    "mnemonic": "con(함께) + form(형태). 같은 형태로 따르면 순응!"
+  },
+  {
+    "en": "congress",
+    "ko": "의회, 국회",
+    "example": "Congress passed the new law.",
+    "mnemonic": "con(함께) + gress(걷다). 함께 걸어가면 의회!"
+  },
+  {
+    "en": "consent",
+    "ko": "동의",
+    "example": "You need parental consent.",
+    "mnemonic": "con(함께) + sent(느끼다). 함께 느끼면 동의!"
+  },
+  {
+    "en": "conserve",
+    "ko": "보존하다",
+    "example": "We must conserve water.",
+    "mnemonic": "con(함께) + serve(지키다). 함께 지키면 보존!"
+  },
+  {
+    "en": "contemplate",
+    "ko": "숙고하다",
+    "example": "She contemplated her future.",
+    "mnemonic": "con(함께) + temple(사원). 사원에서 깊이 생각!"
+  },
+  {
+    "en": "context",
+    "ko": "맥락",
+    "example": "You need to understand the context.",
+    "mnemonic": "con(함께) + text(직물). 함께 엮인 것이 맥락!"
+  },
+  {
+    "en": "contradict",
+    "ko": "모순되다",
+    "example": "His actions contradict his words.",
+    "mnemonic": "contra(반대) + dict(말하다). 반대로 말하면 모순!"
+  },
+  {
+    "en": "convert",
+    "ko": "전환하다",
+    "example": "She converted the file to PDF.",
+    "mnemonic": "con(완전히) + vert(돌리다). 완전히 돌리면 전환!"
+  },
+  {
+    "en": "coordinate",
+    "ko": "조정하다",
+    "example": "She coordinated the event.",
+    "mnemonic": "co(함께) + ordinate(정렬). 함께 정렬하면 조정!"
+  },
+  {
+    "en": "corporate",
+    "ko": "기업의",
+    "example": "The corporate office is in Seoul.",
+    "mnemonic": "corpor(몸) + ate. 하나의 몸처럼 된 기업!"
+  }
+]

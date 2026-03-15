@@ -518,18 +518,33 @@ export default function WordBookPage() {
         </div>
       )}
 
-      {wordBook.words.length > 0 && wordBook.words.some((w) => data.wordStats[w.id]) && (
-        <div className="mt-8 pt-6 border-t border-gray-200 text-center">
-          <button
-            onClick={() => {
-              if (confirm('이 단어장의 모든 통계를 초기화할까요?')) {
-                dispatch({ type: 'RESET_WORDBOOK_STATS', wordIds: wordBook.words.map((w) => w.id) });
-              }
-            }}
-            className="text-sm text-gray-400 hover:text-red-400 transition-colors"
-          >
-            전체 통계 초기화
-          </button>
+      {(wordBook.words.some((w) => data.wordStats[w.id]) ||
+        (wordBook.isPreset && data.conqueredPresets.includes(wordBook.name))) && (
+        <div className="mt-8 pt-6 border-t border-gray-200 flex flex-col items-center gap-3">
+          {wordBook.words.some((w) => data.wordStats[w.id]) && (
+            <button
+              onClick={() => {
+                if (confirm('이 단어장의 모든 통계를 초기화할까요?')) {
+                  dispatch({ type: 'RESET_WORDBOOK_STATS', wordIds: wordBook.words.map((w) => w.id) });
+                }
+              }}
+              className="text-sm text-gray-400 hover:text-red-400 transition-colors"
+            >
+              전체 통계 초기화
+            </button>
+          )}
+          {wordBook.isPreset && data.conqueredPresets.includes(wordBook.name) && (
+            <button
+              onClick={() => {
+                if (confirm('이 단어장의 정복 기록을 초기화할까요?')) {
+                  dispatch({ type: 'RESET_CONQUERED_PRESET', name: wordBook.name });
+                }
+              }}
+              className="text-sm text-gray-400 hover:text-red-400 transition-colors"
+            >
+              👑 정복 초기화
+            </button>
+          )}
         </div>
       )}
     </div>

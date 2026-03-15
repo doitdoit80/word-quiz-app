@@ -1,0 +1,152 @@
+[
+  {
+    "en": "experience",
+    "ko": "경험",
+    "example": "It was a wonderful experience.",
+    "mnemonic": "ex(밖으로) + perience(시도). 밖으로 나가 시도하는 경험!"
+  },
+  {
+    "en": "environment",
+    "ko": "환경",
+    "example": "We should protect the environment.",
+    "mnemonic": "environ(둘러싸다) + ment. 우리를 둘러싼 것이 환경."
+  },
+  {
+    "en": "communicate",
+    "ko": "의사소통하다",
+    "example": "We communicate through email.",
+    "mnemonic": "com(함께) + muni(나누다). 함께 나누면 소통!"
+  },
+  {
+    "en": "necessary",
+    "ko": "필요한",
+    "example": "Sleep is necessary for health.",
+    "mnemonic": "'네세서리'는 꼭 있어야 하는 필요한 것."
+  },
+  {
+    "en": "advantage",
+    "ko": "이점",
+    "example": "Being tall is an advantage in basketball.",
+    "mnemonic": "advance(앞서다) + age. 앞서 나가면 유리!"
+  },
+  {
+    "en": "opportunity",
+    "ko": "기회",
+    "example": "Don't miss this opportunity.",
+    "mnemonic": "op(향해) + port(항구). 항구로 향하는 기회를 잡아라!"
+  },
+  {
+    "en": "compare",
+    "ko": "비교하다",
+    "example": "Compare the two pictures.",
+    "mnemonic": "com(함께) + pare(같은). 함께 놓고 같은지 보면 비교!"
+  },
+  {
+    "en": "suggest",
+    "ko": "제안하다",
+    "example": "I suggest we leave early.",
+    "mnemonic": "sug(아래에서) + gest(가져오다). 의견을 올리면 제안."
+  },
+  {
+    "en": "attention",
+    "ko": "주의",
+    "example": "Pay attention to the teacher.",
+    "mnemonic": "'어텐션'은 군대에서 '차렷!' 주의!"
+  },
+  {
+    "en": "develop",
+    "ko": "발전시키다",
+    "example": "We need to develop new skills.",
+    "mnemonic": "de(풀다) + velop(감싸다). 감싼 것을 풀어 발전!"
+  },
+  {
+    "en": "increase",
+    "ko": "증가하다",
+    "example": "The population is increasing.",
+    "mnemonic": "in(안에) + crease(성장). 안에서 성장하면 증가!"
+  },
+  {
+    "en": "decrease",
+    "ko": "감소하다",
+    "example": "The temperature decreased at night.",
+    "mnemonic": "de(아래로) + crease(성장). 아래로 가면 감소!"
+  },
+  {
+    "en": "information",
+    "ko": "정보",
+    "example": "I need more information about this.",
+    "mnemonic": "inform(알리다) + ation. 알려주는 것이 정보!"
+  },
+  {
+    "en": "education",
+    "ko": "교육",
+    "example": "Education is very important.",
+    "mnemonic": "educate(교육하다) + ion. 가르치는 행위가 교육."
+  },
+  {
+    "en": "tradition",
+    "ko": "전통",
+    "example": "We should keep our traditions.",
+    "mnemonic": "trans(넘겨주다) + dition. 대대로 넘겨주는 전통."
+  },
+  {
+    "en": "celebrate",
+    "ko": "축하하다",
+    "example": "Let's celebrate your birthday.",
+    "mnemonic": "'셀러브레이트'는 파티하며 축하!"
+  },
+  {
+    "en": "separate",
+    "ko": "분리하다",
+    "example": "Please separate the recyclables.",
+    "mnemonic": "se(떨어져) + parate(준비). 따로 분리."
+  },
+  {
+    "en": "volunteer",
+    "ko": "자원봉사자",
+    "example": "She works as a volunteer.",
+    "mnemonic": "volunt(자발적) + eer(사람). 자발적으로 나서는 사람."
+  },
+  {
+    "en": "recognize",
+    "ko": "인식하다",
+    "example": "I didn't recognize you at first.",
+    "mnemonic": "re(다시) + cognize(알다). 다시 알아보면 인식!"
+  },
+  {
+    "en": "include",
+    "ko": "포함하다",
+    "example": "The price includes breakfast.",
+    "mnemonic": "in(안에) + clude(닫다). 안에 넣고 닫으면 포함!"
+  },
+  {
+    "en": "imagine",
+    "ko": "상상하다",
+    "example": "Imagine you are on a beach.",
+    "mnemonic": "image(이미지) + ine. 머릿속에 이미지를 그리면 상상!"
+  },
+  {
+    "en": "ancient",
+    "ko": "고대의",
+    "example": "This is an ancient temple.",
+    "mnemonic": "'에인션트'는 아주 오래된 고대의 것."
+  },
+  {
+    "en": "modern",
+    "ko": "현대의",
+    "example": "Seoul is a modern city.",
+    "mnemonic": "'모던'한 건물은 현대적인 디자인!"
+  },
+  {
+    "en": "contain",
+    "ko": "포함하다",
+    "example": "This box contains many toys.",
+    "mnemonic": "con(함께) + tain(잡다). 함께 잡아두면 담는 것."
+  },
+  {
+    "en": "temperature",
+    "ko": "온도",
+    "example": "The temperature is 30 degrees today.",
+    "mnemonic": "'템퍼러쳐'는 체온계로 재는 온도."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "en": "play",
+    "ko": "놀다",
+    "example": "Let's play outside.",
+    "mnemonic": "'플레이'는 게임을 하거나 놀거나 연주!"
+  },
+  {
+    "en": "question",
+    "ko": "질문",
+    "example": "Do you have any questions?",
+    "mnemonic": "'퀘스천'은 궁금해서 물어보는 질문."
+  },
+  {
+    "en": "room",
+    "ko": "방",
+    "example": "Clean your room, please.",
+    "mnemonic": "'룸'서비스를 방에서 받아요."
+  },
+  {
+    "en": "school",
+    "ko": "학교",
+    "example": "I go to school by bus.",
+    "mnemonic": "'스쿨'버스 타고 가는 곳이 학교."
+  },
+  {
+    "en": "talk",
+    "ko": "말하다",
+    "example": "Can we talk for a minute?",
+    "mnemonic": "'토크'쇼에서 이야기를 나눠요."
+  },
+  {
+    "en": "understand",
+    "ko": "이해하다",
+    "example": "I understand what you mean.",
+    "mnemonic": "under(아래) + stand(서다). 밑바닥까지 서서 보면 이해!"
+  },
+  {
+    "en": "weather",
+    "ko": "날씨",
+    "example": "The weather is sunny today.",
+    "mnemonic": "'웨더' 채널에서 날씨 예보를 확인!"
+  },
+  {
+    "en": "afternoon",
+    "ko": "오후",
+    "example": "I have class in the afternoon.",
+    "mnemonic": "after(후) + noon(정오). 정오 이후가 오후!"
+  },
+  {
+    "en": "breakfast",
+    "ko": "아침 식사, 아침밥",
+    "example": "I had toast for breakfast.",
+    "mnemonic": "break(깨다) + fast(금식). 밤새 금식을 깨는 식사!"
+  },
+  {
+    "en": "clothes",
+    "ko": "옷, 의복",
+    "example": "She is wearing new clothes.",
+    "mnemonic": "'클로즈'는 입는 옷들."
+  },
+  {
+    "en": "drive",
+    "ko": "운전하다",
+    "example": "My mom drives me to school.",
+    "mnemonic": "'드라이브'는 차를 몰고 가는 것."
+  },
+  {
+    "en": "evening",
+    "ko": "저녁",
+    "example": "I study in the evening.",
+    "mnemonic": "'이브닝'드레스를 저녁 파티에 입어요."
+  },
+  {
+    "en": "fly",
+    "ko": "날다",
+    "example": "Birds can fly in the sky.",
+    "mnemonic": "'플라이'는 비행기처럼 날아가는 것."
+  },
+  {
+    "en": "grow",
+    "ko": "자라다",
+    "example": "Children grow up fast.",
+    "mnemonic": "'그로우'는 쑥쑥 자라는 것."
+  },
+  {
+    "en": "heavy",
+    "ko": "무거운",
+    "example": "This bag is too heavy.",
+    "mnemonic": "'헤비'급 복싱 선수는 무거운 체급."
+  },
+  {
+    "en": "kid",
+    "ko": "아이, 어린이",
+    "example": "The kids are playing outside.",
+    "mnemonic": "'키드'는 아이들을 뜻해요."
+  },
+  {
+    "en": "lunch",
+    "ko": "점심 식사, 점심밥",
+    "example": "What did you have for lunch?",
+    "mnemonic": "'런치'타임은 점심시간!"
+  },
+  {
+    "en": "market",
+    "ko": "시장",
+    "example": "We buy vegetables at the market.",
+    "mnemonic": "'마켓'은 물건을 사고파는 시장."
+  },
+  {
+    "en": "nice",
+    "ko": "좋은",
+    "example": "It's nice to meet you.",
+    "mnemonic": "'나이스'샷! 좋은 샷!"
+  },
+  {
+    "en": "parent",
+    "ko": "부모",
+    "example": "My parents love me very much.",
+    "mnemonic": "'페어런트'는 나를 키워주신 부모님."
+  },
+  {
+    "en": "quiet",
+    "ko": "조용한",
+    "example": "Please be quiet in the library.",
+    "mnemonic": "'콰이엇'하면 쉿! 조용히!"
+  },
+  {
+    "en": "ready",
+    "ko": "준비된",
+    "example": "Are you ready to go?",
+    "mnemonic": "'레디'! 준비! 시작!"
+  },
+  {
+    "en": "story",
+    "ko": "이야기",
+    "example": "Tell me a funny story.",
+    "mnemonic": "'스토리'는 재미있는 이야기."
+  },
+  {
+    "en": "turn",
+    "ko": "차례",
+    "example": "It's your turn now.",
+    "mnemonic": "'턴'은 방향을 돌거나 차례."
+  },
+  {
+    "en": "usually",
+    "ko": "보통",
+    "example": "I usually wake up at 7.",
+    "mnemonic": "usual(보통의) + ly. 보통으로!"
+  }
+]

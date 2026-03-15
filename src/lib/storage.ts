@@ -1,7 +1,7 @@
 import type { AppData } from './types';
 
 const KEY = 'word-quiz-app';
-const empty: AppData = { wordBooks: [], wordStats: {}, testHistory: [] };
+const empty: AppData = { wordBooks: [], wordStats: {}, testHistory: [], conqueredPresets: [] };
 
 export function loadData(): AppData {
   if (typeof window === 'undefined') return empty;
@@ -13,6 +13,7 @@ export function loadData(): AppData {
       wordBooks: p.wordBooks ?? [],
       wordStats: p.wordStats ?? {},
       testHistory: p.testHistory ?? [],
+      conqueredPresets: p.conqueredPresets ?? [],
     };
   } catch {
     return empty;

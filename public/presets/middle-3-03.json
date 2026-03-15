@@ -1,0 +1,152 @@
+[
+  {
+    "en": "deny",
+    "ko": "부인하다",
+    "example": "He denied the accusation.",
+    "mnemonic": "de(아닌) + ny. 아니라고 하면 부인!"
+  },
+  {
+    "en": "despite",
+    "ko": "~에도 불구하고",
+    "example": "Despite the rain, we went hiking.",
+    "mnemonic": "de + spite(악의). 악의에도 불구하고!"
+  },
+  {
+    "en": "device",
+    "ko": "장치",
+    "example": "This device can measure temperature.",
+    "mnemonic": "'디바이스'는 스마트 기기!"
+  },
+  {
+    "en": "disappear",
+    "ko": "사라지다",
+    "example": "The rabbit disappeared into the hat.",
+    "mnemonic": "dis(반대) + appear(나타나다). 나타남의 반대 = 사라짐!"
+  },
+  {
+    "en": "distinguish",
+    "ko": "구별하다",
+    "example": "Can you distinguish the twins?",
+    "mnemonic": "dis(떨어져) + tinguish(찌르다). 찔러 떼어 구별!"
+  },
+  {
+    "en": "distribute",
+    "ko": "분배하다",
+    "example": "The teacher distributed the worksheets.",
+    "mnemonic": "dis(떨어져) + tribute(주다). 떼어서 나눠 주면 분배!"
+  },
+  {
+    "en": "domestic",
+    "ko": "국내의",
+    "example": "The domestic economy is growing.",
+    "mnemonic": "dom(집) + estic. 집 안의 = 국내의!"
+  },
+  {
+    "en": "dominate",
+    "ko": "지배하다",
+    "example": "One team dominated the game.",
+    "mnemonic": "domin(주인) + ate. 주인처럼 지배!"
+  },
+  {
+    "en": "efficient",
+    "ko": "효율적인",
+    "example": "This machine is very efficient.",
+    "mnemonic": "ef(밖으로) + fici(만들다). 잘 만들어내면 효율적!"
+  },
+  {
+    "en": "eliminate",
+    "ko": "제거하다",
+    "example": "We need to eliminate waste.",
+    "mnemonic": "e(밖으로) + limin(문턱). 문 밖으로 내보내면 제거!"
+  },
+  {
+    "en": "emerge",
+    "ko": "나타나다",
+    "example": "A new leader emerged.",
+    "mnemonic": "e(밖으로) + merge(잠기다). 물 밖으로 나오면 떠오르다!"
+  },
+  {
+    "en": "emphasize",
+    "ko": "강조하다",
+    "example": "I want to emphasize the importance of teamwork.",
+    "mnemonic": "em(안에) + phas(보여주다). 확 보여주면 강조!"
+  },
+  {
+    "en": "enable",
+    "ko": "가능하게 하다",
+    "example": "Technology enables us to communicate easily.",
+    "mnemonic": "en(만들다) + able(할 수 있는). 할 수 있게 만들면!"
+  },
+  {
+    "en": "encounter",
+    "ko": "마주치다",
+    "example": "I encountered an old friend at the mall.",
+    "mnemonic": "en(안에서) + counter(반대). 맞은편에서 만나면 마주침!"
+  },
+  {
+    "en": "enormous",
+    "ko": "거대한",
+    "example": "The elephant is enormous.",
+    "mnemonic": "e(밖으로) + norm(기준). 기준을 벗어나면 거대!"
+  },
+  {
+    "en": "ensure",
+    "ko": "보장하다",
+    "example": "We must ensure everyone's safety.",
+    "mnemonic": "en(만들다) + sure(확실한). 확실하게 만들면 보장!"
+  },
+  {
+    "en": "essential",
+    "ko": "필수적인",
+    "example": "Water is essential for life.",
+    "mnemonic": "essence(본질) + tial. 본질적으로 필요한!"
+  },
+  {
+    "en": "establish",
+    "ko": "설립하다",
+    "example": "The company was established in 1990.",
+    "mnemonic": "e(밖으로) + stablish(안정). 안정적으로 세우면 설립!"
+  },
+  {
+    "en": "estimate",
+    "ko": "추정하다",
+    "example": "They estimated the cost of the project.",
+    "mnemonic": "estim(가치) + ate. 가치를 매기면 추정!"
+  },
+  {
+    "en": "evaluate",
+    "ko": "평가하다",
+    "example": "Teachers evaluate students' progress.",
+    "mnemonic": "e(밖으로) + value(가치). 가치를 밖으로 내면 평가!"
+  },
+  {
+    "en": "eventually",
+    "ko": "결국",
+    "example": "He eventually passed the exam.",
+    "mnemonic": "event(사건) + ually. 여러 사건을 거쳐 결국!"
+  },
+  {
+    "en": "evidence",
+    "ko": "증거",
+    "example": "There is no evidence of the crime.",
+    "mnemonic": "e(밖으로) + vid(보다). 밖으로 보이는 것이 증거!"
+  },
+  {
+    "en": "evolve",
+    "ko": "진화하다",
+    "example": "Technology continues to evolve.",
+    "mnemonic": "e(밖으로) + volve(구르다). 밖으로 구르며 발전!"
+  },
+  {
+    "en": "exceed",
+    "ko": "초과하다",
+    "example": "Don't exceed the speed limit.",
+    "mnemonic": "ex(밖으로) + ceed(가다). 밖으로 나가면 초과!"
+  },
+  {
+    "en": "exclude",
+    "ko": "제외하다",
+    "example": "Tax is excluded from the price.",
+    "mnemonic": "ex(밖으로) + clude(닫다). 밖으로 닫아 제외!"
+  }
+]
