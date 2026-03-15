@@ -1,0 +1,332 @@
+[
+  {
+    "id": "middle-1-01",
+    "name": "중1 필수 영단어 01",
+    "description": "중1 영단어 1~25번",
+    "fileName": "middle-1-01.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-02",
+    "name": "중1 필수 영단어 02",
+    "description": "중1 영단어 26~50번",
+    "fileName": "middle-1-02.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-03",
+    "name": "중1 필수 영단어 03",
+    "description": "중1 영단어 51~75번",
+    "fileName": "middle-1-03.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-04",
+    "name": "중1 필수 영단어 04",
+    "description": "중1 영단어 76~100번",
+    "fileName": "middle-1-04.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-05",
+    "name": "중1 필수 영단어 05",
+    "description": "중1 영단어 101~125번",
+    "fileName": "middle-1-05.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-06",
+    "name": "중1 필수 영단어 06",
+    "description": "중1 영단어 126~150번",
+    "fileName": "middle-1-06.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-07",
+    "name": "중1 필수 영단어 07",
+    "description": "중1 영단어 151~175번",
+    "fileName": "middle-1-07.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-08",
+    "name": "중1 필수 영단어 08",
+    "description": "중1 영단어 176~200번",
+    "fileName": "middle-1-08.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-09",
+    "name": "중1 필수 영단어 09",
+    "description": "중1 영단어 201~225번",
+    "fileName": "middle-1-09.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-1-10",
+    "name": "중1 필수 영단어 10",
+    "description": "중1 영단어 226~250번",
+    "fileName": "middle-1-10.json",
+    "wordCount": 25,
+    "tags": [
+      "중1",
+      "기초"
+    ]
+  },
+  {
+    "id": "middle-2-01",
+    "name": "중2 필수 영단어 01",
+    "description": "중2 영단어 1~25번",
+    "fileName": "middle-2-01.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-02",
+    "name": "중2 필수 영단어 02",
+    "description": "중2 영단어 26~50번",
+    "fileName": "middle-2-02.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-03",
+    "name": "중2 필수 영단어 03",
+    "description": "중2 영단어 51~75번",
+    "fileName": "middle-2-03.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-04",
+    "name": "중2 필수 영단어 04",
+    "description": "중2 영단어 76~100번",
+    "fileName": "middle-2-04.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-05",
+    "name": "중2 필수 영단어 05",
+    "description": "중2 영단어 101~125번",
+    "fileName": "middle-2-05.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-06",
+    "name": "중2 필수 영단어 06",
+    "description": "중2 영단어 126~150번",
+    "fileName": "middle-2-06.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-07",
+    "name": "중2 필수 영단어 07",
+    "description": "중2 영단어 151~175번",
+    "fileName": "middle-2-07.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-08",
+    "name": "중2 필수 영단어 08",
+    "description": "중2 영단어 176~200번",
+    "fileName": "middle-2-08.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-09",
+    "name": "중2 필수 영단어 09",
+    "description": "중2 영단어 201~225번",
+    "fileName": "middle-2-09.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-2-10",
+    "name": "중2 필수 영단어 10",
+    "description": "중2 영단어 226~250번",
+    "fileName": "middle-2-10.json",
+    "wordCount": 25,
+    "tags": [
+      "중2",
+      "중급"
+    ]
+  },
+  {
+    "id": "middle-3-01",
+    "name": "중3 필수 영단어 01",
+    "description": "중3 영단어 1~25번",
+    "fileName": "middle-3-01.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-02",
+    "name": "중3 필수 영단어 02",
+    "description": "중3 영단어 26~50번",
+    "fileName": "middle-3-02.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-03",
+    "name": "중3 필수 영단어 03",
+    "description": "중3 영단어 51~75번",
+    "fileName": "middle-3-03.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-04",
+    "name": "중3 필수 영단어 04",
+    "description": "중3 영단어 76~100번",
+    "fileName": "middle-3-04.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-05",
+    "name": "중3 필수 영단어 05",
+    "description": "중3 영단어 101~125번",
+    "fileName": "middle-3-05.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-06",
+    "name": "중3 필수 영단어 06",
+    "description": "중3 영단어 126~150번",
+    "fileName": "middle-3-06.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-07",
+    "name": "중3 필수 영단어 07",
+    "description": "중3 영단어 151~175번",
+    "fileName": "middle-3-07.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-08",
+    "name": "중3 필수 영단어 08",
+    "description": "중3 영단어 176~200번",
+    "fileName": "middle-3-08.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-09",
+    "name": "중3 필수 영단어 09",
+    "description": "중3 영단어 201~225번",
+    "fileName": "middle-3-09.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  },
+  {
+    "id": "middle-3-10",
+    "name": "중3 필수 영단어 10",
+    "description": "중3 영단어 226~250번",
+    "fileName": "middle-3-10.json",
+    "wordCount": 25,
+    "tags": [
+      "중3",
+      "심화"
+    ]
+  }
+]

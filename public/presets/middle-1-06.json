@@ -1,0 +1,152 @@
+[
+  {
+    "en": "wash",
+    "ko": "씻다",
+    "example": "Wash your hands before eating.",
+    "mnemonic": "'워시'는 세탁기로 씻는 것."
+  },
+  {
+    "en": "animal",
+    "ko": "동물",
+    "example": "Dogs are my favorite animals.",
+    "mnemonic": "'애니멀' 플래닛 채널에서 동물 다큐!"
+  },
+  {
+    "en": "birthday",
+    "ko": "생일",
+    "example": "Happy birthday to you!",
+    "mnemonic": "birth(태어남) + day(날). 태어난 날!"
+  },
+  {
+    "en": "cold",
+    "ko": "추운",
+    "example": "It's very cold today.",
+    "mnemonic": "'콜드'브루는 차가운 커피!"
+  },
+  {
+    "en": "draw",
+    "ko": "그리다",
+    "example": "Can you draw a picture?",
+    "mnemonic": "'드로잉'은 그림을 그리는 것."
+  },
+  {
+    "en": "early",
+    "ko": "일찍",
+    "example": "I woke up early this morning.",
+    "mnemonic": "'얼리'버드는 일찍 일어나는 새!"
+  },
+  {
+    "en": "forget",
+    "ko": "잊다",
+    "example": "Don't forget your homework.",
+    "mnemonic": "for + get. 가져가려(get) 했는데 잊었다!"
+  },
+  {
+    "en": "glad",
+    "ko": "기쁜",
+    "example": "I'm glad to see you.",
+    "mnemonic": "'글래드'는 기쁜 마음!"
+  },
+  {
+    "en": "horse",
+    "ko": "말",
+    "example": "She rides a horse every weekend.",
+    "mnemonic": "'호스'파워는 말의 힘!"
+  },
+  {
+    "en": "interest",
+    "ko": "흥미",
+    "example": "I have an interest in science.",
+    "mnemonic": "'인터레스트'는 관심을 끄는 것."
+  },
+  {
+    "en": "leave",
+    "ko": "떠나다",
+    "example": "I will leave at 5 o'clock.",
+    "mnemonic": "'리브'는 떠나는 것. leaf(잎)이 떨어지듯!"
+  },
+  {
+    "en": "minute",
+    "ko": "분",
+    "example": "Wait a minute, please.",
+    "mnemonic": "'미닛'은 60초짜리 시간 단위, 분."
+  },
+  {
+    "en": "newspaper",
+    "ko": "신문",
+    "example": "My dad reads the newspaper every morning.",
+    "mnemonic": "news(소식) + paper(종이). 소식이 담긴 종이!"
+  },
+  {
+    "en": "office",
+    "ko": "사무실, 오피스",
+    "example": "My mom works in an office.",
+    "mnemonic": "'오피스'는 일하는 사무실."
+  },
+  {
+    "en": "party",
+    "ko": "파티",
+    "example": "We had a fun party last night.",
+    "mnemonic": "'파티'는 한국어로도 같아요!"
+  },
+  {
+    "en": "remember",
+    "ko": "기억하다",
+    "example": "Please remember my name.",
+    "mnemonic": "re(다시) + member(구성원). 다시 떠올리면 기억!"
+  },
+  {
+    "en": "shop",
+    "ko": "가게",
+    "example": "Let's go to the shop.",
+    "mnemonic": "'쇼핑'하러 가게에 가요!"
+  },
+  {
+    "en": "together",
+    "ko": "함께",
+    "example": "Let's play together.",
+    "mnemonic": "to + get + her. 함께 모이는 것!"
+  },
+  {
+    "en": "vacation",
+    "ko": "방학",
+    "example": "Where did you go on vacation?",
+    "mnemonic": "'바케이션'은 쉬러 떠나는 휴가!"
+  },
+  {
+    "en": "week",
+    "ko": "주",
+    "example": "I exercise three times a week.",
+    "mnemonic": "'위크'엔드(주말)의 위크, 한 주!"
+  },
+  {
+    "en": "alive",
+    "ko": "살아있는",
+    "example": "The fish is still alive.",
+    "mnemonic": "a + live(살다). 살아있는!"
+  },
+  {
+    "en": "brother",
+    "ko": "형",
+    "example": "My brother is older than me.",
+    "mnemonic": "'브라더'는 형제, 남자 형제."
+  },
+  {
+    "en": "carry",
+    "ko": "나르다",
+    "example": "Can you carry this box?",
+    "mnemonic": "'캐리'어를 들고 가는 것처럼 나르다."
+  },
+  {
+    "en": "dream",
+    "ko": "꿈",
+    "example": "I had a wonderful dream last night.",
+    "mnemonic": "'드림'은 자면서 꾸는 꿈."
+  },
+  {
+    "en": "earth",
+    "ko": "지구",
+    "example": "The earth goes around the sun.",
+    "mnemonic": "'어스'는 우리가 사는 행성 지구!"
+  }
+]

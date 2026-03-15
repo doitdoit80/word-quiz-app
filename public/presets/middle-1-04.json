@@ -1,0 +1,152 @@
+[
+  {
+    "en": "join",
+    "ko": "참가하다",
+    "example": "Can I join your team?",
+    "mnemonic": "'조인'하면 팀에 합류!"
+  },
+  {
+    "en": "kitchen",
+    "ko": "부엌, 주방",
+    "example": "Mom is cooking in the kitchen.",
+    "mnemonic": "'키친'은 요리하는 공간, 부엌."
+  },
+  {
+    "en": "letter",
+    "ko": "편지",
+    "example": "I wrote a letter to my friend.",
+    "mnemonic": "'레터'는 마음을 담은 편지."
+  },
+  {
+    "en": "mouth",
+    "ko": "입",
+    "example": "Open your mouth wide.",
+    "mnemonic": "'마우스'워시로 입을 헹궈요."
+  },
+  {
+    "en": "number",
+    "ko": "숫자",
+    "example": "What is your phone number?",
+    "mnemonic": "'넘버'원! 1등 숫자!"
+  },
+  {
+    "en": "picture",
+    "ko": "그림",
+    "example": "She drew a picture of her house.",
+    "mnemonic": "'픽처'는 카메라로 찍은 사진이나 그림."
+  },
+  {
+    "en": "read",
+    "ko": "읽다",
+    "example": "I read books every night.",
+    "mnemonic": "'리드'는 책을 읽는 것. 리딩!"
+  },
+  {
+    "en": "sleep",
+    "ko": "자다",
+    "example": "I need to sleep early tonight.",
+    "mnemonic": "'슬립'은 잠을 자는 것. 슬리핑!"
+  },
+  {
+    "en": "teach",
+    "ko": "가르치다",
+    "example": "She teaches English at school.",
+    "mnemonic": "'티치'는 가르치다. 티처는 선생님!"
+  },
+  {
+    "en": "under",
+    "ko": "~아래에",
+    "example": "The cat is under the table.",
+    "mnemonic": "'언더'웨어는 아래에 입는 옷."
+  },
+  {
+    "en": "voice",
+    "ko": "목소리",
+    "example": "She has a beautiful voice.",
+    "mnemonic": "'보이스'피싱의 보이스, 목소리."
+  },
+  {
+    "en": "watch",
+    "ko": "보다",
+    "example": "Let's watch a movie tonight.",
+    "mnemonic": "'워치'는 손목시계, 또는 지켜보다."
+  },
+  {
+    "en": "angry",
+    "ko": "화난",
+    "example": "Don't be angry with me.",
+    "mnemonic": "'앵그리'버드는 화난 새!"
+  },
+  {
+    "en": "beach",
+    "ko": "해변, 바닷가",
+    "example": "We played at the beach.",
+    "mnemonic": "'비치'발리볼을 해변에서 해요."
+  },
+  {
+    "en": "class",
+    "ko": "수업",
+    "example": "My favorite class is science.",
+    "mnemonic": "'클래스'는 교실에서 하는 수업."
+  },
+  {
+    "en": "dinner",
+    "ko": "저녁 식사, 저녁밥",
+    "example": "What's for dinner tonight?",
+    "mnemonic": "'디너'쇼를 보면서 저녁 식사!"
+  },
+  {
+    "en": "enjoy",
+    "ko": "즐기다",
+    "example": "I enjoy playing soccer.",
+    "mnemonic": "en(안에) + joy(기쁨). 기쁨 안에 있으면 즐기는 것!"
+  },
+  {
+    "en": "friend",
+    "ko": "친구",
+    "example": "He is my best friend.",
+    "mnemonic": "'프렌드'는 미드 제목으로도 유명하죠!"
+  },
+  {
+    "en": "great",
+    "ko": "훌륭한",
+    "example": "You did a great job!",
+    "mnemonic": "'그레이트'월은 만리장성, 큰 벽!"
+  },
+  {
+    "en": "help",
+    "ko": "돕다",
+    "example": "Can you help me?",
+    "mnemonic": "'헬프'! 도와주세요!"
+  },
+  {
+    "en": "idea",
+    "ko": "생각",
+    "example": "That's a great idea!",
+    "mnemonic": "'아이디어'는 한국어로도 그대로!"
+  },
+  {
+    "en": "know",
+    "ko": "알다",
+    "example": "I know the answer.",
+    "mnemonic": "'노'는 발음이 같은 no와 헷갈리지만 알다!"
+  },
+  {
+    "en": "learn",
+    "ko": "배우다",
+    "example": "I want to learn Korean.",
+    "mnemonic": "'러닝'(learning)은 배우는 것!"
+  },
+  {
+    "en": "make",
+    "ko": "만들다",
+    "example": "Let's make a cake together.",
+    "mnemonic": "'메이크'업은 얼굴을 만드는 것!"
+  },
+  {
+    "en": "need",
+    "ko": "필요하다",
+    "example": "I need your help.",
+    "mnemonic": "'니드'는 꼭 필요한 것."
+  }
+]

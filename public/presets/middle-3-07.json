@@ -1,0 +1,152 @@
+[
+  {
+    "en": "reconstruct",
+    "ko": "재건하다",
+    "example": "They reconstructed the damaged building.",
+    "mnemonic": "re(다시) + construct(건설). 다시 건설하면 재건!"
+  },
+  {
+    "en": "refer",
+    "ko": "언급하다",
+    "example": "Please refer to the manual.",
+    "mnemonic": "re(다시) + fer(가져오다). 다시 가져와 참조!"
+  },
+  {
+    "en": "reject",
+    "ko": "거부하다",
+    "example": "She rejected the offer.",
+    "mnemonic": "re(뒤로) + ject(던지다). 뒤로 던지면 거부!"
+  },
+  {
+    "en": "relevant",
+    "ko": "관련 있는",
+    "example": "This information is relevant to the topic.",
+    "mnemonic": "re(다시) + lev(들다). 다시 들 만큼 관련 있는!"
+  },
+  {
+    "en": "reluctant",
+    "ko": "꺼리는",
+    "example": "She was reluctant to speak in public.",
+    "mnemonic": "re(반대) + luct(투쟁). 반대로 투쟁하면 꺼림!"
+  },
+  {
+    "en": "resource",
+    "ko": "자원",
+    "example": "Water is a valuable natural resource.",
+    "mnemonic": "re(다시) + source(원천). 다시 쓸 수 있는 원천이 자원!"
+  },
+  {
+    "en": "restore",
+    "ko": "복원하다",
+    "example": "They restored the old painting.",
+    "mnemonic": "re(다시) + store(저장). 다시 원래대로 저장하면 복원!"
+  },
+  {
+    "en": "restrict",
+    "ko": "제한하다",
+    "example": "The government restricted travel.",
+    "mnemonic": "re(뒤로) + strict(엄격). 엄격하게 막으면 제한."
+  },
+  {
+    "en": "retain",
+    "ko": "유지하다",
+    "example": "She retained her position as CEO.",
+    "mnemonic": "re(뒤에) + tain(잡다). 뒤에서 꽉 잡으면 유지!"
+  },
+  {
+    "en": "revolution",
+    "ko": "혁명",
+    "example": "The industrial revolution changed the world.",
+    "mnemonic": "revolve(회전) + tion. 세상을 뒤집는 혁명!"
+  },
+  {
+    "en": "sacrifice",
+    "ko": "희생",
+    "example": "She sacrificed her free time for the project.",
+    "mnemonic": "sacri(신성한) + fice(만들다). 신에게 바치는 희생!"
+  },
+  {
+    "en": "schedule",
+    "ko": "일정",
+    "example": "Check your schedule for tomorrow.",
+    "mnemonic": "'스케줄'은 한국어로도 쓰이는 일정!"
+  },
+  {
+    "en": "secure",
+    "ko": "안전한",
+    "example": "Make sure the door is secure.",
+    "mnemonic": "se(떨어져) + cure(걱정). 걱정에서 벗어나면 안전!"
+  },
+  {
+    "en": "significant",
+    "ko": "중요한",
+    "example": "There has been a significant change.",
+    "mnemonic": "sign(표시) + ificant. 표시할 만큼 중요한!"
+  },
+  {
+    "en": "species",
+    "ko": "종(種)",
+    "example": "Many species are endangered.",
+    "mnemonic": "speci(보다) + es. 보고 나눈 종류가 종!"
+  },
+  {
+    "en": "strategy",
+    "ko": "전략",
+    "example": "We need a new marketing strategy.",
+    "mnemonic": "strat(군대) + egy. 군대의 작전이 전략!"
+  },
+  {
+    "en": "strengthen",
+    "ko": "강화하다",
+    "example": "Exercise strengthens your muscles.",
+    "mnemonic": "strength(힘) + en. 힘을 더하면 강화!"
+  },
+  {
+    "en": "substitute",
+    "ko": "대신하다",
+    "example": "You can substitute butter with oil.",
+    "mnemonic": "sub(아래에) + stitute(세우다). 아래에 대신 세우면 대체!"
+  },
+  {
+    "en": "sufficient",
+    "ko": "충분한",
+    "example": "Do we have sufficient supplies?",
+    "mnemonic": "suf(아래에서) + fici(만들다). 아래에서 다 만들면 충분!"
+  },
+  {
+    "en": "sustain",
+    "ko": "유지하다",
+    "example": "We need to sustain economic growth.",
+    "mnemonic": "sus(아래에서) + tain(잡다). 아래에서 잡아주면 지탱!"
+  },
+  {
+    "en": "temporary",
+    "ko": "일시적인",
+    "example": "This is a temporary solution.",
+    "mnemonic": "tempor(시간) + ary. 시간이 정해진 일시적!"
+  },
+  {
+    "en": "territory",
+    "ko": "영토",
+    "example": "The country expanded its territory.",
+    "mnemonic": "terri(땅) + tory. 땅의 범위가 영토!"
+  },
+  {
+    "en": "theory",
+    "ko": "이론",
+    "example": "Einstein developed the theory of relativity.",
+    "mnemonic": "'이론(theory)'은 생각을 체계화한 것."
+  },
+  {
+    "en": "threaten",
+    "ko": "위협하다",
+    "example": "Pollution threatens wildlife.",
+    "mnemonic": "threat(위협) + en. 위협을 가하다!"
+  },
+  {
+    "en": "transform",
+    "ko": "변환시키다",
+    "example": "Technology has transformed our lives.",
+    "mnemonic": "trans(넘어) + form(형태). 형태를 넘어 바꾸면 변환!"
+  }
+]

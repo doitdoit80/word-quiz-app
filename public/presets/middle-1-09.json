@@ -1,0 +1,152 @@
+[
+  {
+    "en": "change",
+    "ko": "변화",
+    "example": "We need to change our plan.",
+    "mnemonic": "'체인지'는 바꾸는 것. 거스름돈도 체인지!"
+  },
+  {
+    "en": "special",
+    "ko": "특별한",
+    "example": "Today is a special day.",
+    "mnemonic": "'스페셜'은 그대로! 특별한 것."
+  },
+  {
+    "en": "happen",
+    "ko": "일어나다",
+    "example": "What happened yesterday?",
+    "mnemonic": "'해프닝'이 일어났다! 무슨 일이 발생한 것."
+  },
+  {
+    "en": "practice",
+    "ko": "연습",
+    "example": "Practice makes perfect.",
+    "mnemonic": "'프랙티스'는 완벽해지려면 필수인 연습!"
+  },
+  {
+    "en": "listen",
+    "ko": "듣다",
+    "example": "Listen to the music carefully.",
+    "mnemonic": "'리슨'할 때 귀를 기울여요."
+  },
+  {
+    "en": "follow",
+    "ko": "따라가다",
+    "example": "Follow me, please.",
+    "mnemonic": "SNS에서 '팔로우'하면 따라가는 것!"
+  },
+  {
+    "en": "please",
+    "ko": "제발",
+    "example": "Please help me.",
+    "mnemonic": "'플리즈'는 부탁할 때 붙이는 말."
+  },
+  {
+    "en": "wonderful",
+    "ko": "놀라운",
+    "example": "We had a wonderful time.",
+    "mnemonic": "wonder(놀라움) + ful(가득한). 놀라움이 가득!"
+  },
+  {
+    "en": "holiday",
+    "ko": "휴일",
+    "example": "What did you do during the holiday?",
+    "mnemonic": "holy(성스러운) + day(날). 쉬는 날!"
+  },
+  {
+    "en": "sometimes",
+    "ko": "때때로",
+    "example": "I sometimes go to the park.",
+    "mnemonic": "some(일부) + times(시간). 가끔!"
+  },
+  {
+    "en": "favorite",
+    "ko": "가장 좋아하는",
+    "example": "What is your favorite subject?",
+    "mnemonic": "'페이보릿'은 가장 좋아하는 것!"
+  },
+  {
+    "en": "move",
+    "ko": "움직이다",
+    "example": "Don't move! Stay there.",
+    "mnemonic": "'무브'는 움직이는 것. 무비(movie)도 움직이는 그림!"
+  },
+  {
+    "en": "pick",
+    "ko": "고르다",
+    "example": "Pick one card from the pile.",
+    "mnemonic": "'피크'는 골라 집는 것. 피킹!"
+  },
+  {
+    "en": "hope",
+    "ko": "희망",
+    "example": "I hope you feel better soon.",
+    "mnemonic": "'호프'는 바라고 희망하는 마음."
+  },
+  {
+    "en": "feel",
+    "ko": "느끼다",
+    "example": "I feel happy today.",
+    "mnemonic": "'필'이 꽂히다! 느끼는 것."
+  },
+  {
+    "en": "spend",
+    "ko": "(시간을) 보내다",
+    "example": "I spend weekends with my family.",
+    "mnemonic": "'스펜드'는 시간이나 돈을 쓰는 것."
+  },
+  {
+    "en": "hurt",
+    "ko": "다치다",
+    "example": "My leg hurts.",
+    "mnemonic": "'허트'는 아프고 다치는 것."
+  },
+  {
+    "en": "fill",
+    "ko": "채우다",
+    "example": "Fill the glass with water.",
+    "mnemonic": "'필'업은 가득 채우는 것!"
+  },
+  {
+    "en": "taste",
+    "ko": "맛",
+    "example": "This soup tastes good.",
+    "mnemonic": "'테이스트'는 혀로 느끼는 맛."
+  },
+  {
+    "en": "church",
+    "ko": "교회",
+    "example": "We go to church on Sundays.",
+    "mnemonic": "'처치'는 예배를 드리는 교회."
+  },
+  {
+    "en": "wrong",
+    "ko": "잘못된",
+    "example": "This answer is wrong.",
+    "mnemonic": "'롱'은 잘못된 것. 라이트(right)의 반대!"
+  },
+  {
+    "en": "cross",
+    "ko": "건너다",
+    "example": "Look both ways before you cross the street.",
+    "mnemonic": "'크로스'워드는 십자로 된 퍼즐. 건너가는 것!"
+  },
+  {
+    "en": "smile",
+    "ko": "미소",
+    "example": "She always has a warm smile.",
+    "mnemonic": "'스마일'은 웃는 얼굴 미소!"
+  },
+  {
+    "en": "sweet",
+    "ko": "달콤한",
+    "example": "This candy is very sweet.",
+    "mnemonic": "'스위트'한 초콜릿은 달콤해요."
+  },
+  {
+    "en": "strong",
+    "ko": "강한",
+    "example": "He is very strong.",
+    "mnemonic": "'스트롱'맨은 힘이 센 사람!"
+  }
+]

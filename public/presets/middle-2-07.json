@@ -1,0 +1,152 @@
+[
+  {
+    "en": "entire",
+    "ko": "전체의",
+    "example": "The entire class went on a field trip.",
+    "mnemonic": "'엔타이어'는 통째로 전체!"
+  },
+  {
+    "en": "equal",
+    "ko": "같은",
+    "example": "Everyone is equal before the law.",
+    "mnemonic": "'이퀄'은 = 기호! 같은 것."
+  },
+  {
+    "en": "exact",
+    "ko": "정확한",
+    "example": "What is the exact time?",
+    "mnemonic": "ex(완전히) + act(행하다). 완벽하게 맞으면 정확!"
+  },
+  {
+    "en": "favor",
+    "ko": "호의",
+    "example": "Can you do me a favor?",
+    "mnemonic": "'페이버'는 좋아하는 쪽으로 기울어진 호의."
+  },
+  {
+    "en": "force",
+    "ko": "힘",
+    "example": "The force of the wind was strong.",
+    "mnemonic": "'포스'가 느껴진다! 스타워즈의 힘!"
+  },
+  {
+    "en": "hire",
+    "ko": "고용하다",
+    "example": "The company hired ten new workers.",
+    "mnemonic": "'하이어'는 높은(high) 사람을 데려오는 고용!"
+  },
+  {
+    "en": "honor",
+    "ko": "명예",
+    "example": "It's an honor to meet you.",
+    "mnemonic": "'아너'는 명예로운 것. 아너 학생!"
+  },
+  {
+    "en": "indicate",
+    "ko": "나타내다",
+    "example": "The sign indicates the exit.",
+    "mnemonic": "indi(안에서) + cate(말하다). 안에서 가리키며 말하면 나타내다!"
+  },
+  {
+    "en": "intend",
+    "ko": "~할 작정이다",
+    "example": "I intend to finish this today.",
+    "mnemonic": "in(안에) + tend(향하다). 안에서 향하면 의도!"
+  },
+  {
+    "en": "major",
+    "ko": "주요한",
+    "example": "This is a major decision.",
+    "mnemonic": "'메이저'리그는 주요한 리그!"
+  },
+  {
+    "en": "memory",
+    "ko": "기억",
+    "example": "I have happy memories of my childhood.",
+    "mnemonic": "'메모리'카드에 추억을 저장!"
+  },
+  {
+    "en": "method",
+    "ko": "방법",
+    "example": "We tried a new method.",
+    "mnemonic": "'메서드'는 프로그래밍에서도 쓰는 방법!"
+  },
+  {
+    "en": "mind",
+    "ko": "마음",
+    "example": "Change your mind if you want.",
+    "mnemonic": "'마인드'맵은 마음의 지도!"
+  },
+  {
+    "en": "opinion",
+    "ko": "의견",
+    "example": "What is your opinion on this?",
+    "mnemonic": "'오피니언'리더는 의견을 이끄는 사람!"
+  },
+  {
+    "en": "physical",
+    "ko": "신체의",
+    "example": "Physical exercise is important for health.",
+    "mnemonic": "'피지컬'이 좋다 = 신체가 좋다!"
+  },
+  {
+    "en": "policy",
+    "ko": "정책",
+    "example": "The school has a no-phone policy.",
+    "mnemonic": "'폴리시'는 정부나 학교의 정책!"
+  },
+  {
+    "en": "pressure",
+    "ko": "압력",
+    "example": "He is under a lot of pressure.",
+    "mnemonic": "press(누르다) + ure. 누르는 것이 압력!"
+  },
+  {
+    "en": "principle",
+    "ko": "원칙",
+    "example": "He is a man of principle.",
+    "mnemonic": "'프린시플'은 기본이 되는 원칙!"
+  },
+  {
+    "en": "profit",
+    "ko": "이익",
+    "example": "The company made a big profit.",
+    "mnemonic": "pro(앞으로) + fit(맞다). 앞으로 맞아떨어지면 이익!"
+  },
+  {
+    "en": "quality",
+    "ko": "품질",
+    "example": "This product is of high quality.",
+    "mnemonic": "'퀄리티'가 높다 = 품질이 좋다!"
+  },
+  {
+    "en": "range",
+    "ko": "범위",
+    "example": "A wide range of products is available.",
+    "mnemonic": "'레인지'는 사격장의 범위!"
+  },
+  {
+    "en": "recent",
+    "ko": "최근의",
+    "example": "I read a recent news article.",
+    "mnemonic": "re(다시) + cent(새로운). 새로 다시 온 것이 최근!"
+  },
+  {
+    "en": "reform",
+    "ko": "개혁",
+    "example": "The government plans social reform.",
+    "mnemonic": "re(다시) + form(형태). 형태를 다시 만들면 개혁!"
+  },
+  {
+    "en": "region",
+    "ko": "지역",
+    "example": "This region is known for its wine.",
+    "mnemonic": "'리전'은 특정 지역을 가리키는 말."
+  },
+  {
+    "en": "release",
+    "ko": "풀어주다",
+    "example": "They released a new album.",
+    "mnemonic": "re(다시) + lease(풀다). 다시 풀어주면 출시!"
+  }
+]

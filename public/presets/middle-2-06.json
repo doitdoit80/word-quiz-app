@@ -1,0 +1,152 @@
+[
+  {
+    "en": "reveal",
+    "ko": "드러내다",
+    "example": "He revealed his secret.",
+    "mnemonic": "re(다시) + veal(베일). 베일을 벗기면 드러남!"
+  },
+  {
+    "en": "select",
+    "ko": "선택하다",
+    "example": "Please select your answer.",
+    "mnemonic": "se(떨어져) + lect(모으다). 떼어서 모으면 선택!"
+  },
+  {
+    "en": "serious",
+    "ko": "심각한",
+    "example": "This is a serious problem.",
+    "mnemonic": "'시리어스'한 표정은 진지한 표정!"
+  },
+  {
+    "en": "service",
+    "ko": "서비스",
+    "example": "The service at this hotel is excellent.",
+    "mnemonic": "'서비스'는 한국어로도 같아요!"
+  },
+  {
+    "en": "similar",
+    "ko": "비슷한",
+    "example": "The two dresses are similar.",
+    "mnemonic": "'시밀러'는 닮은 것, 비슷한 것."
+  },
+  {
+    "en": "society",
+    "ko": "사회",
+    "example": "We live in a modern society.",
+    "mnemonic": "soci(동료) + ety. 동료들이 모인 사회!"
+  },
+  {
+    "en": "solution",
+    "ko": "해결책",
+    "example": "We need to find a solution.",
+    "mnemonic": "solve(풀다) + tion. 문제를 풀면 해결책!"
+  },
+  {
+    "en": "spread",
+    "ko": "퍼지다",
+    "example": "The news spread quickly.",
+    "mnemonic": "'스프레드'는 빵에 펼쳐 바르는 것처럼 퍼지는 것!"
+  },
+  {
+    "en": "structure",
+    "ko": "구조",
+    "example": "The structure of the building is strong.",
+    "mnemonic": "struct(쌓다) + ure. 쌓아올린 것이 구조!"
+  },
+  {
+    "en": "struggle",
+    "ko": "노력하다",
+    "example": "She struggled to finish the project.",
+    "mnemonic": "'스트러글'은 힘들게 발버둥치는 것!"
+  },
+  {
+    "en": "success",
+    "ko": "성공",
+    "example": "Hard work leads to success.",
+    "mnemonic": "suc(아래에서) + cess(가다). 아래에서 올라가면 성공!"
+  },
+  {
+    "en": "support",
+    "ko": "지지하다",
+    "example": "My family always supports me.",
+    "mnemonic": "sup(아래에서) + port(나르다). 아래에서 받쳐주면 지지!"
+  },
+  {
+    "en": "survive",
+    "ko": "살아남다",
+    "example": "Only a few plants survived the drought.",
+    "mnemonic": "sur(위에) + vive(살다). 위에서 살아남다!"
+  },
+  {
+    "en": "symbol",
+    "ko": "상징",
+    "example": "The dove is a symbol of peace.",
+    "mnemonic": "'심볼'은 무언가를 나타내는 상징!"
+  },
+  {
+    "en": "talent",
+    "ko": "재능",
+    "example": "She has a talent for singing.",
+    "mnemonic": "'탤런트'는 재능 있는 사람을 뜻하기도!"
+  },
+  {
+    "en": "valuable",
+    "ko": "가치 있는",
+    "example": "Time is very valuable.",
+    "mnemonic": "value(가치) + able(할 수 있는). 가치가 있는!"
+  },
+  {
+    "en": "variety",
+    "ko": "다양성",
+    "example": "There is a wide variety of food.",
+    "mnemonic": "vary(다양하다) + ety. 다양한 것들의 모음!"
+  },
+  {
+    "en": "warn",
+    "ko": "경고하다",
+    "example": "I warned him about the danger.",
+    "mnemonic": "'워닝'은 경고! 위험을 알리는 것."
+  },
+  {
+    "en": "worth",
+    "ko": "가치가 있는",
+    "example": "This book is worth reading.",
+    "mnemonic": "'워스'는 ~할 가치가 있다는 뜻."
+  },
+  {
+    "en": "apply",
+    "ko": "지원하다",
+    "example": "She applied for the job.",
+    "mnemonic": "ap(~에) + ply(접다). 서류를 접어 제출하면 지원!"
+  },
+  {
+    "en": "base",
+    "ko": "기초",
+    "example": "This soup has a tomato base.",
+    "mnemonic": "'베이스'캠프는 기초가 되는 캠프!"
+  },
+  {
+    "en": "beyond",
+    "ko": "~너머에",
+    "example": "The view beyond the mountain is beautiful.",
+    "mnemonic": "be + yond(저쪽). 저쪽 너머에!"
+  },
+  {
+    "en": "claim",
+    "ko": "주장하다",
+    "example": "He claims he is innocent.",
+    "mnemonic": "'클레임'은 불만을 주장하는 것!"
+  },
+  {
+    "en": "divide",
+    "ko": "나누다",
+    "example": "Divide the cake into eight pieces.",
+    "mnemonic": "di(둘로) + vide(보다). 둘로 보면 나누기!"
+  },
+  {
+    "en": "emotion",
+    "ko": "감정",
+    "example": "She expressed her emotions through art.",
+    "mnemonic": "e(밖으로) + motion(움직임). 밖으로 움직이는 마음이 감정!"
+  }
+]

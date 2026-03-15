@@ -1,0 +1,152 @@
+[
+  {
+    "en": "transmit",
+    "ko": "전송하다",
+    "example": "Radio waves transmit information.",
+    "mnemonic": "trans(넘어) + mit(보내다). 넘어서 보내면 전송!"
+  },
+  {
+    "en": "ultimately",
+    "ko": "궁극적으로",
+    "example": "Ultimately, it's your decision.",
+    "mnemonic": "ultim(마지막) + ately. 마지막으로 = 궁극적으로!"
+  },
+  {
+    "en": "undergo",
+    "ko": "겪다",
+    "example": "The building is undergoing renovation.",
+    "mnemonic": "under(아래에서) + go(가다). 아래를 통과하며 겪다!"
+  },
+  {
+    "en": "undertake",
+    "ko": "착수하다",
+    "example": "She undertook a new project.",
+    "mnemonic": "under(아래에서) + take(잡다). 아래에서 잡아 시작!"
+  },
+  {
+    "en": "welfare",
+    "ko": "복지",
+    "example": "The government supports social welfare.",
+    "mnemonic": "well(잘) + fare(지내다). 잘 지내게 하는 복지."
+  },
+  {
+    "en": "yield",
+    "ko": "산출하다",
+    "example": "The farm yields a lot of corn.",
+    "mnemonic": "'이엘드'는 수확물을 내놓는 산출!"
+  },
+  {
+    "en": "absorb",
+    "ko": "흡수하다",
+    "example": "Plants absorb water from the soil.",
+    "mnemonic": "ab(~으로) + sorb(빨아들이다). 빨아들이면 흡수!"
+  },
+  {
+    "en": "abstract",
+    "ko": "추상적인",
+    "example": "The painting is very abstract.",
+    "mnemonic": "abs(떨어져) + tract(끌다). 현실에서 떨어져 끌어낸 추상!"
+  },
+  {
+    "en": "capacity",
+    "ko": "용량",
+    "example": "The stadium has a capacity of 50,000.",
+    "mnemonic": "cap(잡다) + acity. 잡을 수 있는 양이 용량!"
+  },
+  {
+    "en": "compile",
+    "ko": "편찬하다",
+    "example": "She compiled a list of books.",
+    "mnemonic": "com(함께) + pile(쌓다). 함께 쌓으면 편찬!"
+  },
+  {
+    "en": "component",
+    "ko": "구성 요소",
+    "example": "Each component of the machine is important.",
+    "mnemonic": "com(함께) + pon(놓다). 함께 놓인 것이 구성 요소!"
+  },
+  {
+    "en": "comprehensive",
+    "ko": "포괄적인",
+    "example": "We need a comprehensive plan.",
+    "mnemonic": "com(함께) + prehens(잡다). 함께 다 잡으면 포괄적!"
+  },
+  {
+    "en": "accumulate",
+    "ko": "축적하다",
+    "example": "She accumulated a lot of experience.",
+    "mnemonic": "ac(~에) + cumul(쌓다). 쌓이면 축적!"
+  },
+  {
+    "en": "advocate",
+    "ko": "옹호하다",
+    "example": "She advocates for animal rights.",
+    "mnemonic": "ad(~에) + voc(소리). 소리 내어 옹호!"
+  },
+  {
+    "en": "agriculture",
+    "ko": "농업, 농사",
+    "example": "Agriculture is the main industry here.",
+    "mnemonic": "agri(밭) + culture(경작). 밭을 경작하는 농업!"
+  },
+  {
+    "en": "ambassador",
+    "ko": "대사",
+    "example": "The ambassador met with the president.",
+    "mnemonic": "앰배서더는 나라를 대표하는 대사!"
+  },
+  {
+    "en": "annual",
+    "ko": "연례의",
+    "example": "The annual festival was held in May.",
+    "mnemonic": "annu(해) + al. 매해 하는 연례!"
+  },
+  {
+    "en": "appeal",
+    "ko": "호소하다",
+    "example": "The charity appealed for donations.",
+    "mnemonic": "ap(~에) + peal(끌다). 끌리면 호소!"
+  },
+  {
+    "en": "arbitrary",
+    "ko": "임의의",
+    "example": "The decision seemed arbitrary.",
+    "mnemonic": "arbiter(중재자) + ary. 마음대로 = 임의!"
+  },
+  {
+    "en": "assemble",
+    "ko": "조립하다",
+    "example": "We assembled the furniture.",
+    "mnemonic": "as(~에) + semble(함께). 함께 모아 조립!"
+  },
+  {
+    "en": "autonomous",
+    "ko": "자율적인",
+    "example": "The car is fully autonomous.",
+    "mnemonic": "auto(스스로) + nom(법). 스스로 법을 세우면 자율!"
+  },
+  {
+    "en": "barrier",
+    "ko": "장벽",
+    "example": "Language can be a barrier.",
+    "mnemonic": "bar(막대) + rier. 막대로 막으면 장벽!"
+  },
+  {
+    "en": "bias",
+    "ko": "편견, 선입견",
+    "example": "We should avoid bias in research.",
+    "mnemonic": "바이어스는 한쪽으로 치우친 편견!"
+  },
+  {
+    "en": "broadcast",
+    "ko": "방송하다",
+    "example": "The game was broadcast live.",
+    "mnemonic": "broad(넓게) + cast(던지다). 넓게 던지면 방송!"
+  },
+  {
+    "en": "bureaucracy",
+    "ko": "관료제",
+    "example": "Government bureaucracy can be slow.",
+    "mnemonic": "bureau(사무실) + cracy(통치). 관료제!"
+  }
+]

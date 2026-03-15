@@ -1,37 +1,90 @@
 # 📚 단어 테스트 애플리케이션 (Word Quiz App)
 
-Claude Code를 통해 개발할 단어 테스트 앱의 요구사항 및 설계 문서입니다.
+단어장을 관리하고, 주관식 퀴즈를 통해 영어 단어를 학습할 수 있는 웹 애플리케이션입니다.
 
 ## 1. 프로젝트 개요
-사용자가 단어장을 만들고, 이를 바탕으로 객관식 또는 주관식 퀴즈를 풀 수 있는 가벼운 웹 애플리케이션입니다.
 
-## 2. 기술 스택 (추천)
-- **Frontend:** Next.js (App Router), Tailwind CSS, Shadcn UI
-- **State Management:** React Context API 또는 Zustand
-- **Storage:** LocalStorage (브라우저 저장)
+사용자가 단어장을 만들고, 이를 바탕으로 주관식 퀴즈를 풀 수 있는 가벼운 웹 애플리케이션입니다.
+영어 단어의 TTS(음성 합성) 자동 재생, 30초 타이머, 취약 단어 분석 등의 학습 보조 기능을 제공합니다.
 
-## 3. 핵심 기능 목록
+## 2. 기술 스택
+
+| 분류 | 기술 |
+|------|------|
+| **Framework** | Next.js 16 (App Router) |
+| **Language** | TypeScript (Strict Mode) |
+| **Styling** | Tailwind CSS v4 |
+| **State Management** | React Context API + useReducer |
+| **Storage** | LocalStorage (브라우저 저장) |
+| **TTS** | Web Speech API (SpeechSynthesis) |
+
+## 3. 프로젝트 구조
+
+```
+src/
+├── app/
+│   ├── layout.tsx                  # 루트 레이아웃 (AppProvider 래핑)
+│   ├── page.tsx                    # 홈 페이지 (단어장 목록 + AI 프리셋)
+│   ├── globals.css                 # Tailwind CSS 설정
+│   ├── quiz/
+│   │   └── [id]/
+│   │       └── page.tsx            # 퀴즈 페이지 (동적 라우팅)
+│   └── wordbooks/
+│       └── [id]/
+│           └── page.tsx            # 단어장 관리 페이지 (동적 라우팅)
+├── contexts/
+│   └── AppContext.tsx              # 전역 상태 관리 (useReducer + Context)
+└── lib/
+    ├── types.ts                    # TypeScript 타입 정의
+    ├── storage.ts                  # localStorage 유틸리티
+    └── utils.ts                    # 헬퍼 함수 (정답 체크, 셔플 등)
+
+public/presets/                     # AI가 만든 프리셋 단어장 (30개 JSON)
+data/                               # 단어장 JSON 샘플 데이터
+```
+
+## 4. 핵심 기능 목록
+
 ### 1단계: 단어장 관리
-- [ ] 단어장별 단어 목록 추가 (단어, 뜻, 예문, )
-- [ ] 단어장별 단어 목록 조회 및 삭제
-- [ ] JSON 파일로 단어장 내보내기/불러오기
+- [x] 내 단어장 생성 / 이름 변경 / 삭제
+- [x] 단어장 드래그 앤 드롭 순서 변경
+- [x] 단어 추가 / 수정 / 삭제 (단어, 뜻, 예문, 암기 팁)
+- [x] JSON 파일로 단어장 내보내기/불러오기
+- [x] 개별 단어 발음 재생 (🔊 버튼)
+- [x] 전체 단어 순차 재생 (영어 → 한국어, 딜레이 포함)
+- [x] AI가 만든 프리셋 단어장 (중1/중2/중3 × 10세트, 총 750단어)
+  - 학년별 수평 스크롤 카루셀 UI
+  - AI 단어장은 AI 배지 표시 + 이름 변경 불가
+  - 중복 추가 방지 (추가됨 ✓ 상태 표시)
+  - 삭제 후 재추가 가능
+  - 테스트 90% 이상 정답 시 👑 정복 표시 (단어장 삭제 후에도 유지)
 
 ### 2단계: 테스트 모드
-- [ ] **주관식 퀴즈:** 영어을 보고 한글 뜻을 직접 입력하기, 쉼표(,)로 구분된 여러 뜻 중 하나만 입력해도 정답으로 인정(띄어쓰기 유연하게 처리) 
-                             문제가 출제될 때 영어 음성으로 한번 읽어줘
-                              - 자동 재생: 문제가 바뀔 때마다 영어 단어를 en-US 음성으로 자동 읽어줌 (속도 0.9배)
-                              - 🔊 버튼: 단어 옆에 버튼을 눌러 언제든 다시 들을 수 있음
-                              - 언마운트 시 중단: 페이지를 벗어나면 재생 중인 음성을 자동으로 중단
-- [ ] **오답 화면:** 틀리면 원 정답을 꼭 보여주고, 예문과 암기 팁도 같이 보여줘.
-                          틀렸을 경우는 자동으로 넘어가지 않도록 해야해. (다음 버튼을 눌러서 넘어가게)
-                          틀린 화면의 다음 버튼은 키보드 엔터를 쳐서도 다음으로 넘어가게 해줘.
-- [ ] **결과 화면:** 정답 개수, 오답 노드 표시
+- [x] **주관식 퀴즈:** 영어/한국어를 보고 뜻을 직접 입력
+  - 쉼표(,)로 구분된 여러 뜻 중 하나만 입력해도 정답 인정
+  - 괄호 안 내용 제거 후에도 매칭 시도
+  - 띄어쓰기, 대소문자, 특수문자 유연하게 처리
+- [x] **출제 방향 선택:** EN→KO (영어 보고 한국어 입력) 또는 KO→EN (한국어 보고 영어 입력)
+  - 방향 설정은 localStorage에 저장되어 유지
+- [x] **TTS 자동 재생:** EN→KO 모드에서 문제 출제 시 영어 단어 자동 발음
+  - 🔊 버튼으로 다시 듣기 가능
+  - 페이지 이탈 시 음성 자동 중단
+- [x] **30초 타이머:** 문제당 30초 카운트다운, 시간 초과 시 자동 오답 처리
+  - 남은 10초부터 빨간색 프로그레스 바
+- [x] **오답 화면:** 정답, 예문, 암기 팁 표시 / 수동으로 다음 문제 이동 (Enter 키 지원)
+- [x] **정답 화면:** 자동으로 0.7초 후 다음 문제로 이동
+- [x] **결과 화면:** 점수 표시 (이모지 등급), 오답 리뷰, 재시작 가능
 
-### 3단계: 학습 통계 (심화)
-- [ ] 정답률이 낮은 '취약 단어' 별도 표시
-- [ ] 최근 테스트 날짜 및 점수 기록
+### 3단계: 학습 통계
+- [x] 단어별 정답/오답 횟수 및 정답률 추적
+- [x] 정답률 50% 미만 '취약 단어' 별도 표시 (2회 이상 테스트 시)
+- [x] 취약 단어만 모아서 퀴즈 가능
+- [x] 최근 테스트 날짜 및 점수 기록 (단어장 카드에 표시)
+- [x] 단어별 / 단어장별 통계 초기화
 
-## 4. 데이터 구조 (Example)
+## 5. 데이터 구조
+
+### 단어 JSON 형식
 ```json
 [
   {
@@ -41,3 +94,58 @@ Claude Code를 통해 개발할 단어 테스트 앱의 요구사항 및 설계 
     "mnemonic": "ID 카드를 떠올리세요. '이게 그거 맞네'라고 확인해 주는 것."
   }
 ]
+```
+
+### 내부 타입 정의
+```typescript
+interface Word {
+  id: string;
+  en: string;
+  ko: string;
+  example?: string;
+  mnemonic?: string;
+}
+
+interface WordBook {
+  id: string;
+  name: string;
+  words: Word[];
+  createdAt: string; // ISO 8601
+  isPreset?: boolean; // AI가 만든 단어장 여부
+}
+
+interface WordStat {
+  correct: number;
+  wrong: number;
+  lastTested?: string;
+}
+
+interface TestRecord {
+  id: string;
+  wordBookId: string;
+  wordBookName: string;
+  date: string;
+  score: number;
+  total: number;
+  wrongWordIds: string[];
+}
+```
+
+## 6. 상태 관리 (Actions)
+
+| Action | 설명 |
+|--------|------|
+| LOAD | localStorage에서 데이터 초기 로드 |
+| ADD_WORDBOOK | 단어장 생성 |
+| DELETE_WORDBOOK | 단어장 삭제 |
+| RENAME_WORDBOOK | 단어장 이름 변경 |
+| REORDER_WORDBOOKS | 단어장 순서 변경 |
+| ADD_WORD | 단어 추가 |
+| UPDATE_WORD | 단어 수정 |
+| DELETE_WORD | 단어 삭제 |
+| IMPORT_WORDS | JSON 파일에서 단어 일괄 추가 |
+| UPDATE_STATS | 단어별 통계 업데이트 |
+| RESET_WORD_STAT | 개별 단어 통계 초기화 |
+| RESET_WORDBOOK_STATS | 단어장 전체 통계 초기화 |
+| RECORD_TEST | 테스트 결과 기록 + 통계 업데이트 (프리셋 90%↑ 시 정복 기록) |
+| ADD_WORDBOOK_WITH_WORDS | AI 프리셋 단어장 추가 (단어 포함) |

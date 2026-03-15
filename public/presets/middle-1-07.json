@@ -1,0 +1,152 @@
+[
+  {
+    "en": "fast",
+    "ko": "빠른",
+    "example": "The train is very fast.",
+    "mnemonic": "'패스트'푸드는 빠르게 나오는 음식!"
+  },
+  {
+    "en": "gift",
+    "ko": "선물",
+    "example": "Thank you for the gift.",
+    "mnemonic": "'기프트'카드를 선물로 주는 것."
+  },
+  {
+    "en": "high",
+    "ko": "높은",
+    "example": "That mountain is very high.",
+    "mnemonic": "'하이'파이브를 높이 올려서 치는 것!"
+  },
+  {
+    "en": "inside",
+    "ko": "안쪽에",
+    "example": "Come inside, it's raining.",
+    "mnemonic": "in(안) + side(쪽). 안쪽에!"
+  },
+  {
+    "en": "jump",
+    "ko": "뛰다",
+    "example": "The frog can jump very high.",
+    "mnemonic": "'점프'는 한국어로도 뛰는 것!"
+  },
+  {
+    "en": "large",
+    "ko": "큰",
+    "example": "They live in a large house.",
+    "mnemonic": "'라지'사이즈는 큰 사이즈!"
+  },
+  {
+    "en": "mountain",
+    "ko": "산",
+    "example": "We climbed the mountain yesterday.",
+    "mnemonic": "'마운틴'바이크를 타고 산을 올라요."
+  },
+  {
+    "en": "near",
+    "ko": "가까운",
+    "example": "The store is near my house.",
+    "mnemonic": "'니어'는 가까이 있는 것."
+  },
+  {
+    "en": "outside",
+    "ko": "바깥에",
+    "example": "Let's play outside.",
+    "mnemonic": "out(밖) + side(쪽). 바깥쪽에!"
+  },
+  {
+    "en": "poor",
+    "ko": "가난한",
+    "example": "The poor man had no food.",
+    "mnemonic": "'푸어'는 가난하거나 불쌍한 상태."
+  },
+  {
+    "en": "rich",
+    "ko": "부유한",
+    "example": "He is a rich man.",
+    "mnemonic": "'리치'는 부자인 상태. 부유한!"
+  },
+  {
+    "en": "sister",
+    "ko": "자매",
+    "example": "My sister is a doctor.",
+    "mnemonic": "'시스터'는 여자 형제, 자매."
+  },
+  {
+    "en": "travel",
+    "ko": "여행하다",
+    "example": "I want to travel around the world.",
+    "mnemonic": "'트래블'은 여행 가방을 끌고 떠나는 것."
+  },
+  {
+    "en": "warm",
+    "ko": "따뜻한",
+    "example": "It's warm and sunny today.",
+    "mnemonic": "'웜'은 따뜻한 느낌. 워밍업!"
+  },
+  {
+    "en": "add",
+    "ko": "더하다",
+    "example": "Add two and three.",
+    "mnemonic": "'애드'는 더하기. 추가하는 것!"
+  },
+  {
+    "en": "begin",
+    "ko": "시작하다",
+    "example": "Let's begin the lesson.",
+    "mnemonic": "'비긴'어게인! 다시 시작하다."
+  },
+  {
+    "en": "clean",
+    "ko": "깨끗한",
+    "example": "Keep your room clean.",
+    "mnemonic": "'클린'은 깨끗한 상태. 클리닝!"
+  },
+  {
+    "en": "dark",
+    "ko": "어두운",
+    "example": "It gets dark early in winter.",
+    "mnemonic": "'다크'초콜릿은 어두운 색의 초콜릿."
+  },
+  {
+    "en": "end",
+    "ko": "끝",
+    "example": "This is the end of the movie.",
+    "mnemonic": "'엔딩'은 끝나는 장면!"
+  },
+  {
+    "en": "finish",
+    "ko": "끝내다",
+    "example": "I finished my homework.",
+    "mnemonic": "'피니시'라인을 통과하면 끝!"
+  },
+  {
+    "en": "ground",
+    "ko": "땅",
+    "example": "Sit on the ground.",
+    "mnemonic": "'그라운드'는 축구하는 운동장 바닥."
+  },
+  {
+    "en": "hour",
+    "ko": "시간(한 시간)",
+    "example": "The movie is two hours long.",
+    "mnemonic": "'아워'는 60분짜리 시간 단위."
+  },
+  {
+    "en": "late",
+    "ko": "늦은",
+    "example": "Sorry, I'm late.",
+    "mnemonic": "'레이트'체크인은 늦게 들어가는 것."
+  },
+  {
+    "en": "miss",
+    "ko": "그리워하다",
+    "example": "I miss my old friends.",
+    "mnemonic": "'미스'는 그리워하거나 놓치는 것."
+  },
+  {
+    "en": "north",
+    "ko": "북쪽",
+    "example": "Canada is north of the United States.",
+    "mnemonic": "'노스'페이스는 북쪽 얼굴(산의 북벽)!"
+  }
+]

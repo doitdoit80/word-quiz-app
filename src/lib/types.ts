@@ -11,6 +11,7 @@ export interface WordBook {
   name: string;
   words: Word[];
   createdAt: string;
+  isPreset?: boolean;
 }
 
 export interface WordStat {
@@ -33,4 +34,5 @@ export interface AppData {
   wordBooks: WordBook[];
   wordStats: Record<string, WordStat>;
   testHistory: TestRecord[];
+  conqueredPresets: string[];
 }
