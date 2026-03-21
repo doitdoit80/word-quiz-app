@@ -1,0 +1,302 @@
+[
+  {
+    "en": "employ",
+    "ko": "고용하다, 사용하다",
+    "example": "The factory employs over 500 workers.",
+    "mnemonic": "em(안에) + ploy(접다, 엮다, plicare) = 안에 엮어넣다 → 고용하다. 관련어: imply, apply"
+  },
+  {
+    "en": "caution",
+    "ko": "주의, 경고",
+    "example": "Drive with caution on icy roads.",
+    "mnemonic": "caut(조심하다, cavere) + ion = 조심하는 것 → 주의, 경고. 관련어: precaution"
+  },
+  {
+    "en": "institution",
+    "ko": "기관, 제도",
+    "example": "The university is a respected educational institution.",
+    "mnemonic": "'인스티튜션' → '인스티튜트(institute)+션' 설립된 기관!"
+  },
+  {
+    "en": "passion",
+    "ko": "열정, 격정",
+    "example": "She has a great passion for painting.",
+    "mnemonic": "'패션' → '패션(passion)' 열정적으로 사랑하는 것!"
+  },
+  {
+    "en": "bubble",
+    "ko": "거품, 방울",
+    "example": "The children blew soap bubbles in the garden.",
+    "mnemonic": "중세 영어 bobel(방울)에서 유래. 의성어에서 온 말. 뽀글뽀글 올라오는 거품"
+  },
+  {
+    "en": "artificial",
+    "ko": "인공의, 인위적인",
+    "example": "The lake is artificial, not natural.",
+    "mnemonic": "art(기술, ars) + fic(만들다, facere) + ial = 기술로 만든 → 인공의"
+  },
+  {
+    "en": "scholar",
+    "ko": "학자",
+    "example": "The scholar published a book on ancient history.",
+    "mnemonic": "그리스어 schole(여가, 학교)에서 유래. 여가를 이용해 공부하는 사람 → 학자. 관련어: school"
+  },
+  {
+    "en": "install",
+    "ko": "설치하다",
+    "example": "We need to install a new air conditioner.",
+    "mnemonic": "'인스톨' → '인스톨(install)' 앱 설치!"
+  },
+  {
+    "en": "lean",
+    "ko": "기대다, 마른",
+    "example": "She leaned against the wall to rest.",
+    "mnemonic": "'린' → '린(lean)' 기울어져 기대다!"
+  },
+  {
+    "en": "penalty",
+    "ko": "벌칙, 처벌",
+    "example": "The penalty for speeding is a heavy fine.",
+    "mnemonic": "'페널티' → 축구 '페널티(penalty)' 킥 = 벌칙!"
+  },
+  {
+    "en": "project",
+    "ko": "프로젝트, 계획, 투영하다",
+    "example": "The science project took three months to complete.",
+    "mnemonic": "pro(앞으로) + ject(던지다, jacere) = 앞으로 던지다 → 계획. 관련어: reject, inject"
+  },
+  {
+    "en": "trace",
+    "ko": "흔적, 추적하다",
+    "example": "The detective traced the criminal's movements.",
+    "mnemonic": "라틴어 tractus(끌어당기다, 자취)에서 유래. trahere(끌다). 끌린 자국 → 흔적. 관련어: track"
+  },
+  {
+    "en": "plunge",
+    "ko": "뛰어들다, 급락하다",
+    "example": "Stock prices plunged after the bad news.",
+    "mnemonic": "라틴어 plumbicare(납추를 던지다)에서 유래. 납추처럼 떨어지다 → 급락하다"
+  },
+  {
+    "en": "cease",
+    "ko": "멈추다, 중단하다",
+    "example": "The factory ceased production last month.",
+    "mnemonic": "라틴어 cessare(그만두다, 쉬다)에서 유래. 활동을 그만두다 → 멈추다, 중단하다"
+  },
+  {
+    "en": "version",
+    "ko": "판, 버전",
+    "example": "This is the latest version of the software.",
+    "mnemonic": "vers(돌다, 바꾸다, vertere) + ion = 바뀐 것 → 판, 버전. 관련어: reverse, convert"
+  },
+  {
+    "en": "utilize",
+    "ko": "활용하다, 이용하다",
+    "example": "We should utilize our time wisely.",
+    "mnemonic": "utilis(쓸모있는, uti=쓰다) + ize(동사화) = 쓸모있게 하다 → 활용하다. 관련어: utility"
+  },
+  {
+    "en": "neutral",
+    "ko": "중립의",
+    "example": "Switzerland remained neutral during the war.",
+    "mnemonic": "'뉴트럴' → '뉴트럴(neutral)' 기어 = 중립!"
+  },
+  {
+    "en": "harm",
+    "ko": "해, 피해, 해치다",
+    "example": "Smoking can harm your health.",
+    "mnemonic": "'함' → '함(harm)정에 빠져 해를 입다!"
+  },
+  {
+    "en": "drag",
+    "ko": "끌다, 질질 끌다",
+    "example": "He dragged the heavy box across the floor.",
+    "mnemonic": "고대 영어 dragan(끌다)에서 유래. draw와 같은 어원. 무거운 것을 질질 끌다"
+  },
+  {
+    "en": "retreat",
+    "ko": "후퇴, 후퇴하다",
+    "example": "The army was forced to retreat.",
+    "mnemonic": "re(뒤로) + treat(끌다, trahere) = 뒤로 끌리다 → 후퇴. 관련어: extract, attract"
+  },
+  {
+    "en": "amid",
+    "ko": "~의 한가운데에",
+    "example": "She remained calm amid the chaos.",
+    "mnemonic": "a(~에) + mid(중간, middle) = 중간에 → ~의 한가운데에"
+  },
+  {
+    "en": "earn",
+    "ko": "벌다, 얻다",
+    "example": "She earns a good salary as an engineer.",
+    "mnemonic": "고대 영어 earnian(일해서 얻다)에서 유래. 노동의 대가를 얻다 → 벌다"
+  },
+  {
+    "en": "alien",
+    "ko": "외국인, 외계인",
+    "example": "The movie is about aliens from outer space.",
+    "mnemonic": "ali(다른, alius) + en = 다른 곳에서 온 → 외국인, 외계인"
+  },
+  {
+    "en": "profound",
+    "ko": "심오한, 깊은",
+    "example": "His words had a profound effect on me.",
+    "mnemonic": "pro(앞으로) + found(바닥, fundus) = 바닥까지 깊은 → 심오한. 관련어: foundation"
+  },
+  {
+    "en": "fluid",
+    "ko": "유체, 액체, 유동적인",
+    "example": "Drink plenty of fluids when you are sick.",
+    "mnemonic": "flu(흐르다, fluere) + id = 흐르는 것 → 유체, 액체. 관련어: fluent, influence, flux"
+  },
+  {
+    "en": "deserve",
+    "ko": "~할 자격이 있다",
+    "example": "You deserve a reward for your hard work.",
+    "mnemonic": "de(완전히) + serve(봉사하다) = 완전히 봉사한 만큼 → ~할 자격이 있다"
+  },
+  {
+    "en": "optimistic",
+    "ko": "낙관적인",
+    "example": "She is optimistic about the future.",
+    "mnemonic": "라틴어 optimus(최선의)에서 유래. 최선을 기대하는 → 낙관적인. 관련어: option, optimal"
+  },
+  {
+    "en": "translate",
+    "ko": "번역하다",
+    "example": "Can you translate this sentence into English?",
+    "mnemonic": "trans(넘어서) + late(나르다, latus) = 넘어서 나르다 → 한 언어에서 다른 언어로 옮기다"
+  },
+  {
+    "en": "orbit",
+    "ko": "궤도, 궤도를 돌다",
+    "example": "The Earth orbits the Sun once a year.",
+    "mnemonic": "'오빗' → '오빗(orbit)' 위성 궤도!"
+  },
+  {
+    "en": "greed",
+    "ko": "탐욕",
+    "example": "His greed for money caused many problems.",
+    "mnemonic": "'그리드' → '그리(green)드' 돈(green)에 대한 탐욕!"
+  },
+  {
+    "en": "diploma",
+    "ko": "졸업장, 자격증",
+    "example": "She received her college diploma last June.",
+    "mnemonic": "그리스어 diploma(접힌 문서)에서 유래. diplo(두 겹). 접어 봉인한 공식 문서 → 졸업장"
+  },
+  {
+    "en": "procedure",
+    "ko": "절차, 과정",
+    "example": "Follow the correct procedure to complete the application.",
+    "mnemonic": "pro(앞으로) + ced(가다, cedere) + ure = 앞으로 나아가는 방법 → 절차"
+  },
+  {
+    "en": "inherit",
+    "ko": "상속받다, 물려받다",
+    "example": "She inherited the house from her grandmother.",
+    "mnemonic": "'인헤릿' → 'in(안에)+herit(상속)' 안으로 받아들이는 상속!"
+  },
+  {
+    "en": "deadly",
+    "ko": "치명적인, 극도의",
+    "example": "The snake's bite is deadly.",
+    "mnemonic": "dead(죽은) + ly(형용사 접미사) = 죽음을 초래하는 → 치명적인"
+  },
+  {
+    "en": "foundation",
+    "ko": "기초, 재단",
+    "example": "Education is the foundation of a strong society.",
+    "mnemonic": "found(바닥, 기초, fundus) + ation = 바닥을 놓는 것 → 기초. 관련어: fund, fundamental"
+  },
+  {
+    "en": "nerve",
+    "ko": "신경, 용기",
+    "example": "She didn't have the nerve to speak in public.",
+    "mnemonic": "'너브' → '너브(nerve)' 신경이 곤두서다!"
+  },
+  {
+    "en": "litter",
+    "ko": "쓰레기, 어지르다",
+    "example": "Don't litter in the park.",
+    "mnemonic": "'리터' → '리터(litter)' 쓰레기를 리터 단위로 버리지 마!"
+  },
+  {
+    "en": "trap",
+    "ko": "함정, 덫, 가두다",
+    "example": "The hunter set a trap for the rabbit.",
+    "mnemonic": "고대 영어 træppe(덫, 올가미)에서 유래. 동물을 가두는 장치 → 함정, 덫"
+  },
+  {
+    "en": "journey",
+    "ko": "여행, 여정",
+    "example": "The journey from Seoul to Busan takes three hours.",
+    "mnemonic": "'저니' → '저니(journey)' 긴 여정!"
+  },
+  {
+    "en": "tender",
+    "ko": "부드러운, 다정한",
+    "example": "She spoke in a tender voice to the child.",
+    "mnemonic": "라틴어 tener(부드러운, 어린)에서 유래. 연하고 부드러운 → 다정한. 관련어: tender(입찰=내밀다)"
+  },
+  {
+    "en": "reverse",
+    "ko": "반대, 뒤집다",
+    "example": "She reversed her car out of the parking space.",
+    "mnemonic": "re(뒤로) + verse(돌다, vertere) = 뒤로 돌리다 → 뒤집다. 관련어: universe, convert"
+  },
+  {
+    "en": "passive",
+    "ko": "수동적인",
+    "example": "He took a passive role in the discussion.",
+    "mnemonic": "'패시브' → 'pass(견디다)+ive' 견디기만 하는 수동적인!"
+  },
+  {
+    "en": "origin",
+    "ko": "기원, 출신",
+    "example": "The origin of this tradition dates back centuries.",
+    "mnemonic": "'오리진' → '오리지널(original)' 원래의 기원!"
+  },
+  {
+    "en": "satisfy",
+    "ko": "만족시키다",
+    "example": "The meal satisfied everyone at the table.",
+    "mnemonic": "satis(충분한) + fy(만들다, facere) = 충분하게 만들다 → 만족시키다. 관련어: saturate"
+  },
+  {
+    "en": "revive",
+    "ko": "되살리다, 부활시키다",
+    "example": "They tried to revive the old tradition.",
+    "mnemonic": "re(다시) + vive(살다, vivere) = 다시 살다 → 되살리다. 관련어: survive, vivid"
+  },
+  {
+    "en": "depart",
+    "ko": "출발하다, 떠나다",
+    "example": "The train departs at 9 o'clock sharp.",
+    "mnemonic": "de(떨어져) + part(부분, 나누다) = 나뉘어 떨어지다 → 떠나다, 출발하다"
+  },
+  {
+    "en": "blend",
+    "ko": "섞다, 혼합하다",
+    "example": "Blend the fruits together to make a smoothie.",
+    "mnemonic": "고대 노르드어 blanda(섞다)에서 유래. 여러 재료를 하나로 섞다 → 혼합하다"
+  },
+  {
+    "en": "norm",
+    "ko": "규범, 기준",
+    "example": "Social norms vary from culture to culture.",
+    "mnemonic": "'놈' → '노멀(normal)'의 기준 = 규범!"
+  },
+  {
+    "en": "chase",
+    "ko": "쫓다, 추적하다",
+    "example": "The dog chased the cat around the yard.",
+    "mnemonic": "라틴어 captare(잡으려 하다)에서 유래. capt(잡다)와 같은 어근. 잡으려고 쫓다"
+  },
+  {
+    "en": "politics",
+    "ko": "정치",
+    "example": "She is very interested in politics.",
+    "mnemonic": "그리스어 polis(도시국가)에서 유래. 도시를 운영하는 일 → 정치. 관련어: police, policy"
+  }
+]

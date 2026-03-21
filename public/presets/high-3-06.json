@@ -1,0 +1,302 @@
+[
+  {
+    "en": "sagacious",
+    "ko": "현명한, 영리한",
+    "example": "The sagacious leader anticipated the crisis and prepared accordingly.",
+    "mnemonic": "sag(감지하다, 라틴어 sagire) + acious = 잘 감지하는 → 현명한. sage(현자)와 같은 어원"
+  },
+  {
+    "en": "effervescent",
+    "ko": "거품이 이는, 활기 넘치는",
+    "example": "Her effervescent personality brightened every room she entered.",
+    "mnemonic": "ef(밖으로) + ferv(끓다, 라틴어 fervere) + escent = 끓어 넘치는 → 활기 넘치는. ferv(끓다): fervent, fervor"
+  },
+  {
+    "en": "allegory",
+    "ko": "우화, 풍유",
+    "example": "George Orwell's Animal Farm is a famous political allegory.",
+    "mnemonic": "allo(다른) + agory(말하다, 그리스어 agoreuein) = 다른 것으로 말하다 → 우화, 풍유"
+  },
+  {
+    "en": "noxious",
+    "ko": "유해한, 유독한",
+    "example": "The factory released noxious fumes that contaminated the surrounding area.",
+    "mnemonic": "nox(해, 라틴어 noxa) + ious = 해로운 → 유독한. noc/nox(해): innocent, nocuous"
+  },
+  {
+    "en": "dulcet",
+    "ko": "감미로운, 달콤한",
+    "example": "The dulcet tones of the violin filled the concert hall.",
+    "mnemonic": "dulc(달콤한, 라틴어 dulcis) + et = 달콤한 → 감미로운. dulc(달콤한): dulcimer"
+  },
+  {
+    "en": "proclivity",
+    "ko": "성향, 경향",
+    "example": "He has a proclivity for taking unnecessary risks in business.",
+    "mnemonic": "pro(앞으로) + cliv(기울다, 라틴어 clivus=비탈) + ity = 앞으로 기울어지는 → 성향. cliv(기울다): decline"
+  },
+  {
+    "en": "meretricious",
+    "ko": "겉만 화려한, 천박한",
+    "example": "The meretricious decorations gave the room a tacky appearance.",
+    "mnemonic": "meretric(매춘부의, 라틴어 meretrix) + ious = 매춘부처럼 겉만 꾸민 → 겉만 화려한"
+  },
+  {
+    "en": "despot",
+    "ko": "독재자, 전제군주",
+    "example": "The despot ruled the country with an iron fist for thirty years.",
+    "mnemonic": "그리스어 despotes(주인, 가장). 절대적 주인 → 독재자. despotic(독재적인)"
+  },
+  {
+    "en": "coalesce",
+    "ko": "합치다, 유착하다",
+    "example": "Several small streams coalesce to form a mighty river.",
+    "mnemonic": "co(함께) + alesce(자라다, 라틴어 alescere) = 함께 자라다 → 합치다. al(자라다): adolescent(자라는 → 청소년)"
+  },
+  {
+    "en": "wistful",
+    "ko": "그리운, 아련한",
+    "example": "She gazed out the window with a wistful expression, remembering her youth.",
+    "mnemonic": "wist(알다, 생각하다, 고대 영어 witan) + ful = 과거를 생각하는 → 그리운"
+  },
+  {
+    "en": "perdition",
+    "ko": "파멸, 영원한 벌",
+    "example": "The preacher warned that sinners would face perdition.",
+    "mnemonic": "per(완전히) + dit(주다, 라틴어 dare) + ion = 완전히 잃는 것 → 파멸. perdit(잃다): perdition"
+  },
+  {
+    "en": "compendious",
+    "ko": "간결한, 요약된",
+    "example": "The professor provided a compendious overview of the entire course in one lecture.",
+    "mnemonic": "com(함께) + pend(달다, 무게 재다) + ious = 함께 달아 모은 → 간결한. compendium(개요)의 형용사형"
+  },
+  {
+    "en": "polemical",
+    "ko": "논쟁적인, 논전의",
+    "example": "His polemical writing style provoked strong reactions from readers.",
+    "mnemonic": "polemic(논쟁) + al = 논쟁적인. 그리스어 polemos(전쟁)에서 유래"
+  },
+  {
+    "en": "corroborate",
+    "ko": "확증하다, 뒷받침하다",
+    "example": "The witness's testimony corroborated the victim's account of the incident.",
+    "mnemonic": "cor(함께) + robor(강하게 하다, 라틴어 robur=힘) + ate = 함께 강하게 하다 → 확증하다. robor(강한): robust, corroboration"
+  },
+  {
+    "en": "surfeit",
+    "ko": "과잉, 과식",
+    "example": "A surfeit of information can be just as confusing as a lack of it.",
+    "mnemonic": "sur(위에, 초과) + feit(하다, 라틴어 facere) = 초과하여 하다 → 과잉. sur(초과): surplus, surpass"
+  },
+  {
+    "en": "acrimonious",
+    "ko": "신랄한, 격앙된",
+    "example": "The divorce proceedings became increasingly acrimonious.",
+    "mnemonic": "acri(날카로운, 라틴어 acer) + mony + ous = 날카롭고 쓴 → 신랄한. acr(날카로운): acrid, acrobat"
+  },
+  {
+    "en": "permutation",
+    "ko": "변환, 순열",
+    "example": "The designer explored every permutation of the color scheme.",
+    "mnemonic": "per(완전히) + mut(변하다, 라틴어 mutare) + ation = 완전히 바꿈 → 변환. mut(변하다): mutate, transmute, commute"
+  },
+  {
+    "en": "cataclysm",
+    "ko": "대격변, 대재앙",
+    "example": "The asteroid impact was a cataclysm that wiped out the dinosaurs.",
+    "mnemonic": "cata(아래로) + clysm(씻다, 그리스어 klyzein) = 아래로 씻어내리다 → 대격변. cata(아래): catastrophe, catalogue"
+  },
+  {
+    "en": "depravity",
+    "ko": "타락, 부도덕",
+    "example": "The novel portrays the moral depravity of the ruling class.",
+    "mnemonic": "de(아래로) + prav(비뚤어진, 라틴어 pravus) + ity = 비뚤어진 상태 → 타락. deprave(타락시키다)"
+  },
+  {
+    "en": "opulent",
+    "ko": "호화로운, 풍요로운",
+    "example": "The opulent mansion featured marble floors and crystal chandeliers.",
+    "mnemonic": "op(풍요, 라틴어 ops) + ulent = 풍요로 가득한 → 호화로운"
+  },
+  {
+    "en": "abridge",
+    "ko": "요약하다, 축소하다",
+    "example": "The publisher abridged the novel for younger readers.",
+    "mnemonic": "a(~으로) + bridge(다리) → 짧은 다리로 연결하다 → 축소하다, 요약하다. 어근 brev(짧은)와 관련"
+  },
+  {
+    "en": "patrimony",
+    "ko": "세습 재산, 유산",
+    "example": "The ancient castle is part of the nation's cultural patrimony.",
+    "mnemonic": "patri(아버지, 라틴어 pater) + mony = 아버지로부터의 것 → 세습 재산. patr(아버지): patriot, patriarch, paternal"
+  },
+  {
+    "en": "adjudicate",
+    "ko": "판결하다, 심판하다",
+    "example": "The court adjudicated the dispute between the two companies.",
+    "mnemonic": "ad(~쪽으로) + judic(판단하다) + ate = 판단을 내리다 → 판결하다. jud/jur(법): judge, judicial, jury"
+  },
+  {
+    "en": "predatory",
+    "ko": "약탈적인, 포식의",
+    "example": "The company's predatory pricing strategy drove smaller competitors out of business.",
+    "mnemonic": "predat(약탈하다, 라틴어 praedari) + ory = 약탈하는 → 약탈적인. praed(먹이): predator, prey"
+  },
+  {
+    "en": "exculpate",
+    "ko": "무죄를 입증하다, 면죄하다",
+    "example": "New DNA evidence exculpated the man who had been wrongly convicted.",
+    "mnemonic": "'엑스컬페이트' → 'ex(밖으로)+culp(죄)+ate' 죄에서 빠져나와 무죄!"
+  },
+  {
+    "en": "misanthrope",
+    "ko": "인간 혐오자",
+    "example": "The old misanthrope lived alone and avoided all social contact.",
+    "mnemonic": "mis(싫어하다, 그리스어 misein) + anthrop(인간) + e = 인간을 싫어하는 사람 → 인간 혐오자. anthrop(인간): anthropology, philanthropy"
+  },
+  {
+    "en": "fervid",
+    "ko": "열렬한, 뜨거운",
+    "example": "The fervid supporters cheered throughout the entire match.",
+    "mnemonic": "ferv(끓다, 라틴어 fervere) + id = 끓어오르는 → 열렬한. ferv(끓다): fervent, fervor, effervescent"
+  },
+  {
+    "en": "predilection",
+    "ko": "편애, 선호",
+    "example": "She has a predilection for Italian cuisine over all other food.",
+    "mnemonic": "pre(미리) + dilect(좋아하다, 라틴어 diligere) + ion = 미리 좋아하는 → 편애. dilect(좋아하다): diligent, delight"
+  },
+  {
+    "en": "aristocracy",
+    "ko": "귀족 정치, 귀족 계급",
+    "example": "The French Revolution overthrew the aristocracy.",
+    "mnemonic": "aristo(최고의, 그리스어 aristos) + cracy(통치) = 최고 계급의 통치 → 귀족 정치. cracy(통치): democracy, bureaucracy"
+  },
+  {
+    "en": "iconoclast",
+    "ko": "인습 타파주의자",
+    "example": "The artist was an iconoclast who rejected traditional painting styles.",
+    "mnemonic": "'아이코노클래스트' → 'icon(우상)+clast(깨다)' 우상을 깨부수는 인습 타파!"
+  },
+  {
+    "en": "inure",
+    "ko": "익숙하게 하다, 단련하다",
+    "example": "Years of hardship had inured the soldiers to extreme conditions.",
+    "mnemonic": "in(안에) + ure(작업, 사용) = 안에서 사용하며 단련 → 익숙하게 하다. use(사용): 반복 사용으로 적응"
+  },
+  {
+    "en": "dexterous",
+    "ko": "손재주가 있는, 민첩한",
+    "example": "The dexterous surgeon performed the delicate operation with precision.",
+    "mnemonic": "dexter(오른쪽, 라틴어) + ous = 오른손잡이처럼 능숙한 → 손재주가 있는. dexter(오른쪽): ambidextrous(양손잡이)"
+  },
+  {
+    "en": "coruscate",
+    "ko": "번쩍이다, 빛나다",
+    "example": "The diamonds coruscated under the bright lights of the exhibition hall.",
+    "mnemonic": "corusc(번쩍이다, 라틴어 coruscare) + ate = 번쩍이다. 번개처럼 강렬하게 빛나는 것을 묘사"
+  },
+  {
+    "en": "cicatrix",
+    "ko": "흉터, 반흔",
+    "example": "The cicatrix on his arm was a permanent reminder of the childhood accident.",
+    "mnemonic": "라틴어 cicatrix(상처 자국). 의학 용어로 상처가 아문 자리 → 흉터. cicatrize(흉터가 생기다)"
+  },
+  {
+    "en": "transgress",
+    "ko": "위반하다, 죄를 짓다",
+    "example": "Those who transgress the law must face the consequences.",
+    "mnemonic": "trans(넘어) + gress(걷다, 가다) = 넘어서 가다 → 위반하다. gress(가다): progress, digress, regress, congress"
+  },
+  {
+    "en": "sagacity",
+    "ko": "예지력, 현명함",
+    "example": "The CEO's sagacity in predicting market trends made the company profitable.",
+    "mnemonic": "sag(감지하다, 라틴어 sagire) + acity = 잘 감지하는 능력 → 현명함. sage(현자), sagacious(현명한)와 같은 어근"
+  },
+  {
+    "en": "contrition",
+    "ko": "통회, 참회",
+    "example": "The criminal showed genuine contrition for the suffering he had caused.",
+    "mnemonic": "con(완전히) + trit(갈다, 닳다) + ion = 마음이 완전히 갈리는 → 통회. trit(갈다): contrite, attrition, trite"
+  },
+  {
+    "en": "parable",
+    "ko": "우화, 교훈담",
+    "example": "Jesus taught many moral lessons through parables.",
+    "mnemonic": "para(옆에) + bol(던지다, 그리스어 ballein) + e = 옆에 던져 비교하다 → 우화. bol(던지다): symbol, parabola, hyperbole"
+  },
+  {
+    "en": "vestige",
+    "ko": "흔적, 자취",
+    "example": "Only a few vestiges of the ancient civilization remain at the site.",
+    "mnemonic": "vestig(발자국, 라틴어 vestigium) + e = 발자국 → 흔적. vestig(발자국): investigate(발자국을 추적하다)"
+  },
+  {
+    "en": "placate",
+    "ko": "달래다, 위무하다",
+    "example": "The company offered refunds to placate the dissatisfied customers.",
+    "mnemonic": "plac(기쁘게 하다, 라틴어 placare) + ate = 기쁘게 만들다 → 달래다. plac(기쁜): placid, complacent, please"
+  },
+  {
+    "en": "devious",
+    "ko": "교활한, 우회적인",
+    "example": "The devious plan involved multiple layers of deception.",
+    "mnemonic": "de(떨어져) + vi(길, 라틴어 via) + ous = 길에서 벗어난 → 교활한. via(길): deviate, obvious, trivial"
+  },
+  {
+    "en": "malodorous",
+    "ko": "악취가 나는",
+    "example": "The malodorous waste from the factory polluted the surrounding area.",
+    "mnemonic": "mal(나쁜) + odor(냄새) + ous = 나쁜 냄새의 → 악취가 나는. odor(냄새): odorous, deodorant"
+  },
+  {
+    "en": "vindictive",
+    "ko": "보복적인, 앙심 품은",
+    "example": "The vindictive neighbor deliberately damaged the garden fence.",
+    "mnemonic": "vindic(보복, 라틴어 vindicta) + tive = 보복하려는 → 보복적인"
+  },
+  {
+    "en": "inveterate",
+    "ko": "뿌리 깊은, 고질적인",
+    "example": "He is an inveterate liar who cannot be trusted with anything.",
+    "mnemonic": "in(안에) + veter(오래된) + ate = 안에 오래된 → 뿌리 깊은. veter(오래된): veteran"
+  },
+  {
+    "en": "vouchsafe",
+    "ko": "은혜를 베풀다, 허락하다",
+    "example": "The king vouchsafed a rare audience to the foreign ambassador.",
+    "mnemonic": "vouch(보증하다) + safe(안전한) = 안전을 보증하다 → 은혜를 베풀다. vouch(보증): voucher(보증서). 윗사람이 허락을 내려줄 때 사용"
+  },
+  {
+    "en": "adroit",
+    "ko": "능숙한, 솜씨 좋은",
+    "example": "The adroit diplomat navigated the tense negotiations with great skill.",
+    "mnemonic": "프랑스어 a(~으로) + droit(오른쪽, 바른) = 바른 쪽으로 → 능숙한. 오른손잡이가 더 능숙하다는 관념에서"
+  },
+  {
+    "en": "torpor",
+    "ko": "무기력, 마비 상태",
+    "example": "The heat of the afternoon induced a state of torpor in the animals.",
+    "mnemonic": "torp(마비시키다, 라틴어 torpere) + or = 마비 상태 → 무기력. torp(마비): torpid, torpedo"
+  },
+  {
+    "en": "vainglorious",
+    "ko": "허영심 많은, 허세부리는",
+    "example": "The vainglorious general decorated his office with portraits of himself.",
+    "mnemonic": "vain(헛된) + glorious(영광스러운) = 헛된 영광에 취한 → 허영심 많은"
+  },
+  {
+    "en": "catharsis",
+    "ko": "카타르시스, 정화",
+    "example": "Writing in her journal provided a form of emotional catharsis.",
+    "mnemonic": "그리스어 katharsis(정화), kathairein(깨끗하게 하다). 감정의 정화 → 카타르시스"
+  },
+  {
+    "en": "intercede",
+    "ko": "중재하다, 탄원하다",
+    "example": "The ambassador interceded on behalf of the imprisoned journalist.",
+    "mnemonic": "inter(사이에) + cede(가다, 라틴어 cedere) = 사이에 들어가다 → 중재하다. ced(가다): precede, concede, recede"
+  }
+]

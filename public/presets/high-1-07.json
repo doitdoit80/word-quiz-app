@@ -1,0 +1,302 @@
+[
+  {
+    "en": "motivate",
+    "ko": "동기를 부여하다",
+    "example": "The coach motivated the team before the game.",
+    "mnemonic": "'모티베이트' → 'motive(동기)+ate' 동기를 주다!"
+  },
+  {
+    "en": "resist",
+    "ko": "저항하다, 참다",
+    "example": "She couldn't resist eating the chocolate cake.",
+    "mnemonic": "re(반대) + sist(서다, sistere) = 맞서 서다 → 저항하다. 관련어: persist, consist"
+  },
+  {
+    "en": "abandon",
+    "ko": "버리다, 포기하다",
+    "example": "They had to abandon their car in the flood.",
+    "mnemonic": "a(away) + bandon(명령, ban) = 명령에서 벗어나다 → 버리다, 포기하다"
+  },
+  {
+    "en": "trait",
+    "ko": "특성, 특징",
+    "example": "Honesty is an important character trait.",
+    "mnemonic": "라틴어 tractus(끌어내다)에서 유래. trahere(끌다). 끌어낸 특징 → 특성. 관련어: trace, attract"
+  },
+  {
+    "en": "ease",
+    "ko": "편안함, 쉬움, 완화하다",
+    "example": "The medicine helped ease the pain.",
+    "mnemonic": "라틴어 adjacens(가까이 있는)에서 유래. 손 닿는 곳에 있어 편한 → 편안함. 관련어: easy"
+  },
+  {
+    "en": "brief",
+    "ko": "간략한, 짧은",
+    "example": "He gave a brief summary of the report.",
+    "mnemonic": "라틴어 brevis(짧은)에서 유래. 짧은 → 간략한. 관련어: abbreviate(축약하다)"
+  },
+  {
+    "en": "current",
+    "ko": "현재의, 흐름",
+    "example": "The current situation is very difficult.",
+    "mnemonic": "curr(달리다, currere) + ent = 달리고 있는 → 현재의, 흐름. 관련어: occur, currency"
+  },
+  {
+    "en": "dwelling",
+    "ko": "주거지, 거처",
+    "example": "The cave served as a dwelling for early humans.",
+    "mnemonic": "고대 영어 dwellan(머무르다, 지체하다)에서 유래. 머무르는 곳 → 주거지. 관련어: dwell"
+  },
+  {
+    "en": "appoint",
+    "ko": "임명하다, 지정하다",
+    "example": "The company appointed a new manager.",
+    "mnemonic": "ap(~에) + point(점, 지점) = 특정 지점에 놓다 → 임명하다, 지정하다"
+  },
+  {
+    "en": "evil",
+    "ko": "악, 사악한",
+    "example": "The villain in the movie was truly evil.",
+    "mnemonic": "고대 영어 yfel(나쁜, 사악한)에서 유래. 게르만 공통어. 도덕적으로 나쁜 → 악, 사악한"
+  },
+  {
+    "en": "rocket",
+    "ko": "로켓, 급상승하다",
+    "example": "The rocket launched into space successfully.",
+    "mnemonic": "이탈리아어 rocchetto(실감개)에서 유래. 실감개 모양의 발사체 → 로켓"
+  },
+  {
+    "en": "cure",
+    "ko": "치료하다, 치료법",
+    "example": "Scientists are trying to find a cure for cancer.",
+    "mnemonic": "라틴어 cura(돌봄, 관심)에서 유래. 환자를 돌보다 → 치료하다. 관련어: curious, accurate"
+  },
+  {
+    "en": "brave",
+    "ko": "용감한",
+    "example": "The brave firefighter saved the child from the burning building.",
+    "mnemonic": "라틴어 barbarus(야만적인→거친→용감한)에서 유래. 거침없이 맞서는 → 용감한"
+  },
+  {
+    "en": "stake",
+    "ko": "말뚝, 이해관계, 걸다",
+    "example": "There is a lot at stake in this negotiation.",
+    "mnemonic": "고대 영어 staca(말뚝)에서 유래. 말뚝에 걸어 내기하다 → 이해관계, 걸다"
+  },
+  {
+    "en": "overseas",
+    "ko": "해외의, 해외로",
+    "example": "She studied overseas for two years.",
+    "mnemonic": "'오버시즈' → 'over(넘어)+seas(바다)' 바다 넘어 = 해외!"
+  },
+  {
+    "en": "cube",
+    "ko": "정육면체, 큐브",
+    "example": "She solved the Rubik's cube in two minutes.",
+    "mnemonic": "그리스어 kybos(주사위)에서 유래. 정육면체 모양의 주사위 → 정육면체"
+  },
+  {
+    "en": "pure",
+    "ko": "순수한, 깨끗한",
+    "example": "The mountain spring provides pure water.",
+    "mnemonic": "라틴어 purus(깨끗한, 순수한)에서 유래. 섞이지 않은 → 순수한. 관련어: purify"
+  },
+  {
+    "en": "treasure",
+    "ko": "보물",
+    "example": "The pirates buried their treasure on the island.",
+    "mnemonic": "그리스어 thesauros(저장소, 보물)에서 유래. 소중히 저장한 것 → 보물. 관련어: thesaurus"
+  },
+  {
+    "en": "anguish",
+    "ko": "고뇌, 극심한 고통",
+    "example": "She was in anguish after hearing the bad news.",
+    "mnemonic": "라틴어 angustia(좁음, 고통)에서 유래. angere(조이다). 마음이 조여드는 → 고뇌"
+  },
+  {
+    "en": "bizarre",
+    "ko": "기이한, 이상한",
+    "example": "The movie had a bizarre ending that no one expected.",
+    "mnemonic": "바스크어 bizar(수염)에서 유래. 수염 난 군인이 이상해 보여서 → 기이한"
+  },
+  {
+    "en": "battle",
+    "ko": "전투, 싸움",
+    "example": "The soldiers prepared for battle.",
+    "mnemonic": "라틴어 battuere(때리다)에서 유래. 서로 때리다 → 전투, 싸움"
+  },
+  {
+    "en": "latter",
+    "ko": "후자의, 나중의",
+    "example": "Between tea and coffee, I prefer the latter.",
+    "mnemonic": "'래터' → '래터(later)' 나중의 것 = 후자!"
+  },
+  {
+    "en": "actual",
+    "ko": "실제의, 실질적인",
+    "example": "The actual cost was higher than expected.",
+    "mnemonic": "act(행동하다) + ual(형용사 접미사) = 행동으로 존재하는 → 실제의"
+  },
+  {
+    "en": "stem",
+    "ko": "줄기, 유래하다",
+    "example": "The problem stems from a lack of communication.",
+    "mnemonic": "고대 영어 stemn(줄기, 나무 몸통)에서 유래. 식물의 중심부 → 줄기, 근원에서 나오다 → 유래하다"
+  },
+  {
+    "en": "twist",
+    "ko": "비틀다, 꼬다",
+    "example": "She twisted the cap off the bottle.",
+    "mnemonic": "고대 영어 twist(두 가닥으로 꼬인 밧줄)에서 유래. twi(둘). 두 줄을 꼬다 → 비틀다"
+  },
+  {
+    "en": "pray",
+    "ko": "기도하다",
+    "example": "She prays for world peace every night.",
+    "mnemonic": "라틴어 precari(간청하다)에서 유래. 신에게 간청하다 → 기도하다. 관련어: precarious"
+  },
+  {
+    "en": "compose",
+    "ko": "구성하다, 작곡하다",
+    "example": "Mozart composed his first symphony at age eight.",
+    "mnemonic": "com(함께) + pose(놓다, ponere) = 함께 놓다 → 구성하다. 관련어: dispose, propose"
+  },
+  {
+    "en": "label",
+    "ko": "라벨, 딱지, 분류하다",
+    "example": "Read the label before you take the medicine.",
+    "mnemonic": "'레이블' → '레이블(label)' 옷에 붙은 라벨!"
+  },
+  {
+    "en": "virtue",
+    "ko": "미덕, 덕목",
+    "example": "Patience is a great virtue.",
+    "mnemonic": "라틴어 virtus(남자다움, 용기)에서 유래. vir(남자). 남자다운 덕목 → 미덕. 관련어: virtual"
+  },
+  {
+    "en": "flow",
+    "ko": "흐르다, 흐름",
+    "example": "The river flows through the city center.",
+    "mnemonic": "고대 영어 flōwan(흐르다)에서 유래. 관련어: flood, float, fluid 모두 fl- 어근(흐름)"
+  },
+  {
+    "en": "elect",
+    "ko": "선출하다, 선거하다",
+    "example": "The people elected a new president.",
+    "mnemonic": "e(밖으로) + lect(고르다, legere) = 골라내다 → 선출하다. 관련어: select, collect"
+  },
+  {
+    "en": "blank",
+    "ko": "빈, 공백의",
+    "example": "Please fill in the blank spaces on the form.",
+    "mnemonic": "고대 프랑스어 blanc(흰, 빈)에서 유래. 아무것도 쓰여있지 않은 → 빈, 공백의"
+  },
+  {
+    "en": "false",
+    "ko": "거짓의, 틀린",
+    "example": "The news turned out to be false.",
+    "mnemonic": "라틴어 falsus(속인, 거짓의)에서 유래. fallere(속이다). 관련어: fail, fault, fallacy"
+  },
+  {
+    "en": "essence",
+    "ko": "본질, 정수",
+    "example": "The essence of education is learning to think.",
+    "mnemonic": "esse(존재하다, esse) + nce = 존재의 핵심 → 본질. 관련어: essential, absent(ab+esse)"
+  },
+  {
+    "en": "hunt",
+    "ko": "사냥하다, 찾다",
+    "example": "Lions hunt in groups to catch their prey.",
+    "mnemonic": "'헌트' → '헌터(hunter)' 사냥꾼이 사냥하다!"
+  },
+  {
+    "en": "religion",
+    "ko": "종교",
+    "example": "Freedom of religion is a basic human right.",
+    "mnemonic": "re(다시) + lig(묶다, ligare) + ion = 다시 묶다 → 신과의 유대 → 종교. 관련어: rely, league"
+  },
+  {
+    "en": "expense",
+    "ko": "비용, 지출",
+    "example": "Travel expenses were paid by the company.",
+    "mnemonic": "ex(밖으로) + pense(달다, 지불하다, pendere) = 밖으로 무게를 달아 지불하다 → 비용. 관련어: spend"
+  },
+  {
+    "en": "venture",
+    "ko": "모험, 벤처",
+    "example": "Starting a business is always a risky venture.",
+    "mnemonic": "adventure(모험)의 축약형. ad(~으로) + vent(오다, venire). 다가올 위험을 감수하는 사업 → 벤처"
+  },
+  {
+    "en": "owe",
+    "ko": "빚지다, ~덕분이다",
+    "example": "I owe my success to my parents.",
+    "mnemonic": "'오' → '오(owe)' 빚을 오래 지다!"
+  },
+  {
+    "en": "strand",
+    "ko": "가닥, 해안가, 좌초시키다",
+    "example": "A strand of hair fell across her face.",
+    "mnemonic": "고대 영어 strand(해변, 물가)에서 유래. 실이나 머리카락의 한 가닥"
+  },
+  {
+    "en": "philosophy",
+    "ko": "철학",
+    "example": "She studied philosophy at university.",
+    "mnemonic": "philo(사랑) + sophy(지혜, sophia) = 지혜를 사랑하다 → 철학"
+  },
+  {
+    "en": "suspend",
+    "ko": "중지하다, 매달다",
+    "example": "The game was suspended due to heavy rain.",
+    "mnemonic": "sus(아래에) + pend(매달다, pendere) = 아래에 매달다 → 매달아 멈추다 → 중지. 관련어: depend"
+  },
+  {
+    "en": "amount",
+    "ko": "양, 총액",
+    "example": "A large amount of water was wasted.",
+    "mnemonic": "a(~으로) + mount(산, mons) = 산처럼 쌓인 것 → 양, 총액"
+  },
+  {
+    "en": "definite",
+    "ko": "확실한, 명확한",
+    "example": "We don't have a definite answer yet.",
+    "mnemonic": "de(완전히) + fin(끝, 한계, finis) + ite = 한계를 확실히 정한 → 명확한. 관련어: finish, finite"
+  },
+  {
+    "en": "forecast",
+    "ko": "예보, 예측하다",
+    "example": "The weather forecast says it will rain tomorrow.",
+    "mnemonic": "fore(미리, 앞에) + cast(던지다) = 미리 던져보다 → 예측하다. 관련어: foresee, forehead"
+  },
+  {
+    "en": "embarrass",
+    "ko": "당황하게 하다, 창피하게 하다",
+    "example": "His mistake embarrassed him in front of everyone.",
+    "mnemonic": "em(안에) + barr(막대, barra) + ass = 막대로 가로막다 → 곤란하게 하다 → 당황하게 하다"
+  },
+  {
+    "en": "capture",
+    "ko": "붙잡다, 포착하다",
+    "example": "The photographer captured a beautiful sunset.",
+    "mnemonic": "capt(잡다, capere) + ure = 잡는 것 → 붙잡다. 관련어: capable, capacity"
+  },
+  {
+    "en": "ban",
+    "ko": "금지하다, 금지",
+    "example": "The school banned the use of phones in class.",
+    "mnemonic": "고대 영어 bannan(선언하다, 명령하다)에서 유래. 공식 명령으로 금지하다"
+  },
+  {
+    "en": "planet",
+    "ko": "행성",
+    "example": "Mars is the fourth planet from the Sun.",
+    "mnemonic": "그리스어 planetes(방랑자)에서 유래. 하늘을 떠도는 별 → 행성"
+  },
+  {
+    "en": "poison",
+    "ko": "독, 독을 넣다",
+    "example": "Some mushrooms contain deadly poison.",
+    "mnemonic": "라틴어 potio(음료, 물약)에서 유래. potion(물약)과 같은 어원. 해로운 물약 → 독"
+  }
+]

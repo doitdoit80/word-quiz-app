@@ -1,152 +1,152 @@
 [
   {
-    "en": "experience",
-    "ko": "경험",
-    "example": "It was a wonderful experience.",
-    "mnemonic": "ex(밖으로) + perience(시도). 밖으로 나가 시도하는 경험!"
+    "en": "obtain",
+    "ko": "얻다",
+    "example": "She obtained a scholarship.",
+    "mnemonic": "ob(향해) + tain(잡다). 향해 잡으면 얻다! tain(잡다): contain(포함), maintain(유지), retain(보유)."
   },
   {
-    "en": "environment",
-    "ko": "환경",
-    "example": "We should protect the environment.",
-    "mnemonic": "environ(둘러싸다) + ment. 우리를 둘러싼 것이 환경."
+    "en": "community",
+    "ko": "공동체",
+    "example": "Our community is friendly.",
+    "mnemonic": "com(함께) + muni(봉사) + ty. 함께 봉사하는 곳이 공동체! communicate(소통)도 같은 어근."
   },
   {
-    "en": "communicate",
-    "ko": "의사소통하다",
-    "example": "We communicate through email.",
-    "mnemonic": "com(함께) + muni(나누다). 함께 나누면 소통!"
+    "en": "eager",
+    "ko": "열망하는",
+    "example": "She was eager to learn.",
+    "mnemonic": "라틴어 acer(날카로운)에서 유래. 마음이 날카롭게 향하면 열망! eagerness(열의)."
   },
   {
-    "en": "necessary",
-    "ko": "필요한",
-    "example": "Sleep is necessary for health.",
-    "mnemonic": "'네세서리'는 꼭 있어야 하는 필요한 것."
+    "en": "settle",
+    "ko": "정착하다",
+    "example": "They settled in a small town.",
+    "mnemonic": "고대 영어 setl(자리)에서 유래. 한자리에 앉으면 정착! settlement(정착지), settler(정착민)."
   },
   {
-    "en": "advantage",
-    "ko": "이점",
-    "example": "Being tall is an advantage in basketball.",
-    "mnemonic": "advance(앞서다) + age. 앞서 나가면 유리!"
+    "en": "quality",
+    "ko": "품질",
+    "example": "This product is of high quality.",
+    "mnemonic": "라틴어 qualitas = qual(어떤 종류의) + ity. 어떤 종류인지가 품질! qualify(자격을 얻다)."
   },
   {
-    "en": "opportunity",
-    "ko": "기회",
-    "example": "Don't miss this opportunity.",
-    "mnemonic": "op(향해) + port(항구). 항구로 향하는 기회를 잡아라!"
+    "en": "connect",
+    "ko": "연결하다",
+    "example": "Connect the cable to the TV.",
+    "mnemonic": "con(함께) + nect(묶다). 함께 묶으면 연결! connection(연결)은 명사형. nect: annex(합병)도 같은 어근."
+  },
+  {
+    "en": "reduce",
+    "ko": "줄이다",
+    "example": "We should reduce waste.",
+    "mnemonic": "re(뒤로) + duce(이끌다). 뒤로 이끌면 줄이기! produce(생산) = pro(앞으로) + duce."
+  },
+  {
+    "en": "visual",
+    "ko": "시각의",
+    "example": "This movie has amazing visual effects.",
+    "mnemonic": "vis(보다) + ual(~의). 보는 것과 관련된 시각! vis(보다): vision(시력), visible(보이는), visit(방문)."
+  },
+  {
+    "en": "document",
+    "ko": "문서",
+    "example": "Please sign this document.",
+    "mnemonic": "라틴어 docere(가르치다) + ment. 가르침을 담은 것이 문서! doctor(박사), doctrine(교리)도 같은 어근 doc."
+  },
+  {
+    "en": "variety",
+    "ko": "다양성",
+    "example": "There is a wide variety of food.",
+    "mnemonic": "vary(다양하다) + ety. 다양한 것들의 모음! various(다양한), variation(변형)도 같은 어근."
+  },
+  {
+    "en": "anxious",
+    "ko": "불안한",
+    "example": "She felt anxious before the exam.",
+    "mnemonic": "라틴어 anxius = ang(조이다) + ious. 마음이 조여지면 불안! anxiety(불안)은 명사형. anger(분노)도 같은 어근."
+  },
+  {
+    "en": "range",
+    "ko": "범위",
+    "example": "A wide range of products is available.",
+    "mnemonic": "프랑스어 rang(줄, 열)에서 유래. 줄의 한쪽 끝에서 다른 끝까지가 범위! arrange(배열) = a + range."
+  },
+  {
+    "en": "hire",
+    "ko": "고용하다",
+    "example": "The company hired ten new workers.",
+    "mnemonic": "고대 영어 hyrian(빌리다, 고용하다)에서 유래. 사람의 능력을 빌려 쓰는 것이 고용."
   },
   {
     "en": "compare",
     "ko": "비교하다",
     "example": "Compare the two pictures.",
-    "mnemonic": "com(함께) + pare(같은). 함께 놓고 같은지 보면 비교!"
+    "mnemonic": "com(함께) + pare(같은). 함께 놓고 같은지 보면 비교! comparison(비교)은 명사형."
   },
   {
-    "en": "suggest",
-    "ko": "제안하다",
-    "example": "I suggest we leave early.",
-    "mnemonic": "sug(아래에서) + gest(가져오다). 의견을 올리면 제안."
+    "en": "manner",
+    "ko": "방법",
+    "example": "She has good manners.",
+    "mnemonic": "라틴어 manuarius(손의)에서 유래. 손으로 하는 방식이 방법! 복수형 manners는 예절."
   },
   {
-    "en": "attention",
-    "ko": "주의",
-    "example": "Pay attention to the teacher.",
-    "mnemonic": "'어텐션'은 군대에서 '차렷!' 주의!"
+    "en": "respect",
+    "ko": "존경하다",
+    "example": "We should respect our elders.",
+    "mnemonic": "re(다시) + spect(보다). 다시 볼 만한 사람을 존경! spect(보다): inspect, prospect, spectacle."
+  },
+  {
+    "en": "spread",
+    "ko": "퍼지다",
+    "example": "The news spread quickly.",
+    "mnemonic": "고대 영어 sprædan(펼치다)에서 유래. 넓게 펼치면 퍼지다! widespread = wide + spread."
+  },
+  {
+    "en": "exist",
+    "ko": "존재하다",
+    "example": "Do aliens exist?",
+    "mnemonic": "ex(밖에) + ist(서다). 밖에 나와 서 있으면 존재! existence(존재)는 명사형. sist(서다): insist, resist."
+  },
+  {
+    "en": "mention",
+    "ko": "언급하다",
+    "example": "He mentioned your name.",
+    "mnemonic": "라틴어 mentio = ment(마음) + ion. 마음에 있는 것을 말하면 언급! mental(정신의)도 같은 어근."
   },
   {
     "en": "develop",
     "ko": "발전시키다",
     "example": "We need to develop new skills.",
-    "mnemonic": "de(풀다) + velop(감싸다). 감싼 것을 풀어 발전!"
+    "mnemonic": "de(풀다) + velop(감싸다). 감싼 것을 풀어 펼치면 발전! development(발전)은 명사형."
   },
   {
-    "en": "increase",
-    "ko": "증가하다",
-    "example": "The population is increasing.",
-    "mnemonic": "in(안에) + crease(성장). 안에서 성장하면 증가!"
+    "en": "limit",
+    "ko": "제한",
+    "example": "There is a speed limit on this road.",
+    "mnemonic": "라틴어 limes(경계)에서 유래. 더 이상 넘을 수 없는 경계가 한계! unlimited = un + limit + ed."
   },
   {
-    "en": "decrease",
-    "ko": "감소하다",
-    "example": "The temperature decreased at night.",
-    "mnemonic": "de(아래로) + crease(성장). 아래로 가면 감소!"
+    "en": "environment",
+    "ko": "환경",
+    "example": "We should protect the environment.",
+    "mnemonic": "environ(둘러싸다) + ment(것). 우리를 둘러싼 것이 환경. environmental(환경의)."
   },
   {
-    "en": "information",
-    "ko": "정보",
-    "example": "I need more information about this.",
-    "mnemonic": "inform(알리다) + ation. 알려주는 것이 정보!"
+    "en": "policy",
+    "ko": "정책",
+    "example": "The school has a no-phone policy.",
+    "mnemonic": "그리스어 polis(도시) + cy. 도시를 다스리는 방침이 정책! police(경찰), politics(정치)도 같은 어근."
   },
   {
-    "en": "education",
-    "ko": "교육",
-    "example": "Education is very important.",
-    "mnemonic": "educate(교육하다) + ion. 가르치는 행위가 교육."
+    "en": "convenient",
+    "ko": "편리한",
+    "example": "The bus stop is convenient.",
+    "mnemonic": "con(함께) + veni(오다) + ent. 함께 잘 맞아들면 편리! ven(오다): event(사건), prevent(예방), adventure(모험)."
   },
   {
-    "en": "tradition",
-    "ko": "전통",
-    "example": "We should keep our traditions.",
-    "mnemonic": "trans(넘겨주다) + dition. 대대로 넘겨주는 전통."
-  },
-  {
-    "en": "celebrate",
-    "ko": "축하하다",
-    "example": "Let's celebrate your birthday.",
-    "mnemonic": "'셀러브레이트'는 파티하며 축하!"
-  },
-  {
-    "en": "separate",
-    "ko": "분리하다",
-    "example": "Please separate the recyclables.",
-    "mnemonic": "se(떨어져) + parate(준비). 따로 분리."
-  },
-  {
-    "en": "volunteer",
-    "ko": "자원봉사자",
-    "example": "She works as a volunteer.",
-    "mnemonic": "volunt(자발적) + eer(사람). 자발적으로 나서는 사람."
-  },
-  {
-    "en": "recognize",
-    "ko": "인식하다",
-    "example": "I didn't recognize you at first.",
-    "mnemonic": "re(다시) + cognize(알다). 다시 알아보면 인식!"
-  },
-  {
-    "en": "include",
-    "ko": "포함하다",
-    "example": "The price includes breakfast.",
-    "mnemonic": "in(안에) + clude(닫다). 안에 넣고 닫으면 포함!"
-  },
-  {
-    "en": "imagine",
-    "ko": "상상하다",
-    "example": "Imagine you are on a beach.",
-    "mnemonic": "image(이미지) + ine. 머릿속에 이미지를 그리면 상상!"
-  },
-  {
-    "en": "ancient",
-    "ko": "고대의",
-    "example": "This is an ancient temple.",
-    "mnemonic": "'에인션트'는 아주 오래된 고대의 것."
-  },
-  {
-    "en": "modern",
-    "ko": "현대의",
-    "example": "Seoul is a modern city.",
-    "mnemonic": "'모던'한 건물은 현대적인 디자인!"
-  },
-  {
-    "en": "contain",
-    "ko": "포함하다",
-    "example": "This box contains many toys.",
-    "mnemonic": "con(함께) + tain(잡다). 함께 잡아두면 담는 것."
-  },
-  {
-    "en": "temperature",
-    "ko": "온도",
-    "example": "The temperature is 30 degrees today.",
-    "mnemonic": "'템퍼러쳐'는 체온계로 재는 온도."
+    "en": "force",
+    "ko": "힘",
+    "example": "The force of the wind was strong.",
+    "mnemonic": "라틴어 fortis(강한)에서 유래. fort(강한): effort(노력), comfort(위안), reinforce(강화)."
   }
 ]

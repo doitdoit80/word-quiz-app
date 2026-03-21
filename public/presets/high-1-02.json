@@ -1,0 +1,302 @@
+[
+  {
+    "en": "tolerance",
+    "ko": "관용, 내성",
+    "example": "We should show tolerance toward different opinions.",
+    "mnemonic": "toler(견디다, tolerare) + ance = 견디는 것 → 관용, 내성. 관련어: tolerate"
+  },
+  {
+    "en": "technique",
+    "ko": "기술, 기법",
+    "example": "She learned a new painting technique.",
+    "mnemonic": "그리스어 techne(기술, 솜씨)에서 유래. 숙련된 솜씨 → 기술, 기법. 관련어: technology"
+  },
+  {
+    "en": "labor",
+    "ko": "노동, 근로",
+    "example": "Physical labor can be very tiring.",
+    "mnemonic": "'레이버' → '레이버(labor)' 노동절 = 근로자의 날!"
+  },
+  {
+    "en": "harsh",
+    "ko": "가혹한, 거친",
+    "example": "The harsh winter made life difficult.",
+    "mnemonic": "'하쉬' → '하(hard)쉬(sh)' 힘들어서 쉿! 가혹한!"
+  },
+  {
+    "en": "float",
+    "ko": "뜨다, 떠다니다",
+    "example": "The balloon floated up into the sky.",
+    "mnemonic": "고대 영어 flotian(물 위에 뜨다)에서 유래. flow(흐르다)와 관련. 물 위에 떠다니다"
+  },
+  {
+    "en": "internal",
+    "ko": "내부의",
+    "example": "The company is facing internal problems.",
+    "mnemonic": "'인터널' → 'inter(안)+nal' 안쪽의 = 내부의!"
+  },
+  {
+    "en": "tone",
+    "ko": "어조, 음색",
+    "example": "She spoke in a friendly tone.",
+    "mnemonic": "그리스어 tonos(팽팽함, 음조)에서 유래. teinein(당기다). 줄을 당겨 나는 소리 → 음색"
+  },
+  {
+    "en": "dawn",
+    "ko": "새벽, 여명",
+    "example": "We woke up at dawn to see the sunrise.",
+    "mnemonic": "고대 영어 dagung(날이 밝아옴)에서 유래. day(낮)와 같은 어근. 날이 밝아오는 시간 → 새벽"
+  },
+  {
+    "en": "petty",
+    "ko": "사소한, 편협한",
+    "example": "Don't waste time on petty arguments.",
+    "mnemonic": "프랑스어 petit(작은)에서 유래. 작은 → 사소한, 편협한"
+  },
+  {
+    "en": "justice",
+    "ko": "정의, 공정",
+    "example": "Everyone deserves justice and fair treatment.",
+    "mnemonic": "'저스티스' → '저스트(just=공정)+이스' 공정한 = 정의!"
+  },
+  {
+    "en": "rival",
+    "ko": "경쟁자, 라이벌",
+    "example": "The two companies are fierce rivals.",
+    "mnemonic": "라틴어 rivalis(같은 강을 쓰는 사람)에서 유래. riv(강, rivus). 강을 두고 경쟁하는 사람 → 경쟁자"
+  },
+  {
+    "en": "alert",
+    "ko": "경계하는, 경고",
+    "example": "Stay alert when crossing the busy street.",
+    "mnemonic": "이탈리아어 all'erta(망루 위에!)에서 유래. 망루에서 감시하다 → 경계하는"
+  },
+  {
+    "en": "quote",
+    "ko": "인용하다, 인용문",
+    "example": "She quoted a famous saying by Einstein.",
+    "mnemonic": "라틴어 quotare(몇 번째인지 표시하다)에서 유래. 번호 매기며 참조하다 → 인용하다"
+  },
+  {
+    "en": "iron",
+    "ko": "철, 다리미, 다림질하다",
+    "example": "She ironed her shirt before the meeting.",
+    "mnemonic": "'아이언' → '아이언(iron)맨' 철인!"
+  },
+  {
+    "en": "hero",
+    "ko": "영웅",
+    "example": "The firefighter was hailed as a hero.",
+    "mnemonic": "'히어로' → '히어로(hero)' 슈퍼히어로 = 영웅!"
+  },
+  {
+    "en": "verify",
+    "ko": "확인하다, 검증하다",
+    "example": "Please verify your email address.",
+    "mnemonic": "veri(진실, verus) + fy(만들다, facere) = 진실로 만들다 → 확인하다. 관련어: very, verdict"
+  },
+  {
+    "en": "channel",
+    "ko": "채널, 경로",
+    "example": "Change the TV channel to the news.",
+    "mnemonic": "라틴어 canalis(수로, 관)에서 유래. canal(운하)과 같은 어원. 물길 → 경로, 채널"
+  },
+  {
+    "en": "layer",
+    "ko": "층, 겹",
+    "example": "The cake has three layers of cream.",
+    "mnemonic": "'레이어' → '레이어(layer)' 포토샵 레이어 = 층!"
+  },
+  {
+    "en": "surplus",
+    "ko": "잉여, 과잉",
+    "example": "The country has a trade surplus this year.",
+    "mnemonic": "sur(위에, 넘어) + plus(더, 추가) = 넘치는 것 → 잉여. 관련어: surplus"
+  },
+  {
+    "en": "warehouse",
+    "ko": "창고",
+    "example": "The goods are stored in a large warehouse.",
+    "mnemonic": "ware(상품) + house(집) = 상품의 집 → 창고"
+  },
+  {
+    "en": "journal",
+    "ko": "일지, 학술지",
+    "example": "She writes in her journal every night.",
+    "mnemonic": "'저널' → '저널(journal)리스트' 기자의 일지!"
+  },
+  {
+    "en": "shrink",
+    "ko": "줄어들다, 수축하다",
+    "example": "The sweater shrank after washing.",
+    "mnemonic": "고대 영어 scrincan(오그라들다)에서 유래. 오그라들어 작아지다 → 줄어들다"
+  },
+  {
+    "en": "frustrate",
+    "ko": "좌절시키다, 짜증나게 하다",
+    "example": "The slow internet connection frustrated the students.",
+    "mnemonic": "라틴어 frustra(헛되이, 무익하게)에서 유래. 헛수고로 만들다 → 좌절시키다"
+  },
+  {
+    "en": "fence",
+    "ko": "울타리, 담",
+    "example": "They built a wooden fence around the garden.",
+    "mnemonic": "defence(방어)의 축약형. de(떨어뜨리다) + fend(치다). 적을 막는 것 → 울타리. 관련어: defend"
+  },
+  {
+    "en": "split",
+    "ko": "쪼개다, 나누다",
+    "example": "They decided to split the cost equally.",
+    "mnemonic": "중세 네덜란드어 splitten(쪼개다)에서 유래. 반으로 갈라 나누다 → 쪼개다"
+  },
+  {
+    "en": "endure",
+    "ko": "견디다, 인내하다",
+    "example": "She endured the pain without complaining.",
+    "mnemonic": "en(안에) + dure(단단한, durus) = 단단하게 버티다 → 견디다. 관련어: durable, during"
+  },
+  {
+    "en": "provoke",
+    "ko": "도발하다, 화나게 하다",
+    "example": "Don't provoke the dog or it might bite you.",
+    "mnemonic": "pro(앞으로) + voke(부르다, vocare) = 앞으로 불러내다 → 도발하다. 관련어: voice, vocal"
+  },
+  {
+    "en": "leap",
+    "ko": "뛰다, 도약",
+    "example": "The cat leaped over the fence.",
+    "mnemonic": "'립' → '립(leap)' 펄쩍 뛰어오르다!"
+  },
+  {
+    "en": "postpone",
+    "ko": "연기하다",
+    "example": "The meeting was postponed until next week.",
+    "mnemonic": "post(후에) + pone(놓다, ponere) = 뒤에 놓다 → 연기하다. 관련어: position, compose"
+  },
+  {
+    "en": "surrender",
+    "ko": "항복하다, 포기하다",
+    "example": "The enemy forces surrendered after the battle.",
+    "mnemonic": "sur(위에) + render(돌려주다) = 위에 돌려주다 → 항복하다, 넘겨주다"
+  },
+  {
+    "en": "peer",
+    "ko": "동료, 또래",
+    "example": "She is respected by her peers at school.",
+    "mnemonic": "'피어' → '피어(peer)' 투 피어 = 동등한 사람끼리!"
+  },
+  {
+    "en": "command",
+    "ko": "명령하다, 명령",
+    "example": "The general gave a command to his soldiers.",
+    "mnemonic": "com(강조) + mand(맡기다, mandare) = 강하게 맡기다 → 명령하다. 관련어: demand, mandate"
+  },
+  {
+    "en": "error",
+    "ko": "오류, 실수",
+    "example": "The computer showed an error message.",
+    "mnemonic": "라틴어 errare(떠돌다, 빗나가다)에서 유래. 올바른 길에서 벗어나다 → 오류, 실수. 관련어: errant"
+  },
+  {
+    "en": "media",
+    "ko": "미디어, 매체",
+    "example": "Social media has changed the way we communicate.",
+    "mnemonic": "'미디어' → '미디어(media)' 뉴스 매체!"
+  },
+  {
+    "en": "aim",
+    "ko": "목표, 겨냥하다",
+    "example": "She aims to become a doctor in the future.",
+    "mnemonic": "라틴어 aestimare(평가하다)에서 유래. 목표를 정해 평가하다 → 겨냥하다"
+  },
+  {
+    "en": "inventory",
+    "ko": "재고, 목록",
+    "example": "The store needs to check its inventory.",
+    "mnemonic": "'인벤토리' → '인벤(invent)토리' 발명품 목록 = 재고!"
+  },
+  {
+    "en": "merchant",
+    "ko": "상인",
+    "example": "The merchant sold silk from China.",
+    "mnemonic": "'머천트' → '머치(merch=상품)언트' 상품 파는 상인!"
+  },
+  {
+    "en": "stable",
+    "ko": "안정된, 마구간",
+    "example": "The economy is finally stable after the crisis.",
+    "mnemonic": "라틴어 stabilis(확고한)에서 유래. sta(서다, stare). 단단히 서있는 → 안정된. 관련어: establish"
+  },
+  {
+    "en": "contrast",
+    "ko": "대조, 대비",
+    "example": "There is a strong contrast between the two paintings.",
+    "mnemonic": "contra(반대) + st(서다, stare) = 반대편에 서다 → 대조, 대비"
+  },
+  {
+    "en": "witness",
+    "ko": "목격자, 목격하다",
+    "example": "The witness described what happened at the scene.",
+    "mnemonic": "wit(알다, 지식) + ness = 아는 상태의 사람 → 목격자. 관련어: wise, wisdom"
+  },
+  {
+    "en": "distract",
+    "ko": "주의를 산만하게 하다",
+    "example": "Loud music distracts me when I study.",
+    "mnemonic": "dis(떨어져) + tract(끌다, trahere) = 다른 곳으로 끌다 → 주의를 산만하게 하다. 관련어: attract, extract"
+  },
+  {
+    "en": "landscape",
+    "ko": "풍경, 경치",
+    "example": "The landscape of Jeju Island is breathtaking.",
+    "mnemonic": "'랜드스케이프' → 'land(땅)+scape(보다)' 땅을 바라보는 풍경!"
+  },
+  {
+    "en": "neat",
+    "ko": "깔끔한, 정돈된",
+    "example": "Her handwriting is always neat and tidy.",
+    "mnemonic": "'니트' → '니트(neat)하게' 깔끔하게 정리!"
+  },
+  {
+    "en": "excess",
+    "ko": "과잉, 초과",
+    "example": "Excess sugar in your diet is unhealthy.",
+    "mnemonic": "ex(밖으로) + cess(가다, cedere) = 밖으로 넘어가다 → 초과. 관련어: access, process"
+  },
+  {
+    "en": "tribute",
+    "ko": "공물, 찬사",
+    "example": "The concert was a tribute to the late musician.",
+    "mnemonic": "trib(주다, 바치다, tribuere) + ute = 바치는 것 → 공물, 찬사. 관련어: contribute, distribute"
+  },
+  {
+    "en": "decent",
+    "ko": "괜찮은, 품위 있는",
+    "example": "He earns a decent salary at his new job.",
+    "mnemonic": "라틴어 decens(적합한, 어울리는)에서 유래. dec(어울리다, decere). 적합한 → 품위 있는"
+  },
+  {
+    "en": "heal",
+    "ko": "치유하다, 낫다",
+    "example": "Time heals all wounds.",
+    "mnemonic": "'힐' → '힐(heal)링' 치유 = 힐링!"
+  },
+  {
+    "en": "outline",
+    "ko": "개요, 윤곽",
+    "example": "She drew an outline of the building.",
+    "mnemonic": "'아웃라인' → 'out(바깥)+line(선)' 바깥 선 = 윤곽!"
+  },
+  {
+    "en": "swell",
+    "ko": "붓다, 팽창하다",
+    "example": "Her ankle swelled after she twisted it.",
+    "mnemonic": "고대 영어 swellan(부풀다)에서 유래. 안에서 밖으로 부풀어 오르다 → 붓다"
+  },
+  {
+    "en": "foreign",
+    "ko": "외국의",
+    "example": "She can speak three foreign languages.",
+    "mnemonic": "라틴어 foris(밖에, 문 밖에)에서 유래. 문 밖의 → 외부의 → 외국의. 관련어: forest, forum"
+  }
+]

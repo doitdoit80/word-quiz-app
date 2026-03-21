@@ -1,0 +1,302 @@
+[
+  {
+    "en": "cognizant",
+    "ko": "인식하는, 알고 있는",
+    "example": "The company must be cognizant of changing consumer preferences.",
+    "mnemonic": "cogn(알다, 라틴어 cognoscere) + izant = 알고 있는 → 인식하는. cogn/gno(알다): recognize, cognition, diagnose"
+  },
+  {
+    "en": "detriment",
+    "ko": "손해, 해",
+    "example": "Excessive screen time can be a detriment to children's eye health.",
+    "mnemonic": "de(떨어져) + tri(문지르다, 라틴어 terere) + ment = 문질러 닳게 하는 → 손해. trit(갈다): attrition, contrite"
+  },
+  {
+    "en": "irreverent",
+    "ko": "불경한, 불손한",
+    "example": "His irreverent humor often shocked the more conservative members.",
+    "mnemonic": "ir(아닌) + reverent(공경하는) = 공경하지 않는 → 불경한"
+  },
+  {
+    "en": "indignant",
+    "ko": "분개한, 분노한",
+    "example": "She was indignant about the unfair treatment she received at work.",
+    "mnemonic": "in(아닌) + dign(가치 있는, 라틴어 dignus) + ant = 가치 없는 대우에 화난 → 분개한. dign(가치): dignity, disdain, indignation"
+  },
+  {
+    "en": "litany",
+    "ko": "장황한 나열, 연도(기도)",
+    "example": "The report contained a litany of complaints from dissatisfied customers.",
+    "mnemonic": "그리스어 litaneia(기도, 간청), lite(기도)에서 유래. 반복적인 기도 → 장황한 나열"
+  },
+  {
+    "en": "subservient",
+    "ko": "비굴한, 종속적인",
+    "example": "The assistant's subservient behavior irritated the other team members.",
+    "mnemonic": "sub(아래) + serv(섬기다) + ient = 아래에서 섬기는 → 비굴한. serv(섬기다): serve, servant, service"
+  },
+  {
+    "en": "trenchant",
+    "ko": "날카로운, 신랄한",
+    "example": "Her trenchant analysis exposed the flaws in the government's economic policy.",
+    "mnemonic": "trench(자르다, 프랑스어 trancher) + ant = 자르는 듯한 → 날카로운. trench(자르다): entrench, trench"
+  },
+  {
+    "en": "materialistic",
+    "ko": "물질주의적인",
+    "example": "The film critiques the materialistic values of modern consumer society.",
+    "mnemonic": "material(물질) + istic = 물질에 관한 → 물질주의적인. mater(물질, 어머니): matter, matrix"
+  },
+  {
+    "en": "rancorous",
+    "ko": "원한에 찬, 앙심 품은",
+    "example": "The rancorous feud between the two families lasted for generations.",
+    "mnemonic": "rancor(원한, 라틴어 rancere=썩다) + ous = 썩은 감정이 가득한 → 원한에 찬"
+  },
+  {
+    "en": "callous",
+    "ko": "냉담한, 무정한",
+    "example": "His callous disregard for others' feelings cost him many friendships.",
+    "mnemonic": "callus(굳은살, 라틴어 callum) + ous = 굳은살이 박힌 → 감정이 무딘, 냉담한. 피부가 굳어지듯 마음도 굳어진 것"
+  },
+  {
+    "en": "cumbersome",
+    "ko": "다루기 힘든, 번거로운",
+    "example": "The cumbersome bureaucratic procedures delayed the project by months.",
+    "mnemonic": "cumber(방해하다, 고대 영어) + some = 방해가 되는 → 다루기 힘든. encumber(방해하다)"
+  },
+  {
+    "en": "bucolic",
+    "ko": "전원적인, 목가적인",
+    "example": "The bucolic landscape of rolling hills and meadows inspired many painters.",
+    "mnemonic": "그리스어 boukolos(소치기), bous(소) + kolos(돌보다). 소를 돌보는 → 전원적인, 목가적인"
+  },
+  {
+    "en": "enumerate",
+    "ko": "열거하다, 하나하나 세다",
+    "example": "The report enumerates the key factors contributing to climate change.",
+    "mnemonic": "'이뉴머레이트' → 'e+numer(숫자)+ate' 숫자를 매겨 열거하다!"
+  },
+  {
+    "en": "conflagration",
+    "ko": "대화재, 큰 갈등",
+    "example": "The conflagration destroyed an entire block of historic buildings.",
+    "mnemonic": "con(완전히) + flagr(타다, 라틴어 flagrare) + ation = 완전히 타오르는 → 대화재. flagr(타다): flagrant(노골적인=불타듯 눈에 띄는)"
+  },
+  {
+    "en": "oblique",
+    "ko": "비스듬한, 간접적인",
+    "example": "She made only oblique references to her personal problems.",
+    "mnemonic": "ob(향해) + lique(기울다) = 기울어진 → 비스듬한, 간접적인"
+  },
+  {
+    "en": "pusillanimous",
+    "ko": "소심한, 겁 많은",
+    "example": "The pusillanimous leader refused to make any controversial decisions.",
+    "mnemonic": "pusill(작은, 라틴어 pusillus) + anim(정신) + ous = 정신이 작은 → 소심한. anim(정신): animate, unanimous"
+  },
+  {
+    "en": "infinitesimal",
+    "ko": "극소의, 무한소의",
+    "example": "The chances of winning the lottery are infinitesimal.",
+    "mnemonic": "in(아닌) + finit(끝, 한계) + esimal = 한계가 없을 만큼 작은 → 극소의. fin(끝): finite, infinite, define, final"
+  },
+  {
+    "en": "cupidity",
+    "ko": "탐욕, 탐심",
+    "example": "His cupidity led him to embezzle millions from the charity.",
+    "mnemonic": "cupid(욕망, 라틴어 cupiditas) + ity = 욕망 → 탐욕. Cupid(큐피드=욕망의 신). cup(갈망): covet"
+  },
+  {
+    "en": "transcendent",
+    "ko": "초월적인, 탁월한",
+    "example": "The musician's transcendent performance left the audience speechless.",
+    "mnemonic": "trans(넘어서) + scend(오르다, 라틴어 scandere) + ent = 넘어 오르는 → 초월적인. scend(오르다): ascend, descend"
+  },
+  {
+    "en": "grandiloquent",
+    "ko": "과장된, 거창한",
+    "example": "The politician's grandiloquent promises failed to convince skeptical voters.",
+    "mnemonic": "'그랜딜로퀀트' → 'grand(웅장)+loquent(말하는)' 웅장하게 과장 말하는!"
+  },
+  {
+    "en": "resolute",
+    "ko": "단호한, 결연한",
+    "example": "She remained resolute in her decision despite heavy criticism.",
+    "mnemonic": "re(완전히) + solut(풀다) + e = 완전히 풀어 결정한 → 단호한. solv(풀다): resolve, solution, dissolve"
+  },
+  {
+    "en": "gossamer",
+    "ko": "매우 가벼운, 거미줄 같은",
+    "example": "The gossamer wings of the dragonfly glistened in the sunlight.",
+    "mnemonic": "goose(거위) + summer(여름). 가을 거위 잡는 시기에 떠다니는 거미줄 → 매우 가벼운, 섬세한"
+  },
+  {
+    "en": "sang-froid",
+    "ko": "침착함, 냉정",
+    "example": "The pilot maintained remarkable sang-froid during the emergency landing.",
+    "mnemonic": "프랑스어 sang(피) + froid(차가운) = 차가운 피 → 침착함, 냉정"
+  },
+  {
+    "en": "turgid",
+    "ko": "부풀어 오른, 과장된",
+    "example": "The student's turgid essay was filled with unnecessarily complex vocabulary.",
+    "mnemonic": "turg(부풀다, 라틴어 turgere) + id = 부풀어 오른 → 과장된. turgor(팽압)"
+  },
+  {
+    "en": "ignoble",
+    "ko": "비열한, 천한",
+    "example": "The general's ignoble surrender brought shame upon the entire army.",
+    "mnemonic": "ig(아닌) + noble(고귀한) = 고귀하지 않은 → 비열한. nobil(고귀한): noble, ennoble, nobility"
+  },
+  {
+    "en": "providential",
+    "ko": "섭리의, 다행스러운",
+    "example": "The providential arrival of reinforcements saved the besieged town.",
+    "mnemonic": "pro(앞을) + vid(보다) + ential = 앞을 미리 보는 → 섭리의. vid(보다): provide, provident, evident"
+  },
+  {
+    "en": "envisage",
+    "ko": "상상하다, 마음에 그리다",
+    "example": "It is hard to envisage a world without the internet.",
+    "mnemonic": "en(안에) + visage(얼굴, 모습) = 마음속에 모습을 그리다 → 상상하다. vis(보다): vision, visible, visage"
+  },
+  {
+    "en": "soporific",
+    "ko": "수면을 유발하는, 졸리게 하는",
+    "example": "The professor's soporific lecture put half the students to sleep.",
+    "mnemonic": "sopor(깊은 잠, 라틴어) + ific = 잠을 만드는 → 졸리게 하는"
+  },
+  {
+    "en": "enormity",
+    "ko": "극악함, 거대함",
+    "example": "The enormity of the crime shocked the entire nation.",
+    "mnemonic": "e(밖으로) + norm(규범) + ity = 규범을 벗어남 → 극악함. norm(규범): normal, abnormal, enormous"
+  },
+  {
+    "en": "untenable",
+    "ko": "옹호할 수 없는, 유지할 수 없는",
+    "example": "His position became untenable after the evidence was made public.",
+    "mnemonic": "un(아닌) + ten(잡다, 유지하다) + able = 유지할 수 없는 → 옹호 불가. ten(잡다): tenacious, retain, maintain"
+  },
+  {
+    "en": "veracious",
+    "ko": "진실한, 정직한",
+    "example": "The veracious witness provided an accurate account of the events.",
+    "mnemonic": "ver(진실, 라틴어 verus) + acious = 진실한. ver(진실): verify, verdict(진실을 말하다), very"
+  },
+  {
+    "en": "manifesto",
+    "ko": "선언문, 성명서",
+    "example": "The political party published a manifesto outlining its core beliefs.",
+    "mnemonic": "manifest(명백한) + o = 명백하게 밝히는 것 → 선언문"
+  },
+  {
+    "en": "defamation",
+    "ko": "명예훼손, 중상모략",
+    "example": "The celebrity filed a lawsuit for defamation against the tabloid.",
+    "mnemonic": "de(아래로) + fam(명성, 라틴어 fama) + ation = 명성을 떨어뜨림 → 명예훼손. fam(명성): famous, fame, infamous"
+  },
+  {
+    "en": "delectation",
+    "ko": "즐거움, 기쁨",
+    "example": "The chef prepared a special menu for the delectation of his guests.",
+    "mnemonic": "de(완전히) + lect(기쁘게 하다, 라틴어 delectare) + ation = 완전히 기쁘게 하는 것 → 즐거움. delectare: delectable, delight"
+  },
+  {
+    "en": "acquiesce",
+    "ko": "묵인하다, 따르다",
+    "example": "After much debate, she finally acquiesced to the committee's decision.",
+    "mnemonic": "ac(~쪽으로) + quiesce(조용해지다, 라틴어 quiescere) = 조용히 따르다 → 묵인하다. quie(조용한): quiet, quiescent"
+  },
+  {
+    "en": "valediction",
+    "ko": "고별사, 작별 인사",
+    "example": "The retiring professor delivered a moving valediction at the graduation ceremony.",
+    "mnemonic": "vale(안녕, 라틴어 valere=건강하다) + dict(말하다) + ion = 안녕이라고 말하는 것 → 고별사. val(건강): valid, valor. dict(말하다): dictate"
+  },
+  {
+    "en": "remonstrate",
+    "ko": "항의하다, 충고하다",
+    "example": "She remonstrated with her son about his reckless spending habits.",
+    "mnemonic": "re(다시) + monstr(보여주다, 라틴어 monstrare) + ate = 다시 보여주며 항의하다 → 항의하다. monstr(보여주다): demonstrate, monster"
+  },
+  {
+    "en": "extemporaneous",
+    "ko": "즉흥의, 준비 없는",
+    "example": "She gave an extemporaneous speech that impressed the entire audience.",
+    "mnemonic": "'엑스템퍼레이니어스' → 'ex+tempor(시간)+aneous' 시간 밖의 즉흥적인!"
+  },
+  {
+    "en": "parenthetical",
+    "ko": "삽입적인, 부수적인",
+    "example": "The author added a parenthetical note explaining the historical context.",
+    "mnemonic": "para(옆에) + en(안에) + thet(놓다) + ical = 옆에 넣은 → 삽입적인. parenthesis(괄호)의 형용사형"
+  },
+  {
+    "en": "subjugate",
+    "ko": "정복하다, 복종시키다",
+    "example": "The empire subjugated neighboring tribes through military force.",
+    "mnemonic": "sub(아래) + jug(멍에, 라틴어 jugum) + ate = 멍에 아래 두다 → 복종시키다. jug(멍에): conjugal(부부의=함께 멍에 진)"
+  },
+  {
+    "en": "cajole",
+    "ko": "감언이설로 꾀다, 구슬리다",
+    "example": "She cajoled her parents into letting her go to the concert.",
+    "mnemonic": "프랑스어 cajoler에서 유래, 라틴어 cavea(새장)과 관련. 새를 새장에 꾀어 넣듯 → 감언이설로 구슬리다"
+  },
+  {
+    "en": "asperity",
+    "ko": "거칠음, 가혹함",
+    "example": "She spoke with unexpected asperity about the proposal.",
+    "mnemonic": "asper(거친, 라틴어) + ity = 거친 상태 → 가혹함. exasperate(격분시키다)와 같은 어근"
+  },
+  {
+    "en": "manipulation",
+    "ko": "조작, 교묘한 처리",
+    "example": "The manipulation of data in the study invalidated the research findings.",
+    "mnemonic": "mani(손, 라틴어 manus) + pul(채우다) + ation = 손으로 다루는 것 → 조작. man(손): manual, manuscript, manufacture"
+  },
+  {
+    "en": "supplicate",
+    "ko": "간청하다, 탄원하다",
+    "example": "The prisoner supplicated the judge for mercy.",
+    "mnemonic": "sub(아래에) + plic(접다, 라틴어 plicare) + ate = 아래에서 무릎 꿇다 → 간청하다. plic(접다): complicate, implicit, supple"
+  },
+  {
+    "en": "obfuscate",
+    "ko": "혼란시키다, 모호하게 하다",
+    "example": "The politician tried to obfuscate the issue with irrelevant details.",
+    "mnemonic": "ob(위에) + fusc(어두운) + ate = 어둡게 만들다 → 혼란시키다"
+  },
+  {
+    "en": "vitriolic",
+    "ko": "신랄한, 독설의",
+    "example": "The vitriolic comments on social media revealed deep divisions in society.",
+    "mnemonic": "vitriol(황산, 라틴어 vitriolum=유리) + ic = 황산처럼 부식시키는 → 신랄한"
+  },
+  {
+    "en": "pittance",
+    "ko": "적은 돈, 하찮은 금액",
+    "example": "The workers earned a mere pittance for twelve hours of hard labor.",
+    "mnemonic": "라틴어 pietas(경건함), 수도원에서 자선으로 주는 적은 음식에서 유래 → 적은 돈"
+  },
+  {
+    "en": "lassitude",
+    "ko": "피로, 무기력",
+    "example": "A deep lassitude overcame her after weeks of working without rest.",
+    "mnemonic": "lass(지친, 라틴어 lassus) + itude = 지친 상태 → 피로. alas(아, 슬프다)와 같은 어감"
+  },
+  {
+    "en": "levity",
+    "ko": "경솔함, 경박",
+    "example": "The judge warned the defendant that levity was inappropriate in the courtroom.",
+    "mnemonic": "lev(가벼운, 라틴어 levis) + ity = 가벼움 → 경솔함. lev(가벼운): lever, elevate, alleviate, levitate"
+  },
+  {
+    "en": "cursory",
+    "ko": "대충의, 피상적인",
+    "example": "A cursory glance at the report revealed several obvious errors.",
+    "mnemonic": "curs(달리다, 라틴어 currere) + ory = 달리듯 빨리 지나가는 → 대충의. curr/curs(달리다): cursor, current, occur"
+  }
+]

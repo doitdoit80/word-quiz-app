@@ -1,152 +1,152 @@
 [
   {
-    "en": "pass",
-    "ko": "지나가다",
-    "example": "Can you pass me the salt?",
-    "mnemonic": "'패스'는 공을 넘기거나 시험을 통과!"
+    "en": "clothes",
+    "ko": "옷, 의복",
+    "example": "She is wearing new clothes.",
+    "mnemonic": "고대 영어 clath(천)에서 유래. cloth(천) → clothes(옷). 천으로 만든 것들!"
   },
   {
-    "en": "road",
-    "ko": "도로",
-    "example": "Be careful when crossing the road.",
-    "mnemonic": "'로드'트립은 길 위의 여행!"
+    "en": "large",
+    "ko": "큰",
+    "example": "They live in a large house.",
+    "mnemonic": "라틴어 largus(풍부한)에서 유래. enlarge = en(만들다) + large → 크게 만들다."
   },
   {
-    "en": "sound",
-    "ko": "소리",
-    "example": "I heard a strange sound.",
-    "mnemonic": "'사운드'트랙은 영화의 소리/음악."
+    "en": "market",
+    "ko": "시장",
+    "example": "We buy vegetables at the market.",
+    "mnemonic": "라틴어 mercatus(거래)에서 유래. merchant(상인)도 같은 어근 merc(거래)!"
   },
   {
-    "en": "thing",
-    "ko": "것",
-    "example": "Put your things away.",
-    "mnemonic": "'씽'은 모든 것을 가리키는 말."
+    "en": "wrong",
+    "ko": "잘못된",
+    "example": "This answer is wrong.",
+    "mnemonic": "고대 노르드어 rangr(비뚤어진)에서 유래. right(옳은)의 반대! 비뚤어지면 잘못된 것."
   },
   {
-    "en": "spring",
-    "ko": "봄",
-    "example": "Flowers bloom in spring.",
-    "mnemonic": "'스프링'은 용수철처럼 튀어나오는 봄!"
+    "en": "game",
+    "ko": "게임",
+    "example": "Let's play a game together.",
+    "mnemonic": "고대 영어 gamen(기쁨, 놀이)에서 유래. 즐거움에서 시작된 단어!"
   },
   {
-    "en": "summer",
-    "ko": "여름",
-    "example": "I love swimming in summer.",
-    "mnemonic": "'서머'타임은 여름 시간!"
+    "en": "strong",
+    "ko": "강한",
+    "example": "He is very strong.",
+    "mnemonic": "고대 영어 strang에서 유래. strength = strong + th → 힘. weak(약한)의 반대!"
   },
   {
-    "en": "fall",
-    "ko": "가을",
-    "example": "Leaves fall from trees in fall.",
-    "mnemonic": "'폴'은 낙엽이 떨어지는 가을!"
+    "en": "forget",
+    "ko": "잊다",
+    "example": "Don't forget your homework.",
+    "mnemonic": "for(완전히) + get(잡다). 완전히 놓쳐버리면 잊는 것!"
   },
   {
-    "en": "winter",
-    "ko": "겨울",
-    "example": "It snows a lot in winter.",
-    "mnemonic": "'윈터'는 추운 겨울!"
+    "en": "change",
+    "ko": "변화",
+    "example": "We need to change our plan.",
+    "mnemonic": "라틴어 cambiare(교환하다)에서 유래. exchange = ex(밖으로) + change → 교환하다."
   },
   {
-    "en": "wear",
-    "ko": "입다",
-    "example": "She wears a uniform to school.",
-    "mnemonic": "'웨어'러블은 입는 기기!"
-  },
-  {
-    "en": "wait",
-    "ko": "기다리다",
-    "example": "Wait for me at the bus stop.",
-    "mnemonic": "'웨이트'는 기다리는 것. 웨이팅!"
-  },
-  {
-    "en": "buy",
-    "ko": "사다, 구매하다",
-    "example": "I want to buy a new phone.",
-    "mnemonic": "'바이'는 물건을 구매하는 것."
-  },
-  {
-    "en": "sell",
-    "ko": "팔다, 판매하다",
-    "example": "He sells fruit at the market.",
-    "mnemonic": "'셀'러는 물건을 파는 사람."
-  },
-  {
-    "en": "try",
-    "ko": "시도하다",
-    "example": "Try your best.",
-    "mnemonic": "'트라이'는 도전해보는 것!"
-  },
-  {
-    "en": "work",
-    "ko": "일하다",
-    "example": "My dad works at a bank.",
-    "mnemonic": "'워크'는 일하는 것. 워킹!"
-  },
-  {
-    "en": "country",
-    "ko": "나라",
-    "example": "Korea is a beautiful country.",
-    "mnemonic": "'컨트리' 음악은 시골 느낌의 나라 음악."
+    "en": "open",
+    "ko": "열다",
+    "example": "Open your textbook to page 10.",
+    "mnemonic": "고대 영어 openian에서 유래. close(닫다)의 반의어로 함께 외우세요."
   },
   {
     "en": "family",
     "ko": "가족, 식구",
     "example": "My family has five members.",
-    "mnemonic": "'패밀리' 레스토랑에 온 가족이 모여요."
+    "mnemonic": "라틴어 familia(가정)에서 유래. familiar(친숙한)도 같은 어원 — 가족처럼 친숙한."
   },
   {
-    "en": "happy",
-    "ko": "행복한",
-    "example": "She looks very happy today.",
-    "mnemonic": "'해피' 바이러스처럼 행복이 퍼지는 느낌."
+    "en": "night",
+    "ko": "밤",
+    "example": "Good night! Sleep well.",
+    "mnemonic": "고대 영어 niht에서 유래. 라틴어 nox, 독일어 Nacht와 같은 뿌리."
   },
   {
-    "en": "morning",
-    "ko": "아침",
-    "example": "I wake up early in the morning.",
-    "mnemonic": "'모닝콜'이 울리면 아침이 시작!"
+    "en": "high",
+    "ko": "높은",
+    "example": "That mountain is very high.",
+    "mnemonic": "고대 영어 heah에서 유래. height = high + t → 높이. highway(고속도로)도!"
   },
   {
-    "en": "beautiful",
-    "ko": "아름다운",
-    "example": "The flowers are beautiful.",
-    "mnemonic": "'뷰티풀'한 풍경을 보면 감탄이 나오죠."
+    "en": "sing",
+    "ko": "노래하다",
+    "example": "She likes to sing songs.",
+    "mnemonic": "고대 영어 singan에서 유래. singer = sing + er(사람), song(노래)도 같은 어원."
+  },
+  {
+    "en": "invite",
+    "ko": "초대하다",
+    "example": "I will invite my friends to the party.",
+    "mnemonic": "in(안으로) + vite(부르다). 안으로 불러들이면 초대!"
+  },
+  {
+    "en": "grow",
+    "ko": "자라다",
+    "example": "Children grow up fast.",
+    "mnemonic": "고대 영어 growan에서 유래. growth = grow + th → 성장."
+  },
+  {
+    "en": "early",
+    "ko": "일찍",
+    "example": "I woke up early this morning.",
+    "mnemonic": "고대 영어 ærlice = ere(전에) + ly. 시간 전에 → 일찍."
+  },
+  {
+    "en": "church",
+    "ko": "교회",
+    "example": "We go to church on Sundays.",
+    "mnemonic": "그리스어 kyriakon(주님의 집) = kyrios(주인) + kon. 주님의 집이 교회."
+  },
+  {
+    "en": "add",
+    "ko": "더하다",
+    "example": "Add two and three.",
+    "mnemonic": "라틴어 addere = ad(~에) + dare(주다). ~에 더해주다!"
   },
   {
     "en": "important",
     "ko": "중요한",
     "example": "This test is very important.",
-    "mnemonic": "im(안에) + port(항구). 항구 안에 있는 건 중요한 물건!"
+    "mnemonic": "im(안으로) + port(나르다) + ant. 안으로 들여올 만큼 중요한! import(수입)도 같은 어근."
   },
   {
-    "en": "student",
-    "ko": "학생",
-    "example": "She is a good student.",
-    "mnemonic": "'스튜던트'는 study(공부)하는 사람."
+    "en": "fish",
+    "ko": "물고기, 생선",
+    "example": "We caught three fish at the lake.",
+    "mnemonic": "고대 영어 fisc에서 유래. 복수형도 fish로 같다는 점이 특이!"
   },
   {
-    "en": "teacher",
-    "ko": "선생님, 교사",
-    "example": "Our teacher is very kind.",
-    "mnemonic": "'티처'는 teach(가르치다) + er(사람)."
+    "en": "cake",
+    "ko": "케이크",
+    "example": "Mom made a birthday cake.",
+    "mnemonic": "고대 노르드어 kaka에서 유래. pancake = pan(팬) + cake → 팬에 구운 빵."
   },
   {
-    "en": "different",
-    "ko": "다른",
-    "example": "We have different opinions.",
-    "mnemonic": "'디퍼런트'는 서로 다른 것들."
+    "en": "teach",
+    "ko": "가르치다",
+    "example": "She teaches English at school.",
+    "mnemonic": "고대 영어 tæcan(보여주다)에서 유래. teacher = teach + er(사람) → 선생님."
   },
   {
-    "en": "popular",
-    "ko": "인기 있는",
-    "example": "This song is very popular.",
-    "mnemonic": "'파퓰러'는 pop(대중)에서 온 말."
+    "en": "before",
+    "ko": "~전에",
+    "example": "Wash your hands before eating.",
+    "mnemonic": "be(곁에) + fore(앞). 앞에 있으면 ~전에! after(후에)의 반대."
   },
   {
-    "en": "color",
-    "ko": "색",
-    "example": "What is your favorite color?",
-    "mnemonic": "'컬러'풀한 무지개를 떠올려보세요."
+    "en": "turn",
+    "ko": "차례",
+    "example": "It's your turn now.",
+    "mnemonic": "라틴어 tornare(돌리다)에서 유래. return = re(다시) + turn(돌다) → 돌아오다."
+  },
+  {
+    "en": "animal",
+    "ko": "동물",
+    "example": "Dogs are my favorite animals.",
+    "mnemonic": "라틴어 animalis = anim(숨, 생명) + al. 숨 쉬는 생명체가 동물!"
   }
 ]

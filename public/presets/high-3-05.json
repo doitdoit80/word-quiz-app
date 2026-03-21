@@ -1,0 +1,302 @@
+[
+  {
+    "en": "engender",
+    "ko": "야기하다, 발생시키다",
+    "example": "The new policy engendered widespread public debate.",
+    "mnemonic": "'인젠더' → 'en+gender(생성)' 새로운 것을 생성시키며 야기!"
+  },
+  {
+    "en": "litigious",
+    "ko": "소송을 좋아하는, 논쟁적인",
+    "example": "The litigious company threatened to sue anyone who criticized it.",
+    "mnemonic": "litig(소송, 라틴어 lis) + ious = 소송을 좋아하는. litig(소송): litigate, litigation"
+  },
+  {
+    "en": "indigenous",
+    "ko": "토착의, 원주민의",
+    "example": "The museum showcases art created by indigenous peoples of the region.",
+    "mnemonic": "'인디저너스' → 'indi(안에)+gen(태어나다)+ous' 그 땅에서 태어난 토착의!"
+  },
+  {
+    "en": "deleterious",
+    "ko": "해로운, 유해한",
+    "example": "Smoking has deleterious effects on both the lungs and the heart.",
+    "mnemonic": "그리스어 deleterios(파괴적인), deleter(파괴자)에서 유래. 파괴하는 → 해로운. delete(삭제하다)와 같은 어원"
+  },
+  {
+    "en": "preeminent",
+    "ko": "탁월한, 뛰어난",
+    "example": "She is the preeminent scholar in the field of quantum physics.",
+    "mnemonic": "pre(앞에) + eminent(뛰어난) = 앞서서 뛰어난 → 탁월한. emin(돌출): eminent, prominent"
+  },
+  {
+    "en": "temperate",
+    "ko": "온화한, 절제하는",
+    "example": "The region enjoys a temperate climate with mild winters and cool summers.",
+    "mnemonic": "temper(절제, 라틴어 temperare=적절히 섞다) + ate = 적절히 조절된 → 온화한. temper(조절): temperature, temperament"
+  },
+  {
+    "en": "prognosticate",
+    "ko": "예측하다, 예언하다",
+    "example": "Economists tried to prognosticate the direction of the stock market.",
+    "mnemonic": "pro(앞에) + gno(알다, 그리스어 gignoskein) + sticate = 미리 아는 것 → 예측하다. gno(알다): diagnose, prognosis"
+  },
+  {
+    "en": "salutary",
+    "ko": "유익한, 건전한",
+    "example": "The defeat had a salutary effect, motivating the team to train harder.",
+    "mnemonic": "salut(건강, 라틴어 salus) + ary = 건강에 좋은 → 유익한. salut(건강): salute, salvation"
+  },
+  {
+    "en": "flippant",
+    "ko": "경솔한, 건방진",
+    "example": "His flippant remarks during the memorial service offended many attendees.",
+    "mnemonic": "flip(뒤집다) + pant = 가볍게 뒤집듯 말하는 → 경솔한, 건방진"
+  },
+  {
+    "en": "conciliatory",
+    "ko": "화해의, 유화적인",
+    "example": "The president's conciliatory tone helped ease tensions between the nations.",
+    "mnemonic": "con(함께) + cili(부르다, 라틴어 calare) + atory = 함께 부르다 → 화해의. concil(회의): council, reconcile(다시 화해하다)"
+  },
+  {
+    "en": "burnish",
+    "ko": "닦다, 광내다",
+    "example": "The company tried to burnish its image after the public relations disaster.",
+    "mnemonic": "burn(빛나다, 고대 프랑스어 brunir) + ish = 빛나게 하다 → 광내다. brown(갈색으로 빛나는)과 같은 어원"
+  },
+  {
+    "en": "emaciated",
+    "ko": "수척한, 여윈",
+    "example": "The emaciated refugees had not eaten properly for weeks.",
+    "mnemonic": "e(밖으로) + maci(마르다, 라틴어 macer=마른) + ated = 살이 빠진 → 수척한. macer(마른): meager"
+  },
+  {
+    "en": "pugnacious",
+    "ko": "호전적인, 싸움을 좋아하는",
+    "example": "The pugnacious boxer never backed down from a challenge.",
+    "mnemonic": "pugn(싸우다, 라틴어 pugnare) + acious = 싸우려 하는 → 호전적인. pugn(싸우다): impugn, repugnant, pugilist(권투선수)"
+  },
+  {
+    "en": "congenial",
+    "ko": "성격이 맞는, 쾌적한",
+    "example": "The cafe provides a congenial atmosphere for studying and working.",
+    "mnemonic": "con(함께) + geni(성격, 기질, 라틴어 genius) + al = 함께하기 좋은 성격의 → 마음이 맞는. gen(태어나다): genius, genial"
+  },
+  {
+    "en": "polemic",
+    "ko": "논쟁, 논전",
+    "example": "The book is a polemic against modern consumerism and materialism.",
+    "mnemonic": "그리스어 polemikos(전쟁의), polemos(전쟁). 말로 하는 전쟁 → 논쟁. polem(전쟁): polemical, polemicist"
+  },
+  {
+    "en": "contagion",
+    "ko": "전염, 전파",
+    "example": "Fear of contagion led to widespread panic during the epidemic.",
+    "mnemonic": "con(함께) + tag(접촉하다, 라틴어 tangere) + ion = 함께 접촉하는 것 → 전염. tang(접촉): tangible, contact, contagious"
+  },
+  {
+    "en": "imbue",
+    "ko": "스며들게 하다, 불어넣다",
+    "example": "The teacher imbued her students with a love for literature.",
+    "mnemonic": "im(안에) + bue(적시다, 라틴어 imbuere) = 안에 적시다 → 스며들게 하다"
+  },
+  {
+    "en": "obsequious",
+    "ko": "아첨하는, 비굴한",
+    "example": "The obsequious assistant agreed with everything the boss said.",
+    "mnemonic": "ob(향해) + sequ(따르다) + ious = 과도하게 따르는 → 아첨하는. sequ(따르다): sequence, subsequent"
+  },
+  {
+    "en": "nonchalance",
+    "ko": "무관심, 태연함",
+    "example": "She accepted the news with studied nonchalance, hiding her true feelings.",
+    "mnemonic": "non(아닌) + chal(뜨거운, 라틴어 calere) + ance = 뜨겁지 않은 → 태연함. nonchalant(태연한)"
+  },
+  {
+    "en": "disproportion",
+    "ko": "불균형, 비례하지 않음",
+    "example": "There is a disproportion between the amount of work and the pay.",
+    "mnemonic": "dis(부정) + proportion(비율) = 비율이 맞지 않음 → 불균형"
+  },
+  {
+    "en": "inscrutable",
+    "ko": "불가해한, 알 수 없는",
+    "example": "The professor's inscrutable expression made it hard to gauge his reaction.",
+    "mnemonic": "'인스크루터블' → 'in(아닌)+scrut(조사하다)+able' 조사해도 알 수 없는!"
+  },
+  {
+    "en": "clairvoyant",
+    "ko": "투시력 있는, 예지력 있는",
+    "example": "She claimed to be clairvoyant and able to predict the future.",
+    "mnemonic": "clair(밝은, 프랑스어) + voyant(보는) = 밝게 보는 → 투시력 있는. clair(밝은): clear. voy(보다): voyage, envoy"
+  },
+  {
+    "en": "opprobrious",
+    "ko": "모욕적인, 수치스러운",
+    "example": "The opprobrious remarks made by the politician sparked widespread outrage.",
+    "mnemonic": "ob(향해) + probr(수치, 라틴어 probrum) + ious = 수치를 향한 → 모욕적인. opprobrium(치욕)의 형용사형"
+  },
+  {
+    "en": "countenance",
+    "ko": "얼굴 표정, 용납하다",
+    "example": "The teacher would not countenance any form of cheating.",
+    "mnemonic": "con(함께) + ten(잡다) + ance = 표정을 유지하다 → 얼굴 표정, 용납하다. contain(담다)과 같은 어근 계열"
+  },
+  {
+    "en": "ossify",
+    "ko": "경직되다, 뼈로 변하다",
+    "example": "The once-innovative company had ossified into a bureaucratic institution.",
+    "mnemonic": "oss(뼈, 라틴어 os) + ify = 뼈로 만들다 → 경직되다. oss(뼈): osseous, osteoporosis"
+  },
+  {
+    "en": "commensurate",
+    "ko": "상응하는, 비례하는",
+    "example": "The salary should be commensurate with experience and qualifications.",
+    "mnemonic": "com(함께) + mensur(측정하다, 라틴어 mensura) + ate = 함께 측정되는 → 비례하는. mens(측정): measure, dimension"
+  },
+  {
+    "en": "duplicity",
+    "ko": "이중성, 위선",
+    "example": "His duplicity was revealed when his secret deals were exposed.",
+    "mnemonic": "duplic(이중, 라틴어 duplex) + ity = 이중임 → 이중성, 위선. dupl(이중): duplicate, duplex. plic(접다): 두 겹으로 접은"
+  },
+  {
+    "en": "maverick",
+    "ko": "독불장군, 이단아",
+    "example": "The maverick senator often voted against his own party's position.",
+    "mnemonic": "Samuel Maverick이라는 텍사스 목장주가 소에 낙인을 찍지 않아서 → 독불장군"
+  },
+  {
+    "en": "anodyne",
+    "ko": "진통의, 무난한",
+    "example": "The politician gave an anodyne response that avoided the real issue.",
+    "mnemonic": "an(없는) + odyne(고통, 그리스어 odyne) = 고통이 없는 → 진통의, 무난한"
+  },
+  {
+    "en": "melancholy",
+    "ko": "우울, 울적함",
+    "example": "A feeling of melancholy overcame her as she looked at the old photographs.",
+    "mnemonic": "melan(검은, 그리스어 melas) + choly(담즙, chole) = 검은 담즙 → 우울. 고대 의학: 검은 담즙이 우울증을 유발한다고 믿음"
+  },
+  {
+    "en": "fitful",
+    "ko": "간헐적인, 불규칙한",
+    "example": "He managed only fitful sleep during the turbulent flight.",
+    "mnemonic": "fit(발작) + ful = 발작적인 → 간헐적인. fit(발작): fits and starts(간간이)"
+  },
+  {
+    "en": "vacillate",
+    "ko": "동요하다, 우유부단하다",
+    "example": "She vacillated between accepting the job offer and staying at her current company.",
+    "mnemonic": "vacill(흔들리다, 라틴어 vacillare) + ate = 흔들리다 → 동요하다, 우유부단하다"
+  },
+  {
+    "en": "dotage",
+    "ko": "노망, 노쇠",
+    "example": "In his dotage, the old professor often confused past and present events.",
+    "mnemonic": "dote(맹목적으로 좋아하다, 치매가 들다) + age = 노쇠한 상태 → 노망"
+  },
+  {
+    "en": "incognito",
+    "ko": "익명으로, 변장한",
+    "example": "The celebrity traveled incognito to avoid being recognized by fans.",
+    "mnemonic": "in(아닌) + cognit(알려진, 라틴어 cognitus) + o = 알려지지 않은 → 익명의. cogn(알다): recognize, cognition"
+  },
+  {
+    "en": "underscore",
+    "ko": "강조하다, 밑줄 긋다",
+    "example": "The accident underscored the need for stricter safety regulations.",
+    "mnemonic": "under(아래) + score(선을 긋다) = 밑줄을 긋다 → 강조하다"
+  },
+  {
+    "en": "attenuate",
+    "ko": "약화시키다, 희석하다",
+    "example": "The thick walls attenuate the noise from outside.",
+    "mnemonic": "at(~쪽으로) + tenu(얇은, 가는) + ate = 얇게 만들다 → 약화시키다. tenu(얇은): tenuous, thin"
+  },
+  {
+    "en": "archetype",
+    "ko": "원형, 전형",
+    "example": "The hero's journey is a common archetype in world literature.",
+    "mnemonic": "arche(처음, 원래) + type(유형) = 원래의 유형 → 원형. arch(처음): archaeology, archive"
+  },
+  {
+    "en": "esoteric",
+    "ko": "난해한, 소수만 이해하는",
+    "example": "The philosopher's esoteric writings are understood by very few scholars.",
+    "mnemonic": "'에소테릭' → 'eso(안)+teric(~의)' 안쪽 사람만 아는 난해한!"
+  },
+  {
+    "en": "sedulous",
+    "ko": "근면한, 공들이는",
+    "example": "Through sedulous practice, she mastered the difficult piano piece.",
+    "mnemonic": "sed(없이, 라틴어 se) + ul(속임) + ous = 속임 없이 꾸준히 하는 → 근면한. 라틴어 sedulus(부지런한)"
+  },
+  {
+    "en": "legitimate",
+    "ko": "합법적인, 정당한",
+    "example": "The company has a legitimate claim to the disputed patent.",
+    "mnemonic": "legit(법, 라틴어 lex) + imate = 법에 맞는 → 합법적인. leg(법): legal, legislate, legislature"
+  },
+  {
+    "en": "fallacious",
+    "ko": "잘못된, 오류의",
+    "example": "The argument is based on fallacious reasoning and misleading data.",
+    "mnemonic": "'펄레이셔스' → 'fallac(속이다)+ious' 속이는 잘못된 논리!"
+  },
+  {
+    "en": "gestalt",
+    "ko": "전체적 형태, 게슈탈트",
+    "example": "The gestalt of the artwork can only be appreciated by viewing it as a whole.",
+    "mnemonic": "독일어 Gestalt(형태, 형상). 부분의 합 이상인 전체적 형태 → 게슈탈트"
+  },
+  {
+    "en": "legacy",
+    "ko": "유산, 업적",
+    "example": "The scientist's legacy includes dozens of groundbreaking discoveries.",
+    "mnemonic": "leg(법, 위임, 라틴어 legare=위임하다) + acy = 위임된 것 → 유산. leg(위임): legate, delegate, relegate"
+  },
+  {
+    "en": "abrogate",
+    "ko": "폐지하다, 무효화하다",
+    "example": "The new government abrogated the previous administration's controversial laws.",
+    "mnemonic": "ab(떨어져) + rog(요청하다, 라틴어 rogare) + ate = 요청을 철회하다 → 폐지하다. rog(묻다): interrogate, prerogative"
+  },
+  {
+    "en": "harangue",
+    "ko": "열변, 장황한 연설",
+    "example": "The manager delivered a harangue about the declining sales figures.",
+    "mnemonic": "고대 이탈리아어 aringa(연설, 광장 연설)에서 유래. 광장에서 퍼붓는 → 장황한 열변"
+  },
+  {
+    "en": "cadence",
+    "ko": "리듬, 억양",
+    "example": "The poet's words had a musical cadence that enchanted the listeners.",
+    "mnemonic": "cad(떨어지다, 라틴어 cadere) + ence = 떨어지는 리듬 → 억양, 리듬. cad(떨어지다): cascade, decadence, cadaver"
+  },
+  {
+    "en": "terse",
+    "ko": "간결한, 짧고 무뚝뚝한",
+    "example": "His terse reply of just two words suggested he was annoyed.",
+    "mnemonic": "라틴어 tersus(닦은, 깨끗한, tergere=닦다에서). 군더더기를 닦아낸 → 간결한"
+  },
+  {
+    "en": "prodigal",
+    "ko": "낭비하는, 방탕한",
+    "example": "The prodigal son spent all his inheritance on reckless living.",
+    "mnemonic": "pro(앞에) + dig(몰아내다) + al = 재산을 앞으로 몰아내는 → 낭비하는. 성경의 '탕자' 이야기"
+  },
+  {
+    "en": "urbane",
+    "ko": "세련된, 도시적인",
+    "example": "The urbane diplomat charmed everyone at the international reception.",
+    "mnemonic": "urban(도시의, 라틴어 urbanus) + e = 도시적으로 세련된. urb(도시): urban, suburb, urbanize"
+  },
+  {
+    "en": "exhort",
+    "ko": "권고하다, 열심히 권하다",
+    "example": "The coach exhorted the players to give their best effort in the final game.",
+    "mnemonic": "ex(밖으로) + hort(격려하다, 라틴어 hortari) = 밖으로 격려하다 → 권고하다. hort(격려): exhortation"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "en": "incendiary",
+    "ko": "방화의, 선동적인",
+    "example": "The politician's incendiary remarks sparked violent protests.",
+    "mnemonic": "'인센디어리' → 'incend(불 붙이다)+iary' 불을 붙이듯 선동적인!"
+  },
+  {
+    "en": "pedantic",
+    "ko": "현학적인, 학자연하는",
+    "example": "His pedantic insistence on grammar rules made conversations exhausting.",
+    "mnemonic": "ped(가르치다, 그리스어 paideuein) + antic = 과도하게 가르치려 하는 → 현학적인. ped(아이, 교육): pedagogy"
+  },
+  {
+    "en": "gestate",
+    "ko": "임신하다, 구상하다",
+    "example": "The idea had been gestating in her mind for years before she wrote the novel.",
+    "mnemonic": "gest(나르다, 라틴어 gestare) + ate = 안에 품고 다니다 → 임신하다, 구상하다. gest(나르다): digest, ingest"
+  },
+  {
+    "en": "extricate",
+    "ko": "구출하다, 빼내다",
+    "example": "Firefighters worked for hours to extricate the driver from the wreckage.",
+    "mnemonic": "'엑스트리케이트' → 'ex(밖으로)+tric(얽힌)+ate' 얽힘에서 빼내어 구출!"
+  },
+  {
+    "en": "counterintuitive",
+    "ko": "직관에 반하는",
+    "example": "It may seem counterintuitive, but exercising actually gives you more energy.",
+    "mnemonic": "counter(반대) + intuitive(직관적인) = 직관에 반하는. intuit(안쪽에서 보다): intuition"
+  },
+  {
+    "en": "fluctuation",
+    "ko": "변동, 오르내림",
+    "example": "Currency fluctuations can significantly affect international trade.",
+    "mnemonic": "fluct(흐르다, 라틴어 fluctuare=물결치다) + uation = 물결처럼 오르내리는 것 → 변동. flu(흐르다): fluid, fluent, flux"
+  },
+  {
+    "en": "precursor",
+    "ko": "선구자, 전조",
+    "example": "The abacus was a precursor to the modern computer.",
+    "mnemonic": "pre(미리) + curs(달리다) + or = 미리 달리는 사람 → 선구자. curs(달리다): cursor, current, occur"
+  },
+  {
+    "en": "impugn",
+    "ko": "이의를 제기하다, 비난하다",
+    "example": "The defense attorney impugned the credibility of the prosecution's witness.",
+    "mnemonic": "'임퓨언' → 'im(향해)+pugn(싸우다)' 향해 싸우며 이의 제기!"
+  },
+  {
+    "en": "garish",
+    "ko": "야한, 눈이 부시게 화려한",
+    "example": "The garish neon signs made the street look cheap and tacky.",
+    "mnemonic": "고대 영어 gauren(응시하다). 응시하게 만들 정도로 → 야한, 화려한"
+  },
+  {
+    "en": "enervate",
+    "ko": "기력을 빼앗다, 약화시키다",
+    "example": "The extreme heat enervated the hikers, forcing them to rest frequently.",
+    "mnemonic": "'에너베이트' → 'e+nerve(신경)+ate' 신경을 빼앗아 기력 약화!"
+  },
+  {
+    "en": "allusion",
+    "ko": "암시, 언급",
+    "example": "The poem contains many allusions to Greek mythology.",
+    "mnemonic": "al(~쪽으로) + lus(놀다, 라틴어 ludere) + ion = 간접적으로 가지고 놀다 → 암시. lud/lus(놀다): illusion, elude, ludicrous"
+  },
+  {
+    "en": "omniscient",
+    "ko": "전지의, 모든 것을 아는",
+    "example": "The novel uses an omniscient narrator who knows every character's thoughts.",
+    "mnemonic": "omni(모든) + sci(알다, 라틴어 scire) + ent = 모든 것을 아는 → 전지의. sci(알다): science, conscious, prescient"
+  },
+  {
+    "en": "decadence",
+    "ko": "퇴폐, 쇠퇴",
+    "example": "Historians often point to decadence as a factor in the fall of Rome.",
+    "mnemonic": "de(아래로) + cad(떨어지다, 라틴어 cadere) + ence = 아래로 떨어짐 → 쇠퇴. cad/cas(떨어지다): cascade, cadence, occasion"
+  },
+  {
+    "en": "quintessential",
+    "ko": "전형적인, 정수의",
+    "example": "Paris is the quintessential romantic city for many travelers.",
+    "mnemonic": "quint(다섯째) + essential(본질적) = 고대 철학의 제5원소(정수) → 전형적인, 정수의"
+  },
+  {
+    "en": "intransigent",
+    "ko": "타협하지 않는, 완고한",
+    "example": "The intransigent union refused to accept any of the company's proposals.",
+    "mnemonic": "'인트랜시전트' → 'in(아닌)+transig(타협)+ent' 타협하지 않는 완고한!"
+  },
+  {
+    "en": "apathetic",
+    "ko": "무관심한, 냉담한",
+    "example": "Young voters are often criticized for being apathetic about politics.",
+    "mnemonic": "a(없는) + path(감정) + etic = 감정이 없는 → 무관심한. path(감정): apathy, sympathy, empathy, pathetic"
+  },
+  {
+    "en": "propinquity",
+    "ko": "근접, 유사성",
+    "example": "The propinquity of the two nations led to frequent cultural exchanges.",
+    "mnemonic": "propin(가까운, 라틴어 propinquus) + quity = 가까움 → 근접. prope(가까운): approximate, propinquus, proximity와 의미 유사"
+  },
+  {
+    "en": "noisome",
+    "ko": "불쾌한, 악취가 나는",
+    "example": "The noisome odor from the factory made the neighborhood unlivable.",
+    "mnemonic": "noi(해, annoy의 어근) + some = 해로운 → 불쾌한. annoy(짜증나게 하다)와 같은 어근. noise(소음)과 관련 없음"
+  },
+  {
+    "en": "dour",
+    "ko": "엄격한, 음침한",
+    "example": "The dour librarian silenced anyone who dared to whisper.",
+    "mnemonic": "라틴어 durus(단단한, 엄격한)에서 유래. 단단하고 엄격한 → 음침한. dur(단단한): durable, endure, obdurate"
+  },
+  {
+    "en": "conundrum",
+    "ko": "난제, 수수께끼",
+    "example": "Climate change presents a conundrum that requires global cooperation.",
+    "mnemonic": "라틴어 유사형태. con(함께) + 어원 불확실하나 16세기 학술 용어에서 유래. 복잡하게 뒤엉킨 난제, 수수께끼"
+  },
+  {
+    "en": "confluence",
+    "ko": "합류, 합류점",
+    "example": "The confluence of the two rivers creates a spectacular landscape.",
+    "mnemonic": "con(함께) + flu(흐르다) + ence = 함께 흐르는 것 → 합류. flu(흐르다): fluent, affluent, influence, fluid"
+  },
+  {
+    "en": "patronage",
+    "ko": "후원, 보호",
+    "example": "The arts flourished under the patronage of wealthy nobles.",
+    "mnemonic": "patron(후원자, 라틴어 patronus=보호자) + age = 후원하는 것 → 후원. patr(아버지): patriarch, paternal"
+  },
+  {
+    "en": "impecunious",
+    "ko": "무일푼의, 가난한",
+    "example": "The impecunious artist could barely afford to buy paint and canvas.",
+    "mnemonic": "im(없는) + pecuni(돈, 라틴어 pecunia) + ous = 돈이 없는 → 무일푼의. pecun(돈): pecuniary(금전의)"
+  },
+  {
+    "en": "austerity",
+    "ko": "긴축, 검소함",
+    "example": "The government imposed austerity measures to reduce debt.",
+    "mnemonic": "auster(엄격한, 건조한, 그리스어 austeros) + ity = 엄격함 → 긴축. austere에서 파생"
+  },
+  {
+    "en": "explicable",
+    "ko": "설명 가능한",
+    "example": "The strange phenomena are not easily explicable by current science.",
+    "mnemonic": "'엑스플리커블' → 'ex+plic(펴다)+able' 펼쳐서 설명할 수 있는!"
+  },
+  {
+    "en": "erudition",
+    "ko": "박식, 학식",
+    "example": "Her erudition in classical literature impressed all the conference attendees.",
+    "mnemonic": "erud(가르치다, 라틴어 erudire=다듬다) + ition = 많이 배운 상태 → 박식. erudite(박식한)"
+  },
+  {
+    "en": "enfranchise",
+    "ko": "참정권을 주다, 해방하다",
+    "example": "The new law enfranchised millions of citizens who had been denied the right to vote.",
+    "mnemonic": "en(만들다) + franchise(자유, 프랑스어 franc=자유로운) = 자유롭게 하다 → 참정권을 주다"
+  },
+  {
+    "en": "infringement",
+    "ko": "침해, 위반",
+    "example": "The lawsuit alleged copyright infringement by the tech company.",
+    "mnemonic": "in(안으로) + fringe(가장자리를 부수다, 라틴어 frangere) + ment = 경계를 부수고 들어감 → 침해. frang/fract(부수다): fraction, fracture"
+  },
+  {
+    "en": "capacious",
+    "ko": "넓은, 용량이 큰",
+    "example": "The capacious auditorium can seat over two thousand people.",
+    "mnemonic": "capac(잡다, 담다, 라틴어 capax) + ious = 많이 담을 수 있는 → 넓은. cap(잡다, 담다): capacity, capable, capture"
+  },
+  {
+    "en": "incarnate",
+    "ko": "화신의, 구체화된",
+    "example": "She was kindness incarnate, always helping those in need.",
+    "mnemonic": "in(안에) + carn(살, 라틴어 caro) + ate = 살 안에 들어간 → 화신의. carn(살): carnal, carnivore, carnival"
+  },
+  {
+    "en": "posthumous",
+    "ko": "사후의, 유작의",
+    "example": "The author's posthumous novel was published two years after her death.",
+    "mnemonic": "post(후에) + hum(땅, 라틴어 humus) + ous = 땅에 묻힌 후의 → 사후의. hum(땅): humble, human, exhume"
+  },
+  {
+    "en": "cogent",
+    "ko": "설득력 있는, 타당한",
+    "example": "She presented a cogent argument that convinced the entire jury.",
+    "mnemonic": "co(함께) + gent(이끌다, 라틴어 agere) = 함께 이끄는 → 설득력 있는. ag/act(행하다, 이끌다): agent, cogitate"
+  },
+  {
+    "en": "foment",
+    "ko": "조장하다, 선동하다",
+    "example": "The rebel leader fomented unrest among the dissatisfied workers.",
+    "mnemonic": "'포멘트' → 'foam(거품)+ment' 거품이 일듯 불만을 조장!"
+  },
+  {
+    "en": "contrite",
+    "ko": "뉘우치는, 회개하는",
+    "example": "He appeared contrite after realizing the harm his words had caused.",
+    "mnemonic": "con(완전히) + trit(갈다, 라틴어 terere) + e = 마음이 완전히 갈린 → 뉘우치는. trit(갈다): attrition(마모), trite(진부한=닳은)"
+  },
+  {
+    "en": "laconic",
+    "ko": "간결한, 말수가 적은",
+    "example": "His laconic reply of just one word left everyone wanting more details.",
+    "mnemonic": "라코니아(Laconia) 사람들이 말이 적기로 유명했던 것에서 유래 → 간결한"
+  },
+  {
+    "en": "impenetrable",
+    "ko": "뚫을 수 없는, 이해할 수 없는",
+    "example": "The fortress was surrounded by impenetrable walls.",
+    "mnemonic": "im(아닌) + penetr(뚫다) + able = 뚫을 수 없는. penetr(뚫다): penetrate, penetrating"
+  },
+  {
+    "en": "wily",
+    "ko": "교활한, 간교한",
+    "example": "The wily fox managed to evade the hunters once again.",
+    "mnemonic": "wile(계략, 속임수) + y = 계략을 쓰는 → 교활한"
+  },
+  {
+    "en": "amenable",
+    "ko": "수용적인, 순응하는",
+    "example": "The manager was amenable to the employees' suggestions.",
+    "mnemonic": "a(~쪽으로) + men(이끌다, 라틴어 minare) + able = 이끌릴 수 있는 → 수용적인. min(이끌다): menace(위협하여 이끌다)"
+  },
+  {
+    "en": "indelible",
+    "ko": "지울 수 없는, 잊혀지지 않는",
+    "example": "The war left an indelible mark on the nation's collective memory.",
+    "mnemonic": "'인델러블' → 'in(아닌)+del(지우다)+ible' 지울 수 없는!"
+  },
+  {
+    "en": "coagulate",
+    "ko": "응고하다, 응집시키다",
+    "example": "Blood coagulates when exposed to air to form a protective clot.",
+    "mnemonic": "co(함께) + agul(몰다, 라틴어 agere) + ate = 함께 몰아 뭉치다 → 응고하다"
+  },
+  {
+    "en": "ubiquity",
+    "ko": "편재, 어디에나 있음",
+    "example": "The ubiquity of smartphones has transformed how people communicate.",
+    "mnemonic": "ubique(어디에나, 라틴어) + ity = 어디에나 있는 상태 → 편재. ubiquitous(어디에나 있는)"
+  },
+  {
+    "en": "susceptibility",
+    "ko": "감수성, 취약성",
+    "example": "Children have a higher susceptibility to certain infectious diseases.",
+    "mnemonic": "sus(아래에서) + cept(잡다) + ibility = 아래에서 잡힐 수 있는 → 취약성. susceptible(취약한)의 명사형"
+  },
+  {
+    "en": "plenitude",
+    "ko": "풍부, 충만",
+    "example": "The garden offered a plenitude of colorful flowers in every season.",
+    "mnemonic": "plen(가득한, 라틴어 plenus) + itude = 가득 찬 상태 → 풍부. plen(가득): plenty, plenary, replenish"
+  },
+  {
+    "en": "invective",
+    "ko": "욕설, 맹렬한 비난",
+    "example": "The debate devolved into personal invective rather than policy discussion.",
+    "mnemonic": "in(향해) + vect(운반하다) + ive = 비난을 퍼붓다. vect(운반): vector, convey"
+  },
+  {
+    "en": "accrue",
+    "ko": "발생하다, 누적되다",
+    "example": "Interest accrues on the savings account every month.",
+    "mnemonic": "ac(~쪽으로) + crue(자라다, 라틴어 crescere) = 점점 자라나다 → 누적되다. cresc/cre 어근: increase, crescendo"
+  },
+  {
+    "en": "magnate",
+    "ko": "거물, 재벌",
+    "example": "The oil magnate donated billions to philanthropic causes.",
+    "mnemonic": "magn(큰, 라틴어 magnus) + ate = 큰 사람 → 거물. magn(큰): magnificent, magnitude, magnify"
+  },
+  {
+    "en": "histrionic",
+    "ko": "연극적인, 과장된",
+    "example": "Her histrionic reaction to the minor inconvenience annoyed everyone.",
+    "mnemonic": "histrion(배우, 라틴어 histrio) + ic = 배우 같은 → 연극적인, 과장된"
+  },
+  {
+    "en": "appease",
+    "ko": "달래다, 진정시키다",
+    "example": "She tried to appease the angry customer with a full refund.",
+    "mnemonic": "ap(~쪽으로) + pease(평화, 라틴어 pax) = 평화 쪽으로 이끌다 → 달래다. pac/pax(평화): pacify, pacific"
+  },
+  {
+    "en": "unassailable",
+    "ko": "반박할 수 없는, 난공불락의",
+    "example": "The evidence against the suspect was unassailable.",
+    "mnemonic": "un(아닌) + assail(공격하다) + able = 공격할 수 없는 → 난공불락의. sail(뛰어오르다): assail, assault"
+  },
+  {
+    "en": "philanthropic",
+    "ko": "박애주의의, 자선적인",
+    "example": "The philanthropic foundation donates millions to medical research each year.",
+    "mnemonic": "phil(사랑, 그리스어) + anthrop(인간) + ic = 인간을 사랑하는 → 박애주의의. phil(사랑): philosophy. anthrop(인간): anthropology"
+  }
+]

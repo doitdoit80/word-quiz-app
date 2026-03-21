@@ -1,0 +1,302 @@
+[
+  {
+    "en": "shame",
+    "ko": "수치, 부끄러움",
+    "example": "He felt shame for lying to his parents.",
+    "mnemonic": "고대 영어 scamu(수치)에서 유래. 게르만어 skamo(덮다). 얼굴을 덮고 싶은 감정 → 수치"
+  },
+  {
+    "en": "magnificent",
+    "ko": "장엄한, 훌륭한",
+    "example": "The view from the mountain top was magnificent.",
+    "mnemonic": "'매그니피센트' → 'magni(큰)+fic(만들다)' 크게 만든 = 장엄한!"
+  },
+  {
+    "en": "miracle",
+    "ko": "기적",
+    "example": "It was a miracle that no one was hurt.",
+    "mnemonic": "'미러클' → '미러(mirror)클' 거울에 비친 기적!"
+  },
+  {
+    "en": "asset",
+    "ko": "자산, 장점",
+    "example": "Her language skills are a great asset.",
+    "mnemonic": "라틴어 ad satis(충분한 것)에서 유래. 충분히 가진 것 → 자산"
+  },
+  {
+    "en": "pride",
+    "ko": "자부심, 긍지",
+    "example": "She takes pride in her work.",
+    "mnemonic": "고대 영어 pryde(자만, 긍지)에서 유래. proud(자랑스러운)와 같은 어근"
+  },
+  {
+    "en": "pension",
+    "ko": "연금",
+    "example": "After retirement, he lives on his pension.",
+    "mnemonic": "라틴어 pensio(지불)에서 유래. pendere(달다, 지불하다). 정기적 지불 → 연금. 관련어: expense"
+  },
+  {
+    "en": "interact",
+    "ko": "상호작용하다",
+    "example": "Children learn by interacting with each other.",
+    "mnemonic": "'인터랙트' → 'inter(서로)+act(행동)' 서로 행동 = 상호작용!"
+  },
+  {
+    "en": "evaporate",
+    "ko": "증발하다",
+    "example": "The puddle evaporated in the hot sun.",
+    "mnemonic": "e(밖으로) + vapor(증기) + ate = 증기가 되어 밖으로 → 증발하다"
+  },
+  {
+    "en": "pause",
+    "ko": "멈추다, 일시 정지",
+    "example": "She paused for a moment before answering.",
+    "mnemonic": "'포즈' → '포즈(pause)' 버튼 = 일시 정지!"
+  },
+  {
+    "en": "overall",
+    "ko": "전반적인, 전체의",
+    "example": "The overall quality of the product is excellent.",
+    "mnemonic": "'오버올' → 'over(위에)+all(모든)' 모든 것 위에 = 전반적인!"
+  },
+  {
+    "en": "prior",
+    "ko": "이전의, 우선하는",
+    "example": "You need prior experience to apply for this job.",
+    "mnemonic": "라틴어 prior(앞의, 이전의)에서 유래. 앞선 → 이전의. 관련어: priority(우선순위)"
+  },
+  {
+    "en": "timber",
+    "ko": "목재, 재목",
+    "example": "They used timber to build the cabin.",
+    "mnemonic": "고대 영어 timber(건축재, 나무)에서 유래. 건축에 쓰는 나무 → 목재"
+  },
+  {
+    "en": "grip",
+    "ko": "잡다, 움켜쥐다",
+    "example": "He gripped the rope tightly to avoid falling.",
+    "mnemonic": "'그립' → '그립(grip)' 꽉 잡는 손잡이!"
+  },
+  {
+    "en": "habitat",
+    "ko": "서식지",
+    "example": "Polar bears are losing their natural habitat.",
+    "mnemonic": "'해비탯' → '해비(have)탯(tat)' 동물이 사는 곳을 갖다!"
+  },
+  {
+    "en": "deaf",
+    "ko": "귀머거리의, 귀가 안 들리는",
+    "example": "He has been deaf since birth.",
+    "mnemonic": "고대 영어 dēaf(듣지 못하는)에서 유래. 게르만어 daubaz(혼란스러운, 둔한)와 관련"
+  },
+  {
+    "en": "desperate",
+    "ko": "절망적인, 필사적인",
+    "example": "He was desperate to find a job.",
+    "mnemonic": "de(없이) + sper(희망, spes) + ate = 희망이 없는 → 절망적인. 관련어: prosper(번영하다)"
+  },
+  {
+    "en": "jury",
+    "ko": "배심원단",
+    "example": "The jury found the defendant not guilty.",
+    "mnemonic": "'주리' → '주(judge=판단)리' 판단하는 사람들 = 배심원!"
+  },
+  {
+    "en": "nationalism",
+    "ko": "민족주의, 국가주의",
+    "example": "Nationalism played a big role in the country's history.",
+    "mnemonic": "'내셔널리즘' → 'national(국가의)+ism(주의)' 국가주의!"
+  },
+  {
+    "en": "athlete",
+    "ko": "운동선수",
+    "example": "The athlete trained hard for the Olympics.",
+    "mnemonic": "그리스어 athlon(경기, 시합)에서 유래. 경기하는 사람 → 운동선수"
+  },
+  {
+    "en": "enterprise",
+    "ko": "기업, 사업",
+    "example": "He started a small enterprise selling handmade crafts.",
+    "mnemonic": "enter(사이에) + prise(잡다, prendere) = 기회를 잡다 → 사업. 관련어: surprise, comprise"
+  },
+  {
+    "en": "tomb",
+    "ko": "무덤, 묘",
+    "example": "The ancient tomb was discovered by archaeologists.",
+    "mnemonic": "그리스어 tymbos(무덤)에서 유래. 죽은 자를 묻는 곳 → 무덤. 관련어: entomb"
+  },
+  {
+    "en": "scandal",
+    "ko": "스캔들, 추문",
+    "example": "The political scandal shocked the nation.",
+    "mnemonic": "그리스어 skandalon(덫, 올가미)에서 유래. 덫에 빠지는 것 → 추문, 스캔들"
+  },
+  {
+    "en": "severe",
+    "ko": "심각한, 가혹한",
+    "example": "The patient has a severe headache.",
+    "mnemonic": "라틴어 severus(엄격한, 가혹한)에서 유래. 관련어: persevere(인내하다)"
+  },
+  {
+    "en": "patience",
+    "ko": "인내, 참을성",
+    "example": "Teaching children requires a lot of patience.",
+    "mnemonic": "'페이션스' → 'pati(견디다)+ence' 견디는 것 = 인내!"
+  },
+  {
+    "en": "sensation",
+    "ko": "감각, 센세이션",
+    "example": "She felt a strange sensation in her fingers.",
+    "mnemonic": "sens(느끼다, sentire) + ation = 느끼는 것 → 감각. 관련어: sense, sensitive"
+  },
+  {
+    "en": "glory",
+    "ko": "영광",
+    "example": "The team enjoyed the glory of winning the championship.",
+    "mnemonic": "라틴어 gloria(명예, 영광)에서 유래. 널리 칭송받는 것 → 영광. 관련어: glorify, glorious"
+  },
+  {
+    "en": "crew",
+    "ko": "승무원, 팀",
+    "example": "The flight crew prepared for takeoff.",
+    "mnemonic": "고대 프랑스어 creue(증가, 모집)에서 유래. 모집된 사람들 → 승무원, 팀"
+  },
+  {
+    "en": "regime",
+    "ko": "정권, 체제",
+    "example": "The military regime lasted for twenty years.",
+    "mnemonic": "라틴어 regimen(통치, 지배)에서 유래. reg(다스리다, regere). 관련어: region, regular"
+  },
+  {
+    "en": "path",
+    "ko": "길, 경로",
+    "example": "Follow this path to reach the lake.",
+    "mnemonic": "'패스' → '패스(path)' 지나가는 길!"
+  },
+  {
+    "en": "faint",
+    "ko": "희미한, 기절하다",
+    "example": "She heard a faint sound in the distance.",
+    "mnemonic": "고대 프랑스어 feint(게으른, 약한)에서 유래. 라틴어 fingere(꾸미다). 힘이 빠진 → 희미한, 기절하다"
+  },
+  {
+    "en": "swallow",
+    "ko": "삼키다, 제비",
+    "example": "She swallowed the medicine with water.",
+    "mnemonic": "고대 영어 swelgan(삼키다)에서 유래. 목구멍으로 넘기다 → 삼키다"
+  },
+  {
+    "en": "comment",
+    "ko": "논평, 댓글",
+    "example": "She left a kind comment on my blog post.",
+    "mnemonic": "com(함께) + ment(마음, mens) = 함께 마음을 나누다 → 논평, 댓글"
+  },
+  {
+    "en": "freeze",
+    "ko": "얼다, 동결하다",
+    "example": "Water freezes at zero degrees Celsius.",
+    "mnemonic": "고대 영어 frēosan(얼다)에서 유래. frost(서리)와 같은 어근. 차갑게 굳다 → 얼다"
+  },
+  {
+    "en": "fame",
+    "ko": "명성, 유명세",
+    "example": "She gained fame as a talented singer.",
+    "mnemonic": "라틴어 fama(소문, 명성)에서 유래. fari(말하다). 사람들이 말하는 것 → 명성. 관련어: famous, fate"
+  },
+  {
+    "en": "draft",
+    "ko": "초안, 초고",
+    "example": "She wrote the first draft of her essay.",
+    "mnemonic": "고대 영어 dragan(끌다, draw)에서 유래. draw와 같은 어근. 끌어내어 그린 것 → 초안"
+  },
+  {
+    "en": "conference",
+    "ko": "회의, 학회",
+    "example": "The international conference was held in Seoul.",
+    "mnemonic": "con(함께) + fer(가져오다, ferre) + ence = 함께 가져와 논의하다 → 회의. 관련어: transfer, refer"
+  },
+  {
+    "en": "concept",
+    "ko": "개념, 관념",
+    "example": "The concept of freedom is important in democracy.",
+    "mnemonic": "con(함께) + cept(잡다, capere) = 마음속에 잡아두다 → 개념. 관련어: accept, receive"
+  },
+  {
+    "en": "rhythm",
+    "ko": "리듬, 박자",
+    "example": "She danced to the rhythm of the music.",
+    "mnemonic": "그리스어 rhythmos(규칙적인 흐름)에서 유래. rhein(흐르다). 규칙적 흐름 → 리듬"
+  },
+  {
+    "en": "sue",
+    "ko": "고소하다, 소송하다",
+    "example": "She sued the company for damages.",
+    "mnemonic": "라틴어 sequi(따르다)에서 유래. 법정에서 따라가다 → 고소하다. 관련어: pursue, sequence"
+  },
+  {
+    "en": "conscience",
+    "ko": "양심",
+    "example": "Her conscience told her to tell the truth.",
+    "mnemonic": "con(함께) + sci(알다, scire) + ence = 자신과 함께 아는 것 → 양심. 관련어: science, conscious"
+  },
+  {
+    "en": "appetite",
+    "ko": "식욕, 욕구",
+    "example": "Exercise gives me a good appetite.",
+    "mnemonic": "ap(~을 향해) + pet(구하다, petere) + ite = 음식을 향해 구하다 → 식욕"
+  },
+  {
+    "en": "distinct",
+    "ko": "뚜렷한, 별개의",
+    "example": "The two languages are quite distinct from each other.",
+    "mnemonic": "dis(떨어져) + tinct(찌르다, 표시하다, stinguere) = 따로 표시된 → 뚜렷한. 관련어: distinguish"
+  },
+  {
+    "en": "expert",
+    "ko": "전문가",
+    "example": "She is an expert in computer science.",
+    "mnemonic": "ex(완전히) + pert(시험하다, 경험하다, peritus) = 완전히 경험한 사람 → 전문가. 관련어: experience"
+  },
+  {
+    "en": "spectrum",
+    "ko": "스펙트럼, 범위",
+    "example": "The political spectrum ranges from left to right.",
+    "mnemonic": "라틴어 spectrum(보이는 것)에서 유래. spect(보다, spectare). 빛을 분해해 보이는 것 → 스펙트럼"
+  },
+  {
+    "en": "executive",
+    "ko": "경영자, 임원",
+    "example": "She became a top executive at the company.",
+    "mnemonic": "ex(밖으로) + secut(따르다, sequi) + ive = 끝까지 따라가 실행하는 사람 → 경영자. 관련어: execute"
+  },
+  {
+    "en": "pattern",
+    "ko": "패턴, 양식",
+    "example": "The pattern on the dress is very beautiful.",
+    "mnemonic": "'패턴' → '패턴(pattern)' 반복되는 양식!"
+  },
+  {
+    "en": "lend",
+    "ko": "빌려주다",
+    "example": "Can you lend me your pen for a moment?",
+    "mnemonic": "'렌드' → '렌트(rent)'와 비슷! 빌려주다!"
+  },
+  {
+    "en": "supplement",
+    "ko": "보충, 보충하다",
+    "example": "She takes vitamin supplements every day.",
+    "mnemonic": "sup(아래에서) + ple(채우다, plere) + ment = 아래에서 채워넣다 → 보충. 관련어: supply, complete"
+  },
+  {
+    "en": "suburb",
+    "ko": "교외, 외곽",
+    "example": "They moved to the suburbs for a quieter life.",
+    "mnemonic": "sub(아래, 가까이) + urb(도시, urbs) = 도시 근처 → 교외. 관련어: urban"
+  },
+  {
+    "en": "phrase",
+    "ko": "구, 문구",
+    "example": "Can you translate this phrase into Korean?",
+    "mnemonic": "'프레이즈' → '프레이즈(phrase)' 명문구!"
+  }
+]

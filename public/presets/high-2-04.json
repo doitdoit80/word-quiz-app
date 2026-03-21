@@ -1,0 +1,302 @@
+[
+  {
+    "en": "surveillance",
+    "ko": "감시, 감찰",
+    "example": "The building is equipped with 24-hour surveillance cameras.",
+    "mnemonic": "sur(위에서) + veill(보다) + ance = 위에서 지켜보다 → 감시. vigil(경계), survey(조사하다)와 같은 어근"
+  },
+  {
+    "en": "refute",
+    "ko": "반박하다, 논박하다",
+    "example": "The scientist was able to refute the opposing theory with new data.",
+    "mnemonic": "re(반대) + fute(치다) = 반대로 쳐내다 → 반박하다. 라틴어 refutare(되밀다)에서 유래"
+  },
+  {
+    "en": "placebo",
+    "ko": "위약, 플라시보",
+    "example": "Half of the patients in the study received a placebo instead of the actual drug.",
+    "mnemonic": "라틴어 placebo(나는 기쁘게 할 것이다)에서 유래. plac(기쁘게 하다) = 기쁘게 해주는 가짜 약"
+  },
+  {
+    "en": "delineate",
+    "ko": "윤곽을 그리다, 묘사하다",
+    "example": "The report delineates the steps needed to achieve the goals.",
+    "mnemonic": "de(완전히) + line(선) + ate = 선을 그려 나타내다 → 묘사하다. line(선)에서 유래"
+  },
+  {
+    "en": "affiliate",
+    "ko": "제휴하다, 가입시키다",
+    "example": "The local store is affiliated with a major retail chain.",
+    "mnemonic": "af(~쪽으로) + fili(아들, 자식) + ate = 자식으로 삼다 → 제휴하다. filial(자식의)과 같은 어근"
+  },
+  {
+    "en": "nurture",
+    "ko": "양육하다, 키우다",
+    "example": "Parents nurture their children with love and patience.",
+    "mnemonic": "nutr(영양) + ure = 영양을 주어 키우다 → 양육하다. nutrition(영양), nurse(간호사)와 같은 어근"
+  },
+  {
+    "en": "fledgling",
+    "ko": "신생의, 미숙한",
+    "example": "The fledgling company struggled to find investors.",
+    "mnemonic": "'플레질링' → 'fledge(깃털)+ling' 막 깃털이 난 새 = 미숙한!"
+  },
+  {
+    "en": "consortium",
+    "ko": "컨소시엄, 합작단체",
+    "example": "A consortium of universities collaborated on the space research project.",
+    "mnemonic": "con(함께) + sort(몫, 운명) + ium = 운명을 함께하는 → 합작단체. sort(분류), consort(배우자)와 같은 어근"
+  },
+  {
+    "en": "pathology",
+    "ko": "병리학, 병리",
+    "example": "The pathology report revealed the cause of the disease.",
+    "mnemonic": "patho(고통, 질병) + logy(학문) = 질병의 학문 → 병리학. sympathy(동정), apathy(무관심)와 같은 어근"
+  },
+  {
+    "en": "tenure",
+    "ko": "재임 기간, 종신 재직권",
+    "example": "The professor was granted tenure after years of excellent research.",
+    "mnemonic": "ten(잡다) + ure = 잡고 있는 기간 → 재임 기간. maintain(유지하다), contain(포함하다)과 같은 어근"
+  },
+  {
+    "en": "tangential",
+    "ko": "접선의, 관련 없는",
+    "example": "His comments were tangential and had nothing to do with the main topic.",
+    "mnemonic": "tang(만지다) + ential = 살짝 만지고 지나가는 → 접선의, 관련 없는. tangent(접선), tangible(만질 수 있는)과 같은 어근"
+  },
+  {
+    "en": "encompass",
+    "ko": "포함하다, 둘러싸다",
+    "example": "The course encompasses a wide range of topics in biology.",
+    "mnemonic": "en(안에) + compass(범위, 나침반) = 범위 안에 넣다 → 포함하다, 둘러싸다. compass(나침반)는 com(함께) + pass(걸음)에서 유래"
+  },
+  {
+    "en": "plagiarize",
+    "ko": "표절하다",
+    "example": "The student was expelled for plagiarizing his entire thesis.",
+    "mnemonic": "라틴어 plagiarius(납치범)에서 유래. plagi(훔치다) + arize = 남의 글을 훔치다 → 표절하다"
+  },
+  {
+    "en": "repeal",
+    "ko": "폐지하다, 철회하다",
+    "example": "There was strong public pressure to repeal the controversial law.",
+    "mnemonic": "re(다시) + peal(부르다) = 다시 불러들이다 → 철회하다. appeal(호소하다)과 같은 어근"
+  },
+  {
+    "en": "lethargic",
+    "ko": "무기력한, 나른한",
+    "example": "The medication made him feel lethargic for most of the day.",
+    "mnemonic": "그리스어 lethe(망각) + argos(게으른) = 망각에 빠진 듯 게으른 → 무기력한"
+  },
+  {
+    "en": "stigma",
+    "ko": "오명, 낙인",
+    "example": "There is still a social stigma attached to mental illness.",
+    "mnemonic": "그리스어 stigma(찔러서 남긴 자국)에서 유래. stig(찌르다) = 찌른 자국 → 낙인, 오명"
+  },
+  {
+    "en": "reiterate",
+    "ko": "반복하여 말하다",
+    "example": "The professor reiterated the importance of submitting work on time.",
+    "mnemonic": "re(다시) + iterate(반복하다) = 다시 반복하다 → 거듭 말하다. 라틴어 iterare(반복하다)에서 유래"
+  },
+  {
+    "en": "pivotal",
+    "ko": "중추적인, 핵심적인",
+    "example": "The discovery of DNA was a pivotal moment in biology.",
+    "mnemonic": "pivot(축) + al = 축이 되는 → 중추적인. 문이 축을 중심으로 돌듯 핵심이 되는"
+  },
+  {
+    "en": "pensive",
+    "ko": "수심에 잠긴, 사색적인",
+    "example": "She sat in pensive silence, staring out the window.",
+    "mnemonic": "pens(생각하다, 무게를 달다) + ive = 생각에 잠긴 → 수심에 잠긴. pension(연금), ponder(숙고)와 같은 어근"
+  },
+  {
+    "en": "complacent",
+    "ko": "안주하는, 자기만족적인",
+    "example": "We must not become complacent about environmental issues.",
+    "mnemonic": "com(완전히) + plac(기쁜, 만족) + ent = 완전히 만족한 → 안주하는. placid(잔잔한), please(기쁘게 하다)와 같은 어근"
+  },
+  {
+    "en": "collaborate",
+    "ko": "협력하다, 공동 작업하다",
+    "example": "Scientists from different countries collaborated on the research.",
+    "mnemonic": "co(함께) + labor(노동) + ate = 함께 일하다 → 협력하다. laboratory(연구소)와 같은 어근"
+  },
+  {
+    "en": "amiable",
+    "ko": "친절한, 호감가는",
+    "example": "Her amiable personality made her popular among her colleagues.",
+    "mnemonic": "ami(친구, 사랑) + able = 사랑할 수 있는 → 친절한. amicable(우호적인)과 같은 어근"
+  },
+  {
+    "en": "disperse",
+    "ko": "흩어지다, 분산시키다",
+    "example": "Police used tear gas to disperse the crowd.",
+    "mnemonic": "dis(흩어져) + sperse(뿌리다) = 흩어 뿌리다 → 분산시키다. aspersion(비방, 물뿌림)과 같은 어근 spers(뿌리다)"
+  },
+  {
+    "en": "spontaneous",
+    "ko": "자발적인, 즉흥적인",
+    "example": "The audience broke into spontaneous applause.",
+    "mnemonic": "라틴어 sponte(자유의지로)에서 유래. spont(자발적) + aneous = 자발적으로 일어나는 → 즉흥적인"
+  },
+  {
+    "en": "rudimentary",
+    "ko": "기초적인, 초보적인",
+    "example": "He has only a rudimentary understanding of Korean grammar.",
+    "mnemonic": "rudi(가공하지 않은) + ment + ary = 가공하지 않은 → 기초적인. rude(거친, 무례한)와 같은 어근"
+  },
+  {
+    "en": "eclectic",
+    "ko": "절충적인, 다양한",
+    "example": "The restaurant offers an eclectic menu of dishes from around the world.",
+    "mnemonic": "ec(밖으로) + lect(선택하다) + ic = 여기저기서 골라 선택한 → 절충적인. select(선택하다), collect(모으다)와 같은 어근"
+  },
+  {
+    "en": "beckon",
+    "ko": "손짓하다, 부르다",
+    "example": "She beckoned him to come closer with a wave of her hand.",
+    "mnemonic": "고대 영어 beacen(신호, 표지)에서 유래. beck(신호) + on = 신호를 보내다 → 손짓하다. beacon(등대)과 같은 어원"
+  },
+  {
+    "en": "justification",
+    "ko": "정당화, 정당한 이유",
+    "example": "There is no justification for violence against innocent people.",
+    "mnemonic": "just(정당한) + ific(만들다) + ation = 정당하게 만드는 것 → 정당화. justice(정의)와 같은 어근"
+  },
+  {
+    "en": "grandiose",
+    "ko": "웅장한, 과대한",
+    "example": "He had grandiose plans to build the tallest skyscraper in the world.",
+    "mnemonic": "grand(큰) + iose = 크고 웅장한 → 과대한. grand(웅장한)에서 유래"
+  },
+  {
+    "en": "nocturnal",
+    "ko": "야행성의, 밤의",
+    "example": "Owls are nocturnal creatures that hunt during the night.",
+    "mnemonic": "noct(밤) + urnal = 밤의 → 야행성의. nocturne(야상곡)과 같은 어근"
+  },
+  {
+    "en": "feasible",
+    "ko": "실현 가능한, 가능한",
+    "example": "The engineers confirmed that the plan was technically feasible.",
+    "mnemonic": "'피저블' → 'feas(할 수 있는)+ible' 할 수 있는 = 실현 가능한!"
+  },
+  {
+    "en": "futility",
+    "ko": "무익함, 헛됨",
+    "example": "He realized the futility of arguing with someone so stubborn.",
+    "mnemonic": "futile(헛된) + ity = 헛된 상태 → 무익함. 라틴어 futilis(물이 새는, 쓸모없는)에서 유래"
+  },
+  {
+    "en": "accentuate",
+    "ko": "강조하다, 두드러지게 하다",
+    "example": "The lighting accentuated the beauty of the painting.",
+    "mnemonic": "ac(~쪽으로) + cent(노래하다) + uate = 소리를 높이다 → 강조하다. accent(악센트)와 같은 어근"
+  },
+  {
+    "en": "surpass",
+    "ko": "능가하다, 초월하다",
+    "example": "This year's sales surpassed all previous records.",
+    "mnemonic": "sur(위로) + pass(지나가다) = 위로 지나가다 → 능가하다. passport(여권), passage(통로)와 같은 어근"
+  },
+  {
+    "en": "sovereign",
+    "ko": "주권자, 최고의",
+    "example": "Each sovereign nation has the right to determine its own laws.",
+    "mnemonic": "라틴어 super(위에) + reign(통치) = 위에서 통치하는 → 주권자, 최고의. super(위)에서 변형"
+  },
+  {
+    "en": "gratify",
+    "ko": "만족시키다, 기쁘게 하다",
+    "example": "It was gratifying to see the students succeed after so much effort.",
+    "mnemonic": "grat(기쁜) + ify(만들다) = 기쁘게 만들다 → 만족시키다. grateful(감사하는), gratitude(감사)와 같은 어근"
+  },
+  {
+    "en": "dormitory",
+    "ko": "기숙사",
+    "example": "First-year students are required to live in the university dormitory.",
+    "mnemonic": "dorm(잠자다) + itory(장소) = 잠자는 장소 → 기숙사. dormant(휴면의)와 같은 어근"
+  },
+  {
+    "en": "alchemy",
+    "ko": "연금술",
+    "example": "Medieval scholars believed in alchemy as a way to turn lead into gold.",
+    "mnemonic": "아랍어 al(the) + chemy(화학) = 아랍의 화학 → 연금술. chemistry(화학)의 어원"
+  },
+  {
+    "en": "acquisition",
+    "ko": "획득, 인수",
+    "example": "The acquisition of the smaller company took several months.",
+    "mnemonic": "ac(~쪽으로) + quisit(얻다, 구하다) + ion = 자기 쪽으로 얻어오다 → 획득, 인수"
+  },
+  {
+    "en": "empirical",
+    "ko": "경험적인, 실증적인",
+    "example": "The theory must be supported by empirical evidence.",
+    "mnemonic": "그리스어 empeiria(경험)에서 유래. em(안에) + pir(시도하다) + ical = 직접 시도해본 → 경험적인. experiment(실험)과 같은 어근 계열"
+  },
+  {
+    "en": "naivete",
+    "ko": "순진함, 천진난만함",
+    "example": "His political naivete led him to trust everyone's promises.",
+    "mnemonic": "프랑스어 naif(태어난 그대로의)에서 유래. naive(순진한) + te = 순진한 상태. native(원주민)와 같은 어근 nat(태어나다)"
+  },
+  {
+    "en": "astound",
+    "ko": "깜짝 놀라게 하다",
+    "example": "The magician's final trick astounded the entire audience.",
+    "mnemonic": "ex(밖으로) + ton(천둥) → astound = 천둥에 맞은 듯 놀라다. astonish(놀라게 하다)와 같은 어원, 라틴어 tonare(천둥치다)"
+  },
+  {
+    "en": "nuance",
+    "ko": "뉘앙스, 미묘한 차이",
+    "example": "The translator captured every nuance of the original text.",
+    "mnemonic": "라틴어 nubes(구름)에서 유래. nu(구름) + ance = 구름처럼 미묘한 → 미묘한 차이"
+  },
+  {
+    "en": "analogy",
+    "ko": "유추, 비유",
+    "example": "She drew an analogy between the human brain and a computer.",
+    "mnemonic": "ana(~에 따라) + logy(비율, 말) = 비율에 따라 비교하다 → 유추. logic(논리)과 같은 어근"
+  },
+  {
+    "en": "blatant",
+    "ko": "노골적인, 뻔뻔한",
+    "example": "The politician told a blatant lie during the interview.",
+    "mnemonic": "라틴어 blatire(떠들다)에서 유래. blat(떠들다) + ant = 시끄럽게 떠드는 → 노골적인, 뻔뻔한"
+  },
+  {
+    "en": "exemplify",
+    "ko": "예시하다, 전형이 되다",
+    "example": "This case exemplifies the problems with the current system.",
+    "mnemonic": "'이그젬플리파이' → 'example(예)+ify(만들다)' 예를 만들어 보여주다!"
+  },
+  {
+    "en": "fallacy",
+    "ko": "오류, 잘못된 생각",
+    "example": "The idea that money buys happiness is a common fallacy.",
+    "mnemonic": "'팰러시' → 'fall(떨어지다)+acy' 논리가 떨어지는 = 오류!"
+  },
+  {
+    "en": "verbose",
+    "ko": "장황한, 말이 많은",
+    "example": "His verbose writing style made the report difficult to read.",
+    "mnemonic": "verb(말) + ose(가득한) = 말이 가득한 → 장황한. verbal(구두의), proverb(속담)와 같은 어근"
+  },
+  {
+    "en": "brittle",
+    "ko": "부서지기 쉬운, 깨지기 쉬운",
+    "example": "Old bones become brittle and break easily.",
+    "mnemonic": "고대 영어 brytan(부수다)에서 유래. brit(부수다) + tle = 부서지기 쉬운. break와 같은 어원 계열"
+  },
+  {
+    "en": "insurgent",
+    "ko": "반란군, 봉기하는",
+    "example": "Government forces fought against the insurgents for control of the city.",
+    "mnemonic": "in(안에서) + surg(일어나다) + ent = 안에서 일어나는 → 반란군. surge(급증), resurge(부활하다)와 같은 어근"
+  }
+]

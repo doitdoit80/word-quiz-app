@@ -1,152 +1,152 @@
 [
   {
-    "en": "exhibit",
-    "ko": "전시하다",
-    "example": "The museum exhibits ancient artifacts.",
-    "mnemonic": "ex(밖으로) + hibit(갖다). 밖으로 내놓으면 전시!"
+    "en": "analyze",
+    "ko": "분석하다",
+    "example": "We need to analyze the data carefully.",
+    "mnemonic": "ana(위로) + lyze(풀다). 위에서 풀어보면 분석! analysis(분석)은 명사형. lyse(풀다): paralyze(마비)."
   },
   {
-    "en": "expand",
-    "ko": "확장하다",
-    "example": "The company plans to expand.",
-    "mnemonic": "ex(밖으로) + pand(펼치다). 밖으로 펼치면 확장!"
+    "en": "despite",
+    "ko": "~에도 불구하고",
+    "example": "Despite the rain, we went hiking.",
+    "mnemonic": "de(아래로) + spite(보다, 경멸). 경멸하듯 내려다봐도 불구하고! despise(경멸하다)도 같은 어근."
   },
   {
-    "en": "exploit",
-    "ko": "이용하다",
-    "example": "We should not exploit natural resources.",
-    "mnemonic": "ex(밖으로) + ploit(접다). 밖으로 펴서 이용!"
+    "en": "accurate",
+    "ko": "정확한",
+    "example": "The information must be accurate.",
+    "mnemonic": "ac(~에) + cur(주의) + ate. 주의를 기울이면 정확! cur(돌보다): cure(치료), curious(호기심)도 같은 어근."
   },
   {
-    "en": "expose",
-    "ko": "노출시키다",
-    "example": "Don't expose your skin to the sun too long.",
-    "mnemonic": "ex(밖으로) + pose(놓다). 밖에 놓으면 노출!"
+    "en": "diminish",
+    "ko": "줄어들다",
+    "example": "The pain gradually diminished.",
+    "mnemonic": "di(떨어져) + min(작은) + ish. 작아지면 줄어들다! min(작은): minor(작은), minimum(최소), minute(분, 아주 작은)."
   },
   {
-    "en": "extend",
-    "ko": "연장하다",
-    "example": "They extended the deadline by a week.",
-    "mnemonic": "ex(밖으로) + tend(늘이다). 밖으로 늘이면 연장!"
+    "en": "eliminate",
+    "ko": "제거하다",
+    "example": "We need to eliminate waste.",
+    "mnemonic": "e(밖으로) + limin(문턱) + ate. 문 밖으로 내보내면 제거! limit(한계), preliminary(예비의)도 같은 어근."
   },
   {
-    "en": "extraordinary",
-    "ko": "놀라운",
-    "example": "She has extraordinary talent.",
-    "mnemonic": "extra(넘어서) + ordinary(평범한). 평범을 넘으면 비범!"
+    "en": "undertake",
+    "ko": "착수하다",
+    "example": "She undertook a new project.",
+    "mnemonic": "under(아래에서) + take(잡다). 아래에서 잡아올려 시작! undertaking(사업)은 명사형."
   },
   {
-    "en": "factor",
-    "ko": "요인",
-    "example": "Price is an important factor.",
-    "mnemonic": "fact(만들다) + or. 결과를 만드는 것이 요인!"
+    "en": "reconstruct",
+    "ko": "재건하다",
+    "example": "They reconstructed the damaged building.",
+    "mnemonic": "re(다시) + con(함께) + struct(쌓다). 다시 함께 쌓으면 재건! struct(쌓다): construct, destruct, instruct, structure."
   },
   {
-    "en": "federal",
-    "ko": "연방의",
-    "example": "The federal government passed a new law.",
-    "mnemonic": "feder(동맹) + al. 동맹을 맺은 연방!"
+    "en": "assume",
+    "ko": "가정하다",
+    "example": "I assumed you knew about it.",
+    "mnemonic": "as(~에) + sume(취하다). 당연하다고 취하면 가정! sume(취하다): consume(소비), resume(재개), presume(추정)."
   },
   {
-    "en": "formula",
-    "ko": "공식",
-    "example": "We learned a math formula today.",
-    "mnemonic": "form(형태) + ula. 정해진 형태가 공식!"
+    "en": "discourse",
+    "ko": "담론",
+    "example": "The discourse on climate change continued.",
+    "mnemonic": "dis(떨어져) + course(달리다). 의견이 오가며 달리는 것이 담론! course(과정): resource(자원), concourse(광장)."
   },
   {
-    "en": "found",
-    "ko": "설립하다",
-    "example": "He founded the company in 2000.",
-    "mnemonic": "found(기초)를 놓으면 설립!"
-  },
-  {
-    "en": "fraction",
-    "ko": "분수",
-    "example": "Only a fraction of students passed.",
-    "mnemonic": "fract(깨다) + ion. 깨뜨린 조각이 분수/일부!"
-  },
-  {
-    "en": "fundamental",
-    "ko": "기본적인",
-    "example": "Reading is a fundamental skill.",
-    "mnemonic": "funda(기초) + mental. 기초가 되는 근본!"
-  },
-  {
-    "en": "generate",
-    "ko": "생성하다",
-    "example": "Solar panels generate electricity.",
-    "mnemonic": "gener(만들다) + ate. 만들어내면 생성!"
+    "en": "secure",
+    "ko": "안전한",
+    "example": "Make sure the door is secure.",
+    "mnemonic": "se(떨어져) + cure(걱정). 걱정에서 벗어나면 안전! security(보안)은 명사형. cure(걱정/돌봄): curious, accurate."
   },
   {
     "en": "grant",
     "ko": "수여하다",
     "example": "She was granted a scholarship.",
-    "mnemonic": "'그랜트'는 허락하고 주는 보조금!"
+    "mnemonic": "고대 프랑스어 granter(허락하다)에서 유래. 허락하고 주는 것! take for granted(당연시하다)."
   },
   {
-    "en": "guarantee",
-    "ko": "보증하다",
-    "example": "I guarantee you will succeed.",
-    "mnemonic": "'개런티'는 확실히 보증하는 것."
+    "en": "civil",
+    "ko": "시민의",
+    "example": "Civil rights are important in a democracy.",
+    "mnemonic": "라틴어 civis(시민)에서 유래. civilian(민간인), civilization(문명), civic(시민의)도 같은 어근."
   },
   {
-    "en": "hesitate",
-    "ko": "망설이다",
-    "example": "Don't hesitate to ask for help.",
-    "mnemonic": "'헤지테이트'는 결정 못 하고 머뭇거리는 것!"
+    "en": "coincide",
+    "ko": "동시에 일어나다",
+    "example": "The two events coincided.",
+    "mnemonic": "co(함께) + in(위에) + cide(떨어지다). 함께 떨어지면 동시 발생! cide(떨어지다): incident(사건), accident(사고)."
   },
   {
-    "en": "identify",
-    "ko": "확인하다",
-    "example": "Can you identify this plant?",
-    "mnemonic": "ID(신분증) + entify. 신분을 확인!"
+    "en": "evaluate",
+    "ko": "평가하다",
+    "example": "Teachers evaluate students' progress.",
+    "mnemonic": "e(밖으로) + valu(가치) + ate. 가치를 밖으로 매기면 평가! value(가치), valuable(가치 있는)도 같은 어근."
   },
   {
-    "en": "illustrate",
-    "ko": "설명하다",
-    "example": "The teacher illustrated the concept with examples.",
-    "mnemonic": "illustr(밝히다) + ate. 밝혀서 설명!"
+    "en": "factor",
+    "ko": "요인",
+    "example": "Price is an important factor.",
+    "mnemonic": "fact(만들다) + or(것). 결과를 만드는 것이 요인! fact(만들다): factory(공장), manufacture(제조)."
   },
   {
-    "en": "implement",
-    "ko": "실행하다",
-    "example": "We need to implement the new rules.",
-    "mnemonic": "im(안에) + ple(채우다) + ment. 안에 채워 실행!"
+    "en": "crucial",
+    "ko": "결정적인",
+    "example": "This is a crucial moment.",
+    "mnemonic": "라틴어 crux(십자가) + ial. 십자로에 선 것처럼 중대한 순간! cross(십자), crucify(십자가에 못박다)도 같은 어근."
   },
   {
-    "en": "imply",
-    "ko": "암시하다",
-    "example": "What are you implying?",
-    "mnemonic": "im(안에) + ply(접다). 안에 접어두면 암시!"
+    "en": "capable",
+    "ko": "~할 수 있는",
+    "example": "She is capable of great things.",
+    "mnemonic": "cap(잡다) + able(할 수 있는). 잡을 수 있으면 능력 있는! cap(잡다): capacity(용량), capture(포획), capital(수도)."
   },
   {
-    "en": "impose",
-    "ko": "부과하다",
-    "example": "The government imposed a new tax.",
-    "mnemonic": "im(위에) + pose(놓다). 위에 놓으면 부과!"
+    "en": "dispose",
+    "ko": "처분하다",
+    "example": "Dispose of waste properly.",
+    "mnemonic": "dis(떨어져) + pose(놓다). 떨어져 놓으면 처분! pose(놓다): compose(구성), propose(제안), expose(노출). disposal(처분)."
   },
   {
-    "en": "incident",
-    "ko": "사건",
-    "example": "The police investigated the incident.",
-    "mnemonic": "in(안에) + cid(떨어지다). 안에서 벌어진 사건!"
+    "en": "threaten",
+    "ko": "위협하다",
+    "example": "Pollution threatens wildlife.",
+    "mnemonic": "threat(위협) + en(~하게 하다). 위협을 가하다! -en 접미사: frighten(겁주다), strengthen(강화)."
   },
   {
-    "en": "individual",
-    "ko": "개인의",
-    "example": "Every individual has rights.",
-    "mnemonic": "in(아닌) + divide(나누다). 더 나눌 수 없는 개인!"
+    "en": "refer",
+    "ko": "언급하다",
+    "example": "Please refer to the manual.",
+    "mnemonic": "re(다시) + fer(나르다). 다시 가져와 참조! fer(나르다): transfer(이동), prefer(선호), offer(제공), differ(다르다)."
   },
   {
-    "en": "inevitable",
-    "ko": "피할 수 없는",
-    "example": "Change is inevitable.",
-    "mnemonic": "in(아닌) + evit(피하다) + able. 피할 수 없는!"
+    "en": "distribute",
+    "ko": "분배하다",
+    "example": "The teacher distributed the worksheets.",
+    "mnemonic": "dis(떨어져) + tribute(주다). 떼어서 나눠 주면 분배! tribute(주다): contribute(기여), attribute(속성)."
   },
   {
-    "en": "initial",
-    "ko": "처음의",
-    "example": "My initial reaction was surprise.",
-    "mnemonic": "init(시작) + ial. 시작의 = 처음의!"
+    "en": "candidate",
+    "ko": "후보자, 지원자",
+    "example": "She is a candidate for president.",
+    "mnemonic": "라틴어 candidatus(흰옷을 입은) = candid(흰) + ate. 고대 로마에서 후보자가 흰 옷을 입었기에! candid(솔직한)도 같은 어근."
+  },
+  {
+    "en": "transmit",
+    "ko": "전송하다",
+    "example": "Radio waves transmit information.",
+    "mnemonic": "trans(넘어) + mit(보내다). 넘어서 보내면 전송! mit(보내다): submit(제출), admit(인정), permit(허가), emit(방출)."
+  },
+  {
+    "en": "critique",
+    "ko": "비평",
+    "example": "The teacher critiqued the essay.",
+    "mnemonic": "그리스어 kritikos(판단하는) = krit(판단) + ique. 판단하여 평가하면 비평! critical(비판적), criticism(비평)도 같은 어근."
+  },
+  {
+    "en": "context",
+    "ko": "맥락",
+    "example": "You need to understand the context.",
+    "mnemonic": "con(함께) + text(직물, 글). 함께 엮인 글의 흐름이 맥락! text(짜다): textile(직물), texture(질감)."
   }
 ]

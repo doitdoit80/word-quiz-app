@@ -1,0 +1,302 @@
+[
+  {
+    "en": "compared with",
+    "ko": "~와 비교하여",
+    "example": "Compared with other cities, Seoul is very safe.",
+    "mnemonic": "Compare(비교하다) + with(~와 함께)."
+  },
+  {
+    "en": "approve",
+    "ko": "찬성하다",
+    "example": "My parents didn't approve of my plan.",
+    "mnemonic": "Ap(~쪽으로) + prove(증명하다). 좋다고 인정하여 찬성하는 것."
+  },
+  {
+    "en": "estimate",
+    "ko": "추정하다",
+    "example": "They estimate that the journey will take two days.",
+    "mnemonic": "어림잡아 가치나 수량을 계산(추정)하는 것."
+  },
+  {
+    "en": "except for",
+    "ko": "~을 제외하고",
+    "example": "Everyone was there except for John.",
+    "mnemonic": "Except(제외하다) + for."
+  },
+  {
+    "en": "be native to",
+    "ko": "~이 원산지이다",
+    "example": "Kangaroos are native to Australia.",
+    "mnemonic": "Native(태생의, 토착의). 그 지역에서 태어나 자란 원산지임을 나타냄."
+  },
+  {
+    "en": "conserve",
+    "ko": "보존하다",
+    "example": "We must conserve energy to protect the environment.",
+    "mnemonic": "Con(함께) + serve(지키다). 자연이나 에너지를 아끼고 지키는 것."
+  },
+  {
+    "en": "astrophysicist",
+    "ko": "천체 물리학자",
+    "example": "An astrophysicist studies the stars and planets.",
+    "mnemonic": "Astro(별) + physicist(물리학자)."
+  },
+  {
+    "en": "plantation",
+    "ko": "대농장",
+    "example": "They worked on a coffee plantation.",
+    "mnemonic": "Plant(식물/심다) + ation. 대규모로 작물을 심어 기르는 농장."
+  },
+  {
+    "en": "result in",
+    "ko": "~을 낳다, ~을 야기하다, 결과적으로 ~이 되다",
+    "example": "The fire resulted in heavy damage.",
+    "mnemonic": "어떤 일의 결과(result)가 ~안으로(in) 귀결되다."
+  },
+  {
+    "en": "market share",
+    "ko": "시장 점유율",
+    "example": "The company has a large market share.",
+    "mnemonic": "Market(시장)에서 차지하는 Share(몫)."
+  },
+  {
+    "en": "in a row",
+    "ko": "연속으로",
+    "example": "He won the game three times in a row.",
+    "mnemonic": "Row(줄). 한 줄로 쭉 이어져서 연속으로 일어나는 모습."
+  },
+  {
+    "en": "cut ~ short",
+    "ko": "~을 갑자기 끝내다",
+    "example": "We had to cut our vacation short.",
+    "mnemonic": "길게 이어지던 것을 짧게(short) 잘라버리는(cut) 것."
+  },
+  {
+    "en": "rebel",
+    "ko": "반란을 일으키다",
+    "example": "The people rebelled against the unfair king.",
+    "mnemonic": "Re(반대하여) + bel(전쟁). 권력에 맞서 싸우는 것."
+  },
+  {
+    "en": "reign",
+    "ko": "통치 기간",
+    "example": "The king's reign lasted for 50 years.",
+    "mnemonic": "왕이나 군주가 나라를 다스리는 기간."
+  },
+  {
+    "en": "capture",
+    "ko": "붙잡다, 사로잡다",
+    "example": "The police managed to capture the thief.",
+    "mnemonic": "캡처(capture) 화면처럼 도망가는 것을 꽉 잡아 가두는 것."
+  },
+  {
+    "en": "hand over",
+    "ko": "~을 인계하다",
+    "example": "He handed over his business to his son.",
+    "mnemonic": "손(hand)으로 건너편(over)에 넘겨주는 것."
+  },
+  {
+    "en": "listed",
+    "ko": "표에 실려 있는, 명부에 실려 있는",
+    "example": "Her name is listed in the directory.",
+    "mnemonic": "List(명단)에 이름이 올려진(ed) 상태."
+  },
+  {
+    "en": "turn to",
+    "ko": "~에 의존하다",
+    "example": "He had no one to turn to for help.",
+    "mnemonic": "힘들 때 고개를 돌려(turn) 누군가를 향해(to) 기대는 모습."
+  },
+  {
+    "en": "rank A as B",
+    "ko": "A에 B라는 순위를 매기다, A를 B로 평가하다",
+    "example": "They rank this city as the best place to live.",
+    "mnemonic": "A를 B라는 등급(rank)으로 놓다."
+  },
+  {
+    "en": "to name (but) a few",
+    "ko": "두서너 가지 예만 들자면",
+    "example": "We saw lions, tigers, and bears, to name a few.",
+    "mnemonic": "이름(name)을 몇 개(a few)만 대보자면."
+  },
+  {
+    "en": "distress",
+    "ko": "고통, 괴로움",
+    "example": "The news caused him a lot of distress.",
+    "mnemonic": "Dis(반대) + stress(팽팽함). 마음이 찢어질 듯 심한 스트레스와 고통."
+  },
+  {
+    "en": "companion",
+    "ko": "친구, 동료",
+    "example": "My dog is my favorite companion.",
+    "mnemonic": "Com(함께) + pan(빵). 빵을 함께 나눠 먹는 친한 친구."
+  },
+  {
+    "en": "unexpected",
+    "ko": "뜻밖의",
+    "example": "She gave me an unexpected answer.",
+    "mnemonic": "Un(not) + expect(예상하다) + ed. 전혀 예상하지 못했던."
+  },
+  {
+    "en": "by coincidence",
+    "ko": "공교롭게도",
+    "example": "I met him by coincidence at the mall.",
+    "mnemonic": "Coincidence(우연의 일치)에 의해서."
+  },
+  {
+    "en": "stem from",
+    "ko": "~에서 비롯되다",
+    "example": "Her fear of dogs stems from a childhood incident.",
+    "mnemonic": "Stem(식물의 줄기). 어떤 뿌리에서 줄기가 뻗어 나오듯 생겨난 것."
+  },
+  {
+    "en": "in one's favor",
+    "ko": "~에게 유리하게",
+    "example": "The judge ruled in our favor.",
+    "mnemonic": "누군가의 호의나 이익(favor)이 되는 방향으로."
+  },
+  {
+    "en": "assess",
+    "ko": "판단하다, 평가하다",
+    "example": "They need to assess the damage to the car.",
+    "mnemonic": "재산이나 능력을 곁에 앉아서(assess) 매기는 것."
+  },
+  {
+    "en": "inspiring",
+    "ko": "고무적인",
+    "example": "The speech was very inspiring.",
+    "mnemonic": "Inspire(영감을 주다) + ing. 마음속에 열정을 불어넣어 주는."
+  },
+  {
+    "en": "better off",
+    "ko": "더 나은",
+    "example": "You would be better off staying at home.",
+    "mnemonic": "현재 상황에서 더(better) 떨어져 나가(off) 나아진 상태."
+  },
+  {
+    "en": "compensate",
+    "ko": "보완하다",
+    "example": "Nothing can compensate for the loss of a loved one.",
+    "mnemonic": "Com(함께) + pens(매달다). 부족한 무게를 다른 것으로 채워 균형을 맞추는 것."
+  },
+  {
+    "en": "extraordinary",
+    "ko": "비범한",
+    "example": "He is an extraordinary musician.",
+    "mnemonic": "Extra(넘어서는) + ordinary(평범한). 평범함을 뛰어넘어 대단한."
+  },
+  {
+    "en": "generalization",
+    "ko": "일반화",
+    "example": "It is dangerous to make a hasty generalization.",
+    "mnemonic": "General(일반적인)하게 만드는(ization) 것."
+  },
+  {
+    "en": "come to mind",
+    "ko": "(갑자기) 생각이 떠오르다, 생각나다",
+    "example": "Several ideas come to mind.",
+    "mnemonic": "어떤 생각이 내 마음(mind)으로 다가오는(come) 것."
+  },
+  {
+    "en": "empathize",
+    "ko": "공감하다",
+    "example": "I can empathize with your situation.",
+    "mnemonic": "Em(안으로) + pathy(감정) + ize. 남의 감정 안으로 들어가 똑같이 느끼는 것."
+  },
+  {
+    "en": "degradation",
+    "ko": "변질, 저하",
+    "example": "Environmental degradation is a serious problem.",
+    "mnemonic": "De(아래로) + grade(등급) + ation. 등급이나 품질이 밑으로 떨어지는 것."
+  },
+  {
+    "en": "flaw",
+    "ko": "결함",
+    "example": "There is a major flaw in your plan.",
+    "mnemonic": "매끄러운 표면에 난 금이나 흠집, 계획의 치명적인 오류."
+  },
+  {
+    "en": "rock the boat",
+    "ko": "일을 그르치다, 혼란시키다, 풍파를 일으키다",
+    "example": "Everything is fine, so don't rock the boat.",
+    "mnemonic": "가만히 잘 가는 배(boat)를 흔들어서(rock) 위태롭게 만드는 것."
+  },
+  {
+    "en": "positive correlation",
+    "ko": "양의 상관관계",
+    "example": "There is a positive correlation between exercise and health.",
+    "mnemonic": "Positive(양의) + correlation(상관관계). 하나가 오르면 다른 하나도 오르는 관계."
+  },
+  {
+    "en": "somehow",
+    "ko": "왠지, 알 수 없는 이유로",
+    "example": "Somehow, I knew he was lying.",
+    "mnemonic": "어떤(some) 방식(how)으로든, 정확한 이유는 모르지만."
+  },
+  {
+    "en": "instructive",
+    "ko": "유익한, 교훈적인",
+    "example": "The documentary was very instructive.",
+    "mnemonic": "Instruct(가르치다) + ive. 가르침을 주어 도움이 되는."
+  },
+  {
+    "en": "induce",
+    "ko": "유발하다",
+    "example": "The medicine may induce sleep.",
+    "mnemonic": "In(안으로) + duce(이끌다). 어떤 상태를 이끌어 내는 것."
+  },
+  {
+    "en": "block",
+    "ko": "가로막다, 방해하다",
+    "example": "A fallen tree is blocking the road.",
+    "mnemonic": "블록(장난감이나 돌)으로 길을 막아버리는 모습."
+  },
+  {
+    "en": "subjective",
+    "ko": "주관적인",
+    "example": "Beauty is highly subjective.",
+    "mnemonic": "Subject(주체, 개인) + ive. 객관적이 아니라 각자의 개인 생각에 따르는."
+  },
+  {
+    "en": "perform",
+    "ko": "수행하다",
+    "example": "The doctor will perform the surgery.",
+    "mnemonic": "어떤 임무나 공연을 처음부터 끝까지 해내는 것."
+  },
+  {
+    "en": "paralyze",
+    "ko": "무력화하다, 마비시키다",
+    "example": "The accident paralyzed his legs.",
+    "mnemonic": "몸의 신경이나 시스템을 움직이지 못하게 막는 것."
+  },
+  {
+    "en": "consistent",
+    "ko": "일치하는, 변함없는",
+    "example": "Her grades have been consistent all year.",
+    "mnemonic": "Con(함께) + sist(서다). 처음부터 끝까지 한결같이 서 있는 모습."
+  },
+  {
+    "en": "be susceptible to",
+    "ko": "(질병)에 걸리기 쉽다",
+    "example": "Children are susceptible to catching colds.",
+    "mnemonic": "외부의 영향이나 병을 쉽게 받아들이는(cept) 상태."
+  },
+  {
+    "en": "well-tuned",
+    "ko": "잘 조절된",
+    "example": "The engine is a well-tuned machine.",
+    "mnemonic": "Well(잘) + tuned(음이나 주파수가 맞춰진). 악기 조율이 완벽하게 된 것처럼 상태가 좋은."
+  },
+  {
+    "en": "undiscriminated",
+    "ko": "구별되지 않는",
+    "example": "They treated the files as an undiscriminated mass.",
+    "mnemonic": "Un(not) + discriminate(구별하다) + ed. 차별이나 구분이 지어지지 않은 상태."
+  },
+  {
+    "en": "enforce",
+    "ko": "집행하다, 시행하다",
+    "example": "The police enforce the speed limit.",
+    "mnemonic": "En(만들다) + force(힘). 법이나 규칙을 힘을 써서 강제로 지키게 하는 것."
+  }
+]

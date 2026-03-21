@@ -1,0 +1,302 @@
+[
+  {
+    "en": "quantitative",
+    "ko": "양적인, 정량적인",
+    "example": "Quantitative data was collected through surveys and statistical analysis.",
+    "mnemonic": "quantit(양) + ative = 양에 관한 → 양적인. quantity(양), quantum(양자)와 같은 어근"
+  },
+  {
+    "en": "detrimental",
+    "ko": "해로운, 불리한",
+    "example": "Smoking is detrimental to your health.",
+    "mnemonic": "de(아래로) + tri(문지르다, 닳다) + mental = 닳아 없어지게 하는 → 해로운. 라틴어 detrimentum(손실)에서 유래"
+  },
+  {
+    "en": "insatiable",
+    "ko": "만족할 줄 모르는, 탐욕스러운",
+    "example": "He had an insatiable appetite for knowledge.",
+    "mnemonic": "in(not) + sati(충분한) + able = 충분히 채울 수 없는 → 만족할 줄 모르는. satisfy(만족시키다)와 같은 어근"
+  },
+  {
+    "en": "usurp",
+    "ko": "빼앗다, 탈취하다",
+    "example": "The general usurped power from the elected president.",
+    "mnemonic": "라틴어 usurpare(사용하여 취하다)에서 유래. us(사용) + urp(잡다) = 잡아서 사용하다 → 탈취하다"
+  },
+  {
+    "en": "deter",
+    "ko": "단념시키다, 막다",
+    "example": "Heavy fines are meant to deter people from littering.",
+    "mnemonic": "de(떨어져) + ter(겁주다) = 겁주어 떨어뜨리다 → 단념시키다. terror(공포), terrible(끔찍한)과 같은 어근"
+  },
+  {
+    "en": "apathy",
+    "ko": "무관심, 냉담",
+    "example": "Voter apathy led to a very low turnout in the election.",
+    "mnemonic": "a(없는) + pathy(감정) = 감정이 없는 상태 → 무관심. sympathy(동정), empathy(공감)와 같은 어근"
+  },
+  {
+    "en": "predator",
+    "ko": "포식자, 약탈자",
+    "example": "Lions are natural predators that sit at the top of the food chain.",
+    "mnemonic": "pred(약탈하다) + ator = 약탈하는 자 → 포식자. predatory(약탈의), prey(먹이)와 같은 어근"
+  },
+  {
+    "en": "retrograde",
+    "ko": "후퇴하는, 퇴행하는",
+    "example": "Critics called the new policy a retrograde step for women's rights.",
+    "mnemonic": "retro(뒤로) + grade(걸음) = 뒤로 걷다 → 후퇴하는. progress(진보), degrade(저하시키다)와 같은 어근"
+  },
+  {
+    "en": "cryptic",
+    "ko": "수수께끼 같은, 비밀의",
+    "example": "She left a cryptic message that nobody could understand.",
+    "mnemonic": "crypt(숨기다) + ic = 숨겨진 → 수수께끼 같은. encrypt(암호화), crypt(지하실)와 같은 어근"
+  },
+  {
+    "en": "emancipate",
+    "ko": "해방시키다",
+    "example": "Abraham Lincoln emancipated the slaves with the Emancipation Proclamation.",
+    "mnemonic": "e(밖으로) + man(손) + cip(잡다) + ate = 손에서 놓아주다 → 해방시키다. manipulate(조종하다)와 같은 어근"
+  },
+  {
+    "en": "proliferate",
+    "ko": "급증하다, 확산하다",
+    "example": "Social media platforms have proliferated in recent years.",
+    "mnemonic": "proli(자손) + fer(나르다) + ate = 자손을 나르다 → 급증하다. fertile(비옥한)와 같은 어근 fer"
+  },
+  {
+    "en": "magnanimous",
+    "ko": "관대한, 도량이 큰",
+    "example": "The winner was magnanimous in victory and praised his opponent.",
+    "mnemonic": "magn(큰) + anim(마음) + ous = 마음이 큰 → 관대한. magnitude(크기), animal(동물)과 같은 어근"
+  },
+  {
+    "en": "subside",
+    "ko": "가라앉다, 진정되다",
+    "example": "The floodwaters slowly subsided after the rain stopped.",
+    "mnemonic": "sub(아래로) + side(앉다) = 아래로 가라앉다 → 진정되다. reside(거주), preside(주재하다)와 같은 어근 sid(앉다)"
+  },
+  {
+    "en": "deference",
+    "ko": "경의, 복종",
+    "example": "She spoke with deference to the elder members of the committee.",
+    "mnemonic": "de(아래로) + fer(나르다) + ence = 아래로 자신을 나르다 → 경의. defer(미루다, 따르다)와 같은 어근"
+  },
+  {
+    "en": "eradicate",
+    "ko": "근절하다, 뿌리뽑다",
+    "example": "The campaign aims to eradicate poverty in the region.",
+    "mnemonic": "'이래디케이트' → 'e+radic(뿌리)+ate' 뿌리를 뽑다 = 근절!"
+  },
+  {
+    "en": "overt",
+    "ko": "공공연한, 명백한",
+    "example": "There were no overt signs of hostility between the two leaders.",
+    "mnemonic": "프랑스어 ouvrir(열다)에서 유래. overt = 열려있는 → 공공연한. covert(비밀의)의 반대"
+  },
+  {
+    "en": "vow",
+    "ko": "맹세, 맹세하다",
+    "example": "She vowed to dedicate her life to protecting the environment.",
+    "mnemonic": "라틴어 votum(소원, 맹세)에서 유래. vow = 신에게 드리는 맹세. vote(투표), devote(헌신하다)와 같은 어근"
+  },
+  {
+    "en": "oscillate",
+    "ko": "진동하다, 동요하다",
+    "example": "The pendulum oscillates back and forth at a steady rate.",
+    "mnemonic": "oscill(흔들리다) + ate = 흔들리다 → 진동하다. 라틴어 oscillare(그네를 타다)에서 유래"
+  },
+  {
+    "en": "nourish",
+    "ko": "영양분을 공급하다, 키우다",
+    "example": "Healthy food nourishes both the body and the mind.",
+    "mnemonic": "nour(영양) + ish = 영양을 주다 → 영양분을 공급하다. nurse(간호사), nutrition(영양)과 같은 어근"
+  },
+  {
+    "en": "deprivation",
+    "ko": "박탈, 결핍",
+    "example": "Sleep deprivation can seriously impair cognitive function.",
+    "mnemonic": "de(떨어져) + priv(개인의) + ation = 개인의 것에서 떨어짐 → 박탈. private(개인의), privilege(특권)와 같은 어근 priv"
+  },
+  {
+    "en": "quarantine",
+    "ko": "격리, 검역",
+    "example": "Travelers from the affected region were placed in quarantine.",
+    "mnemonic": "이탈리아어 quaranta(40)에서 유래. quarant(40) + ine = 40일간 격리 → 검역. 흑사병 시절 40일 격리에서 유래"
+  },
+  {
+    "en": "meticulous",
+    "ko": "꼼꼼한, 세심한",
+    "example": "She is meticulous about keeping her workspace organized.",
+    "mnemonic": "met(두려운) + iculous = 실수를 두려워하는 → 꼼꼼한. 라틴어 metus(두려움)에서 유래"
+  },
+  {
+    "en": "pragmatic",
+    "ko": "실용적인, 실리적인",
+    "example": "She took a pragmatic approach to solving the company's financial problems.",
+    "mnemonic": "pragma(행동, 일) + tic = 행동/실천에 관한 → 실용적인. practice(실행)와 같은 어근 계열"
+  },
+  {
+    "en": "impair",
+    "ko": "손상시키다, 약화시키다",
+    "example": "Loud music can impair your hearing over time.",
+    "mnemonic": "'임페어' → 'im(안)+pair(나쁜)' 안이 나빠지다 = 손상!"
+  },
+  {
+    "en": "trajectory",
+    "ko": "궤적, 경로",
+    "example": "The satellite followed a precise trajectory around the Earth.",
+    "mnemonic": "tra(건너) + ject(던지다) + ory = 던져서 건너가는 길 → 궤적. project(투사), inject(주입)과 같은 어근"
+  },
+  {
+    "en": "susceptible",
+    "ko": "영향을 받기 쉬운",
+    "example": "Elderly people are more susceptible to respiratory infections.",
+    "mnemonic": "sus(아래서) + cept(잡다) + ible = 아래에서 잡히는 → 영향 받기 쉬운. accept(받아들이다), receive(받다)와 같은 어근"
+  },
+  {
+    "en": "inundate",
+    "ko": "범람시키다, 쇄도하다",
+    "example": "The customer service line was inundated with complaints.",
+    "mnemonic": "in(안으로) + und(파도) + ate = 파도가 안으로 밀려오다 → 범람. abundant(풍부한)과 같은 어근"
+  },
+  {
+    "en": "abolish",
+    "ko": "폐지하다",
+    "example": "The government decided to abolish the outdated law.",
+    "mnemonic": "ab(away, 떠나) + olish(성장하다) = 성장을 멈추게 하다 → 폐지하다"
+  },
+  {
+    "en": "subterfuge",
+    "ko": "책략, 속임수",
+    "example": "He gained access to the building through subterfuge.",
+    "mnemonic": "subter(아래에) + fuge(도망가다) = 아래로 도망가듯 숨기는 → 책략. refuge(피난처), fugitive(도망자)와 같은 어근"
+  },
+  {
+    "en": "tacit",
+    "ko": "암묵적인, 무언의",
+    "example": "There was a tacit agreement between them to never discuss the incident.",
+    "mnemonic": "라틴어 tacere(침묵하다)에서 유래. tacit = 말하지 않은 → 암묵적인. reticent(과묵한)와 같은 어근"
+  },
+  {
+    "en": "deliberation",
+    "ko": "숙고, 심의",
+    "example": "After long deliberation, the jury reached a verdict.",
+    "mnemonic": "de(완전히) + liber(저울질하다) + ation = 완전히 저울질하다 → 숙고. 라틴어 librare(무게를 달다)에서 유래"
+  },
+  {
+    "en": "deride",
+    "ko": "조롱하다, 비웃다",
+    "example": "Critics derided the movie as the worst of the year.",
+    "mnemonic": "de(아래로) + ride(웃다) = 깔보며 웃다 → 조롱하다. ridicule(조롱), ridiculous(우스꽝스러운)와 같은 어근 rid(웃다)"
+  },
+  {
+    "en": "expedient",
+    "ko": "편법적인, 편의적인",
+    "example": "The politician chose the politically expedient path rather than the right one.",
+    "mnemonic": "ex(밖으로) + ped(발) + ient = 발을 빼내는 → 편의적인. expedite(촉진하다)와 같은 어근"
+  },
+  {
+    "en": "appraise",
+    "ko": "평가하다, 감정하다",
+    "example": "The jeweler appraised the diamond ring at ten thousand dollars.",
+    "mnemonic": "ap(~쪽으로) + praise(가격) = 가격을 매기다 → 평가하다. price(가격), precious(귀중한)와 같은 어근"
+  },
+  {
+    "en": "construe",
+    "ko": "해석하다, 이해하다",
+    "example": "His silence could be construed as agreement.",
+    "mnemonic": "con(함께) + strue(쌓다) = 함께 쌓아올려 이해하다 → 해석하다. construct(건설하다)와 같은 어근"
+  },
+  {
+    "en": "monopolize",
+    "ko": "독점하다",
+    "example": "One company should not be allowed to monopolize the entire market.",
+    "mnemonic": "mono(하나) + pol(팔다) + ize = 혼자 팔다 → 독점하다. monopoly(독점)의 동사형"
+  },
+  {
+    "en": "ostensible",
+    "ko": "표면상의, 겉보기의",
+    "example": "The ostensible purpose of the meeting was to discuss budgets.",
+    "mnemonic": "os(~앞에) + tens(뻗다) + ible = 앞에 내보이는 → 표면상의. extend(확장하다), tension(긴장)과 같은 어근"
+  },
+  {
+    "en": "semblance",
+    "ko": "외양, 겉모습",
+    "example": "He tried to maintain a semblance of normalcy despite the crisis.",
+    "mnemonic": "sembl(비슷한) + ance = 비슷하게 보이는 → 겉모습. resemble(닮다), similar와 같은 어근 simil/sembl"
+  },
+  {
+    "en": "laborious",
+    "ko": "힘든, 고된",
+    "example": "Translating the ancient text was a laborious process.",
+    "mnemonic": "labor(노동) + ious = 노동이 많이 드는 → 힘든. laboratory(실험실)와 같은 어근"
+  },
+  {
+    "en": "innovative",
+    "ko": "혁신적인",
+    "example": "The company is known for its innovative approach to design.",
+    "mnemonic": "in(안으로) + nov(새로운) + ative = 새로운 것을 안으로 가져오는 → 혁신적인. novel(새로운), renovate(개조하다)와 같은 어근"
+  },
+  {
+    "en": "converge",
+    "ko": "수렴하다, 모이다",
+    "example": "Several roads converge at the center of the town.",
+    "mnemonic": "con(함께) + verge(기울다) = 함께 기울어 모이다 → 수렴하다. diverge(갈라지다)와 반대. verge(가장자리)와 같은 어근"
+  },
+  {
+    "en": "nomadic",
+    "ko": "유목의, 방랑하는",
+    "example": "The nomadic tribes traveled across the desert with their livestock.",
+    "mnemonic": "그리스어 nomos(목초지) + adic = 목초지를 찾아 떠도는 → 유목의. nomad(유목민)의 형용사형"
+  },
+  {
+    "en": "secular",
+    "ko": "세속적인, 비종교적인",
+    "example": "The country adopted a secular constitution that separated church and state.",
+    "mnemonic": "라틴어 saeculum(세대, 시대)에서 유래. secul(세속) + ar = 세속의 → 비종교적인"
+  },
+  {
+    "en": "austere",
+    "ko": "엄격한, 검소한",
+    "example": "The monks lived an austere life with few possessions.",
+    "mnemonic": "그리스어 austeros(건조한, 거친)에서 유래. aust(마르다) + ere = 마르고 거친 → 엄격한, 검소한"
+  },
+  {
+    "en": "frugal",
+    "ko": "검소한, 절약하는",
+    "example": "Despite being wealthy, she maintained a frugal lifestyle.",
+    "mnemonic": "'프루걸' → '프루(fruit)+걸' 과일만 먹는 검소한 소녀!"
+  },
+  {
+    "en": "articulate",
+    "ko": "명확히 표현하다, 또렷한",
+    "example": "She was able to articulate her ideas clearly during the presentation.",
+    "mnemonic": "artic(관절, 연결) + ulate = 관절처럼 이어서 분명하게 말하다 → 명확히 표현하다. article(글, 조항)과 같은 어근"
+  },
+  {
+    "en": "tangible",
+    "ko": "만질 수 있는, 실질적인",
+    "example": "The project has produced tangible results that everyone can see.",
+    "mnemonic": "tang(만지다) + ible = 만질 수 있는 → 실질적인. contact(접촉), contagious(전염성의)와 같은 어근 tact/tang"
+  },
+  {
+    "en": "discretion",
+    "ko": "재량, 신중함",
+    "example": "The matter was left to the manager's discretion.",
+    "mnemonic": "dis(분리) + cret(구별하다) + ion = 분리하여 판단하다 → 재량, 신중함. discern(분별하다)과 같은 어근"
+  },
+  {
+    "en": "paradox",
+    "ko": "역설, 모순",
+    "example": "It is a paradox that the richest country has so many homeless people.",
+    "mnemonic": "para(반대) + dox(의견) = 반대 의견 → 역설. orthodox(정통적)와 같은 어근 dox"
+  },
+  {
+    "en": "forsake",
+    "ko": "버리다, 저버리다",
+    "example": "He refused to forsake his principles even under pressure.",
+    "mnemonic": "'포세이크' → 'for+sake(이유)' 이유 없이 버리다!"
+  }
+]

@@ -1,152 +1,152 @@
 [
   {
-    "en": "entire",
-    "ko": "전체의",
-    "example": "The entire class went on a field trip.",
-    "mnemonic": "'엔타이어'는 통째로 전체!"
+    "en": "task",
+    "ko": "과제",
+    "example": "Finish this task by Friday.",
+    "mnemonic": "라틴어 taxare(평가하다)에서 유래. 부과된 일이 과제! tax(세금)도 같은 어원."
   },
   {
-    "en": "equal",
-    "ko": "같은",
-    "example": "Everyone is equal before the law.",
-    "mnemonic": "'이퀄'은 = 기호! 같은 것."
-  },
-  {
-    "en": "exact",
-    "ko": "정확한",
-    "example": "What is the exact time?",
-    "mnemonic": "ex(완전히) + act(행하다). 완벽하게 맞으면 정확!"
-  },
-  {
-    "en": "favor",
-    "ko": "호의",
-    "example": "Can you do me a favor?",
-    "mnemonic": "'페이버'는 좋아하는 쪽으로 기울어진 호의."
-  },
-  {
-    "en": "force",
-    "ko": "힘",
-    "example": "The force of the wind was strong.",
-    "mnemonic": "'포스'가 느껴진다! 스타워즈의 힘!"
-  },
-  {
-    "en": "hire",
-    "ko": "고용하다",
-    "example": "The company hired ten new workers.",
-    "mnemonic": "'하이어'는 높은(high) 사람을 데려오는 고용!"
-  },
-  {
-    "en": "honor",
-    "ko": "명예",
-    "example": "It's an honor to meet you.",
-    "mnemonic": "'아너'는 명예로운 것. 아너 학생!"
+    "en": "topic",
+    "ko": "주제",
+    "example": "What is the topic of today's lesson?",
+    "mnemonic": "그리스어 topikos = topos(장소). 이야기의 장소(중심점)가 주제! topical(시사적인)."
   },
   {
     "en": "indicate",
     "ko": "나타내다",
     "example": "The sign indicates the exit.",
-    "mnemonic": "indi(안에서) + cate(말하다). 안에서 가리키며 말하면 나타내다!"
+    "mnemonic": "in(안에서) + dic(말하다) + ate. 안에서 가리키며 말하면 나타내다! dict(말하다): predict, dictate."
   },
   {
-    "en": "intend",
-    "ko": "~할 작정이다",
-    "example": "I intend to finish this today.",
-    "mnemonic": "in(안에) + tend(향하다). 안에서 향하면 의도!"
+    "en": "expect",
+    "ko": "기대하다",
+    "example": "I didn't expect to win.",
+    "mnemonic": "ex(밖을) + pect(보다). 밖을 내다보면 기대! spect(보다): inspect(점검), respect(존경)도 같은 어근."
   },
   {
-    "en": "major",
-    "ko": "주요한",
-    "example": "This is a major decision.",
-    "mnemonic": "'메이저'리그는 주요한 리그!"
+    "en": "emergency",
+    "ko": "비상",
+    "example": "Call 119 in an emergency.",
+    "mnemonic": "e(밖으로) + merge(잠기다) + ency. 갑자기 밖으로 솟아오른 급한 상황! emerge(나타나다)의 명사형."
   },
   {
-    "en": "memory",
-    "ko": "기억",
-    "example": "I have happy memories of my childhood.",
-    "mnemonic": "'메모리'카드에 추억을 저장!"
+    "en": "reflect",
+    "ko": "반사하다",
+    "example": "The lake reflects the mountains.",
+    "mnemonic": "re(다시) + flect(구부리다). 빛이 다시 구부러지면 반사! flect(구부리다): deflect(빗나가다), flexible(유연한)."
   },
   {
-    "en": "method",
-    "ko": "방법",
-    "example": "We tried a new method.",
-    "mnemonic": "'메서드'는 프로그래밍에서도 쓰는 방법!"
+    "en": "influence",
+    "ko": "영향",
+    "example": "Music has a big influence on people.",
+    "mnemonic": "in(안으로) + flu(흐르다) + ence. 안으로 흘러드는 것이 영향! flu(흐르다): fluent, fluid도 같은 어근."
   },
   {
-    "en": "mind",
-    "ko": "마음",
-    "example": "Change your mind if you want.",
-    "mnemonic": "'마인드'맵은 마음의 지도!"
+    "en": "position",
+    "ko": "위치",
+    "example": "He got a good position in the company.",
+    "mnemonic": "라틴어 ponere(놓다)에서 유래. posit(놓다) + ion. 놓인 곳이 위치! compose(구성), deposit(예금)도 같은 어근."
+  },
+  {
+    "en": "term",
+    "ko": "용어",
+    "example": "What does this term mean?",
+    "mnemonic": "라틴어 terminus(끝, 경계)에서 유래. 의미의 경계를 정한 것이 용어! terminal(터미널), determine(결정)."
+  },
+  {
+    "en": "courage",
+    "ko": "용기",
+    "example": "He showed great courage.",
+    "mnemonic": "라틴어 cor(마음) + age. 마음에서 나오는 힘이 용기! encourage = en + courage → 용기를 불어넣다."
+  },
+  {
+    "en": "celebrate",
+    "ko": "축하하다",
+    "example": "Let's celebrate your birthday.",
+    "mnemonic": "celebr(유명한, 모이다) + ate. 사람들이 모여 기리는 것이 축하! celebration(축하)은 명사형."
+  },
+  {
+    "en": "exact",
+    "ko": "정확한",
+    "example": "What is the exact time?",
+    "mnemonic": "ex(완전히) + act(행하다). 완벽하게 맞으면 정확! exactly(정확히)는 부사형."
+  },
+  {
+    "en": "society",
+    "ko": "사회",
+    "example": "We live in a modern society.",
+    "mnemonic": "라틴어 socius(동료) + ety. 동료들이 모인 것이 사회! social(사회의), associate(연관)도 같은 어근."
   },
   {
     "en": "opinion",
     "ko": "의견",
     "example": "What is your opinion on this?",
-    "mnemonic": "'오피니언'리더는 의견을 이끄는 사람!"
+    "mnemonic": "라틴어 opinio = opin(생각하다) + ion. 생각해낸 것이 의견!"
   },
   {
-    "en": "physical",
-    "ko": "신체의",
-    "example": "Physical exercise is important for health.",
-    "mnemonic": "'피지컬'이 좋다 = 신체가 좋다!"
+    "en": "produce",
+    "ko": "생산하다",
+    "example": "This factory produces cars.",
+    "mnemonic": "pro(앞으로) + duce(이끌다). 앞으로 이끌어 내면 생산! duce(이끌다): reduce(줄이다), introduce(소개)."
   },
   {
-    "en": "policy",
-    "ko": "정책",
-    "example": "The school has a no-phone policy.",
-    "mnemonic": "'폴리시'는 정부나 학교의 정책!"
+    "en": "period",
+    "ko": "기간",
+    "example": "It rained for a long period.",
+    "mnemonic": "그리스어 periodos = peri(주위) + odos(길). 한 바퀴 도는 시간이 기간! periodic(주기적인)."
   },
   {
-    "en": "pressure",
-    "ko": "압력",
-    "example": "He is under a lot of pressure.",
-    "mnemonic": "press(누르다) + ure. 누르는 것이 압력!"
+    "en": "pollution",
+    "ko": "오염, 공해",
+    "example": "Air pollution is a serious problem.",
+    "mnemonic": "pollute(오염시키다) + ion(명사). 라틴어 polluere(더럽히다)에서 유래. -tion은 명사형 접미사."
   },
   {
-    "en": "principle",
-    "ko": "원칙",
-    "example": "He is a man of principle.",
-    "mnemonic": "'프린시플'은 기본이 되는 원칙!"
+    "en": "occur",
+    "ko": "발생하다",
+    "example": "Accidents can occur at any time.",
+    "mnemonic": "oc(향해) + cur(달리다). 향해 달려오면 발생! cur(달리다): current(현재의, 흐름), recur(재발)."
   },
   {
-    "en": "profit",
-    "ko": "이익",
-    "example": "The company made a big profit.",
-    "mnemonic": "pro(앞으로) + fit(맞다). 앞으로 맞아떨어지면 이익!"
+    "en": "imagine",
+    "ko": "상상하다",
+    "example": "Imagine you are on a beach.",
+    "mnemonic": "image(이미지) + ine. 머릿속에 이미지를 그리면 상상! imagination(상상력)은 명사형."
   },
   {
-    "en": "quality",
-    "ko": "품질",
-    "example": "This product is of high quality.",
-    "mnemonic": "'퀄리티'가 높다 = 품질이 좋다!"
+    "en": "select",
+    "ko": "선택하다",
+    "example": "Please select your answer.",
+    "mnemonic": "se(떨어져) + lect(모으다). 떼어서 골라 모으면 선택! lect(모으다): collect(수집), elect(선출)."
   },
   {
-    "en": "range",
-    "ko": "범위",
-    "example": "A wide range of products is available.",
-    "mnemonic": "'레인지'는 사격장의 범위!"
+    "en": "allow",
+    "ko": "허락하다",
+    "example": "My parents allow me to stay up late.",
+    "mnemonic": "al(~에) + low(놓다). 놓아주면 허락! allowance(용돈)는 허락받은 돈."
   },
   {
-    "en": "recent",
-    "ko": "최근의",
-    "example": "I read a recent news article.",
-    "mnemonic": "re(다시) + cent(새로운). 새로 다시 온 것이 최근!"
+    "en": "claim",
+    "ko": "주장하다",
+    "example": "He claims he is innocent.",
+    "mnemonic": "라틴어 clamare(외치다)에서 유래. 외쳐서 주장! exclaim(외치다), proclaim(선언하다)도 같은 어근."
   },
   {
-    "en": "reform",
-    "ko": "개혁",
-    "example": "The government plans social reform.",
-    "mnemonic": "re(다시) + form(형태). 형태를 다시 만들면 개혁!"
+    "en": "increase",
+    "ko": "증가하다",
+    "example": "The population is increasing.",
+    "mnemonic": "in(안에서) + crease(자라다). 안에서 자라면 증가! decrease(감소)는 de(아래) + crease."
   },
   {
-    "en": "region",
-    "ko": "지역",
-    "example": "This region is known for its wine.",
-    "mnemonic": "'리전'은 특정 지역을 가리키는 말."
+    "en": "design",
+    "ko": "디자인",
+    "example": "She designed a new logo.",
+    "mnemonic": "de(내리다) + sign(표시). 표시를 내려그리면 디자인! sign(표시): signal(신호), signature(서명)."
   },
   {
-    "en": "release",
-    "ko": "풀어주다",
-    "example": "They released a new album.",
-    "mnemonic": "re(다시) + lease(풀다). 다시 풀어주면 출시!"
+    "en": "responsibility",
+    "ko": "책임",
+    "example": "It's your responsibility to clean up.",
+    "mnemonic": "response(응답) + ibility(능력). 응답할 수 있는 능력이 책임! responsible(책임감 있는)."
   }
 ]

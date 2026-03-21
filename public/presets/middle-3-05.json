@@ -1,152 +1,152 @@
 [
   {
-    "en": "innovation",
-    "ko": "혁신",
-    "example": "Innovation drives economic growth.",
-    "mnemonic": "in(안에) + nov(새로운) + ation. 안에서 새로운 것을 만들면 혁신!"
+    "en": "anticipate",
+    "ko": "예상하다",
+    "example": "We didn't anticipate this problem.",
+    "mnemonic": "anti(미리) + cip(잡다) + ate. 미리 잡으면 예상! cip(잡다): participate(참여), recipe(조리법)도 같은 어근."
   },
   {
-    "en": "inspect",
-    "ko": "점검하다",
-    "example": "The building was inspected for safety.",
-    "mnemonic": "in(안을) + spect(보다). 안을 들여다보면 검사!"
+    "en": "acknowledge",
+    "ko": "인정하다",
+    "example": "He acknowledged his mistake.",
+    "mnemonic": "ac(~을) + knowledge(지식). 알고 있음을 인정! acknowledgment(인정)은 명사형."
   },
   {
-    "en": "instance",
-    "ko": "경우",
-    "example": "For instance, let me give you an example.",
-    "mnemonic": "in(안에) + stance(서다). 안에 서 있는 사례!"
+    "en": "conform",
+    "ko": "따르다",
+    "example": "Students must conform to the dress code.",
+    "mnemonic": "con(함께) + form(형태). 같은 형태로 맞추면 순응! form(형태): reform(개혁), transform(변환), uniform(제복)."
   },
   {
-    "en": "institute",
-    "ko": "기관",
-    "example": "He works at a research institute.",
-    "mnemonic": "in(안에) + stitute(세우다). 안에 세우면 기관 설립!"
+    "en": "constant",
+    "ko": "끊임없는",
+    "example": "There was a constant noise outside.",
+    "mnemonic": "con(함께) + stant(서다). 계속 서 있으면 일정한! constantly(끊임없이). stant(서다): instant(즉각), distant(먼)."
   },
   {
-    "en": "intense",
-    "ko": "강렬한",
-    "example": "The heat was intense.",
-    "mnemonic": "in(안에) + tense(팽팽한). 안에서 팽팽하면 강렬!"
+    "en": "autonomous",
+    "ko": "자율적인",
+    "example": "The car is fully autonomous.",
+    "mnemonic": "auto(스스로) + nom(법) + ous. 스스로 법을 세우면 자율! auto(스스로): automatic(자동), automobile(자동차)."
   },
   {
-    "en": "interpret",
-    "ko": "해석하다",
-    "example": "How do you interpret this poem?",
-    "mnemonic": "inter(사이에) + pret(가격). 사이에서 값을 매기면 해석!"
+    "en": "formula",
+    "ko": "공식",
+    "example": "We learned a math formula today.",
+    "mnemonic": "form(형태) + ula(작은). 작은 정해진 형태가 공식! form(형태): formal(공식적), reform(개혁), transform(변환)."
   },
   {
-    "en": "interrupt",
-    "ko": "방해하다",
-    "example": "Don't interrupt when someone is talking.",
-    "mnemonic": "inter(사이에) + rupt(깨뜨리다). 사이를 깨면 방해!"
+    "en": "admire",
+    "ko": "감탄하다",
+    "example": "I admire her courage.",
+    "mnemonic": "ad(~에) + mire(놀라다). 놀라워하면 감탄! mire(놀라다): miracle(기적), mirror(거울)도 같은 어근."
   },
   {
-    "en": "investigate",
-    "ko": "조사하다",
-    "example": "The police investigated the crime.",
-    "mnemonic": "in(안으로) + vestig(흔적). 흔적을 파면 조사!"
+    "en": "alternative",
+    "ko": "대안",
+    "example": "We need an alternative plan.",
+    "mnemonic": "alter(다른) + native(태어난). 다른 것에서 태어난 대안! alter(다른): alternate(교대하다), alteration(변경)."
   },
   {
-    "en": "invest",
-    "ko": "투자하다",
-    "example": "She invested money in stocks.",
-    "mnemonic": "in(안에) + vest(옷). 안에 옷 입히듯 돈을 넣으면 투자!"
+    "en": "diversity",
+    "ko": "다양성",
+    "example": "We celebrate diversity in our school.",
+    "mnemonic": "di(떨어져) + vers(돌다) + ity. 여러 방향으로 돌면 다양! diverse(다양한), divert(전환)도 같은 어근 vers(돌다)."
   },
   {
-    "en": "isolate",
-    "ko": "고립시키다",
-    "example": "The village was isolated by the flood.",
-    "mnemonic": "isol(섬) + ate. 섬처럼 떨어지면 고립!"
+    "en": "species",
+    "ko": "종(種)",
+    "example": "Many species are endangered.",
+    "mnemonic": "라틴어 species(외모, 종류) = speci(보다) + es. 보고 나눈 종류가 종! special(특별한), specific(구체적)도 같은 어근."
   },
   {
-    "en": "launch",
-    "ko": "시작하다",
-    "example": "They launched a new product.",
-    "mnemonic": "'런치'는 로켓을 발사하는 것처럼 시작!"
+    "en": "aspect",
+    "ko": "측면",
+    "example": "We should consider every aspect of the problem.",
+    "mnemonic": "a(~에) + spect(보다). 바라보는 면이 측면! spect(보다) 가족: inspect, respect, prospect, spectacle."
   },
   {
-    "en": "legislation",
-    "ko": "법률",
-    "example": "New legislation was passed.",
-    "mnemonic": "legis(법) + lation. 법을 만드는 입법!"
+    "en": "revolution",
+    "ko": "혁명",
+    "example": "The industrial revolution changed the world.",
+    "mnemonic": "re(다시) + volut(구르다) + ion. 세상을 뒤집어 구르면 혁명! volve(구르다): revolve(회전), evolve(진화)."
   },
   {
-    "en": "liberal",
-    "ko": "자유로운",
-    "example": "She has liberal views on education.",
-    "mnemonic": "liber(자유) + al. 자유로운!"
+    "en": "currency",
+    "ko": "통화",
+    "example": "The currency of Japan is the yen.",
+    "mnemonic": "curr(흐르다) + ency. 흘러 다니는 돈이 화폐! current(현재의, 흐름), occur(발생)도 같은 어근 cur(달리다)."
   },
   {
-    "en": "luxury",
-    "ko": "사치",
-    "example": "A sports car is a luxury.",
-    "mnemonic": "'럭셔리'는 한국어로도 쓰이는 호화!"
+    "en": "barrier",
+    "ko": "장벽",
+    "example": "Language can be a barrier.",
+    "mnemonic": "bar(막대) + rier. 막대로 막으면 장벽! bar(막대): barricade(바리케이드), embargo(금수조치)."
   },
   {
-    "en": "majority",
-    "ko": "대다수",
-    "example": "The majority of students passed the test.",
-    "mnemonic": "major(큰) + ity. 큰 부분이 대다수."
+    "en": "obstacle",
+    "ko": "장애물",
+    "example": "We must overcome many obstacles.",
+    "mnemonic": "ob(앞에) + stacle(서다). 앞에 서서 막는 것이 장애물! stacle(서다): stable(안정된)과 같은 어근."
   },
   {
-    "en": "manufacture",
-    "ko": "제조하다",
-    "example": "This company manufactures electronics.",
-    "mnemonic": "manu(손) + fact(만들다). 손으로 만들면 제조!"
+    "en": "bias",
+    "ko": "편견, 선입견",
+    "example": "We should avoid bias in research.",
+    "mnemonic": "프랑스어 biais(비스듬한)에서 유래. 한쪽으로 기울어진 것이 편견! biased(편향된), unbiased(공정한)."
   },
   {
-    "en": "mechanism",
-    "ko": "메커니즘",
-    "example": "The mechanism of the clock is complex.",
-    "mnemonic": "mechan(기계) + ism. 기계의 작동 구조!"
+    "en": "found",
+    "ko": "설립하다",
+    "example": "He founded the company in 2000.",
+    "mnemonic": "라틴어 fundare(기초를 놓다)에서 유래. 기초를 놓으면 설립! foundation(재단, 기초), fundamental(기본적인)."
   },
   {
-    "en": "minority",
-    "ko": "소수",
-    "example": "Only a minority disagreed.",
-    "mnemonic": "minor(작은) + ity. 작은 부분이 소수."
+    "en": "annual",
+    "ko": "연례의",
+    "example": "The annual festival was held in May.",
+    "mnemonic": "라틴어 annus(해) + al. 매해 하는 것이 연례! anniversary(기념일) = ann(해) + vers(돌다) → 해가 돌아오는 날."
   },
   {
-    "en": "modify",
-    "ko": "수정하다",
-    "example": "We need to modify the plan.",
-    "mnemonic": "mod(방식) + ify. 방식을 바꾸면 수정!"
+    "en": "strategy",
+    "ko": "전략",
+    "example": "We need a new marketing strategy.",
+    "mnemonic": "그리스어 strategia = stratos(군대) + agein(이끌다). 군대를 이끄는 작전이 전략! strategic(전략적인)."
   },
   {
-    "en": "monitor",
-    "ko": "감시하다",
-    "example": "Teachers monitor student progress.",
-    "mnemonic": "moni(경고) + tor. 경고하며 지켜보면 감시!"
-  },
-  {
-    "en": "moral",
-    "ko": "도덕의",
-    "example": "It was a moral decision.",
-    "mnemonic": "'모럴'은 옳고 그름을 따지는 도덕!"
-  },
-  {
-    "en": "negotiate",
-    "ko": "협상하다",
-    "example": "They negotiated a peace treaty.",
-    "mnemonic": "neg(아닌) + oti(여가). 쉴 틈 없이 논의하면 협상!"
+    "en": "overcome",
+    "ko": "극복하다",
+    "example": "She overcame her fear of heights.",
+    "mnemonic": "over(위로 넘어) + come(오다). 위로 넘어오면 극복! over-: overlook(간과), overwhelm(압도)."
   },
   {
     "en": "nevertheless",
     "ko": "그럼에도 불구하고",
     "example": "It was raining; nevertheless, we went out.",
-    "mnemonic": "never + the + less. 그래도 덜하지 않게!"
+    "mnemonic": "never + the + less. 결코 덜하지 않게 = 그럼에도 불구하고! nonetheless과 같은 뜻."
   },
   {
-    "en": "notion",
-    "ko": "개념",
-    "example": "I have no notion of what you mean.",
-    "mnemonic": "not(알다) + ion. 알게 된 것이 개념!"
+    "en": "assess",
+    "ko": "평가하다",
+    "example": "The teacher assessed our performance.",
+    "mnemonic": "as(~에) + sess(앉다). 옆에 앉아 살펴보면 평가! assessment(평가)은 명사형. session(회의)도 같은 어근."
   },
   {
-    "en": "numerous",
-    "ko": "수많은",
-    "example": "There are numerous reasons to exercise.",
-    "mnemonic": "numer(수) + ous. 수가 많으면 수많은!"
+    "en": "capacity",
+    "ko": "용량",
+    "example": "The stadium has a capacity of 50,000.",
+    "mnemonic": "cap(잡다) + acity. 잡을 수 있는 양이 용량! cap(잡다): capture(포획), capable(유능한), capital(수도)."
+  },
+  {
+    "en": "affect",
+    "ko": "영향을 미치다",
+    "example": "The weather affects our mood.",
+    "mnemonic": "af(~에) + fect(만들다). ~에 작용하면 영향! fect(만들다): effect(효과), perfect(완벽), infect(감염)."
+  },
+  {
+    "en": "prospect",
+    "ko": "전망",
+    "example": "The job prospects are good.",
+    "mnemonic": "pro(앞을) + spect(보다). 앞을 보면 전망! spect(보다) 가족: inspect, respect, expect, perspective."
   }
 ]

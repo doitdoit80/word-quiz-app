@@ -1,0 +1,302 @@
+[
+  {
+    "en": "council",
+    "ko": "의회, 위원회",
+    "example": "The city council approved the new park plan.",
+    "mnemonic": "con(함께) + cil(부르다, calare) = 함께 불러모은 모임 → 의회. 관련어: conciliate"
+  },
+  {
+    "en": "remedy",
+    "ko": "치료법, 해결책",
+    "example": "Hot tea is a good remedy for a cold.",
+    "mnemonic": "re(다시) + med(치료하다, mederi) + y = 다시 치료하다 → 치료법. 관련어: medicine, medical"
+  },
+  {
+    "en": "core",
+    "ko": "핵심, 중심부",
+    "example": "Hard work is the core of success.",
+    "mnemonic": "라틴어 cor(심장)에서 유래. 심장 = 가장 중심 → 핵심. 관련어: courage(용기=심장에서 나오는)"
+  },
+  {
+    "en": "satellite",
+    "ko": "위성, 인공위성",
+    "example": "The satellite orbits the Earth every ninety minutes.",
+    "mnemonic": "라틴어 satelles(호위병, 수행원)에서 유래. 행성을 따라다니는 수행원 → 위성"
+  },
+  {
+    "en": "excellence",
+    "ko": "탁월함, 우수",
+    "example": "The school is known for its academic excellence.",
+    "mnemonic": "ex(밖으로) + cell(솟다, cellere) + ence = 남들 위로 솟다 → 탁월함. 관련어: excel, excellent"
+  },
+  {
+    "en": "guilty",
+    "ko": "유죄의, 죄책감 있는",
+    "example": "The jury found him guilty of the crime.",
+    "mnemonic": "'길티' → '길티(guilty)' 유죄 판결!"
+  },
+  {
+    "en": "legend",
+    "ko": "전설",
+    "example": "The legend of King Arthur is famous worldwide.",
+    "mnemonic": "'레전드' → '레전드(legend)' 전설적인 인물!"
+  },
+  {
+    "en": "aide",
+    "ko": "보좌관, 조력자",
+    "example": "The president's aide prepared the speech.",
+    "mnemonic": "aid(돕다, adjutare) + e = 돕는 사람 → 보좌관, 조력자"
+  },
+  {
+    "en": "prey",
+    "ko": "먹이, 사냥감",
+    "example": "The lion chased its prey across the plains.",
+    "mnemonic": "라틴어 praeda(전리품, 약탈물)에서 유래. 사냥해서 빼앗은 것 → 먹이"
+  },
+  {
+    "en": "hunger",
+    "ko": "배고픔, 굶주림",
+    "example": "Millions of people suffer from hunger every day.",
+    "mnemonic": "'헝거' → '헝거(hunger)' 게임 = 배고픈 게임!"
+  },
+  {
+    "en": "applaud",
+    "ko": "박수치다, 칭찬하다",
+    "example": "The audience applauded loudly after the performance.",
+    "mnemonic": "ap(~을 향해) + plaud(박수치다, plaudere) = 향해 손뼉치다 → 박수치다"
+  },
+  {
+    "en": "calculate",
+    "ko": "계산하다",
+    "example": "She calculated the total cost of the trip.",
+    "mnemonic": "calcul(조약돌, calculus) + ate = 조약돌로 수를 세다 → 계산하다. 로마인이 조약돌로 셈한 데서 유래"
+  },
+  {
+    "en": "universal",
+    "ko": "보편적인, 전 세계의",
+    "example": "Music is a universal language.",
+    "mnemonic": "uni(하나) + vers(돌다, vertere) + al = 하나로 돌아가는 → 보편적인. 관련어: universe"
+  },
+  {
+    "en": "counsel",
+    "ko": "조언, 상담하다",
+    "example": "The teacher gave wise counsel to the student.",
+    "mnemonic": "con(함께) + sel(의논하다, consulere) = 함께 의논하다 → 조언, 상담. consult와 같은 어근"
+  },
+  {
+    "en": "graph",
+    "ko": "그래프, 도표",
+    "example": "The graph shows the increase in temperature.",
+    "mnemonic": "'그래프' → '그래프(graph)' 막대그래프!"
+  },
+  {
+    "en": "radical",
+    "ko": "근본적인, 급진적인",
+    "example": "The company made radical changes to its policy.",
+    "mnemonic": "radic(뿌리, radix) + al = 뿌리의 → 근본적인. 관련어: radish(무=뿌리채소)"
+  },
+  {
+    "en": "province",
+    "ko": "지방, 주",
+    "example": "Korea has many beautiful provinces.",
+    "mnemonic": "pro(미리) + vince(정복하다, vincere) = 미리 정복한 땅 → 지방(로마의 정복지)"
+  },
+  {
+    "en": "resort",
+    "ko": "리조트, 의지하다",
+    "example": "They stayed at a beach resort during vacation.",
+    "mnemonic": "re(다시) + sort(나가다, sortir) = 다시 나가다 → 자주 가는 곳 → 리조트"
+  },
+  {
+    "en": "beneath",
+    "ko": "~의 아래에",
+    "example": "The cat hid beneath the table.",
+    "mnemonic": "be(곁에) + neath(아래, neoðan) = 아래쪽에 → ~의 아래에"
+  },
+  {
+    "en": "rear",
+    "ko": "뒤쪽, 기르다",
+    "example": "The rear of the building faces the park.",
+    "mnemonic": "고대 영어 rǣran(일으키다, 세우다)에서 유래. 세워 기르다 → 기르다. 뒤쪽은 별도 어원"
+  },
+  {
+    "en": "modest",
+    "ko": "겸손한, 적당한",
+    "example": "She is very modest about her achievements.",
+    "mnemonic": "'모디스트' → '모드(mode=적당한)+이스트' 적당한 = 겸손한!"
+  },
+  {
+    "en": "tunnel",
+    "ko": "터널, 굴",
+    "example": "The train passed through a long tunnel.",
+    "mnemonic": "고대 프랑스어 tonel(통)에서 유래. 통 모양의 통로 → 터널. 관련어: ton(통)"
+  },
+  {
+    "en": "ruin",
+    "ko": "파멸, 폐허, 망치다",
+    "example": "The flood ruined many homes in the village.",
+    "mnemonic": "라틴어 ruina(무너짐)에서 유래. ruere(무너지다). 무너져 내린 것 → 폐허, 파멸"
+  },
+  {
+    "en": "defend",
+    "ko": "방어하다, 옹호하다",
+    "example": "The lawyer defended her client in court.",
+    "mnemonic": "de(떨어뜨리다) + fend(치다, fendere) = 적을 쳐서 물리치다 → 방어하다. 관련어: offend, fence"
+  },
+  {
+    "en": "privilege",
+    "ko": "특권",
+    "example": "Education is a privilege, not a right, in some countries.",
+    "mnemonic": "priv(개인, privus) + leg(법, lex) = 개인을 위한 법 → 특권"
+  },
+  {
+    "en": "parliament",
+    "ko": "의회, 국회",
+    "example": "The parliament passed a new education law.",
+    "mnemonic": "'팔리어먼트' → 'parli(말하다)+ament' 말하는 곳 = 의회!"
+  },
+  {
+    "en": "charity",
+    "ko": "자선, 자선단체",
+    "example": "She donated money to a children's charity.",
+    "mnemonic": "라틴어 caritas(사랑, 친절)에서 유래. 사랑에서 우러난 행동 → 자선"
+  },
+  {
+    "en": "aggressive",
+    "ko": "공격적인",
+    "example": "The dog became aggressive when strangers approached.",
+    "mnemonic": "ag(~을 향해) + gress(걷다, gradi) + ive = 상대를 향해 걸어가다 → 공격적인"
+  },
+  {
+    "en": "entry",
+    "ko": "입장, 기입",
+    "example": "Entry to the museum is free on Sundays.",
+    "mnemonic": "enter(들어가다, intrare) + y = 들어가는 것 → 입장. 관련어: entrance"
+  },
+  {
+    "en": "doom",
+    "ko": "운명, 파멸",
+    "example": "The island was doomed to sink beneath the sea.",
+    "mnemonic": "고대 영어 dōm(판단, 법)에서 유래. 최후의 심판 → 파멸. 관련어: doomsday(심판의 날)"
+  },
+  {
+    "en": "familiar",
+    "ko": "익숙한, 친숙한",
+    "example": "This song sounds very familiar to me.",
+    "mnemonic": "famili(가족, familia) + ar = 가족처럼 친숙한 → 익숙한. 관련어: family"
+  },
+  {
+    "en": "uniform",
+    "ko": "유니폼, 균일한",
+    "example": "Students must wear a uniform to school.",
+    "mnemonic": "uni(하나) + form(형태) = 하나의 형태 → 균일한, 유니폼. 관련어: universe, unique"
+  },
+  {
+    "en": "forgive",
+    "ko": "용서하다",
+    "example": "Please forgive me for being so rude.",
+    "mnemonic": "for(완전히) + give(주다) = 완전히 내어주다 → 용서하다. 라틴어 perdonare와 구조 동일"
+  },
+  {
+    "en": "temple",
+    "ko": "사원, 신전",
+    "example": "They visited an ancient temple in Kyoto.",
+    "mnemonic": "라틴어 templum(신성한 장소)에서 유래. 하늘을 관찰하기 위해 구획한 곳 → 신전"
+  },
+  {
+    "en": "companion",
+    "ko": "동반자, 친구",
+    "example": "My dog is my best companion.",
+    "mnemonic": "com(함께) + pan(빵, panis) + ion = 함께 빵을 나누는 사람 → 동반자"
+  },
+  {
+    "en": "envy",
+    "ko": "부러움, 질투하다",
+    "example": "She couldn't hide her envy of his success.",
+    "mnemonic": "en(~에 대해) + vy(보다, videre) = 남의 것을 보다 → 부러워하다. 관련어: video, vision"
+  },
+  {
+    "en": "orphan",
+    "ko": "고아",
+    "example": "The orphan was raised by kind foster parents.",
+    "mnemonic": "'오펀' → '오(oh)펀(fun)' 재미없는 삶의 고아!"
+  },
+  {
+    "en": "flood",
+    "ko": "홍수, 범람하다",
+    "example": "The heavy rain caused a terrible flood.",
+    "mnemonic": "고대 영어 flōd(물의 흐름)에서 유래. flow(흐르다)와 같은 어근. 물이 넘치다 → 홍수"
+  },
+  {
+    "en": "observe",
+    "ko": "관찰하다, 준수하다",
+    "example": "Scientists observe the behavior of animals.",
+    "mnemonic": "'옵저브' → 'ob(~을 향해)+serve(지키다)' 향해 지켜보다 = 관찰!"
+  },
+  {
+    "en": "alter",
+    "ko": "바꾸다, 변경하다",
+    "example": "She altered her dress to make it shorter.",
+    "mnemonic": "alter(다른, alter) = 다른 것으로 만들다 → 바꾸다. 관련어: alternative(대안)"
+  },
+  {
+    "en": "gap",
+    "ko": "간격, 차이",
+    "example": "There is a big gap between the rich and the poor.",
+    "mnemonic": "고대 노르드어 gap(틈, 입을 벌림)에서 유래. gape(입을 벌리다)와 관련. 벌어진 틈 → 간격"
+  },
+  {
+    "en": "irritate",
+    "ko": "짜증나게 하다, 자극하다",
+    "example": "The loud noise irritated the neighbors.",
+    "mnemonic": "'이리테이트' → '이리(이리 와)테이트' 자꾸 부르면 짜증!"
+  },
+  {
+    "en": "tide",
+    "ko": "조수, 흐름",
+    "example": "The tide comes in twice a day.",
+    "mnemonic": "고대 영어 tīd(시간, 때)에서 유래. time과 같은 어근. 때에 맞춰 오르내리는 → 조수"
+  },
+  {
+    "en": "solar",
+    "ko": "태양의",
+    "example": "Solar energy is a clean source of power.",
+    "mnemonic": "라틴어 solaris(태양의)에서 유래. sol(태양). 관련어: solar system(태양계)"
+  },
+  {
+    "en": "attribute",
+    "ko": "속성, ~의 탓으로 하다",
+    "example": "She attributed her success to hard work.",
+    "mnemonic": "at(~에게) + tribute(부여하다, tribuere) = ~에게 돌리다 → ~의 탓으로 하다"
+  },
+  {
+    "en": "complex",
+    "ko": "복잡한, 복합체",
+    "example": "The math problem was very complex.",
+    "mnemonic": "com(함께) + plex(접다, plectere) = 함께 엮인 → 복잡한. 관련어: perplex, simple"
+  },
+  {
+    "en": "coach",
+    "ko": "코치, 지도하다",
+    "example": "The basketball coach trained the team every day.",
+    "mnemonic": "헝가리 Kocs 마을에서 만든 마차에서 유래. 마차가 목적지로 이끌듯 → 지도하다"
+  },
+  {
+    "en": "stimulus",
+    "ko": "자극, 격려",
+    "example": "The tax cut was a stimulus for the economy.",
+    "mnemonic": "라틴어 stimulus(찌르는 막대)에서 유래. 소를 찌르는 막대 → 자극, 격려"
+  },
+  {
+    "en": "sacred",
+    "ko": "신성한",
+    "example": "The temple is a sacred place for worship.",
+    "mnemonic": "라틴어 sacrare(신성하게 하다)에서 유래. sacr(신성한). 관련어: sacrifice, saint"
+  },
+  {
+    "en": "significance",
+    "ko": "중요성, 의미",
+    "example": "The discovery has great scientific significance.",
+    "mnemonic": "sign(표시, signum) + ific(만들다) + ance = 표시할 만한 것 → 중요성. 관련어: sign, signal"
+  }
+]

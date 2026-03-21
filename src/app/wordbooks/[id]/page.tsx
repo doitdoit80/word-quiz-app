@@ -229,12 +229,14 @@ export default function WordBookPage() {
 
       {/* 툴바 */}
       <div className="flex flex-wrap gap-2 mb-6">
-        <button
-          onClick={() => { setShowAddForm(!showAddForm); setAddForm(emptyForm); }}
-          className="border border-gray-300 text-gray-700 px-4 py-2 rounded-lg text-sm hover:bg-gray-50 font-medium"
-        >
-          {showAddForm ? '− 닫기' : '+ 단어 추가'}
-        </button>
+        {!wordBook.isPreset && (
+          <button
+            onClick={() => { setShowAddForm(!showAddForm); setAddForm(emptyForm); }}
+            className="border border-gray-300 text-gray-700 px-4 py-2 rounded-lg text-sm hover:bg-gray-50 font-medium"
+          >
+            {showAddForm ? '− 닫기' : '+ 단어 추가'}
+          </button>
+        )}
         <button
           onClick={exportJSON}
           disabled={wordBook.words.length === 0}
@@ -242,12 +244,14 @@ export default function WordBookPage() {
         >
           JSON 내보내기
         </button>
-        <button
-          onClick={() => fileInputRef.current?.click()}
-          className="border border-gray-300 text-gray-700 px-4 py-2 rounded-lg text-sm hover:bg-gray-50 font-medium"
-        >
-          JSON 가져오기
-        </button>
+        {!wordBook.isPreset && (
+          <button
+            onClick={() => fileInputRef.current?.click()}
+            className="border border-gray-300 text-gray-700 px-4 py-2 rounded-lg text-sm hover:bg-gray-50 font-medium"
+          >
+            JSON 가져오기
+          </button>
+        )}
         <input ref={fileInputRef} type="file" accept=".json" className="hidden" onChange={importJSON} />
         <button
           onClick={playAll}
@@ -495,20 +499,22 @@ export default function WordBookPage() {
                           <p className="text-xs text-blue-400 mt-0.5">💡 {word.mnemonic}</p>
                         )}
                       </div>
-                      <div className="flex gap-1 ml-2">
-                        <button
-                          onClick={() => startEdit(word)}
-                          className="text-gray-400 hover:text-blue-500 px-2 py-1 text-sm transition-colors"
-                        >
-                          편집
-                        </button>
-                        <button
-                          onClick={() => deleteWord(word.id, word.en)}
-                          className="text-gray-400 hover:text-red-400 px-2 py-1 text-sm transition-colors"
-                        >
-                          삭제
-                        </button>
-                      </div>
+                      {!wordBook.isPreset && (
+                        <div className="flex gap-1 ml-2">
+                          <button
+                            onClick={() => startEdit(word)}
+                            className="text-gray-400 hover:text-blue-500 px-2 py-1 text-sm transition-colors"
+                          >
+                            편집
+                          </button>
+                          <button
+                            onClick={() => deleteWord(word.id, word.en)}
+                            className="text-gray-400 hover:text-red-400 px-2 py-1 text-sm transition-colors"
+                          >
+                            삭제
+                          </button>
+                        </div>
+                      )}
                     </div>
                   </div>
                 )}

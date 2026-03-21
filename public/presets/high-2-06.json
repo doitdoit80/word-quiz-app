@@ -1,0 +1,302 @@
+[
+  {
+    "en": "acrimony",
+    "ko": "신랄함, 격앙",
+    "example": "The divorce was marked by considerable acrimony between the couple.",
+    "mnemonic": "acri(날카로운) + mony = 날카로운 감정 → 신랄함. acrid(톡 쏘는)와 같은 어근"
+  },
+  {
+    "en": "curtail",
+    "ko": "삭감하다, 줄이다",
+    "example": "The company had to curtail spending during the recession.",
+    "mnemonic": "cur(짧은) + tail(자르다) = 짧게 자르다 → 줄이다. 고대 프랑스어 curtald(꼬리를 자른)에서 유래"
+  },
+  {
+    "en": "haphazard",
+    "ko": "되는대로의, 무계획적인",
+    "example": "Books were arranged in a haphazard manner on the shelves.",
+    "mnemonic": "'해패저드' → 'hap(우연)+hazard(위험)' 우연에 맡기는 무계획!"
+  },
+  {
+    "en": "abstinence",
+    "ko": "절제, 금욕",
+    "example": "The doctor advised abstinence from alcohol during treatment.",
+    "mnemonic": "abs(떠나) + tin(잡다) + ence = 손을 떼는 것 → 절제. abstain(삼가다)과 같은 어근"
+  },
+  {
+    "en": "compatible",
+    "ko": "호환되는, 양립하는",
+    "example": "This software is compatible with both Windows and Mac systems.",
+    "mnemonic": "com(함께) + pat(고통, 느끼다) + ible = 함께 느낄 수 있는 → 호환되는. compassion(동정), patient(인내)와 같은 어근"
+  },
+  {
+    "en": "advent",
+    "ko": "출현, 도래",
+    "example": "The advent of the internet changed our daily lives.",
+    "mnemonic": "ad(~쪽으로) + vent(오다) = 다가오다 → 출현. adventure(모험), venture(벤처)와 같은 어근"
+  },
+  {
+    "en": "affirmative",
+    "ko": "긍정적인, 찬성의",
+    "example": "She gave an affirmative nod when asked if she agreed.",
+    "mnemonic": "af(~쪽으로) + firm(단단한) + ative = 단단히 하다 → 긍정하다. confirm(확인하다)과 같은 어근"
+  },
+  {
+    "en": "indolent",
+    "ko": "게으른, 나태한",
+    "example": "The warm weather made everyone feel indolent and sleepy.",
+    "mnemonic": "in(not) + dol(고통) + ent = 고통을 느끼지 않는 → 게으른. dolor(고통), condolence(조의)와 같은 어근"
+  },
+  {
+    "en": "deviate",
+    "ko": "벗어나다, 이탈하다",
+    "example": "The project deviated significantly from the original plan.",
+    "mnemonic": "de(떨어져) + via(길) + ate = 길에서 벗어나다 → 이탈하다. via(~를 통해), devious(우회하는)와 같은 어근"
+  },
+  {
+    "en": "eloquent",
+    "ko": "웅변의, 유창한",
+    "example": "She gave an eloquent speech that moved everyone to tears.",
+    "mnemonic": "e(밖으로) + loqu(말하다) + ent = 말이 잘 나오는 → 유창한. colloquial(구어체의), soliloquy(독백)와 같은 어근"
+  },
+  {
+    "en": "sanguine",
+    "ko": "낙관적인, 자신 있는",
+    "example": "Despite the setback, she remained sanguine about the project's future.",
+    "mnemonic": "라틴어 sanguis(피)에서 유래. sanguin(피) + e = 피가 왕성한 → 낙관적인. 체액설에서 피가 많으면 낙천적"
+  },
+  {
+    "en": "substantiate",
+    "ko": "입증하다, 실증하다",
+    "example": "The lawyer could not substantiate the client's claims.",
+    "mnemonic": "sub(아래) + stant(서다) + iate = 아래에 단단히 서게 하다 → 입증하다. substance(물질), substantial(실질적인)과 같은 어근"
+  },
+  {
+    "en": "anticipation",
+    "ko": "예상, 기대",
+    "example": "There was great anticipation for the new movie release.",
+    "mnemonic": "anti(미리) + cip(잡다) + ation = 미리 잡아두다 → 예상, 기대. capture(포획), participate(참여하다)와 같은 어근"
+  },
+  {
+    "en": "bewilder",
+    "ko": "어리둥절하게 하다",
+    "example": "The complex instructions bewildered the new employees.",
+    "mnemonic": "be(강조) + wilder(길을 잃다) = 완전히 길을 잃게 하다 → 어리둥절하게 하다. wilderness(황야)와 같은 어근"
+  },
+  {
+    "en": "asylum",
+    "ko": "망명, 보호소",
+    "example": "Many refugees sought political asylum in neighboring countries.",
+    "mnemonic": "a(not) + sylum(잡다, 약탈) = 잡히지 않는 곳 → 보호소, 망명처. 그리스어 asylon(피난처)에서 유래"
+  },
+  {
+    "en": "disseminate",
+    "ko": "유포하다, 보급하다",
+    "example": "The organization works to disseminate health information.",
+    "mnemonic": "dis(흩어져) + semin(씨앗) + ate = 씨앗을 흩뿌리다 → 유포하다. seminar(세미나), seminary(신학교)와 같은 어근"
+  },
+  {
+    "en": "corollary",
+    "ko": "당연한 결과, 필연적 결론",
+    "example": "One corollary of the new policy was an increase in paperwork.",
+    "mnemonic": "라틴어 corollarium(화관, 사례금)에서 유래. 추가로 따라오는 것 → 당연한 결과"
+  },
+  {
+    "en": "pervasive",
+    "ko": "널리 퍼진, 만연한",
+    "example": "Corruption has become pervasive in the government.",
+    "mnemonic": "per(완전히) + vas(가다) + ive = 완전히 퍼져나간 → 널리 퍼진. invade(침입하다), evade(회피하다)와 같은 어근"
+  },
+  {
+    "en": "formidable",
+    "ko": "만만치 않은, 강력한",
+    "example": "The opposing team proved to be a formidable opponent.",
+    "mnemonic": "'포미더블' → 'formid(두려운)+able' 두려울 만큼 강력한!"
+  },
+  {
+    "en": "fluctuate",
+    "ko": "변동하다, 오르내리다",
+    "example": "Stock prices fluctuate daily depending on market conditions.",
+    "mnemonic": "'플럭추에이트' → 'fluctu(파도)+ate' 파도치듯 오르내리다!"
+  },
+  {
+    "en": "provincial",
+    "ko": "지방의, 편협한",
+    "example": "His provincial attitude prevented him from understanding diverse cultures.",
+    "mnemonic": "provinci(지방) + al = 지방의 → 편협한. province(지방, 도)에서 유래"
+  },
+  {
+    "en": "aggravate",
+    "ko": "악화시키다, 짜증나게 하다",
+    "example": "Scratching the wound will only aggravate the infection.",
+    "mnemonic": "ag(~쪽으로) + grav(무거운) + ate = 더 무겁게 하다 → 악화시키다. gravity(중력), grave(무덤/심각한)와 같은 어근"
+  },
+  {
+    "en": "coerce",
+    "ko": "강압하다, 강요하다",
+    "example": "No one should be coerced into signing a contract.",
+    "mnemonic": "co(함께) + erce(가두다) = 가두어서 강요하다. 라틴어 coercere(가두다, 제한하다)에서 유래"
+  },
+  {
+    "en": "aspiration",
+    "ko": "열망, 포부",
+    "example": "Her aspiration is to become a world-renowned scientist.",
+    "mnemonic": "a(~쪽으로) + spir(숨쉬다) + ation = 무언가를 향해 숨쉬다 → 열망. inspire(영감), expire(만료)와 같은 어근"
+  },
+  {
+    "en": "fracture",
+    "ko": "골절, 균열",
+    "example": "She suffered a fracture in her wrist after the fall.",
+    "mnemonic": "'프랙처' → 'fract(부러지다)+ure' 부러진 것 = 골절!"
+  },
+  {
+    "en": "culminate",
+    "ko": "절정에 달하다, 끝나다",
+    "example": "Months of hard work culminated in a successful performance.",
+    "mnemonic": "culmin(정상, 꼭대기) + ate = 정상에 오르다 → 절정에 달하다. 라틴어 culmen(꼭대기)에서 유래"
+  },
+  {
+    "en": "cynical",
+    "ko": "냉소적인, 비꼬는",
+    "example": "He has a cynical view of politicians and their promises.",
+    "mnemonic": "그리스어 kynikos(개 같은)에서 유래. cyn(개) + ical = 개처럼 으르렁대며 비꼬는 → 냉소적인. 고대 그리스 견유학파(Cynics)에서 유래"
+  },
+  {
+    "en": "qualitative",
+    "ko": "질적인",
+    "example": "The study used qualitative methods such as interviews and observations.",
+    "mnemonic": "qualit(질) + ative = 질에 관한 → 질적인. quality(질), quantitative(양적인)와 반대"
+  },
+  {
+    "en": "vitality",
+    "ko": "활력, 생명력",
+    "example": "The city is full of vitality with its bustling markets and festivals.",
+    "mnemonic": "vital(생명의) + ity = 생명력 → 활력. vital(필수적인), vivid(생생한)와 같은 어근 vit/viv(살다)"
+  },
+  {
+    "en": "diffuse",
+    "ko": "퍼뜨리다, 확산된",
+    "example": "The scent of flowers diffused through the room.",
+    "mnemonic": "dif(흩어져) + fuse(붓다) = 흩어져 퍼지다 → 확산하다. refuse(거부하다), confuse(혼란시키다)와 같은 어근 fus(붓다)"
+  },
+  {
+    "en": "antiquated",
+    "ko": "구식의, 낡은",
+    "example": "The factory still uses antiquated machinery from the 1950s.",
+    "mnemonic": "antiqu(오래된) + ated = 오래된 → 구식의. antique(골동품)와 같은 어근"
+  },
+  {
+    "en": "recount",
+    "ko": "자세히 이야기하다, 재검표",
+    "example": "He recounted his adventures in South America with great enthusiasm.",
+    "mnemonic": "re(다시) + count(세다, 이야기하다) = 다시 세며 이야기하다 → 자세히 이야기하다"
+  },
+  {
+    "en": "deluge",
+    "ko": "대홍수, 쇄도",
+    "example": "The company received a deluge of complaints after the product recall.",
+    "mnemonic": "de(아래로) + luge(씻다) = 아래로 씻어내리다 → 대홍수. dilute(희석하다)와 같은 어근 lu(씻다)"
+  },
+  {
+    "en": "benevolent",
+    "ko": "자비로운, 자선의",
+    "example": "The benevolent donor gave millions to charity.",
+    "mnemonic": "bene(좋은) + vol(의지, 바라다) + ent = 좋은 뜻을 가진 → 자비로운. benefit(혜택), volunteer(자원봉사)와 같은 어근"
+  },
+  {
+    "en": "abstain",
+    "ko": "삼가다, 기권하다",
+    "example": "He decided to abstain from voting on the controversial issue.",
+    "mnemonic": "abs(떨어져) + tain(잡다) = 손을 떼다 → 삼가다. contain(포함하다), maintain(유지하다)과 같은 어근"
+  },
+  {
+    "en": "clandestine",
+    "ko": "비밀의, 은밀한",
+    "example": "They held clandestine meetings to plan the revolution.",
+    "mnemonic": "라틴어 clam(비밀리에) + destine = 비밀리에 행하는 → 은밀한. clandestinus에서 유래"
+  },
+  {
+    "en": "volatile",
+    "ko": "변덕스러운, 불안정한",
+    "example": "Oil prices are highly volatile and can change dramatically overnight.",
+    "mnemonic": "volat(날다) + ile = 날아가 버리는 → 변덕스러운. 라틴어 volare(날다)에서 유래"
+  },
+  {
+    "en": "fiscal",
+    "ko": "재정의, 회계의",
+    "example": "The government announced new fiscal policies to reduce the deficit.",
+    "mnemonic": "'피스컬' → 'fisc(국고)+al' 국고에 관한 = 재정의!"
+  },
+  {
+    "en": "abhor",
+    "ko": "혐오하다, 몹시 싫어하다",
+    "example": "She abhors violence of any kind.",
+    "mnemonic": "ab(떠나) + hor(떨리다) = 떨릴 정도로 싫어하다 → 혐오하다. horror(공포)와 같은 어근"
+  },
+  {
+    "en": "animosity",
+    "ko": "적의, 원한",
+    "example": "There was deep animosity between the rival gangs.",
+    "mnemonic": "anim(마음, 정신) + osity = 격한 마음 → 적의. animal(동물), animate(활기를 주다)와 같은 어근"
+  },
+  {
+    "en": "saturate",
+    "ko": "포화시키다, 흠뻑 적시다",
+    "example": "The market is already saturated with similar products.",
+    "mnemonic": "satur(충분한) + ate = 충분하게 만들다 → 포화시키다. satisfy(만족시키다)와 같은 어근 계열"
+  },
+  {
+    "en": "subjective",
+    "ko": "주관적인",
+    "example": "Taste in art is highly subjective and varies from person to person.",
+    "mnemonic": "sub(아래) + ject(던지다) + ive = 주체 아래에 놓인 → 주관적인. objective(객관적)의 반대"
+  },
+  {
+    "en": "postulate",
+    "ko": "가정하다, 공준",
+    "example": "The researcher postulated that the disease was caused by a virus.",
+    "mnemonic": "post(요구하다) + ulate = 요구하듯 제시하다 → 가정하다. 라틴어 postulare(요구하다)에서 유래"
+  },
+  {
+    "en": "futile",
+    "ko": "헛된, 무익한",
+    "example": "All attempts to negotiate with the kidnappers proved futile.",
+    "mnemonic": "'퓨타일' → 'fut(쏟다)+ile' 물을 쏟아도 소용없는 = 헛된!"
+  },
+  {
+    "en": "arson",
+    "ko": "방화",
+    "example": "The fire was confirmed to be an act of arson.",
+    "mnemonic": "라틴어 ardere(불타다)에서 유래. ars(불타다) + on = 불태우는 행위 → 방화. ardent(열렬한)와 같은 어근"
+  },
+  {
+    "en": "reticent",
+    "ko": "과묵한, 말을 아끼는",
+    "example": "He was reticent about his past and rarely spoke of his childhood.",
+    "mnemonic": "re(다시) + tic(침묵하다) + ent = 침묵을 지키는 → 과묵한. 라틴어 tacere(침묵하다)에서 유래. tacit(암묵의)과 같은 어근"
+  },
+  {
+    "en": "clemency",
+    "ko": "관용, 온정",
+    "example": "The prisoner begged the judge for clemency.",
+    "mnemonic": "clem(온화한, 자비로운) + ency = 온화한 마음 → 관용. clement(온화한)의 명사형"
+  },
+  {
+    "en": "disparity",
+    "ko": "차이, 불균형",
+    "example": "The income disparity between the rich and poor is growing.",
+    "mnemonic": "dis(부정) + par(동등한) + ity = 동등하지 않은 → 차이, 불균형. pair(쌍), compare(비교하다)와 같은 어근 par"
+  },
+  {
+    "en": "manifestation",
+    "ko": "표명, 나타남",
+    "example": "The protest was a manifestation of public anger toward corruption.",
+    "mnemonic": "mani(손) + fest(치다) + ation = 손으로 쳐서 드러냄 → 표명, 나타남. manifest(명백한)의 명사형"
+  },
+  {
+    "en": "succinct",
+    "ko": "간결한, 간명한",
+    "example": "Please keep your answers succinct and to the point.",
+    "mnemonic": "suc(아래서) + cinct(묶다) = 꽉 묶어 정리한 → 간결한. 라틴어 cingere(묶다)에서 유래"
+  }
+]

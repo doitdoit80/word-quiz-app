@@ -1,0 +1,302 @@
+[
+  {
+    "en": "juxtapose",
+    "ko": "나란히 놓다, 병치하다",
+    "example": "The artist juxtaposed light and dark colors for dramatic effect.",
+    "mnemonic": "juxta(나란히) + pose(놓다) = 나란히 놓다 → 병치하다. compose(구성하다), expose(노출하다)와 같은 어근"
+  },
+  {
+    "en": "ambiguity",
+    "ko": "모호함, 애매함",
+    "example": "The ambiguity of the contract led to a legal dispute.",
+    "mnemonic": "ambi(양쪽) + gu(이끌다) + ity = 양쪽으로 이끌림 → 모호함. ambi(양쪽): ambivalent, ambidextrous"
+  },
+  {
+    "en": "procrastinate",
+    "ko": "미루다, 꾸물거리다",
+    "example": "Students who procrastinate often submit poor quality work.",
+    "mnemonic": "pro(앞으로) + crastin(내일) + ate = 내일로 미루다 → 꾸물거리다. 라틴어 cras(내일)에서 유래"
+  },
+  {
+    "en": "intrinsic",
+    "ko": "본질적인, 고유한",
+    "example": "Hard work has intrinsic value regardless of the outcome.",
+    "mnemonic": "intr(안쪽) + insic(안의) = 안에 있는 → 본질적인. extrinsic(외부의)과 반대"
+  },
+  {
+    "en": "proficiency",
+    "ko": "숙련, 능숙",
+    "example": "The job requires proficiency in at least two foreign languages.",
+    "mnemonic": "pro(앞으로) + fic(만들다) + ency = 앞서 만들어내는 능력 → 숙련. proficient(숙련된), efficient(효율적)과 같은 어근"
+  },
+  {
+    "en": "plummet",
+    "ko": "급락하다, 곤두박질치다",
+    "example": "Stock prices plummeted after the company announced massive losses.",
+    "mnemonic": "라틴어 plumbum(납)에서 유래. plumm(납) + et = 납처럼 무겁게 떨어지다 → 급락하다"
+  },
+  {
+    "en": "altruistic",
+    "ko": "이타적인",
+    "example": "Her altruistic nature led her to volunteer at the homeless shelter.",
+    "mnemonic": "이탈리아어 altrui(타인)에서 유래. altru(타인) + istic = 타인을 위하는 → 이타적인. egoistic(이기적)의 반대"
+  },
+  {
+    "en": "collusion",
+    "ko": "공모, 결탁",
+    "example": "The investigation revealed collusion between the companies to fix prices.",
+    "mnemonic": "col(함께) + lus(놀다) + ion = 함께 놀며 꾸미다 → 공모. illusion(환상), elude(피하다)와 같은 어근"
+  },
+  {
+    "en": "vigilant",
+    "ko": "경계하는, 방심하지 않는",
+    "example": "Security guards must remain vigilant at all times.",
+    "mnemonic": "vigil(깨어있다) + ant = 깨어있는 → 경계하는. vigil(철야), surveillance(감시)와 같은 어근"
+  },
+  {
+    "en": "collateral",
+    "ko": "담보, 부수적인",
+    "example": "The bank required collateral before approving the loan.",
+    "mnemonic": "co(함께) + later(옆) + al = 옆에 함께 붙이는 것 → 담보, 부수적인. lateral(측면의), bilateral(양자간의)과 같은 어근"
+  },
+  {
+    "en": "reconcile",
+    "ko": "화해시키다, 조화시키다",
+    "example": "The couple tried to reconcile their differences through counseling.",
+    "mnemonic": "re(다시) + concil(모으다) = 다시 모으다 → 화해시키다. council(의회), conciliate(달래다)와 같은 어근"
+  },
+  {
+    "en": "ominous",
+    "ko": "불길한, 위협적인",
+    "example": "Dark clouds gathered in an ominous sky before the storm.",
+    "mnemonic": "omin(전조) + ous = 전조가 있는 → 불길한. omen(전조)의 형용사형"
+  },
+  {
+    "en": "assent",
+    "ko": "동의, 동의하다",
+    "example": "The committee gave their assent to the proposed changes.",
+    "mnemonic": "as(~쪽으로) + sent(느끼다) = 같은 쪽으로 느끼다 → 동의. consent(동의), dissent(반대)와 같은 어근"
+  },
+  {
+    "en": "malicious",
+    "ko": "악의 있는, 적의 있는",
+    "example": "The malicious rumor spread quickly through social media.",
+    "mnemonic": "mal(나쁜) + icious = 나쁜 성질의 → 악의 있는. malware(악성코드), malfunction(오작동)과 같은 접두사"
+  },
+  {
+    "en": "envision",
+    "ko": "상상하다, 구상하다",
+    "example": "She envisioned a world where everyone has access to clean water.",
+    "mnemonic": "'인비전' → 'en+vision(시야)' 눈에 그리다 = 구상하다!"
+  },
+  {
+    "en": "decadent",
+    "ko": "퇴폐적인, 타락한",
+    "example": "The novel portrays the decadent lifestyle of the aristocracy.",
+    "mnemonic": "de(아래로) + cad(떨어지다) + ent = 아래로 떨어지는 → 퇴폐적인. decay(부패), cadence(리듬)와 같은 어근"
+  },
+  {
+    "en": "onerous",
+    "ko": "부담스러운, 힘든",
+    "example": "The onerous tax regulations made it difficult for small businesses.",
+    "mnemonic": "라틴어 onus(짐)에서 유래. oner(짐) + ous = 짐이 되는 → 부담스러운. exonerate(면제하다)와 같은 어근"
+  },
+  {
+    "en": "lament",
+    "ko": "슬퍼하다, 탄식하다",
+    "example": "She lamented the loss of the beautiful old building.",
+    "mnemonic": "라틴어 lamentum(울부짖음)에서 유래. 슬픔을 울부짖다 → 탄식하다"
+  },
+  {
+    "en": "denounce",
+    "ko": "비난하다, 고발하다",
+    "example": "Human rights groups denounced the government's actions.",
+    "mnemonic": "de(아래로) + nounce(알리다) = 나쁜 것을 알리다 → 비난하다. announce(발표하다), pronounce(발음하다)와 같은 어근 nunci(알리다)"
+  },
+  {
+    "en": "ratify",
+    "ko": "비준하다, 승인하다",
+    "example": "The parliament voted to ratify the international trade agreement.",
+    "mnemonic": "rat(정해진) + ify(만들다) = 확정된 것으로 만들다 → 비준하다. rate(비율), rational(합리적인)과 같은 어근"
+  },
+  {
+    "en": "preposterous",
+    "ko": "터무니없는, 말도 안 되는",
+    "example": "The idea of living on Mars seemed preposterous just decades ago.",
+    "mnemonic": "pre(앞에) + poster(뒤에) + ous = 앞뒤가 바뀐 → 터무니없는. 라틴어 praeposterus(뒤집힌)에서 유래"
+  },
+  {
+    "en": "consolidate",
+    "ko": "통합하다, 강화하다",
+    "example": "The company consolidated its operations into one headquarters.",
+    "mnemonic": "con(함께) + solid(단단한) + ate = 단단하게 합치다 → 통합하다, 강화하다. solid(단단한)와 같은 어근"
+  },
+  {
+    "en": "barren",
+    "ko": "불모의, 메마른",
+    "example": "The once-fertile land had become barren due to drought.",
+    "mnemonic": "고대 프랑스어 baraine(불모의)에서 유래. bar(비어있는) + ren = 비어있는 땅 → 불모의, 메마른"
+  },
+  {
+    "en": "precedent",
+    "ko": "선례, 전례",
+    "example": "The court ruling set a precedent for future cases.",
+    "mnemonic": "pre(앞에) + ced(가다) + ent = 앞서 간 것 → 선례. precede(선행하다), proceed(진행하다)와 같은 어근"
+  },
+  {
+    "en": "precipitate",
+    "ko": "촉발하다, 급격히 하다",
+    "example": "The scandal precipitated the CEO's resignation.",
+    "mnemonic": "pre(앞으로) + cipit(머리) + ate = 머리부터 떨어지다 → 급격히 일으키다. capital(수도)과 같은 어근 capit(머리)"
+  },
+  {
+    "en": "eccentric",
+    "ko": "별난, 기이한",
+    "example": "The eccentric professor always wore mismatched socks.",
+    "mnemonic": "ec(밖으로) + centr(중심) + ic = 중심에서 벗어난 → 별난. center(중심), concentrate(집중하다)와 같은 어근"
+  },
+  {
+    "en": "replete",
+    "ko": "가득 찬, 충만한",
+    "example": "The report is replete with detailed statistics and analysis.",
+    "mnemonic": "re(다시) + plete(채우다) = 다시 채운 → 가득 찬. complete(완전한), deplete(고갈시키다)와 같은 어근"
+  },
+  {
+    "en": "aversion",
+    "ko": "혐오, 반감",
+    "example": "He has a strong aversion to public speaking.",
+    "mnemonic": "a(away, 떠나) + vers(돌다) + ion = 돌아서다 → 혐오, 반감. reverse(뒤집다), convert(전환하다)와 같은 어근"
+  },
+  {
+    "en": "plausible",
+    "ko": "그럴듯한, 타당한",
+    "example": "Her explanation sounded plausible, so we believed her.",
+    "mnemonic": "plaus(박수치다) + ible = 박수받을 만한 → 그럴듯한. applause(박수)와 같은 어근"
+  },
+  {
+    "en": "delusion",
+    "ko": "망상, 착각",
+    "example": "He suffered from the delusion that everyone was against him.",
+    "mnemonic": "de(완전히) + lus(놀다, 속이다) + ion = 완전히 속다 → 망상. illusion(환상), elude(피하다)와 같은 어근 lud/lus"
+  },
+  {
+    "en": "mitigate",
+    "ko": "완화하다, 경감하다",
+    "example": "Planting trees can help mitigate the effects of climate change.",
+    "mnemonic": "mit(부드러운) + ig(만들다) + ate = 부드럽게 만들다 → 완화하다. mild(온화한)와 같은 어근"
+  },
+  {
+    "en": "implication",
+    "ko": "함축, 영향",
+    "example": "The new regulation has serious implications for small businesses.",
+    "mnemonic": "im(안에) + plic(접다) + ation = 안에 접어놓은 것 → 함축. complicate(복잡하게), explicit(명시적)과 같은 어근"
+  },
+  {
+    "en": "tenet",
+    "ko": "교리, 원칙",
+    "example": "One of the basic tenets of democracy is freedom of the press.",
+    "mnemonic": "라틴어 tenere(잡다, 지키다)에서 유래. tenet = 그가 지키는 것 → 교리, 원칙. tenant(세입자), tenure(재직기간)와 같은 어근"
+  },
+  {
+    "en": "cognition",
+    "ko": "인지, 인식",
+    "example": "Early childhood experiences play a key role in cognition.",
+    "mnemonic": "cogn(알다) + ition = 아는 것 → 인지. recognize(인식하다), diagnosis(진단)와 같은 어근 gno/cogn"
+  },
+  {
+    "en": "cautious",
+    "ko": "조심스러운, 신중한",
+    "example": "She is always cautious when crossing busy streets.",
+    "mnemonic": "caut(주의) + ious = 주의하는 → 조심스러운. caution(주의), precaution(예방조치)과 같은 어근"
+  },
+  {
+    "en": "innocuous",
+    "ko": "무해한, 악의 없는",
+    "example": "The remark seemed innocuous, but it deeply offended her.",
+    "mnemonic": "in(not) + noc(해치다) + uous = 해치지 않는 → 무해한. innocent(무죄의), noxious(유해한)와 같은 어근"
+  },
+  {
+    "en": "indispensable",
+    "ko": "필수불가결한",
+    "example": "Clean water is indispensable for human survival.",
+    "mnemonic": "'인디스펜서블' → 'in(not)+dispensable(없어도 되는)' 없으면 안 되는!"
+  },
+  {
+    "en": "daunting",
+    "ko": "벅찬, 위압적인",
+    "example": "Starting a new business can be a daunting challenge.",
+    "mnemonic": "라틴어 domitare(길들이다)에서 유래. daunt(겁주다) + ing = 겁먹게 하는 → 위압적인. dauntless(대담한)와 반대"
+  },
+  {
+    "en": "turbulent",
+    "ko": "난기류의, 격동하는",
+    "example": "The passengers experienced turbulent conditions during the flight.",
+    "mnemonic": "turb(혼란) + ulent = 혼란스러운 → 격동하는. disturb(방해하다), trouble(문제)와 같은 어근"
+  },
+  {
+    "en": "candid",
+    "ko": "솔직한, 숨김없는",
+    "example": "She gave a candid interview about her struggles with anxiety.",
+    "mnemonic": "라틴어 candidus(하얀, 순수한)에서 유래. cand(빛나다, 하얀) + id = 하얗게 드러나는 → 솔직한. candle(촛불), candidate(후보자)와 같은 어근"
+  },
+  {
+    "en": "decree",
+    "ko": "법령, 포고하다",
+    "example": "The king issued a decree banning all public gatherings.",
+    "mnemonic": "de(아래로) + cree(결정하다) = 위에서 아래로 내리는 결정 → 법령. 라틴어 decernere(결정하다)에서 유래"
+  },
+  {
+    "en": "incite",
+    "ko": "선동하다, 자극하다",
+    "example": "The speech was designed to incite violence among the protesters.",
+    "mnemonic": "'인사이트' → 'in(안으로)+cite(부르다)' 안으로 불러 선동하다!"
+  },
+  {
+    "en": "fatality",
+    "ko": "사망자, 치사율",
+    "example": "The accident resulted in three fatalities.",
+    "mnemonic": "'퍼탈리티' → 'fatal(치명적)+ity' 치명적인 결과 = 사망!"
+  },
+  {
+    "en": "conceivable",
+    "ko": "상상할 수 있는, 있을 수 있는",
+    "example": "It is conceivable that life exists on other planets.",
+    "mnemonic": "con(함께) + ceive(잡다) + able = 마음에 잡을 수 있는 → 상상할 수 있는. receive(받다), perceive(인지하다)와 같은 어근"
+  },
+  {
+    "en": "maternal",
+    "ko": "어머니의, 모성의",
+    "example": "She felt a strong maternal instinct to protect her child.",
+    "mnemonic": "mater(어머니) + nal = 어머니의 → 모성의. maternity(출산), matrix(기질, 자궁)와 같은 어근"
+  },
+  {
+    "en": "arid",
+    "ko": "건조한, 메마른",
+    "example": "Few plants can survive in such an arid climate.",
+    "mnemonic": "라틴어 aridus(마른)에서 유래. ar(마르다) + id = 마른 → 건조한, 메마른"
+  },
+  {
+    "en": "belligerent",
+    "ko": "호전적인, 교전중인",
+    "example": "The belligerent nations refused to negotiate a ceasefire.",
+    "mnemonic": "bell(전쟁) + iger(나르다) + ent = 전쟁을 일으키는 → 호전적인. rebel(반란)과 같은 어근 bell(전쟁)"
+  },
+  {
+    "en": "propensity",
+    "ko": "성향, 경향",
+    "example": "He has a propensity for taking unnecessary risks.",
+    "mnemonic": "pro(앞으로) + pens(기울다) + ity = 앞으로 기우는 것 → 경향. pension(연금), ponder(숙고)와 같은 어근"
+  },
+  {
+    "en": "conjure",
+    "ko": "마법을 부리다, 떠올리게 하다",
+    "example": "The smell of baking bread conjured up memories of her grandmother.",
+    "mnemonic": "con(함께) + jure(맹세하다) = 함께 맹세하며 불러내다 → 마법을 부리다. jury(배심원), perjury(위증)와 같은 어근"
+  },
+  {
+    "en": "bureaucratic",
+    "ko": "관료주의적인",
+    "example": "The bureaucratic process for obtaining a visa was exhausting.",
+    "mnemonic": "bureau(관청, 사무실) + crat(지배) + ic = 관청이 지배하는 → 관료주의적. democracy(민주주의), aristocrat(귀족)와 같은 어근 crat"
+  }
+]

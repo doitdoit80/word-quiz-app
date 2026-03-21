@@ -1,152 +1,152 @@
 [
   {
+    "en": "shop",
+    "ko": "가게",
+    "example": "Let's go to the shop.",
+    "mnemonic": "고대 영어 sceoppa(창고)에서 유래. shopping = shop + ing → 물건 사러 가기."
+  },
+  {
+    "en": "during",
+    "ko": "~동안",
+    "example": "I fell asleep during the movie.",
+    "mnemonic": "라틴어 durare(지속하다)에서 유래. durable(내구성 있는)과 같은 어근! 지속되는 동안."
+  },
+  {
     "en": "play",
     "ko": "놀다",
     "example": "Let's play outside.",
-    "mnemonic": "'플레이'는 게임을 하거나 놀거나 연주!"
+    "mnemonic": "고대 영어 plegian(운동하다)에서 유래. player = play + er(사람) → 선수, 놀이하는 사람."
   },
   {
-    "en": "question",
-    "ko": "질문",
-    "example": "Do you have any questions?",
-    "mnemonic": "'퀘스천'은 궁금해서 물어보는 질문."
+    "en": "carry",
+    "ko": "나르다",
+    "example": "Can you carry this box?",
+    "mnemonic": "라틴어 carrus(수레)에서 유래. car(차)도 같은 어원! 수레로 나르다."
   },
   {
-    "en": "room",
-    "ko": "방",
-    "example": "Clean your room, please.",
-    "mnemonic": "'룸'서비스를 방에서 받아요."
+    "en": "hand",
+    "ko": "손",
+    "example": "Raise your hand if you know the answer.",
+    "mnemonic": "고대 영어 hand에서 유래. handle(다루다) = hand + le → 손으로 다루다."
   },
   {
-    "en": "school",
-    "ko": "학교",
-    "example": "I go to school by bus.",
-    "mnemonic": "'스쿨'버스 타고 가는 곳이 학교."
+    "en": "please",
+    "ko": "제발",
+    "example": "Please help me.",
+    "mnemonic": "라틴어 placere(기쁘게 하다)에서 유래. pleasure(기쁨), pleasant(즐거운)도 같은 어근!"
   },
   {
-    "en": "talk",
-    "ko": "말하다",
-    "example": "Can we talk for a minute?",
-    "mnemonic": "'토크'쇼에서 이야기를 나눠요."
+    "en": "dog",
+    "ko": "개",
+    "example": "I walk my dog every evening.",
+    "mnemonic": "고대 영어 docga에서 유래. 가장 친숙한 동물 단어 중 하나."
   },
   {
-    "en": "understand",
-    "ko": "이해하다",
-    "example": "I understand what you mean.",
-    "mnemonic": "under(아래) + stand(서다). 밑바닥까지 서서 보면 이해!"
+    "en": "kitchen",
+    "ko": "부엌, 주방",
+    "example": "Mom is cooking in the kitchen.",
+    "mnemonic": "라틴어 coquina(요리하는 곳)에서 유래. cook(요리하다)과 같은 뿌리."
   },
   {
-    "en": "weather",
-    "ko": "날씨",
-    "example": "The weather is sunny today.",
-    "mnemonic": "'웨더' 채널에서 날씨 예보를 확인!"
+    "en": "holiday",
+    "ko": "휴일",
+    "example": "What did you do during the holiday?",
+    "mnemonic": "holy(성스러운) + day(날). 원래 성스러운 날에 쉬었기에 → 휴일."
   },
   {
-    "en": "afternoon",
-    "ko": "오후",
-    "example": "I have class in the afternoon.",
-    "mnemonic": "after(후) + noon(정오). 정오 이후가 오후!"
-  },
-  {
-    "en": "breakfast",
-    "ko": "아침 식사, 아침밥",
-    "example": "I had toast for breakfast.",
-    "mnemonic": "break(깨다) + fast(금식). 밤새 금식을 깨는 식사!"
-  },
-  {
-    "en": "clothes",
-    "ko": "옷, 의복",
-    "example": "She is wearing new clothes.",
-    "mnemonic": "'클로즈'는 입는 옷들."
-  },
-  {
-    "en": "drive",
-    "ko": "운전하다",
-    "example": "My mom drives me to school.",
-    "mnemonic": "'드라이브'는 차를 몰고 가는 것."
-  },
-  {
-    "en": "evening",
-    "ko": "저녁",
-    "example": "I study in the evening.",
-    "mnemonic": "'이브닝'드레스를 저녁 파티에 입어요."
-  },
-  {
-    "en": "fly",
-    "ko": "날다",
-    "example": "Birds can fly in the sky.",
-    "mnemonic": "'플라이'는 비행기처럼 날아가는 것."
-  },
-  {
-    "en": "grow",
-    "ko": "자라다",
-    "example": "Children grow up fast.",
-    "mnemonic": "'그로우'는 쑥쑥 자라는 것."
-  },
-  {
-    "en": "heavy",
-    "ko": "무거운",
-    "example": "This bag is too heavy.",
-    "mnemonic": "'헤비'급 복싱 선수는 무거운 체급."
-  },
-  {
-    "en": "kid",
-    "ko": "아이, 어린이",
-    "example": "The kids are playing outside.",
-    "mnemonic": "'키드'는 아이들을 뜻해요."
-  },
-  {
-    "en": "lunch",
-    "ko": "점심 식사, 점심밥",
-    "example": "What did you have for lunch?",
-    "mnemonic": "'런치'타임은 점심시간!"
-  },
-  {
-    "en": "market",
-    "ko": "시장",
-    "example": "We buy vegetables at the market.",
-    "mnemonic": "'마켓'은 물건을 사고파는 시장."
-  },
-  {
-    "en": "nice",
-    "ko": "좋은",
-    "example": "It's nice to meet you.",
-    "mnemonic": "'나이스'샷! 좋은 샷!"
-  },
-  {
-    "en": "parent",
-    "ko": "부모",
-    "example": "My parents love me very much.",
-    "mnemonic": "'페어런트'는 나를 키워주신 부모님."
-  },
-  {
-    "en": "quiet",
-    "ko": "조용한",
-    "example": "Please be quiet in the library.",
-    "mnemonic": "'콰이엇'하면 쉿! 조용히!"
-  },
-  {
-    "en": "ready",
-    "ko": "준비된",
-    "example": "Are you ready to go?",
-    "mnemonic": "'레디'! 준비! 시작!"
-  },
-  {
-    "en": "story",
-    "ko": "이야기",
-    "example": "Tell me a funny story.",
-    "mnemonic": "'스토리'는 재미있는 이야기."
-  },
-  {
-    "en": "turn",
-    "ko": "차례",
-    "example": "It's your turn now.",
-    "mnemonic": "'턴'은 방향을 돌거나 차례."
+    "en": "travel",
+    "ko": "여행하다",
+    "example": "I want to travel around the world.",
+    "mnemonic": "프랑스어 travailler(고생하다)에서 유래. 옛날 여행은 힘든 일이었기에!"
   },
   {
     "en": "usually",
     "ko": "보통",
     "example": "I usually wake up at 7.",
-    "mnemonic": "usual(보통의) + ly. 보통으로!"
+    "mnemonic": "라틴어 usus(사용) → usual(보통의) + ly(부사). 늘 쓰이는 것이 보통!"
+  },
+  {
+    "en": "angry",
+    "ko": "화난",
+    "example": "Don't be angry with me.",
+    "mnemonic": "고대 노르드어 angr(슬픔, 고통)에서 유래. anger(분노)의 형용사형."
+  },
+  {
+    "en": "follow",
+    "ko": "따라가다",
+    "example": "Follow me, please.",
+    "mnemonic": "고대 영어 folgian에서 유래. follower = follow + er(사람) → 따르는 사람."
+  },
+  {
+    "en": "milk",
+    "ko": "우유",
+    "example": "I drink milk every day.",
+    "mnemonic": "고대 영어 meolc에서 유래. 젖을 짜다(milk)라는 동사로도 쓰여요."
+  },
+  {
+    "en": "today",
+    "ko": "오늘",
+    "example": "Today is Monday.",
+    "mnemonic": "to(이) + day(날). 이 날 = 오늘! tonight = to + night(밤)도 같은 구조."
+  },
+  {
+    "en": "wash",
+    "ko": "씻다",
+    "example": "Wash your hands before eating.",
+    "mnemonic": "고대 영어 wascan에서 유래. washer = wash + er → 세탁기, 씻는 도구."
+  },
+  {
+    "en": "work",
+    "ko": "일하다",
+    "example": "My dad works at a bank.",
+    "mnemonic": "고대 영어 weorc에서 유래. worker = work + er(사람), homework = home + work."
+  },
+  {
+    "en": "happy",
+    "ko": "행복한",
+    "example": "She looks very happy today.",
+    "mnemonic": "중세 영어 hap(운, 행운)에서 유래. happen(일어나다)도 같은 어원! happiness = happy + ness."
+  },
+  {
+    "en": "great",
+    "ko": "훌륭한",
+    "example": "You did a great job!",
+    "mnemonic": "고대 영어 great(큰, 두꺼운)에서 유래. greatly = great + ly → 크게, 매우."
+  },
+  {
+    "en": "talk",
+    "ko": "말하다",
+    "example": "Can we talk for a minute?",
+    "mnemonic": "중세 영어 talken에서 유래. tale(이야기)과 같은 뿌리에서 나온 말."
+  },
+  {
+    "en": "wait",
+    "ko": "기다리다",
+    "example": "Wait for me at the bus stop.",
+    "mnemonic": "고대 프랑스어 waitier(지켜보다)에서 유래. waiter(웨이터) = 기다리며 서빙하는 사람."
+  },
+  {
+    "en": "sister",
+    "ko": "자매",
+    "example": "My sister is a doctor.",
+    "mnemonic": "고대 영어 sweostor에서 유래. 라틴어 soror와 같은 뿌리. brother와 짝!"
+  },
+  {
+    "en": "clean",
+    "ko": "깨끗한",
+    "example": "Keep your room clean.",
+    "mnemonic": "고대 영어 clæne(순수한)에서 유래. cleaner = clean + er → 세정제."
+  },
+  {
+    "en": "picture",
+    "ko": "그림",
+    "example": "She drew a picture of her house.",
+    "mnemonic": "라틴어 pictura = pict(그리다) + ura. paint(칠하다)도 같은 뿌리!"
+  },
+  {
+    "en": "enjoy",
+    "ko": "즐기다",
+    "example": "I enjoy playing soccer.",
+    "mnemonic": "en(안에 넣다) + joy(기쁨). 기쁨 안에 넣으면 즐기는 것!"
   }
 ]

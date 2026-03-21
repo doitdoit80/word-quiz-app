@@ -1,0 +1,302 @@
+[
+  {
+    "en": "absolute",
+    "ko": "완전한",
+    "example": "I have absolute confidence in his ability.",
+    "mnemonic": "Ab(떨어져서) + solute(풀다). 어떤 제한이나 조건에서 완전히 풀려나 완벽한 상태."
+  },
+  {
+    "en": "access",
+    "ko": "이용 권한, 접근, ~에 접근하다",
+    "example": "Only authorized personnel have access to this room.",
+    "mnemonic": "건물이나 시스템 안으로 들어갈 수 있도록 허락된 통로나 권한."
+  },
+  {
+    "en": "accomplish",
+    "ko": "성취하다",
+    "example": "You can accomplish anything if you work hard.",
+    "mnemonic": "Ac(~로) + complish(채우다). 목표했던 것을 가득 채워 이뤄내는 것."
+  },
+  {
+    "en": "despair",
+    "ko": "절망, 절망하다",
+    "example": "He gave up the fight in despair.",
+    "mnemonic": "De(떨어지다) + spair(희망). 희망이 모두 떨어져 나가 캄캄한 상태."
+  },
+  {
+    "en": "disgust",
+    "ko": "역겹게 하다",
+    "example": "The smell of the rotten food disgusted me.",
+    "mnemonic": "Dis(반대) + gust(맛). 입맛이 뚝 떨어질 정도로 냄새나 모습이 역겨운 것."
+  },
+  {
+    "en": "embarrass",
+    "ko": "당황하게 하다",
+    "example": "I didn't mean to embarrass you in front of your friends.",
+    "mnemonic": "사람들 앞에서 실수해서 얼굴이 화끈거리고 쩔쩔매게 만드는 상황."
+  },
+  {
+    "en": "envy",
+    "ko": "부러워하다",
+    "example": "I envy your ability to speak French fluently.",
+    "mnemonic": "남이 가진 좋은 것을 보고 '나도 저랬으면' 하고 바라는 마음."
+  },
+  {
+    "en": "circumstance",
+    "ko": "상황, 환경",
+    "example": "I can't work under these circumstances.",
+    "mnemonic": "Circum(주변) + stance(서 있다). 내 주변을 둘러싸고 있는 일의 형편."
+  },
+  {
+    "en": "consent",
+    "ko": "동의, 묵인, 허가, 동의하다",
+    "example": "You need your parents' consent to go on the trip.",
+    "mnemonic": "Con(함께) + sent(느끼다). 마음을 같이하여 고개를 끄덕여 주는 것."
+  },
+  {
+    "en": "consequence",
+    "ko": "결과",
+    "example": "He must face the consequences of his actions.",
+    "mnemonic": "Con(함께) + sequence(따라오다). 어떤 행동 뒤에 줄줄이 따라오는 결말."
+  },
+  {
+    "en": "conservative",
+    "ko": "보수적인, 보수주의자",
+    "example": "Older people tend to be more conservative.",
+    "mnemonic": "Conserve(보존하다) + ive. 변화보다는 옛것과 전통을 지키려는 성향."
+  },
+  {
+    "en": "constructive",
+    "ko": "건설적인",
+    "example": "We had a very constructive discussion today.",
+    "mnemonic": "Construct(건설하다) + ive. 건물을 세우듯 무언가를 발전시키는 데 도움이 되는."
+  },
+  {
+    "en": "consultant",
+    "ko": "고문, 컨설턴트",
+    "example": "The company hired a financial consultant.",
+    "mnemonic": "Consult(상담하다) + ant(사람). 전문적인 조언을 해주는 사람."
+  },
+  {
+    "en": "conveniently",
+    "ko": "편리하게",
+    "example": "The hotel is conveniently located near the station.",
+    "mnemonic": "Convenient(편리한) + ly. 이용하기 쉽고 편하게."
+  },
+  {
+    "en": "defective",
+    "ko": "결함이 있는",
+    "example": "I returned the defective product to the store.",
+    "mnemonic": "Defect(결함) + ive. 물건이 망가졌거나 흠집이 있는 상태."
+  },
+  {
+    "en": "designated",
+    "ko": "지정된",
+    "example": "Please park your car in the designated area.",
+    "mnemonic": "Designate(지정하다) + ed. 딱 정해져서 표시된 자리나 역할."
+  },
+  {
+    "en": "desirable",
+    "ko": "바람직한, 이상적인",
+    "example": "It is highly desirable that you arrive on time.",
+    "mnemonic": "Desire(바라다) + able. 사람들이 '저랬으면 좋겠다'고 바랄 만큼 훌륭한."
+  },
+  {
+    "en": "exhaust",
+    "ko": "지치게 하다",
+    "example": "The long journey completely exhausted them.",
+    "mnemonic": "Ex(밖으로) + haust(끌어내다). 체력이나 에너지를 밖으로 다 빼버려 기운 없게 만듦."
+  },
+  {
+    "en": "fear",
+    "ko": "두려움",
+    "example": "She has a fear of speaking in public.",
+    "mnemonic": "무서운 것을 보거나 위험을 느낄 때 생기는 겁나는 마음."
+  },
+  {
+    "en": "effective",
+    "ko": "효과적인, 유효한",
+    "example": "This medicine is very effective against a cold.",
+    "mnemonic": "Effect(결과, 효과) + ive. 약이나 방법이 제대로 먹혀들어 원하는 결과가 나오는."
+  },
+  {
+    "en": "emission",
+    "ko": "방출, 배출물",
+    "example": "The factory must reduce its carbon emissions.",
+    "mnemonic": "Emit(내뿜다)의 명사형. 가스나 빛이 밖으로 뿜어져 나오는 것."
+  },
+  {
+    "en": "expose",
+    "ko": "노출하다, 폭로하다",
+    "example": "Don't expose the film to direct sunlight.",
+    "mnemonic": "Ex(밖으로) + pose(놓다). 숨겨진 것을 밖으로 꺼내어 보이게 하거나 들통나게 하는 것."
+  },
+  {
+    "en": "fiscal",
+    "ko": "재정의, 회계의",
+    "example": "The government's fiscal policy needs to be reviewed.",
+    "mnemonic": "국가나 큰 기업의 '돈'과 관련된 계획이나 상황."
+  },
+  {
+    "en": "float",
+    "ko": "뜨다, 띄우다",
+    "example": "Wood floats on water.",
+    "mnemonic": "가라앉지 않고 물이나 공기 위를 둥둥 떠다니는 모습."
+  },
+  {
+    "en": "follow",
+    "ko": "~을 따라가다",
+    "example": "Please follow me to the meeting room.",
+    "mnemonic": "앞사람의 발자취나 규칙, 지시 등을 그대로 쫓아서 가는 것."
+  },
+  {
+    "en": "in general",
+    "ko": "일반적으로, 대체로",
+    "example": "In general, women live longer than men.",
+    "mnemonic": "특이한 경우를 빼고, 보통 넓게(general) 생각했을 때."
+  },
+  {
+    "en": "in honor of",
+    "ko": "~에 경의를 표하여, ~을 기리는",
+    "example": "A statue was built in honor of the general.",
+    "mnemonic": "어떤 사람의 훌륭함(honor)을 기념하고 칭찬하기 위해."
+  },
+  {
+    "en": "frighten",
+    "ko": "무섭게 하다",
+    "example": "Loud noises frighten my dog.",
+    "mnemonic": "Fright(공포) + en(만들다). 깜짝 놀라게 해서 겁을 집어먹게 하는 것."
+  },
+  {
+    "en": "introduce",
+    "ko": "소개하다",
+    "example": "Let me introduce you to my brother.",
+    "mnemonic": "Intro(안으로) + duce(이끌다). 새로운 사람이나 물건을 관계 안으로 끌고 들어와 알리는 것."
+  },
+  {
+    "en": "landscape",
+    "ko": "경치",
+    "example": "They stopped to admire the beautiful landscape.",
+    "mnemonic": "Land(땅) + scape(모양). 눈앞에 펼쳐진 넓은 자연의 모습."
+  },
+  {
+    "en": "make sure",
+    "ko": "확인하다, 반드시 ~하다",
+    "example": "Make sure you lock the door before leaving.",
+    "mnemonic": "상황을 확실하게(sure) 만들어 두다(make)."
+  },
+  {
+    "en": "frustrate",
+    "ko": "좌절시키다",
+    "example": "The lack of progress began to frustrate the team.",
+    "mnemonic": "노력해도 일이 안 풀려서 맥이 빠지고 화가 나게 만드는 것."
+  },
+  {
+    "en": "note",
+    "ko": "메모, 통지, 주목하다",
+    "example": "Please note that the schedule has changed.",
+    "mnemonic": "중요한 것을 잊지 않게 적어두거나, 눈여겨보라고(주목) 알려주는 것."
+  },
+  {
+    "en": "opponent",
+    "ko": "반대자, 적수",
+    "example": "He easily defeated his opponent in the final match.",
+    "mnemonic": "Op(반대쪽) + ponent(놓인 사람). 나와 마주 보고 겨루는 상대방."
+  },
+  {
+    "en": "otherwise",
+    "ko": "그렇지 않다면",
+    "example": "Hurry up, otherwise you'll miss the train.",
+    "mnemonic": "Other(다른) + wise(방법/방향). 지금 하던 대로 하지 않고 다른 길로 간다면."
+  },
+  {
+    "en": "payment",
+    "ko": "지불, 납부",
+    "example": "You can make the payment by credit card.",
+    "mnemonic": "Pay(지불하다) + ment. 물건값이나 빚을 돈으로 치르는 행동."
+  },
+  {
+    "en": "pedestrian",
+    "ko": "보행자",
+    "example": "The car stopped to let the pedestrian cross the street.",
+    "mnemonic": "Ped(발) + estrian(사람). 차를 타지 않고 발로 걸어 다니는 사람."
+  },
+  {
+    "en": "press",
+    "ko": "누르다, 보도기관, 언론계",
+    "example": "Press the button to start the machine.",
+    "mnemonic": "버튼을 꾹 누르거나, 신문을 찍어내는(누르는) 언론 기관."
+  },
+  {
+    "en": "grief",
+    "ko": "큰 슬픔, 비탄",
+    "example": "She was overcome with grief after losing her dog.",
+    "mnemonic": "사랑하는 것을 잃었을 때 가슴이 찢어지는 듯한 무거운 슬픔."
+  },
+  {
+    "en": "registration",
+    "ko": "등록",
+    "example": "Registration for the class starts next Monday.",
+    "mnemonic": "Register(등록하다)의 명사형. 명부에 이름을 올려 공식적으로 접수하는 것."
+  },
+  {
+    "en": "regrettable",
+    "ko": "유감스러운, 애석한",
+    "example": "The mistake was highly regrettable.",
+    "mnemonic": "Regret(후회/유감) + able. 안타깝고 아쉽게 생각할 만한 일."
+  },
+  {
+    "en": "respective",
+    "ko": "각각의, 개개의",
+    "example": "They returned to their respective rooms.",
+    "mnemonic": "여럿이 모여 있다가 각자의 자기 자리로 돌아가는 상태."
+  },
+  {
+    "en": "respond",
+    "ko": "응답하다",
+    "example": "He didn't respond to my email.",
+    "mnemonic": "Re(다시) + spond(약속하다). 부름이나 질문에 대답하여 반응을 보이는 것."
+  },
+  {
+    "en": "horror",
+    "ko": "공포",
+    "example": "The children watched the movie in horror.",
+    "mnemonic": "소름이 돋고 몸이 굳어질 만큼 아주 무서운 감정."
+  },
+  {
+    "en": "ignore",
+    "ko": "무시하다",
+    "example": "She chose to ignore his rude comments.",
+    "mnemonic": "Ig(not) + nore(알다). 알면서도 모르는 척 신경 쓰지 않는 것."
+  },
+  {
+    "en": "irritate",
+    "ko": "짜증나게 하다",
+    "example": "His constant tapping on the desk irritated me.",
+    "mnemonic": "피부에 염증이 난 것처럼 신경을 계속 건드려서 화나게 하는 것."
+  },
+  {
+    "en": "suffer from",
+    "ko": "~으로 고통 받다",
+    "example": "He suffers from bad headaches.",
+    "mnemonic": "질병이나 힘든 상황(from) 때문에 아파하고 견뎌내는(suffer) 모습."
+  },
+  {
+    "en": "jealous",
+    "ko": "질투하는",
+    "example": "She was jealous of her sister's success.",
+    "mnemonic": "남이 잘되는 것을 보고 배가 아프거나 시기하는 감정."
+  },
+  {
+    "en": "miserable",
+    "ko": "비참한",
+    "example": "I felt completely miserable when I had the flu.",
+    "mnemonic": "기분이나 상황이 엉망진창이라 몹시 불행하고 괴로운 상태."
+  },
+  {
+    "en": "widely",
+    "ko": "널리",
+    "example": "He is widely known as a great scientist.",
+    "mnemonic": "Wide(넓은) + ly. 좁은 곳이 아니라 여러 곳에 넓게."
+  }
+]

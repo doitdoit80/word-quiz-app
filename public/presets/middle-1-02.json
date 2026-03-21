@@ -1,152 +1,152 @@
 [
   {
-    "en": "hand",
-    "ko": "손",
-    "example": "Raise your hand if you know the answer.",
-    "mnemonic": "'핸드'폰을 손에 들고 있죠."
-  },
-  {
-    "en": "ice",
-    "ko": "얼음",
-    "example": "Put some ice in my drink, please.",
-    "mnemonic": "'아이스'크림의 아이스, 얼음!"
-  },
-  {
-    "en": "kind",
-    "ko": "친절한",
-    "example": "She is very kind to everyone.",
-    "mnemonic": "'카인드'한 사람은 친절한 사람."
-  },
-  {
-    "en": "love",
-    "ko": "사랑",
-    "example": "I love my family.",
-    "mnemonic": "'러브'레터는 사랑의 편지."
-  },
-  {
-    "en": "moon",
-    "ko": "달",
-    "example": "The moon is bright tonight.",
-    "mnemonic": "'문'라이트(달빛)의 문, 달!"
-  },
-  {
-    "en": "night",
-    "ko": "밤",
-    "example": "Good night! Sleep well.",
-    "mnemonic": "'나이트' = 밤. 굿나이트!"
-  },
-  {
-    "en": "open",
-    "ko": "열다",
-    "example": "Open your textbook to page 10.",
-    "mnemonic": "'오픈'하면 문을 여는 것."
-  },
-  {
-    "en": "pen",
-    "ko": "펜",
-    "example": "Can I borrow your pen?",
-    "mnemonic": "'펜'은 한국어로도 같아요!"
-  },
-  {
-    "en": "run",
-    "ko": "달리다",
-    "example": "He can run very fast.",
-    "mnemonic": "'런'닝머신에서 달리기!"
-  },
-  {
-    "en": "sing",
-    "ko": "노래하다",
-    "example": "She likes to sing songs.",
-    "mnemonic": "'싱'어(singer)는 노래하는 사람."
-  },
-  {
-    "en": "time",
-    "ko": "시간",
-    "example": "What time is it now?",
-    "mnemonic": "'타임'머신은 시간을 여행하는 기계."
-  },
-  {
-    "en": "uncle",
-    "ko": "삼촌",
-    "example": "My uncle lives in Busan.",
-    "mnemonic": "'엉클'은 아빠의 형제, 삼촌!"
-  },
-  {
-    "en": "very",
-    "ko": "매우",
-    "example": "This movie is very interesting.",
-    "mnemonic": "'베리'굿! 매우 좋다!"
-  },
-  {
-    "en": "window",
-    "ko": "창문",
-    "example": "Open the window, please.",
-    "mnemonic": "'윈도우'는 컴퓨터 운영체제 이름이기도 하고 창문!"
-  },
-  {
-    "en": "year",
-    "ko": "년",
-    "example": "I am thirteen years old.",
-    "mnemonic": "'이어'(year)마다 한 해가 지나요."
-  },
-  {
-    "en": "zoo",
-    "ko": "동물원",
-    "example": "We went to the zoo last Sunday.",
-    "mnemonic": "'주'토피아는 동물(zoo) 유토피아!"
-  },
-  {
-    "en": "art",
-    "ko": "미술",
-    "example": "I like art class the most.",
-    "mnemonic": "'아트'갤러리에서 예술 작품을 감상해요."
-  },
-  {
-    "en": "bed",
-    "ko": "침대",
-    "example": "I go to bed at 10 o'clock.",
-    "mnemonic": "'베드'룸은 침대가 있는 방."
-  },
-  {
-    "en": "city",
-    "ko": "도시",
-    "example": "Seoul is a big city.",
-    "mnemonic": "'시티'투어 버스로 도시를 구경해요."
-  },
-  {
-    "en": "desk",
-    "ko": "책상",
-    "example": "Put your books on the desk.",
-    "mnemonic": "'데스크'탑 컴퓨터를 올려놓는 책상."
-  },
-  {
-    "en": "ear",
-    "ko": "귀",
-    "example": "He whispered in my ear.",
-    "mnemonic": "'이어'폰을 귀에 꽂죠."
-  },
-  {
     "en": "face",
     "ko": "얼굴",
     "example": "She has a round face.",
-    "mnemonic": "'페이스'북에 얼굴 사진을 올려요."
+    "mnemonic": "라틴어 facies(모양, 얼굴)에서 유래. surface = sur(위) + face → 표면."
   },
   {
-    "en": "game",
-    "ko": "게임",
-    "example": "Let's play a game together.",
-    "mnemonic": "'게임'은 한국어로도 같아요!"
+    "en": "minute",
+    "ko": "분",
+    "example": "Wait a minute, please.",
+    "mnemonic": "라틴어 minutus(작은)에서 유래. 시간을 '잘게' 나눈 단위가 분!"
   },
   {
-    "en": "hat",
-    "ko": "모자",
-    "example": "He is wearing a red hat.",
-    "mnemonic": "'햇'은 머리에 쓰는 모자."
+    "en": "park",
+    "ko": "공원",
+    "example": "Let's go to the park.",
+    "mnemonic": "프랑스어 parc(울타리 친 땅)에서 유래. parking(주차)도 '정해진 공간'이라는 뜻."
   },
   {
-    "en": "island",
-    "ko": "섬",
-    "example": "Jeju is a beautiful island.",
-    "mnemonic": "아이(i) + land(땅). 물 위의 땅이 섬!"
+    "en": "pick",
+    "ko": "고르다",
+    "example": "Pick one card from the pile.",
+    "mnemonic": "고대 영어 pician(찌르다, 집다)에서 유래. 손으로 집어 고르는 동작."
+  },
+  {
+    "en": "young",
+    "ko": "젊은",
+    "example": "She is young and energetic.",
+    "mnemonic": "고대 영어 geong에서 유래. youngster = young + ster(사람) → 젊은이."
+  },
+  {
+    "en": "juice",
+    "ko": "주스",
+    "example": "Would you like some orange juice?",
+    "mnemonic": "라틴어 jus(국물, 즙)에서 유래. 과일에서 짜낸 즙이라는 뜻."
+  },
+  {
+    "en": "thick",
+    "ko": "두꺼운",
+    "example": "This book is very thick.",
+    "mnemonic": "고대 영어 thicce에서 유래. thickness = thick + ness → 두께. thin의 반대!"
+  },
+  {
+    "en": "afternoon",
+    "ko": "오후",
+    "example": "I have class in the afternoon.",
+    "mnemonic": "after(후에) + noon(정오). 정오 이후가 오후!"
+  },
+  {
+    "en": "end",
+    "ko": "끝",
+    "example": "This is the end of the movie.",
+    "mnemonic": "고대 영어 ende에서 유래. endless = end + less(없는) → 끝없는."
+  },
+  {
+    "en": "happen",
+    "ko": "일어나다",
+    "example": "What happened yesterday?",
+    "mnemonic": "중세 영어 hap(운, 행운)에서 유래. happy(행복한)와 같은 어원! 운명적으로 일어나는 것."
+  },
+  {
+    "en": "breakfast",
+    "ko": "아침 식사, 아침밥",
+    "example": "I had toast for breakfast.",
+    "mnemonic": "break(깨다) + fast(금식). 밤새 금식을 깨는 첫 식사!"
+  },
+  {
+    "en": "apple",
+    "ko": "사과",
+    "example": "I eat an apple every morning.",
+    "mnemonic": "고대 영어 æppel에서 유래. 과일의 대표 이름으로 오래 쓰여온 단어."
+  },
+  {
+    "en": "special",
+    "ko": "특별한",
+    "example": "Today is a special day.",
+    "mnemonic": "라틴어 specialis = speci(종류) + al. 특정 종류의 → 특별한. species(종)과 같은 어근!"
+  },
+  {
+    "en": "wonderful",
+    "ko": "놀라운",
+    "example": "We had a wonderful time.",
+    "mnemonic": "wonder(놀라움) + ful(가득한). 놀라움이 가득한! -ful은 '~이 가득한' 접미사."
+  },
+  {
+    "en": "sound",
+    "ko": "소리",
+    "example": "I heard a strange sound.",
+    "mnemonic": "라틴어 sonus(소리)에서 유래. sonic(음속의), resound(울려 퍼지다)도 같은 어근!"
+  },
+  {
+    "en": "party",
+    "ko": "파티",
+    "example": "We had a fun party last night.",
+    "mnemonic": "라틴어 partire(나누다)에서 유래. 함께 나누어 즐기는 모임이 파티!"
+  },
+  {
+    "en": "brother",
+    "ko": "형",
+    "example": "My brother is older than me.",
+    "mnemonic": "고대 영어 brothor에서 유래. 라틴어 frater, 독일어 Bruder와 같은 뿌리."
+  },
+  {
+    "en": "bag",
+    "ko": "가방, 백",
+    "example": "She put her books in the bag.",
+    "mnemonic": "고대 노르드어 baggi(보따리)에서 유래. 물건을 담는 주머니."
+  },
+  {
+    "en": "class",
+    "ko": "수업",
+    "example": "My favorite class is science.",
+    "mnemonic": "라틴어 classis(부류, 등급)에서 유래. classroom = class + room, classify(분류)도 같은 어원."
+  },
+  {
+    "en": "outside",
+    "ko": "바깥에",
+    "example": "Let's play outside.",
+    "mnemonic": "out(밖) + side(쪽). 바깥쪽! inside(안쪽)의 반대."
+  },
+  {
+    "en": "north",
+    "ko": "북쪽",
+    "example": "Canada is north of the United States.",
+    "mnemonic": "고대 영어 north에서 유래. south, east, west와 함께 사방위를 세트로 기억!"
+  },
+  {
+    "en": "learn",
+    "ko": "배우다",
+    "example": "I want to learn Korean.",
+    "mnemonic": "고대 영어 leornian(배우다)에서 유래. learner = learn + er(사람) → 학습자."
+  },
+  {
+    "en": "morning",
+    "ko": "아침",
+    "example": "I wake up early in the morning.",
+    "mnemonic": "고대 영어 morgen에서 유래. 독일어 Morgen(아침)과 같은 뿌리."
+  },
+  {
+    "en": "spring",
+    "ko": "봄",
+    "example": "Flowers bloom in spring.",
+    "mnemonic": "고대 영어 springan(솟아오르다)에서 유래. 새싹이 솟아오르는 계절!"
+  },
+  {
+    "en": "feel",
+    "ko": "느끼다",
+    "example": "I feel happy today.",
+    "mnemonic": "고대 영어 felan(만지다, 느끼다)에서 유래. feeling = feel + ing → 느낌, 감정."
   }
 ]

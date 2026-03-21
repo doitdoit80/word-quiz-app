@@ -1,0 +1,302 @@
+[
+  {
+    "en": "nemesis",
+    "ko": "천적, 숙적",
+    "example": "The detective finally caught his nemesis after years of pursuit.",
+    "mnemonic": "그리스 신화의 복수의 여신 Nemesis에서 유래 → 피할 수 없는 적, 천적"
+  },
+  {
+    "en": "sabotage",
+    "ko": "파괴하다, 방해 공작",
+    "example": "Someone tried to sabotage the factory's production line.",
+    "mnemonic": "프랑스어 sabot(나막신)에서 유래. 나막신을 기계에 넣어 고장낸 데서 → 파괴 행위"
+  },
+  {
+    "en": "sentiment",
+    "ko": "감정, 정서, 의견",
+    "example": "Public sentiment has shifted in favor of renewable energy.",
+    "mnemonic": "sent(느끼다, 라틴어 sentire) + iment = 느끼는 것 → 감정. sense(감각), consent(동의)와 같은 어근 sent/sens"
+  },
+  {
+    "en": "maxim",
+    "ko": "격언, 금언",
+    "example": "The old maxim 'practice makes perfect' still holds true today.",
+    "mnemonic": "라틴어 maxima(가장 큰 명제)에서 유래. maxim = 가장 큰 진리 → 격언. maximum(최대)과 같은 어근"
+  },
+  {
+    "en": "inhibit",
+    "ko": "억제하다, 금지하다",
+    "example": "Shyness can inhibit a child's ability to make friends.",
+    "mnemonic": "in(안에) + hibit(가지다) = 안에 잡아두다 → 억제하다. exhibit(전시하다), prohibit(금지하다)와 같은 어근"
+  },
+  {
+    "en": "terrestrial",
+    "ko": "지구의, 육지의",
+    "example": "Scientists are searching for terrestrial planets that may support life.",
+    "mnemonic": "terr(땅) + estrial = 땅의 → 지구의, 육지의. terrain(지형), territory(영토)와 같은 어근"
+  },
+  {
+    "en": "designate",
+    "ko": "지정하다, 임명하다",
+    "example": "This area has been designated as a national park.",
+    "mnemonic": "de(완전히) + sign(표시) + ate = 표시하여 정하다 → 지정하다. sign(기호), signal(신호)과 같은 어근"
+  },
+  {
+    "en": "amenity",
+    "ko": "편의시설, 쾌적함",
+    "example": "The resort offers many amenities such as a pool and spa.",
+    "mnemonic": "라틴어 amoenus(기분 좋은, 쾌적한) + ity = 쾌적함을 주는 것 → 편의시설"
+  },
+  {
+    "en": "renaissance",
+    "ko": "부흥, 르네상스",
+    "example": "The city experienced a cultural renaissance after the new museum opened.",
+    "mnemonic": "re(다시) + naissance(탄생) = 다시 태어남 → 부흥, 르네상스. nascent(초기의), native(원래의)와 같은 어근"
+  },
+  {
+    "en": "codify",
+    "ko": "법전화하다, 체계화하다",
+    "example": "The government codified the new regulations into law.",
+    "mnemonic": "code(법전) + ify(만들다) = 법전으로 만들다 → 체계화하다"
+  },
+  {
+    "en": "endorse",
+    "ko": "지지하다, 보증하다",
+    "example": "Several celebrities endorsed the new product on social media.",
+    "mnemonic": "'인도스' → 'en+dorse(등)' 등 뒤에서 밀어주다 = 지지!"
+  },
+  {
+    "en": "brevity",
+    "ko": "간결함, 짧음",
+    "example": "The speaker was praised for the brevity of his remarks.",
+    "mnemonic": "brev(짧은) + ity = 짧음 → 간결함. brief(짧은), abbreviate(축약하다)와 같은 어근"
+  },
+  {
+    "en": "calamity",
+    "ko": "재난, 참화",
+    "example": "The earthquake was a calamity that destroyed thousands of homes.",
+    "mnemonic": "라틴어 calamitas(재해, 손실)에서 유래. 곡식 줄기를 부러뜨리는 재해 → 재난"
+  },
+  {
+    "en": "gratitude",
+    "ko": "감사, 고마움",
+    "example": "She expressed her deep gratitude to those who helped her.",
+    "mnemonic": "'그래티튜드' → 'grat(감사)+itude' great(훌륭한) 감사의 마음!"
+  },
+  {
+    "en": "imperative",
+    "ko": "필수적인, 명령적인",
+    "example": "It is imperative that we act now to address climate change.",
+    "mnemonic": "'임페러티브' → 'imper(명령)+ative' 명령할 만큼 필수적인!"
+  },
+  {
+    "en": "induce",
+    "ko": "유발하다, 유도하다",
+    "example": "Certain medications can induce drowsiness as a side effect.",
+    "mnemonic": "'인듀스' → 'in(안으로)+duce(이끌다)' 안으로 이끌어 유발하다!"
+  },
+  {
+    "en": "adjunct",
+    "ko": "부속물, 부가적인",
+    "example": "He works as an adjunct professor at the university.",
+    "mnemonic": "ad(~에) + junct(결합하다) = 결합된 것 → 부속물. junction(교차점)과 같은 어근"
+  },
+  {
+    "en": "expedite",
+    "ko": "촉진하다, 신속히 처리하다",
+    "example": "We need to expedite the delivery of medical supplies.",
+    "mnemonic": "'엑스퍼다이트' → 'ex+ped(발)+ite' 발을 내딛어 빠르게!"
+  },
+  {
+    "en": "scrutiny",
+    "ko": "면밀한 조사, 정밀 검토",
+    "example": "The new policy came under intense public scrutiny.",
+    "mnemonic": "scrut(조사하다, 라틴어 scrutari) + iny = 면밀히 조사하는 것 → 정밀 검토. scrutinize(면밀히 조사하다)와 같은 어근"
+  },
+  {
+    "en": "predominantly",
+    "ko": "주로, 대부분",
+    "example": "The population is predominantly young and urban.",
+    "mnemonic": "pre(앞에) + domin(지배하다) + antly = 앞서서 지배적으로 → 주로. dominate(지배하다)와 같은 어근"
+  },
+  {
+    "en": "transcend",
+    "ko": "초월하다, 넘어서다",
+    "example": "Great art transcends cultural and linguistic boundaries.",
+    "mnemonic": "trans(건너) + scend(오르다) = 건너서 올라가다 → 초월하다. ascend(오르다), descend(내려가다)와 같은 어근"
+  },
+  {
+    "en": "prodigious",
+    "ko": "엄청난, 경이로운",
+    "example": "Mozart showed prodigious musical talent from a very young age.",
+    "mnemonic": "prodig(기이한) + ious = 기이할 정도로 대단한 → 엄청난. prodigy(신동)와 같은 어근"
+  },
+  {
+    "en": "platitude",
+    "ko": "진부한 말, 상투적 표현",
+    "example": "His speech was full of platitudes about working hard and following dreams.",
+    "mnemonic": "plat(평평한) + itude = 평평한 말 → 깊이 없는 진부한 말. plateau(고원, 정체기)와 같은 어근"
+  },
+  {
+    "en": "exacerbate",
+    "ko": "악화시키다",
+    "example": "The drought was exacerbated by record-high temperatures.",
+    "mnemonic": "'이그재서베이트' → 'ex+acerb(쓴)+ate' 더 쓰게 만들다 = 악화!"
+  },
+  {
+    "en": "expenditure",
+    "ko": "지출, 경비",
+    "example": "Government expenditure on healthcare has increased significantly.",
+    "mnemonic": "'익스펜디쳐' → 'ex+pend(쓰다)+iture' 돈을 쓰는 것 = 지출!"
+  },
+  {
+    "en": "condense",
+    "ko": "응축하다, 압축하다",
+    "example": "She condensed the 500-page report into a brief summary.",
+    "mnemonic": "con(함께) + dense(밀집한) = 밀집시키다 → 응축하다, 압축하다. dense(밀집한)와 같은 어근"
+  },
+  {
+    "en": "fabricate",
+    "ko": "날조하다, 제작하다",
+    "example": "The witness was accused of fabricating his testimony.",
+    "mnemonic": "'패브리케이트' → 'fabric(천)+ate' 천을 짜듯 이야기를 지어내다!"
+  },
+  {
+    "en": "sequential",
+    "ko": "순차적인, 연속적인",
+    "example": "The chapters should be read in sequential order.",
+    "mnemonic": "sequ(따르다) + ential = 차례로 따르는 → 순차적인. sequence(순서), consequence(결과)와 같은 어근"
+  },
+  {
+    "en": "temperament",
+    "ko": "기질, 성미",
+    "example": "The dog has a calm temperament and is great with children.",
+    "mnemonic": "temper(조절하다) + ament = 조절된 성질 → 기질. temperature(온도), temper(성질)와 같은 어근"
+  },
+  {
+    "en": "invoke",
+    "ko": "불러일으키다, 호소하다",
+    "example": "The lawyer invoked the Fifth Amendment during the trial.",
+    "mnemonic": "in(안으로) + voke(부르다) = 안으로 부르다 → 호소하다. provoke(도발하다), revoke(취소하다)와 같은 어근"
+  },
+  {
+    "en": "prudent",
+    "ko": "신중한, 사려 깊은",
+    "example": "It would be prudent to save some money for emergencies.",
+    "mnemonic": "prud(현명한) + ent = 현명하게 행동하는 → 신중한. 라틴어 prudens(현명한, 미리 아는)에서 유래"
+  },
+  {
+    "en": "generic",
+    "ko": "일반적인, 포괄적인",
+    "example": "Generic drugs are often cheaper than brand-name medications.",
+    "mnemonic": "gener(종류) + ic = 종류 전체의 → 일반적인. generate(생산하다), genre(장르)와 같은 어근"
+  },
+  {
+    "en": "antidote",
+    "ko": "해독제, 대책",
+    "example": "Humor is often the best antidote to stress.",
+    "mnemonic": "anti(반대) + dote(주다) = 반대로 주는 것 → 해독제. dose(용량)와 같은 어근"
+  },
+  {
+    "en": "congregate",
+    "ko": "모이다, 집합하다",
+    "example": "Thousands of fans congregated outside the stadium.",
+    "mnemonic": "con(함께) + greg(무리) + ate = 함께 무리 짓다 → 모이다. aggregate(집합), gregarious(사교적인)와 같은 어근"
+  },
+  {
+    "en": "circumscribe",
+    "ko": "제한하다, 둘레를 그리다",
+    "example": "The law circumscribes the powers of the local government.",
+    "mnemonic": "circum(주위) + scribe(쓰다, 그리다) = 주위에 선을 긋다 → 제한하다. describe(묘사하다), prescribe(처방하다)와 같은 어근"
+  },
+  {
+    "en": "succumb",
+    "ko": "굴복하다, 쓰러지다",
+    "example": "After a long battle with the disease, she succumbed at the age of 85.",
+    "mnemonic": "suc(아래로) + cumb(눕다) = 아래로 눕다 → 굴복하다. incumbent(현직의), recumbent(비스듬히 누운)과 같은 어근"
+  },
+  {
+    "en": "inept",
+    "ko": "무능한, 서투른",
+    "example": "The inept manager failed to organize the project properly.",
+    "mnemonic": "in(not) + ept(적합한) = 적합하지 않은 → 무능한. adept(숙련된)의 반대. apt(적합한)와 같은 어근"
+  },
+  {
+    "en": "infer",
+    "ko": "추론하다, 추측하다",
+    "example": "From his tone, I inferred that he was not pleased with the result.",
+    "mnemonic": "'인퍼' → 'in(안에서)+fer(나르다)' 안에서 의미를 끌어내다 = 추론!"
+  },
+  {
+    "en": "preliminary",
+    "ko": "예비의, 사전의",
+    "example": "Preliminary results suggest the treatment is effective.",
+    "mnemonic": "pre(미리) + limin(문턱) + ary = 문턱 앞의 → 예비의. eliminate(제거하다)와 같은 어근"
+  },
+  {
+    "en": "ascertain",
+    "ko": "확인하다, 확실히 알다",
+    "example": "The police tried to ascertain the cause of the accident.",
+    "mnemonic": "as(~쪽으로) + certain(확실한) = 확실하게 하다 → 확인하다. certain(확실한)과 같은 어근"
+  },
+  {
+    "en": "dogma",
+    "ko": "독단적 신념, 교의",
+    "example": "He challenged the established dogma of his scientific field.",
+    "mnemonic": "그리스어 dokein(생각하다, 보이다)에서 유래. dogma = 확정된 생각 → 독단적 신념. orthodox(정통의)와 같은 어근 계열"
+  },
+  {
+    "en": "combustion",
+    "ko": "연소, 폭발",
+    "example": "The internal combustion engine revolutionized transportation.",
+    "mnemonic": "com(완전히) + bust(불타다) + ion = 완전히 불태움 → 연소. bust(터지다)와 같은 어근"
+  },
+  {
+    "en": "nonchalant",
+    "ko": "무관심한, 태연한",
+    "example": "He tried to appear nonchalant despite being extremely nervous.",
+    "mnemonic": "non(아닌) + chalant(관심 있는) = 관심 없는 → 무관심한, 태연한. 프랑스어 chaloir(관심을 갖다)에서 유래"
+  },
+  {
+    "en": "adherent",
+    "ko": "지지자, 신봉자",
+    "example": "He was a loyal adherent of the environmental movement.",
+    "mnemonic": "ad(~에) + her(달라붙다) + ent = 달라붙는 사람 → 지지자. hesitate(머뭇거리다)와 같은 어근"
+  },
+  {
+    "en": "symbiosis",
+    "ko": "공생",
+    "example": "The relationship between bees and flowers is a classic example of symbiosis.",
+    "mnemonic": "sym(함께) + bio(생명) + sis = 함께 살아감 → 공생. biology(생물학), biography(전기)와 같은 어근"
+  },
+  {
+    "en": "catastrophe",
+    "ko": "대참사, 재앙",
+    "example": "The oil spill was an environmental catastrophe.",
+    "mnemonic": "cata(아래로) + strophe(돌다, 뒤집다) = 아래로 뒤집어지다 → 대참사. apostrophe(아포스트로피)와 같은 어근 strophe"
+  },
+  {
+    "en": "underestimate",
+    "ko": "과소평가하다",
+    "example": "Never underestimate the power of persistence and hard work.",
+    "mnemonic": "under(아래) + estimate(평가하다) = 아래로 평가하다 → 과소평가하다"
+  },
+  {
+    "en": "erratic",
+    "ko": "불규칙한, 변덕스러운",
+    "example": "His erratic behavior worried his friends and family.",
+    "mnemonic": "'이래틱' → 'err(방황)+atic' 이리저리 방황하는 = 불규칙한!"
+  },
+  {
+    "en": "disposition",
+    "ko": "성향, 기질",
+    "example": "She has a cheerful disposition that everyone admires.",
+    "mnemonic": "dis(떨어져) + posit(놓다) + ion = 마음을 놓는 방식 → 성향, 기질. position(위치), deposit(예금)과 같은 어근"
+  },
+  {
+    "en": "contagious",
+    "ko": "전염성의",
+    "example": "The virus is highly contagious and spreads through the air.",
+    "mnemonic": "con(함께) + tag(만지다) + ious = 접촉으로 퍼지는 → 전염성의. contact(접촉), tangible(만질 수 있는)과 같은 어근"
+  }
+]

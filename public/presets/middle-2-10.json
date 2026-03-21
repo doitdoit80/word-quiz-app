@@ -1,152 +1,152 @@
 [
   {
-    "en": "confuse",
-    "ko": "혼란시키다",
-    "example": "The directions confused me.",
-    "mnemonic": "con(함께) + fuse(붓다). 함께 섞어부으면 혼란!"
+    "en": "notice",
+    "ko": "알아차리다",
+    "example": "I noticed a change in her behavior.",
+    "mnemonic": "라틴어 notitia = not(알다) + ice. 알게 되면 알아차리다! not(알다): note(메모), notion(개념)."
   },
   {
-    "en": "conscious",
-    "ko": "의식하는",
-    "example": "She was conscious of being watched.",
-    "mnemonic": "con(함께) + scious(아는). 함께 알면 의식!"
+    "en": "avoid",
+    "ko": "피하다",
+    "example": "I try to avoid junk food.",
+    "mnemonic": "a(~에서) + void(빈). 빈 곳으로 비켜가면 피하기! unavoidable(피할 수 없는)."
   },
   {
-    "en": "conservation",
-    "ko": "보존",
-    "example": "Wildlife conservation is important.",
-    "mnemonic": "conserve(보존하다) + ation. 자연을 지키는 보존!"
+    "en": "situation",
+    "ko": "상황",
+    "example": "We are in a difficult situation.",
+    "mnemonic": "situ(위치) + ation(명사). 어떤 위치에 놓인 것이 상황! site(장소)도 같은 어근."
   },
   {
-    "en": "consumer",
-    "ko": "소비자",
-    "example": "Consumers want lower prices.",
-    "mnemonic": "consume(소비하다) + er. 소비하는 사람!"
+    "en": "gather",
+    "ko": "모으다",
+    "example": "We gathered around the campfire.",
+    "mnemonic": "고대 영어 gaderian(모으다)에서 유래. together(함께)와 같은 어원 계열. gathering(모임)."
   },
   {
-    "en": "convenient",
-    "ko": "편리한",
-    "example": "The bus stop is convenient.",
-    "mnemonic": "con(함께) + venient(오다). 쉽게 올 수 있으면 편리!"
+    "en": "base",
+    "ko": "기초",
+    "example": "This soup has a tomato base.",
+    "mnemonic": "그리스어 basis(발걸음, 기초)에서 유래. basic(기본적인), basement(지하실)도 같은 어근."
   },
   {
-    "en": "courage",
-    "ko": "용기",
-    "example": "He showed great courage.",
-    "mnemonic": "커리지는 두려움을 이기는 용기!"
+    "en": "include",
+    "ko": "포함하다",
+    "example": "The price includes breakfast.",
+    "mnemonic": "in(안에) + clude(닫다). 안에 넣고 닫으면 포함! exclude = ex(밖) + clude → 제외하다."
   },
   {
-    "en": "creature",
-    "ko": "생물",
-    "example": "Sea creatures are fascinating.",
-    "mnemonic": "create(만들다) + ure. 만들어진 생명체!"
+    "en": "permit",
+    "ko": "허락하다",
+    "example": "Smoking is not permitted here.",
+    "mnemonic": "per(통해) + mit(보내다). 통과시켜 보내면 허가! mit(보내다): submit(제출), admit(인정)도 같은 어근."
   },
   {
-    "en": "crowd",
-    "ko": "군중",
-    "example": "A large crowd gathered.",
-    "mnemonic": "크라우드는 많은 사람이 모인 군중!"
+    "en": "invent",
+    "ko": "발명하다",
+    "example": "Edison invented the light bulb.",
+    "mnemonic": "in(안에서) + vent(오다). 안에서 나오면 발명! vent(오다): event(사건), adventure(모험)도 같은 어근."
   },
   {
-    "en": "curious",
-    "ko": "호기심 많은",
-    "example": "Children are naturally curious.",
-    "mnemonic": "큐리어스는 궁금해하는 호기심!"
+    "en": "absent",
+    "ko": "결석한",
+    "example": "He was absent from school.",
+    "mnemonic": "ab(떨어져) + sent(있다). 떨어져 있으면 결석! absence(결석)은 명사형. present(출석)의 반대."
   },
   {
-    "en": "custom",
-    "ko": "관습",
-    "example": "It is a Korean custom.",
-    "mnemonic": "커스텀은 오래된 관습이나 풍습!"
+    "en": "combine",
+    "ko": "결합하다",
+    "example": "Combine the ingredients together.",
+    "mnemonic": "com(함께) + bine(둘). 둘을 함께 합치면 결합! combination(조합)은 명사형."
   },
   {
-    "en": "damage",
-    "ko": "손상",
-    "example": "The storm caused a lot of damage.",
-    "mnemonic": "대미지는 게임에서도 쓰는 피해!"
+    "en": "handle",
+    "ko": "다루다",
+    "example": "She can handle the situation well.",
+    "mnemonic": "hand(손) + le(도구). 손으로 잡고 다루는 것! 명사로는 '손잡이'라는 뜻도."
   },
   {
-    "en": "debate",
-    "ko": "토론",
-    "example": "They had a debate about education.",
-    "mnemonic": "디베이트는 찬반을 나눠 토론!"
+    "en": "require",
+    "ko": "필요로 하다",
+    "example": "This job requires experience.",
+    "mnemonic": "re(다시) + quire(구하다). 반복해서 구하면 요구! inquiry = in + quire → 문의, 조사."
   },
   {
-    "en": "decline",
-    "ko": "감소하다",
-    "example": "Sales declined last month.",
-    "mnemonic": "de(아래로) + cline(기울다). 아래로 기울면 감소!"
+    "en": "region",
+    "ko": "지역",
+    "example": "This region is known for its wine.",
+    "mnemonic": "라틴어 regio = reg(다스리다) + io. 다스리는 범위가 지역! regular(규칙적인)도 같은 어근 reg."
   },
   {
-    "en": "deliver",
-    "ko": "배달하다",
-    "example": "The package was delivered.",
-    "mnemonic": "딜리버리는 배달 서비스!"
+    "en": "apply",
+    "ko": "지원하다",
+    "example": "She applied for the job.",
+    "mnemonic": "ap(~에) + ply(접다). 서류를 접어 제출하면 지원! ply(접다): reply(답장), multiply(곱하다)도 같은 어근."
   },
   {
-    "en": "department",
-    "ko": "부서",
-    "example": "He works in the marketing department.",
-    "mnemonic": "디파트먼트는 나뉜 부서. 백화점도!"
+    "en": "honor",
+    "ko": "명예",
+    "example": "It's an honor to meet you.",
+    "mnemonic": "라틴어 honor(명예)에서 유래. honorable(명예로운), honest(정직한)도 같은 어원 계열."
   },
   {
-    "en": "design",
-    "ko": "디자인",
-    "example": "She designed a new logo.",
-    "mnemonic": "디자인은 한국어로도 같아요!"
+    "en": "struggle",
+    "ko": "노력하다",
+    "example": "She struggled to finish the project.",
+    "mnemonic": "중세 영어에서 '발버둥치다'라는 뜻. 힘들게 몸부림치며 노력하는 것!"
   },
   {
-    "en": "desire",
-    "ko": "욕망",
-    "example": "He has a strong desire to win.",
-    "mnemonic": "디자이어는 강하게 바라는 욕망!"
+    "en": "recommend",
+    "ko": "추천하다",
+    "example": "I recommend this restaurant.",
+    "mnemonic": "re(다시) + commend(칭찬하다). 다시 칭찬할 만큼 추천! recommendation(추천)은 명사형."
   },
   {
-    "en": "disaster",
-    "ko": "재난",
-    "example": "The earthquake was a terrible disaster.",
-    "mnemonic": "dis(나쁜) + aster(별). 나쁜 별이 올 때 재난!"
+    "en": "depend",
+    "ko": "~에 달려 있다",
+    "example": "Success depends on hard work.",
+    "mnemonic": "de(아래에) + pend(매달리다). 아래에 매달려 있으면 의존! pend(매달리다): pendant, suspend도 같은 어근."
   },
   {
-    "en": "document",
-    "ko": "문서",
-    "example": "Please sign this document.",
-    "mnemonic": "다큐멘트는 중요한 문서!"
+    "en": "comfortable",
+    "ko": "편안한",
+    "example": "This sofa is very comfortable.",
+    "mnemonic": "comfort(위안) + able(할 수 있는). 편히 쉴 수 있는! com(함께) + fort(강한) → 함께 강해지는 위안."
   },
   {
-    "en": "eager",
-    "ko": "열망하는",
-    "example": "She was eager to learn.",
-    "mnemonic": "이거(eager)는 열심히 하고 싶은 열망!"
+    "en": "result",
+    "ko": "결과",
+    "example": "What was the result of the game?",
+    "mnemonic": "re(뒤로) + sult(뛰다). 행동 뒤에 튀어나온 것이 결과! 라틴어 resultare(되튀다)에서 유래."
   },
   {
-    "en": "economy",
-    "ko": "경제",
-    "example": "The economy is recovering.",
-    "mnemonic": "이코노미 클래스는 경제적인 좌석!"
+    "en": "complete",
+    "ko": "완성하다",
+    "example": "I completed the puzzle.",
+    "mnemonic": "com(완전히) + plete(채우다). 완전히 채우면 완성! completion(완성)은 명사형."
   },
   {
-    "en": "element",
-    "ko": "요소",
-    "example": "Water is an important element.",
-    "mnemonic": "엘리먼트는 구성하는 기본 요소!"
+    "en": "research",
+    "ko": "연구",
+    "example": "Scientists do a lot of research.",
+    "mnemonic": "re(다시) + search(찾다). 다시 찾고 또 찾으면 연구! researcher(연구원)."
   },
   {
-    "en": "emergency",
-    "ko": "비상",
-    "example": "Call 119 in an emergency.",
-    "mnemonic": "이머전시는 급한 비상 상황!"
+    "en": "behavior",
+    "ko": "행동",
+    "example": "His behavior was strange.",
+    "mnemonic": "be(완전히) + have(가지다) + ior. 자신을 가지는 방식이 행동! behave(행동하다)의 명사형."
   },
   {
-    "en": "encourage",
-    "ko": "격려하다",
-    "example": "My teacher encouraged me to try harder.",
-    "mnemonic": "en(만들다) + courage(용기). 용기를 만들면 격려!"
+    "en": "suggest",
+    "ko": "제안하다",
+    "example": "I suggest we leave early.",
+    "mnemonic": "sug(아래에서) + gest(나르다). 아래에서 의견을 올리면 제안! suggestion(제안)은 명사형."
   },
   {
-    "en": "experiment",
-    "ko": "실험",
-    "example": "We did an experiment in science class.",
-    "mnemonic": "ex(밖으로) + peri(시도) + ment. 밖에서 시도하면 실험!"
+    "en": "appear",
+    "ko": "나타나다",
+    "example": "A rainbow appeared in the sky.",
+    "mnemonic": "ap(~에) + pear(보이다). 눈에 보이면 나타나다! disappear = dis(반대) + appear → 사라지다."
   }
 ]

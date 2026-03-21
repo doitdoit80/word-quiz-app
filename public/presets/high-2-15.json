@@ -1,0 +1,302 @@
+[
+  {
+    "en": "agitate",
+    "ko": "동요시키다, 선동하다",
+    "example": "The protesters tried to agitate the crowd into action.",
+    "mnemonic": "ag(~쪽으로) + it(가다) + ate = 움직이게 하다 → 동요시키다, 선동하다. 라틴어 agitare(몰다)에서 유래"
+  },
+  {
+    "en": "suffice",
+    "ko": "충분하다",
+    "example": "A simple apology will not suffice after such a serious mistake.",
+    "mnemonic": "suf(아래서) + fice(만들다) = 아래에서 만들어 채우다 → 충분하다. sufficient(충분한), efficient(효율적)과 같은 어근 fac/fic"
+  },
+  {
+    "en": "improvise",
+    "ko": "즉흥적으로 하다",
+    "example": "When she forgot her speech, she had to improvise.",
+    "mnemonic": "'임프로바이즈' → 'im(not)+pro(미리)+vise(보다)' 미리 안 보고 하는!"
+  },
+  {
+    "en": "indignation",
+    "ko": "분노, 분개",
+    "example": "Public indignation grew over the politician's scandal.",
+    "mnemonic": "'인디그네이션' → 'in+dign(가치없는)+ation' 가치없이 대해 분노!"
+  },
+  {
+    "en": "bliss",
+    "ko": "더없는 행복, 지복",
+    "example": "Ignorance is bliss, as the old saying goes.",
+    "mnemonic": "고대 영어 bliths(기쁨)에서 유래. bless(축복하다)와 같은 어원 → 축복받은 상태 = 더없는 행복"
+  },
+  {
+    "en": "inflammatory",
+    "ko": "선동적인, 염증을 일으키는",
+    "example": "His inflammatory remarks sparked anger among the crowd.",
+    "mnemonic": "in(안에) + flamm(불) + atory = 안에 불을 지르는 → 선동적인. flame(불꽃), inflame(불붙이다)와 같은 어근"
+  },
+  {
+    "en": "inherent",
+    "ko": "고유의, 내재하는",
+    "example": "There are inherent risks in every type of investment.",
+    "mnemonic": "in(안에) + her(달라붙다) + ent = 안에 달라붙어 있는 → 고유의. adhere(달라붙다)와 같은 어근"
+  },
+  {
+    "en": "despair",
+    "ko": "절망, 절망하다",
+    "example": "After losing everything, he was filled with despair.",
+    "mnemonic": "de(없는) + spair(희망) = 희망이 없는 → 절망. 라틴어 sperare(희망하다)에서 유래. prosper(번영하다)와 같은 어근"
+  },
+  {
+    "en": "allegation",
+    "ko": "주장, 혐의",
+    "example": "The politician denied all allegations of corruption.",
+    "mnemonic": "al(~쪽으로) + leg(법, 보내다) + ation = 법정에 보내는 주장 → 혐의. legal(법적인)과 같은 어근"
+  },
+  {
+    "en": "covert",
+    "ko": "비밀의, 은밀한",
+    "example": "The agency carried out a covert operation overseas.",
+    "mnemonic": "co(완전히) + vert(덮다) = 완전히 덮은 → 비밀의. cover(덮다)와 같은 어원. overt(공개적인)와 반대"
+  },
+  {
+    "en": "cliché",
+    "ko": "진부한 표현, 상투적 말",
+    "example": "Avoid using clichés in your academic writing.",
+    "mnemonic": "프랑스어 clicher(찍다, 인쇄하다)에서 유래. 반복 인쇄된 말 → 진부한 표현"
+  },
+  {
+    "en": "intuition",
+    "ko": "직관, 직감",
+    "example": "She trusted her intuition and declined the suspicious offer.",
+    "mnemonic": "in(안으로) + tuit(보다) + ion = 안을 들여다봄 → 직관. tutor(교사)와 같은 어근"
+  },
+  {
+    "en": "volition",
+    "ko": "의지, 결단력",
+    "example": "She left the company of her own volition, not because she was fired.",
+    "mnemonic": "vol(의지, 바라다) + ition = 바라는 마음 → 의지. volunteer(자원봉사), benevolent(자비로운)와 같은 어근"
+  },
+  {
+    "en": "impunity",
+    "ko": "처벌 면제, 무사함",
+    "example": "Criminals cannot be allowed to act with impunity.",
+    "mnemonic": "im(not) + pun(벌) + ity = 벌을 받지 않음 → 처벌 면제. punish(처벌하다), punitive(징벌적)과 같은 어근"
+  },
+  {
+    "en": "assimilate",
+    "ko": "동화되다, 흡수하다",
+    "example": "Immigrants often struggle to assimilate into a new culture.",
+    "mnemonic": "as(~쪽으로) + simil(비슷한) + ate = 비슷하게 만들다 → 동화되다. similar(비슷한), simulate(모방하다)와 같은 어근"
+  },
+  {
+    "en": "synopsis",
+    "ko": "개요, 줄거리",
+    "example": "The publisher asked for a brief synopsis of the novel.",
+    "mnemonic": "syn(함께) + opsis(보다) = 함께 보기 → 전체를 한눈에 보는 개요. optical(광학의), autopsy(부검)와 같은 어근"
+  },
+  {
+    "en": "vociferous",
+    "ko": "시끄러운, 떠들썩한",
+    "example": "There was vociferous opposition to the government's proposed tax increase.",
+    "mnemonic": "voci(목소리) + fer(나르다) + ous = 목소리를 나르는 → 시끄러운. voice(목소리), transfer(옮기다)와 같은 어근"
+  },
+  {
+    "en": "confiscate",
+    "ko": "몰수하다, 압수하다",
+    "example": "The teacher confiscated the student's phone during class.",
+    "mnemonic": "con(함께) + fisc(국고) + ate = 국고로 가져가다 → 몰수하다. fiscal(재정의)과 같은 어근"
+  },
+  {
+    "en": "engrave",
+    "ko": "새기다, 각인하다",
+    "example": "His name was engraved on the trophy in gold letters.",
+    "mnemonic": "'인그레이브' → 'en+grave(무덤)' 무덤에 이름을 새기다!"
+  },
+  {
+    "en": "perennial",
+    "ko": "영원한, 다년생의",
+    "example": "Poverty remains a perennial problem in many developing countries.",
+    "mnemonic": "per(통해) + enni(해) + al = 해를 통해 계속되는 → 영원한. annual(연간의)과 같은 어근"
+  },
+  {
+    "en": "condone",
+    "ko": "묵인하다, 용서하다",
+    "example": "The school does not condone any form of bullying.",
+    "mnemonic": "con(완전히) + don(주다) + e = 완전히 내어주다 → 묵인하다. donate(기부하다), pardon(용서)과 같은 어근 don(주다)"
+  },
+  {
+    "en": "infrastructure",
+    "ko": "기반 시설, 사회 기반",
+    "example": "The country invested heavily in modernizing its infrastructure.",
+    "mnemonic": "infra(아래) + structure(구조) = 아래에 깔린 구조 → 기반 시설"
+  },
+  {
+    "en": "tumultuous",
+    "ko": "소란스러운, 격동의",
+    "example": "The country went through a tumultuous period of political change.",
+    "mnemonic": "tumult(소동) + uous = 소동이 이는 → 소란스러운. 라틴어 tumere(부풀다)에서 유래"
+  },
+  {
+    "en": "celestial",
+    "ko": "하늘의, 천체의",
+    "example": "Stars and planets are celestial bodies.",
+    "mnemonic": "라틴어 caelestis(하늘의)에서 유래. celest(하늘) + ial = 하늘에 속하는 → 천체의"
+  },
+  {
+    "en": "credibility",
+    "ko": "신뢰성, 신빙성",
+    "example": "The scandal damaged the politician's credibility with voters.",
+    "mnemonic": "cred(믿다) + ibility = 믿을 수 있는 정도 → 신뢰성. credit(신용), credible(믿을 만한)과 같은 어근"
+  },
+  {
+    "en": "grievance",
+    "ko": "불평, 불만",
+    "example": "Workers filed a formal grievance about unsafe working conditions.",
+    "mnemonic": "'그리번스' → 'grieve(슬퍼하다)+ance' 슬픔에서 오는 불만!"
+  },
+  {
+    "en": "ramification",
+    "ko": "결과, 파급 효과",
+    "example": "The decision could have serious ramifications for the entire industry.",
+    "mnemonic": "rami(가지) + fic(만들다) + ation = 가지처럼 퍼지는 것 → 파급 효과. 라틴어 ramus(가지)에서 유래"
+  },
+  {
+    "en": "rampant",
+    "ko": "만연하는, 걷잡을 수 없는",
+    "example": "Corruption is rampant in the country's political system.",
+    "mnemonic": "ramp(오르다) + ant = 올라가며 퍼지는 → 만연하는. ramp(경사로)에서 유래"
+  },
+  {
+    "en": "concurrent",
+    "ko": "동시에 일어나는",
+    "example": "The two events were concurrent and attracted large crowds.",
+    "mnemonic": "con(함께) + curr(달리다) + ent = 함께 달리는 → 동시에 일어나는. current(현재의, 흐름), occur(발생하다)와 같은 어근"
+  },
+  {
+    "en": "convey",
+    "ko": "전달하다, 운반하다",
+    "example": "Words cannot convey how grateful I am for your help.",
+    "mnemonic": "con(함께) + vey(길, 운반하다) = 길을 따라 나르다 → 전달하다. vehicle(탈것), via(경유)와 같은 어근"
+  },
+  {
+    "en": "magnify",
+    "ko": "확대하다, 과장하다",
+    "example": "A microscope can magnify objects thousands of times.",
+    "mnemonic": "magn(큰) + ify(만들다) = 크게 만들다 → 확대하다. magnificent(웅장한)와 같은 어근"
+  },
+  {
+    "en": "adamant",
+    "ko": "단호한, 확고한",
+    "example": "She was adamant that she would not change her decision.",
+    "mnemonic": "a(not) + dam(길들이다) + ant = 길들일 수 없는 → 단호한. 그리스어 adamas(정복할 수 없는)에서 유래, diamond과 같은 어원"
+  },
+  {
+    "en": "stringent",
+    "ko": "엄격한, 엄중한",
+    "example": "The government imposed stringent safety regulations on food products.",
+    "mnemonic": "string(조이다) + ent = 조이는 → 엄격한. strict(엄격한), strain(긴장)과 같은 어근"
+  },
+  {
+    "en": "abjure",
+    "ko": "철회하다, 포기를 맹세하다",
+    "example": "He abjured his former beliefs after years of reflection.",
+    "mnemonic": "ab(떠나) + jure(맹세하다) = 맹세하고 떠나다 → 철회하다. jury(배심원)와 같은 어근"
+  },
+  {
+    "en": "dexterity",
+    "ko": "솜씨, 민첩함",
+    "example": "The surgeon performed the operation with great dexterity.",
+    "mnemonic": "dexter(오른쪽) + ity = 오른손잡이의 솜씨 → 민첩함. 라틴어에서 오른손=능숙함. ambidextrous(양손잡이)와 같은 어근"
+  },
+  {
+    "en": "simulate",
+    "ko": "모의실험하다, 흉내 내다",
+    "example": "The software can simulate real-world weather conditions.",
+    "mnemonic": "simul(비슷한) + ate = 비슷하게 만들다 → 모의실험하다. similar(비슷한), simultaneous(동시의)와 같은 어근"
+  },
+  {
+    "en": "dogmatic",
+    "ko": "독단적인, 교조적인",
+    "example": "His dogmatic approach left no room for alternative viewpoints.",
+    "mnemonic": "dogma(교의) + tic = 교의에 사로잡힌 → 독단적인. 그리스어 dokein(생각하다)에서 유래"
+  },
+  {
+    "en": "peripheral",
+    "ko": "주변부의, 부수적인",
+    "example": "The peripheral areas of the city lack proper infrastructure.",
+    "mnemonic": "peri(주위) + pher(나르다) + al = 주위로 나르는 → 주변부의. perimeter(둘레)와 같은 접두사"
+  },
+  {
+    "en": "accommodate",
+    "ko": "수용하다, 편의를 제공하다",
+    "example": "The hotel can accommodate up to 500 guests.",
+    "mnemonic": "ac(~쪽으로) + com(함께) + mod(맞추다) + ate = 함께 맞춰주다 → 수용하다, 편의를 제공하다"
+  },
+  {
+    "en": "impoverish",
+    "ko": "빈곤하게 하다",
+    "example": "Years of war impoverished the entire nation.",
+    "mnemonic": "'임파버리시' → 'im+pover(가난)+ish' 가난하게 만들다!"
+  },
+  {
+    "en": "excerpt",
+    "ko": "발췌, 인용문",
+    "example": "The teacher read an excerpt from the novel to the class.",
+    "mnemonic": "'엑서프트' → 'ex(밖으로)+cerpt(뽑다)' 밖으로 뽑아낸 글 = 발췌!"
+  },
+  {
+    "en": "inexorable",
+    "ko": "무정한, 막을 수 없는",
+    "example": "The inexorable march of technology continues to reshape society.",
+    "mnemonic": "in(not) + ex(밖으로) + or(기도하다) + able = 기도해도 막을 수 없는 → 무정한"
+  },
+  {
+    "en": "patriarch",
+    "ko": "가부장, 족장",
+    "example": "The family patriarch made all the important decisions.",
+    "mnemonic": "patri(아버지) + arch(지배자) = 아버지가 지배하는 → 가부장. matriarch(여가장)와 반대"
+  },
+  {
+    "en": "besiege",
+    "ko": "포위하다, 쇄도하다",
+    "example": "Fans besieged the hotel where the celebrity was staying.",
+    "mnemonic": "be(강조) + siege(포위 공격) = 포위하다. siege는 라틴어 sedere(앉다)에서 유래 → 앉아서 기다리며 포위하다"
+  },
+  {
+    "en": "derivative",
+    "ko": "파생적인, 파생물",
+    "example": "The movie was criticized as being derivative of earlier sci-fi classics.",
+    "mnemonic": "de(아래로) + riv(강, 흐르다) + ative = 흘러나온 → 파생적인. river(강), derive(유래하다)와 같은 어근"
+  },
+  {
+    "en": "protagonist",
+    "ko": "주인공, 주창자",
+    "example": "The protagonist of the novel overcomes many obstacles to achieve her dreams.",
+    "mnemonic": "proto(첫번째) + agon(투쟁) + ist = 첫 번째로 싸우는 사람 → 주인공. antagonist(적대자)와 반대"
+  },
+  {
+    "en": "alacrity",
+    "ko": "민첩함, 기꺼이 함",
+    "example": "She accepted the invitation with alacrity.",
+    "mnemonic": "라틴어 alacer(활발한)에서 유래. alacr(활발한) + ity = 활발한 상태 → 민첩함"
+  },
+  {
+    "en": "precept",
+    "ko": "교훈, 규범",
+    "example": "The school teaches moral precepts along with academic subjects.",
+    "mnemonic": "pre(미리) + cept(잡다) = 미리 잡아둔 규칙 → 교훈. accept(받아들이다), concept(개념)과 같은 어근"
+  },
+  {
+    "en": "facet",
+    "ko": "측면, 양상",
+    "example": "We must consider every facet of this complex issue.",
+    "mnemonic": "'패싯' → 'face(얼굴)+t' 얼굴의 한 면 = 측면!"
+  },
+  {
+    "en": "disdain",
+    "ko": "경멸, 경멸하다",
+    "example": "She looked at the messy room with obvious disdain.",
+    "mnemonic": "dis(부정) + dain(가치, dignitas) = 가치가 없다고 보다 → 경멸. dignity(존엄), deign(~하다)과 같은 어근"
+  }
+]

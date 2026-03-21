@@ -1,0 +1,302 @@
+[
+  {
+    "en": "paroxysm",
+    "ko": "발작, 격발",
+    "example": "A paroxysm of coughing interrupted the speaker in the middle of his address.",
+    "mnemonic": "par(넘어서) + oxysm(날카로운, 그리스어 oxys=날카로운) = 날카롭게 치솟는 → 발작. oxy(날카로운): oxygen(산을 만드는), oxide"
+  },
+  {
+    "en": "belie",
+    "ko": "거짓됨을 드러내다, 모순되다",
+    "example": "Her calm expression belied the anxiety she felt inside.",
+    "mnemonic": "be(완전히) + lie(거짓) = 거짓을 드러내다. 겉모습이 내면과 모순되다"
+  },
+  {
+    "en": "dearth",
+    "ko": "부족, 결핍",
+    "example": "The dearth of qualified teachers has become a national crisis.",
+    "mnemonic": "dear(비싼, 고대 영어 dyre) + th = 비싸서 부족한 → 결핍. dear(비싼): 공급이 적으면 값이 비싸진다"
+  },
+  {
+    "en": "discomfit",
+    "ko": "당황하게 하다, 좌절시키다",
+    "example": "The unexpected question discomfited the speaker during the press conference.",
+    "mnemonic": "dis(부정) + comfit(만들다, 준비하다) = 준비를 무너뜨리다 → 당황하게 하다. confit(만들다): confection"
+  },
+  {
+    "en": "atavistic",
+    "ko": "격세유전의, 원시적인",
+    "example": "The violence revealed an atavistic instinct buried deep within human nature.",
+    "mnemonic": "라틴어 atavus(고조부). 먼 조상의 특성이 되돌아온 → 격세유전의, 원시적인"
+  },
+  {
+    "en": "peripatetic",
+    "ko": "떠돌아다니는, 순회하는",
+    "example": "The peripatetic musician performed in different cities every week.",
+    "mnemonic": "peri(주위를) + patet(걷다, 그리스어 patein) + ic = 주위를 걸어다니는 → 떠돌아다니는. 아리스토텔레스가 걸으며 가르친 학파"
+  },
+  {
+    "en": "insipid",
+    "ko": "맛없는, 따분한",
+    "example": "The critic described the movie as insipid and lacking any originality.",
+    "mnemonic": "'인시피드' → 'in(없는)+sipid(맛)' 맛이 없는 따분한!"
+  },
+  {
+    "en": "sibilant",
+    "ko": "쉬쉬 소리의, 치찰음의",
+    "example": "The sibilant whisper of the wind through the reeds created an eerie atmosphere.",
+    "mnemonic": "sibil(쉬쉬 소리, 라틴어 sibilare=휘파람 불다) + ant = 쉬쉬 소리 나는. 's', 'sh' 같은 치찰음을 묘사하는 단어"
+  },
+  {
+    "en": "rostrum",
+    "ko": "연단, 강단",
+    "example": "The speaker stepped up to the rostrum and addressed the crowd.",
+    "mnemonic": "라틴어 rostrum(부리, 배의 뱃머리). 로마에서 전리품 뱃머리로 장식한 연단 → 연단"
+  },
+  {
+    "en": "perspicacity",
+    "ko": "통찰력, 예리한 판단",
+    "example": "Her perspicacity in business matters made her an invaluable advisor.",
+    "mnemonic": "per(통하여) + spic(보다, 라틴어 specere) + acity = 꿰뚫어 보는 능력 → 통찰력. perspicacious(통찰력 있는)의 명사형"
+  },
+  {
+    "en": "perpetrate",
+    "ko": "저지르다, 범하다",
+    "example": "The criminals who perpetrated the robbery were caught within hours.",
+    "mnemonic": "per(완전히) + petr(행하다, 라틴어 patrare) + ate = 완전히 행하다 → (범죄를) 저지르다. perpetrator(범인)"
+  },
+  {
+    "en": "glib",
+    "ko": "말 잘하는, 입이 가벼운",
+    "example": "The glib salesman convinced many customers to buy unnecessary products.",
+    "mnemonic": "중세 저지 독일어 glibberich(미끄러운)에서 유래. 말이 미끄럽듯 잘 나오는 → 말 잘하는(부정적)"
+  },
+  {
+    "en": "exegesis",
+    "ko": "주석, 비판적 해석",
+    "example": "The scholar provided a detailed exegesis of the ancient religious text.",
+    "mnemonic": "ex(밖으로) + ege(이끌다, 그리스어 hegeisthai) + sis = 의미를 밖으로 이끌어내다 → 주석, 해석"
+  },
+  {
+    "en": "perfidy",
+    "ko": "배신, 배반",
+    "example": "The general's perfidy in switching sides shocked his former allies.",
+    "mnemonic": "per(완전히, 나쁘게) + fid(믿음, 라틴어 fides) + y = 믿음을 완전히 저버림 → 배신. fid(믿음): fidelity, confide, infidel, bona fide"
+  },
+  {
+    "en": "mendacious",
+    "ko": "거짓말하는, 허위의",
+    "example": "The witness gave a mendacious account of what happened that night.",
+    "mnemonic": "mend(거짓, 라틴어 mendax) + acious = 거짓말하는. mend 어근은 '결함'을 의미"
+  },
+  {
+    "en": "supercilious",
+    "ko": "거만한, 도도한",
+    "example": "The supercilious waiter looked down on customers who ordered cheap wine.",
+    "mnemonic": "super(위에) + cili(눈썹, 라틴어 cilium) + ous = 눈썹을 치켜올린 → 거만한. 눈썹을 올리며 내려다보는 표정"
+  },
+  {
+    "en": "panegyric",
+    "ko": "찬사, 찬양 연설",
+    "example": "The retirement speech turned into a panegyric for the departing CEO.",
+    "mnemonic": "pan(모든) + egyr(모임, 그리스어 agyris) + ic = 모든 사람 앞에서의 찬양 → 찬양 연설"
+  },
+  {
+    "en": "recalcitrance",
+    "ko": "반항, 완강한 저항",
+    "example": "The student's recalcitrance in following rules led to his suspension.",
+    "mnemonic": "re(뒤로) + calcit(발로 차다, 라틴어 calcitrare) + ance = 뒤로 발차기하는 → 반항. calc(발): recalcitrant"
+  },
+  {
+    "en": "recidivism",
+    "ko": "재범, 상습 범죄",
+    "example": "High recidivism rates suggest that the prison system needs reform.",
+    "mnemonic": "re(다시) + cid(떨어지다, 라틴어 cadere) + ivism = 다시 떨어지는 것 → 재범. cad(떨어지다): cadence, decay, incident"
+  },
+  {
+    "en": "destitute",
+    "ko": "극빈한, 궁핍한",
+    "example": "The charity provides food and shelter for destitute families.",
+    "mnemonic": "de(떨어져) + stitute(세우다, 라틴어 statuere) = 세워진 것에서 떨어진 → 궁핍한. stitu(세우다): institute, constitute, substitute"
+  },
+  {
+    "en": "indiscriminate",
+    "ko": "무차별의, 가리지 않는",
+    "example": "The bombing caused indiscriminate destruction of civilian homes.",
+    "mnemonic": "in(아닌) + discriminate(구별하다) = 구별하지 않는 → 무차별의. crim/cern(구별): discriminate, discern"
+  },
+  {
+    "en": "exigent",
+    "ko": "긴급한, 절박한",
+    "example": "The exigent circumstances required immediate intervention by the government.",
+    "mnemonic": "ex(밖으로) + ig(구하다, 라틴어 agere) + ent = 밖으로 구하는 → 긴급한. exig(요구): exigency, exact(정확히 요구하다)"
+  },
+  {
+    "en": "reproach",
+    "ko": "비난하다, 나무라다",
+    "example": "She reproached him for not keeping his promise.",
+    "mnemonic": "re(되돌려) + proach(가까이, 라틴어 prope) = 가까이 되돌아와 → 비난하다. proach(가까이): approach"
+  },
+  {
+    "en": "unequivocal",
+    "ko": "명백한, 분명한",
+    "example": "The president issued an unequivocal condemnation of the attack.",
+    "mnemonic": "un(아닌) + equivocal(모호한) = 모호하지 않은 → 명백한. equi(같은)+voc(목소리): 양쪽 목소리가 같지 않은"
+  },
+  {
+    "en": "incredulity",
+    "ko": "불신, 의혹",
+    "example": "She stared at him with incredulity when he claimed to have won the lottery.",
+    "mnemonic": "in(아닌) + cred(믿다) + ulity = 믿지 않음 → 불신. cred(믿다): credit, incredible, credulous, creed"
+  },
+  {
+    "en": "parsimony",
+    "ko": "인색, 극도의 절약",
+    "example": "The principle of parsimony suggests choosing the simplest explanation.",
+    "mnemonic": "parsimoni(절약, 라틴어 parcere=아끼다) + y = 극도로 아끼는 → 인색. parsimonious(인색한)"
+  },
+  {
+    "en": "languish",
+    "ko": "시들다, 쇠약해지다",
+    "example": "The prisoner languished in jail for years awaiting trial.",
+    "mnemonic": "langu(축 처지다, 라틴어 languere) + ish = 축 처져 시들다. languid(축 처진)와 같은 어근"
+  },
+  {
+    "en": "protracted",
+    "ko": "오래 끄는, 장기적인",
+    "example": "The protracted negotiations finally ended after eighteen months.",
+    "mnemonic": "pro(앞으로) + tract(끌다, 라틴어 trahere) + ed = 앞으로 끌어당긴 → 오래 끈. tract(끌다): attract, extract, contract"
+  },
+  {
+    "en": "circumvent",
+    "ko": "우회하다, 회피하다",
+    "example": "Hackers found a way to circumvent the company's security system.",
+    "mnemonic": "circum(둘레) + vent(오다, 라틴어 venire) = 둘레를 돌아오다 → 우회하다. ven(오다): advent, convention, prevent"
+  },
+  {
+    "en": "convoluted",
+    "ko": "복잡한, 뒤얽힌",
+    "example": "The convoluted plot of the novel confused many readers.",
+    "mnemonic": "con(함께) + volut(감다, 라틴어 volvere) + ed = 함께 감긴 → 뒤얽힌, 복잡한. volv(감다): revolve, evolve, involve"
+  },
+  {
+    "en": "recant",
+    "ko": "철회하다, 취소하다",
+    "example": "Under pressure, the witness recanted his earlier testimony.",
+    "mnemonic": "re(다시) + cant(노래하다, 라틴어 cantare) = 다시 노래하다(=말을 바꾸다) → 철회하다. cant(노래): chant, incantation"
+  },
+  {
+    "en": "diaphanous",
+    "ko": "투명한, 비치는",
+    "example": "The dancer wore a diaphanous veil that fluttered gracefully in the breeze.",
+    "mnemonic": "dia(통하여) + phan(보이다, 그리스어 phainein) + ous = 통해 보이는 → 투명한. phan(보이다): phantom, phenomenon"
+  },
+  {
+    "en": "obscure",
+    "ko": "모호한, 무명의, 가리다",
+    "example": "The meaning of the ancient text remains obscure to most scholars.",
+    "mnemonic": "ob(위에) + scure(덮다, 라틴어 scurus=어둠) = 어둠으로 덮다 → 모호한"
+  },
+  {
+    "en": "fetid",
+    "ko": "악취가 나는, 고약한",
+    "example": "The fetid swamp was home to countless insects and reptiles.",
+    "mnemonic": "fet(냄새나다, 라틴어 fetere) + id = 냄새나는 → 악취가 나는. foetid도 같은 단어"
+  },
+  {
+    "en": "feign",
+    "ko": "가장하다, ~인 체하다",
+    "example": "She feigned illness to avoid attending the boring conference.",
+    "mnemonic": "라틴어 fingere(만들다, 꾸미다). 꾸며서 만들다 → 가장하다. fig/fict(만들다): fiction, figure, figment"
+  },
+  {
+    "en": "obsequy",
+    "ko": "장례식, 장례 의식",
+    "example": "The obsequies for the fallen hero were attended by thousands.",
+    "mnemonic": "ob(향해) + sequ(따르다, 라틴어 sequi) + y = 죽은 이를 따라 보내는 → 장례식. sequ(따르다): sequence, subsequent"
+  },
+  {
+    "en": "emollient",
+    "ko": "완화하는, 연화제",
+    "example": "The diplomat used emollient language to ease the tension between the parties.",
+    "mnemonic": "e(밖으로) + moll(부드러운, 라틴어 mollis) + ient = 부드럽게 만드는 → 완화하는. moll(부드러운): mollify"
+  },
+  {
+    "en": "peregrinate",
+    "ko": "여행하다, 순례하다",
+    "example": "The scholar peregrinated through Europe studying ancient manuscripts.",
+    "mnemonic": "per(통하여) + egr(들판, 라틴어 ager) + inate = 들판을 통과하다 → 여행하다. peregrine(송골매=먼 곳에서 온 새)"
+  },
+  {
+    "en": "prevaricate",
+    "ko": "얼버무리다, 말을 돌리다",
+    "example": "The witness prevaricated when asked direct questions about the incident.",
+    "mnemonic": "pre(앞에서) + varic(다리를 벌리다, 라틴어 varicare) + ate = 다리를 벌리고 비틀거리다 → 얼버무리다. var(다양한): vary, various"
+  },
+  {
+    "en": "inveigle",
+    "ko": "꾀어내다, 유혹하다",
+    "example": "The con artist inveigled the elderly woman into handing over her savings.",
+    "mnemonic": "프랑스어 aveugler(눈을 멀게 하다), aveugle(눈먼). 눈을 멀게 하여 → 꾀어내다, 유혹하다"
+  },
+  {
+    "en": "antithesis",
+    "ko": "정반대, 대조",
+    "example": "His lifestyle is the antithesis of everything she stands for.",
+    "mnemonic": "anti(반대) + thesis(놓다, 명제) = 반대에 놓인 것 → 정반대. thesis(놓다): synthesis(함께 놓다), hypothesis(아래 놓다)"
+  },
+  {
+    "en": "raconteur",
+    "ko": "이야기꾼, 화술가",
+    "example": "The famous raconteur kept the dinner guests entertained with his stories.",
+    "mnemonic": "프랑스어 raconter(이야기하다). re(다시) + conter(세다, 말하다) → 이야기하는 사람"
+  },
+  {
+    "en": "ingenuous",
+    "ko": "순진한, 꾸밈없는",
+    "example": "Her ingenuous smile charmed everyone she met.",
+    "mnemonic": "in(안에) + genu(태어난, 라틴어 genus) + ous = 태어난 그대로의 → 순진한. gen(태어나다): genuine(진정한), innate"
+  },
+  {
+    "en": "insipient",
+    "ko": "어리석은, 무지한",
+    "example": "The insipient decision to cut funding for education had long-term consequences.",
+    "mnemonic": "in(아닌) + sipi(현명한, 라틴어 sapere=맛보다, 알다) + ent = 현명하지 않은 → 어리석은. sap(알다): sapient, savant, savor"
+  },
+  {
+    "en": "facetious",
+    "ko": "농담하는, 익살스러운",
+    "example": "He made a facetious remark that lightened the mood in the meeting.",
+    "mnemonic": "'퍼시셔스' → 'face(얼굴)+tious' 얼굴에 웃음을 짓는 익살스러운!"
+  },
+  {
+    "en": "impolitic",
+    "ko": "현명치 못한, 부적절한",
+    "example": "It would be impolitic to criticize the host at his own party.",
+    "mnemonic": "im(아닌) + politic(정치적으로 현명한) = 현명치 못한. polit(시민, 현명한): politics, politic"
+  },
+  {
+    "en": "iconography",
+    "ko": "도상학, 도해",
+    "example": "The iconography of the medieval cathedral tells stories from the Bible.",
+    "mnemonic": "icon(이미지, 그리스어 eikon) + graphy(기록) = 이미지의 기록 → 도상학. icon(이미지): iconic. graph(쓰다): biography"
+  },
+  {
+    "en": "gourmand",
+    "ko": "대식가, 미식가",
+    "example": "The gourmand sampled every dish at the lavish buffet.",
+    "mnemonic": "프랑스어 gourmand(대식가). gourmet(미식가)와 비교: gourmand는 양을, gourmet는 질을 중시"
+  },
+  {
+    "en": "bibulous",
+    "ko": "술을 좋아하는, 흡수하는",
+    "example": "His bibulous habits eventually affected his health and career.",
+    "mnemonic": "bib(마시다, 라틴어 bibere) + ulous = 많이 마시는 → 술을 좋아하는. bib(마시다): imbibe, beverage"
+  },
+  {
+    "en": "perspicuous",
+    "ko": "명쾌한, 이해하기 쉬운",
+    "example": "The author's perspicuous writing style makes complex topics accessible.",
+    "mnemonic": "per(통하여) + spic(보다, 라틴어 specere) + uous = 통해서 잘 보이는 → 명쾌한. spec(보다): perspicacious, inspect"
+  }
+]

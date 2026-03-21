@@ -1,152 +1,152 @@
 [
   {
-    "en": "obstacle",
-    "ko": "장애물",
-    "example": "We must overcome many obstacles.",
-    "mnemonic": "ob(앞에) + stacle(서다). 앞에 서면 장애물."
+    "en": "ensure",
+    "ko": "보장하다",
+    "example": "We must ensure everyone's safety.",
+    "mnemonic": "en(만들다) + sure(확실한). 확실하게 만들면 보장! insure(보험에 들다)와 같은 어근."
   },
   {
-    "en": "obvious",
-    "ko": "명백한",
-    "example": "The answer is obvious.",
-    "mnemonic": "ob(앞에) + vious(보다). 앞에 보이면 명백!"
+    "en": "approximately",
+    "ko": "대략",
+    "example": "There are approximately 100 students.",
+    "mnemonic": "ap(~에) + proxim(가까운) + ately. 가까이 = 대략! proximity(근접)도 같은 어근."
+  },
+  {
+    "en": "imply",
+    "ko": "암시하다",
+    "example": "What are you implying?",
+    "mnemonic": "im(안에) + ply(접다). 안에 접어두면 암시! ply(접다): apply(지원), reply(답장), multiply(곱하다)."
   },
   {
     "en": "occasion",
     "ko": "경우",
     "example": "It was a special occasion.",
-    "mnemonic": "oc(향해) + cas(떨어지다). 다가오는 특별한 경우!"
+    "mnemonic": "oc(향해) + cas(떨어지다) + ion. 다가온 특별한 때가 경우! occasional(가끔의)."
   },
   {
-    "en": "occupy",
-    "ko": "차지하다",
-    "example": "The army occupied the city.",
-    "mnemonic": "oc(향해) + cupy(잡다). 향해 잡으면 차지!"
+    "en": "enormous",
+    "ko": "거대한",
+    "example": "The elephant is enormous.",
+    "mnemonic": "e(밖으로) + norm(기준) + ous. 기준을 벗어나면 거대! norm(기준): normal(정상), abnormal(비정상)."
   },
   {
-    "en": "oppose",
-    "ko": "반대하다",
-    "example": "Many people opposed the plan.",
-    "mnemonic": "op(반대) + pose(놓다). 반대쪽에 놓으면 반대!"
+    "en": "cooperate",
+    "ko": "협력하다",
+    "example": "Countries should cooperate to solve problems.",
+    "mnemonic": "co(함께) + operate(작동하다). 함께 작동하면 협력! cooperation(협력)은 명사형. operate의 oper = 일하다."
   },
   {
-    "en": "overcome",
-    "ko": "극복하다",
-    "example": "She overcame her fear of heights.",
-    "mnemonic": "over(위로) + come(오다). 위로 넘어오면 극복!"
+    "en": "yield",
+    "ko": "산출하다",
+    "example": "The farm yields a lot of corn.",
+    "mnemonic": "고대 영어 gieldan(지불하다)에서 유래. 대가를 내놓는 것 → 산출하다, 양보하다."
   },
   {
-    "en": "participate",
-    "ko": "참여하다",
-    "example": "Everyone should participate in the discussion.",
-    "mnemonic": "part(부분) + icipate(잡다). 한 부분을 잡으면 참여!"
+    "en": "convert",
+    "ko": "전환하다",
+    "example": "She converted the file to PDF.",
+    "mnemonic": "con(완전히) + vert(돌리다). 완전히 돌리면 전환! vert(돌리다): revert(되돌리다), invert(뒤집다), divert(전환)."
+  },
+  {
+    "en": "confer",
+    "ko": "수여하다",
+    "example": "The university conferred a degree.",
+    "mnemonic": "con(함께) + fer(나르다). 함께 가져와 논의하거나 수여! fer(나르다): transfer, prefer, refer, differ."
+  },
+  {
+    "en": "expand",
+    "ko": "확장하다",
+    "example": "The company plans to expand.",
+    "mnemonic": "ex(밖으로) + pand(펼치다). 밖으로 펼치면 확장! expansion(확장)은 명사형."
+  },
+  {
+    "en": "exhibit",
+    "ko": "전시하다",
+    "example": "The museum exhibits ancient artifacts.",
+    "mnemonic": "ex(밖으로) + hibit(갖다). 밖으로 내놓으면 전시! hibit(갖다): prohibit(금지), inhibit(억제)."
+  },
+  {
+    "en": "implement",
+    "ko": "실행하다",
+    "example": "We need to implement the new rules.",
+    "mnemonic": "im(안에) + ple(채우다) + ment. 안을 채워 완성하면 실행! complete(완성)도 같은 어근 ple."
+  },
+  {
+    "en": "initial",
+    "ko": "처음의",
+    "example": "My initial reaction was surprise.",
+    "mnemonic": "라틴어 initium(시작) = init(시작) + ial. 시작의 = 처음의! initiate(시작하다), initiative(주도권)."
+  },
+  {
+    "en": "absorb",
+    "ko": "흡수하다",
+    "example": "Plants absorb water from the soil.",
+    "mnemonic": "ab(~으로) + sorb(빨아들이다). 빨아들이면 흡수! absorption(흡수)은 명사형."
+  },
+  {
+    "en": "reluctant",
+    "ko": "꺼리는",
+    "example": "She was reluctant to speak in public.",
+    "mnemonic": "re(반대로) + luct(투쟁하다) + ant. 반대로 버티며 꺼리는! reluctance(꺼림)은 명사형."
+  },
+  {
+    "en": "evidence",
+    "ko": "증거",
+    "example": "There is no evidence of the crime.",
+    "mnemonic": "e(밖으로) + vid(보다) + ence. 밖으로 보이는 것이 증거! vid(보다): video, visible, vision, provide."
+  },
+  {
+    "en": "demonstrate",
+    "ko": "보여주다",
+    "example": "He demonstrated how to use the machine.",
+    "mnemonic": "de(완전히) + monstr(보여주다) + ate. 완전히 보여주면 시범! demonstration(시범)은 명사형. monster도 같은 어근."
+  },
+  {
+    "en": "territory",
+    "ko": "영토",
+    "example": "The country expanded its territory.",
+    "mnemonic": "라틴어 terra(땅) + tory(장소). 땅의 범위가 영토! terra(땅): terrain(지형), terrace(테라스), terrestrial(지구의)."
+  },
+  {
+    "en": "interrupt",
+    "ko": "방해하다",
+    "example": "Don't interrupt when someone is talking.",
+    "mnemonic": "inter(사이에) + rupt(깨뜨리다). 사이를 깨뜨리면 방해! rupt(깨다): corrupt(부패), erupt(분출), bankrupt(파산)."
+  },
+  {
+    "en": "contribute",
+    "ko": "기여하다",
+    "example": "Everyone can contribute to the community.",
+    "mnemonic": "con(함께) + tribute(주다). 함께 주면 기여! tribute(주다): distribute(분배), attribute(속성)."
   },
   {
     "en": "perceive",
     "ko": "인식하다",
     "example": "People perceive things differently.",
-    "mnemonic": "per(완전히) + ceive(잡다). 완전히 잡으면 인식!"
+    "mnemonic": "per(완전히) + ceive(잡다). 완전히 잡으면 인식! ceive(잡다): receive(받다), conceive(구상), deceive(속이다)."
   },
   {
-    "en": "permanent",
-    "ko": "영구적인",
-    "example": "Is this a permanent or temporary job?",
-    "mnemonic": "per(완전히) + man(남다). 완전히 남으면 영구적!"
+    "en": "derive",
+    "ko": "유래하다",
+    "example": "The word derives from Latin.",
+    "mnemonic": "de(아래에서) + rive(강). 강의 원류에서 끌어내면 유래! derivative(파생어)은 파생형."
   },
   {
-    "en": "perspective",
-    "ko": "관점",
-    "example": "Try to see things from a different perspective.",
-    "mnemonic": "per(통해) + spect(보다). 통해서 보는 관점."
+    "en": "adopt",
+    "ko": "채택하다",
+    "example": "They adopted a new policy.",
+    "mnemonic": "ad(~에) + opt(선택하다). 선택해서 받아들이면 채택! opt(선택): option(선택지), optional(선택적인)."
   },
   {
-    "en": "phenomenon",
-    "ko": "현상",
-    "example": "The northern lights are a natural phenomenon.",
-    "mnemonic": "pheno(보이는) + menon(것). 보이는 놀라운 현상."
+    "en": "exceed",
+    "ko": "초과하다",
+    "example": "Don't exceed the speed limit.",
+    "mnemonic": "ex(밖으로) + ceed(가다). 밖으로 나가면 초과! ceed/cess(가다): proceed(진행), succeed(성공)."
   },
   {
-    "en": "portion",
-    "ko": "부분",
-    "example": "She ate a small portion of the cake.",
-    "mnemonic": "port(나르다) + ion. 나눠 나르는 부분!"
-  },
-  {
-    "en": "possess",
-    "ko": "소유하다",
-    "example": "He possesses great talent.",
-    "mnemonic": "pos(할 수 있다) + sess(앉다). 앉아 있을 수 있으면 소유!"
-  },
-  {
-    "en": "potential",
-    "ko": "잠재적인",
-    "example": "She has great potential.",
-    "mnemonic": "potent(강한) + ial. 강한 가능성이 잠재력!"
-  },
-  {
-    "en": "precede",
-    "ko": "앞서다",
-    "example": "The introduction precedes the main text.",
-    "mnemonic": "pre(앞에) + cede(가다). 앞에 가면 앞서다!"
-  },
-  {
-    "en": "predict",
-    "ko": "예측하다",
-    "example": "Scientists predict the weather.",
-    "mnemonic": "pre(미리) + dict(말하다). 미리 말하면 예측!"
-  },
-  {
-    "en": "preserve",
-    "ko": "보존하다",
-    "example": "We should preserve our cultural heritage.",
-    "mnemonic": "pre(미리) + serve(지키다). 미리 지키면 보존!"
-  },
-  {
-    "en": "primary",
-    "ko": "주요한",
-    "example": "Education is our primary concern.",
-    "mnemonic": "prim(첫 번째) + ary. 첫 번째로 중요한!"
-  },
-  {
-    "en": "prohibit",
-    "ko": "금지하다",
-    "example": "Smoking is prohibited in this area.",
-    "mnemonic": "pro(앞에) + hibit(잡다). 앞에서 잡아 막으면 금지!"
-  },
-  {
-    "en": "promote",
-    "ko": "촉진하다",
-    "example": "Exercise promotes good health.",
-    "mnemonic": "pro(앞으로) + mote(움직이다). 앞으로 움직이면 촉진!"
-  },
-  {
-    "en": "proportion",
-    "ko": "비율",
-    "example": "A large proportion of students passed.",
-    "mnemonic": "pro(앞에) + portion(부분). 부분의 앞뒤 비교가 비율!"
-  },
-  {
-    "en": "prospect",
-    "ko": "전망",
-    "example": "The job prospects are good.",
-    "mnemonic": "pro(앞을) + spect(보다). 앞을 보면 전망!"
-  },
-  {
-    "en": "pursue",
-    "ko": "추구하다",
-    "example": "She pursued her dream of becoming a doctor.",
-    "mnemonic": "pur(앞으로) + sue(따라가다). 앞으로 따라가면 추구!"
-  },
-  {
-    "en": "rational",
-    "ko": "합리적인",
-    "example": "We need a rational approach.",
-    "mnemonic": "ratio(비율) + nal. 비율에 맞게 생각하면 합리적!"
-  },
-  {
-    "en": "reasonable",
-    "ko": "합리적인",
-    "example": "The price is reasonable.",
-    "mnemonic": "reason(이유) + able. 이유가 있으면 합리적!"
+    "en": "abstract",
+    "ko": "추상적인",
+    "example": "The painting is very abstract.",
+    "mnemonic": "abs(떨어져) + tract(끌다). 현실에서 떨어져 끌어낸 것이 추상! tract(끌다): attract(끌어당기다), extract(추출), distract(산만)."
   }
 ]

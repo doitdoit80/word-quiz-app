@@ -1,0 +1,302 @@
+[
+  {
+    "en": "integral",
+    "ko": "필수적인, 완전한",
+    "example": "Teamwork is an integral part of success in any organization.",
+    "mnemonic": "integr(온전한, 라틴어 integer) + al = 온전한 → 필수적인. integr(온전한): integrate, integrity, integer(정수=온전한 수)"
+  },
+  {
+    "en": "disparate",
+    "ko": "이질적인, 전혀 다른",
+    "example": "The committee tried to reconcile the disparate views of its members.",
+    "mnemonic": "dis(분리) + par(동등한) + ate = 동등하지 않은 → 이질적인. par(동등): compare, pair, parity, disparity"
+  },
+  {
+    "en": "antediluvian",
+    "ko": "아주 오래된, 대홍수 이전의",
+    "example": "The company's antediluvian policies were desperately in need of modernization.",
+    "mnemonic": "ante(이전) + diluv(홍수, 라틴어 diluvium) + ian = 대홍수 이전의 → 아주 오래된. diluv(홍수): deluge(대홍수). ante(이전): antecedent"
+  },
+  {
+    "en": "immolate",
+    "ko": "제물로 바치다, 희생하다",
+    "example": "In ancient rituals, animals were immolated to appease the gods.",
+    "mnemonic": "im(위에) + mol(곡물, 라틴어 mola=갈린 곡물) + ate = 제물 위에 곡물을 뿌리다 → 제물로 바치다"
+  },
+  {
+    "en": "dolorous",
+    "ko": "슬픈, 비통한",
+    "example": "The dolorous melody brought tears to the eyes of the audience.",
+    "mnemonic": "dolor(고통, 라틴어) + ous = 고통스러운 → 슬픈. dolor(고통): doleful, condolence, indolent"
+  },
+  {
+    "en": "canny",
+    "ko": "영리한, 빈틈없는",
+    "example": "The canny investor always managed to buy low and sell high.",
+    "mnemonic": "can(할 수 있다, 알다) + ny = 잘 아는 → 영리한. know와 같은 어원 계열"
+  },
+  {
+    "en": "transmute",
+    "ko": "변환하다, 변질시키다",
+    "example": "Alchemists tried to transmute base metals into gold.",
+    "mnemonic": "trans(넘어서) + mute(변하다, 라틴어 mutare) = 넘어서 변하다 → 변환하다. mut(변하다): mutate, immutable, commute"
+  },
+  {
+    "en": "extirpate",
+    "ko": "근절하다, 뿌리 뽑다",
+    "example": "The government launched a campaign to extirpate corruption from public offices.",
+    "mnemonic": "ex(밖으로) + stirp(뿌리, 라틴어 stirps) + ate = 뿌리를 밖으로 뽑다 → 근절하다"
+  },
+  {
+    "en": "defunct",
+    "ko": "소멸한, 사라진",
+    "example": "The defunct company's offices have been converted into apartments.",
+    "mnemonic": "de(완전히) + funct(기능하다, 라틴어 fungi) = 기능을 다한 → 소멸한. funct(기능): function, malfunction, dysfunctional"
+  },
+  {
+    "en": "caveat",
+    "ko": "경고, 단서",
+    "example": "The offer comes with an important caveat: the warranty is limited to one year.",
+    "mnemonic": "라틴어 caveat(조심하라, cavere=조심하다의 접속법). 조심하라는 경고 → 단서. caution도 같은 어원"
+  },
+  {
+    "en": "trepidation",
+    "ko": "전율, 공포",
+    "example": "She approached the interview with considerable trepidation.",
+    "mnemonic": "trepid(떨리는, 라틴어 trepidus) + ation = 떨림 → 공포. intrepid(대담한) = in(아닌)+trepid(떨리는)"
+  },
+  {
+    "en": "redoubtable",
+    "ko": "강력한, 무시무시한",
+    "example": "The redoubtable champion had not lost a single match in five years.",
+    "mnemonic": "re(다시) + doubt(두려워하다, 라틴어 dubitare) + able = 다시 두려움을 느끼게 하는 → 강력한. doubt(두려움, 의심): dubious, indubitable"
+  },
+  {
+    "en": "excise",
+    "ko": "절제하다, 잘라내다",
+    "example": "The surgeon excised the damaged tissue during the operation.",
+    "mnemonic": "ex(밖으로) + cise(자르다, 라틴어 caedere) = 밖으로 잘라내다 → 절제하다. cis/cid(자르다): incise, decide, concise"
+  },
+  {
+    "en": "magnanimity",
+    "ko": "관대함, 아량",
+    "example": "The victor showed magnanimity by pardoning the defeated rebels.",
+    "mnemonic": "magn(큰, 라틴어 magnus) + anim(정신) + ity = 큰 정신 → 관대함. magnanimous(관대한)"
+  },
+  {
+    "en": "nascent",
+    "ko": "초기의, 신생의",
+    "example": "The nascent democracy faced many challenges in its early years.",
+    "mnemonic": "nasc(태어나다, 라틴어 nasci) + ent = 막 태어난 → 초기의. nasc/nat(태어나다): native, nation, natal, innate, renaissance"
+  },
+  {
+    "en": "neophyte",
+    "ko": "초심자, 신참",
+    "example": "As a neophyte in the field, she had much to learn from her mentors.",
+    "mnemonic": "neo(새로운, 그리스어) + phyte(식물, 그리스어 phyton) = 새로 심긴 → 초심자. neo(새로운): neonatal. phyt(식물): epiphyte"
+  },
+  {
+    "en": "insular",
+    "ko": "편협한, 섬의",
+    "example": "The community's insular attitude prevented them from accepting new ideas.",
+    "mnemonic": "'인슐러' → 'insul(섬=island)+ar' 섬처럼 고립된 편협한!"
+  },
+  {
+    "en": "ludicrous",
+    "ko": "터무니없는, 우스꽝스러운",
+    "example": "The idea of building a bridge to the moon is absolutely ludicrous.",
+    "mnemonic": "lud(놀다, 라틴어 ludere) + icrous = 놀이처럼 우스꽝스러운. lud(놀다): elude, illusion, prelude"
+  },
+  {
+    "en": "antipathy",
+    "ko": "반감, 혐오",
+    "example": "There is a deep antipathy between the two rival groups.",
+    "mnemonic": "anti(반대) + pathy(감정) = 반대 감정 → 반감. path(감정): sympathy, empathy, apathy"
+  },
+  {
+    "en": "inimical",
+    "ko": "적대적인, 해로운",
+    "example": "Excessive regulation can be inimical to economic growth.",
+    "mnemonic": "'이니미컬' → 'in+imic(적=enemy)+al' 적처럼 적대적인!"
+  },
+  {
+    "en": "plaudits",
+    "ko": "갈채, 칭찬",
+    "example": "The performance earned plaudits from critics and audiences alike.",
+    "mnemonic": "라틴어 plaudite(박수치라), plaudere(박수치다). 박수 → 갈채, 칭찬. plaud(박수): applaud, plausible"
+  },
+  {
+    "en": "contumacious",
+    "ko": "반항적인, 완강히 거부하는",
+    "example": "The contumacious defendant was held in contempt of court.",
+    "mnemonic": "con(완전히) + tumac(부풀다, 라틴어 tumere) + ious = 완전히 부풀어 오른 듯 반항하는 → 완강한. tum(부풀다): tumult, tumor"
+  },
+  {
+    "en": "discursive",
+    "ko": "두서없는, 산만한",
+    "example": "His discursive writing style made it hard to follow his main argument.",
+    "mnemonic": "dis(떨어져) + curs(달리다, 라틴어 currere) + ive = 여기저기 달리는 → 산만한. curr/curs(달리다): discourse, cursor, excursion"
+  },
+  {
+    "en": "felicitous",
+    "ko": "적절한, 행복한",
+    "example": "The speaker made a felicitous choice of words that delighted the audience.",
+    "mnemonic": "felic(행복한, 라틴어 felix) + itous = 행복한 → 적절한. felic(행복): felicity, infelicitous"
+  },
+  {
+    "en": "multitude",
+    "ko": "다수, 군중",
+    "example": "A multitude of fans gathered outside the stadium for the concert.",
+    "mnemonic": "multi(많은) + tude = 많음 → 다수. multi(많은): multiply, multimedia, multifaceted"
+  },
+  {
+    "en": "magisterial",
+    "ko": "위엄 있는, 권위적인",
+    "example": "The judge delivered the verdict in a magisterial tone.",
+    "mnemonic": "magister(스승, 라틴어) + ial = 스승다운 → 위엄 있는. magist(큰, 주인): master, magistrate"
+  },
+  {
+    "en": "inertia",
+    "ko": "관성, 무기력",
+    "example": "Bureaucratic inertia prevented the government from implementing reforms quickly.",
+    "mnemonic": "in(아닌) + ert(기술, 라틴어 ars) + ia = 기술이 없는 상태 → 무기력, 관성. art(기술): art, inert, expert"
+  },
+  {
+    "en": "adulterate",
+    "ko": "불순물을 섞다, 변질시키다",
+    "example": "The company was fined for adulterating its products with cheap ingredients.",
+    "mnemonic": "ad(~쪽으로) + ulter(다른, 라틴어 alter) + ate = 다른 것을 섞다 → 변질시키다. alter 어근: alternate, alteration"
+  },
+  {
+    "en": "refractory",
+    "ko": "반항적인, 다루기 힘든",
+    "example": "The refractory patient refused to follow the doctor's instructions.",
+    "mnemonic": "re(뒤로) + fract(부수다, 라틴어 frangere) + ory = 뒤로 부수며 저항하는 → 반항적인. fract(부수다): fracture, fraction"
+  },
+  {
+    "en": "diffident",
+    "ko": "자신 없는, 소심한",
+    "example": "The diffident student rarely spoke up in class discussions.",
+    "mnemonic": "dif(부정) + fid(믿다, 신뢰) + ent = 자신을 믿지 못하는 → 소심한. fid(믿다): confident, fidelity, confide"
+  },
+  {
+    "en": "indomitable",
+    "ko": "굴하지 않는, 불굴의",
+    "example": "Her indomitable spirit helped her overcome every obstacle in her path.",
+    "mnemonic": "in(아닌) + domit(길들이다, 라틴어 domare) + able = 길들일 수 없는 → 불굴의. dom(길들이다): dominate, domestic"
+  },
+  {
+    "en": "incontrovertible",
+    "ko": "논란의 여지가 없는, 명백한",
+    "example": "The evidence against the suspect was incontrovertible.",
+    "mnemonic": "'인컨트로버터블' → 'in(아닌)+controvert(반박)+ible' 반박할 수 없는 명백한!"
+  },
+  {
+    "en": "jurisprudence",
+    "ko": "법학, 법률 체계",
+    "example": "She is an expert in constitutional jurisprudence.",
+    "mnemonic": "juris(법, 라틴어 jus) + prudence(분별) = 법에 대한 분별 → 법학. jur(법): jury, justice, judge, jurisdiction"
+  },
+  {
+    "en": "serendipity",
+    "ko": "뜻밖의 발견, 행운",
+    "example": "The discovery of penicillin was a case of scientific serendipity.",
+    "mnemonic": "호레이스 월폴이 동화 'Serendip의 세 왕자'에서 만든 말. 우연히 행운을 발견하다 → 뜻밖의 발견"
+  },
+  {
+    "en": "excoriate",
+    "ko": "가혹하게 비판하다, 피부를 벗기다",
+    "example": "The editorial excoriated the government for its handling of the crisis.",
+    "mnemonic": "ex(밖으로) + cori(가죽, 라틴어 corium) + ate = 가죽을 벗기다 → 가혹하게 비판하다"
+  },
+  {
+    "en": "tenuous",
+    "ko": "희박한, 약한",
+    "example": "The connection between the two events is tenuous at best.",
+    "mnemonic": "tenu(얇은, 라틴어 tenuis) + ous = 얇은 → 희박한. tenu(얇은): attenuate, thin"
+  },
+  {
+    "en": "finagle",
+    "ko": "술수를 쓰다, 교묘히 얻어내다",
+    "example": "She finagled her way into the exclusive event without an invitation.",
+    "mnemonic": "영국 방언 fainaigue(속이다)에서 유래. 교묘하게 속여서 → 얻어내다"
+  },
+  {
+    "en": "elegy",
+    "ko": "비가, 애도시",
+    "example": "The poet wrote an elegy for his deceased friend.",
+    "mnemonic": "그리스어 elegeia(비가), elegos(슬픈 노래). 슬픈 노래 → 비가, 애도시. elegiac(비가의)"
+  },
+  {
+    "en": "sublimate",
+    "ko": "승화시키다, 순화하다",
+    "example": "She sublimated her grief into creative artistic expression.",
+    "mnemonic": "sub(아래에서) + lim(문턱, 한계) + ate = 한계를 넘어 높이다 → 승화시키다. sublime(숭고한)과 같은 어근"
+  },
+  {
+    "en": "forbearance",
+    "ko": "인내, 관용",
+    "example": "The teacher showed great forbearance with the disruptive students.",
+    "mnemonic": "'포베어런스' → 'for+bear(견디다)+ance' 견뎌내는 인내!"
+  },
+  {
+    "en": "toady",
+    "ko": "아첨꾼, 아첨하다",
+    "example": "The office toady always agreed with everything the boss said.",
+    "mnemonic": "toad(두꺼비) + y. 옛날 돌팔이 의사의 조수가 두꺼비 독을 먹는 시늉 → 비굴하게 아첨하는 사람"
+  },
+  {
+    "en": "panache",
+    "ko": "당당함, 화려한 솜씨",
+    "example": "The conductor led the orchestra with great panache and flair.",
+    "mnemonic": "이탈리아어 pennacchio(깃털 장식). 모자의 화려한 깃털 → 당당함, 화려한 솜씨"
+  },
+  {
+    "en": "grandeur",
+    "ko": "웅장함, 장엄함",
+    "example": "The grandeur of the ancient cathedral left all visitors speechless.",
+    "mnemonic": "grand(큰, 웅장한) + eur = 웅장함. grand(큰): aggrandize, grandiose"
+  },
+  {
+    "en": "cognoscenti",
+    "ko": "감식가들, 전문가들",
+    "example": "The wine was praised by cognoscenti for its extraordinary complexity and depth.",
+    "mnemonic": "cognosc(알다, 라틴어 cognoscere) + enti = 아는 사람들 → 감식가들. cogn(알다): cognition, recognize, cognizant"
+  },
+  {
+    "en": "plumb",
+    "ko": "완전히, 철저히 조사하다",
+    "example": "The journalist plumbed the depths of the corruption scandal.",
+    "mnemonic": "라틴어 plumbum(납). 납추로 깊이를 재다 → 철저히 조사하다. plumb(납): plumber, plummet, aplomb"
+  },
+  {
+    "en": "paragon",
+    "ko": "모범, 귀감",
+    "example": "She is considered a paragon of virtue in her community.",
+    "mnemonic": "para(옆에) + gon(가다) = 옆에서 비교해도 뛰어난 → 모범, 귀감"
+  },
+  {
+    "en": "impasse",
+    "ko": "교착 상태, 막다른 길",
+    "example": "The negotiations reached an impasse when neither side would compromise.",
+    "mnemonic": "'임패스' → 'im(아닌)+pass(지나가다)' 지나갈 수 없는 교착 상태!"
+  },
+  {
+    "en": "extol",
+    "ko": "극찬하다, 칭송하다",
+    "example": "The critics extolled the young artist's innovative techniques.",
+    "mnemonic": "'익스톨' → 'ex(높이)+toll(들다)' 높이 들어올려 극찬!"
+  },
+  {
+    "en": "aggrandize",
+    "ko": "확대하다, 과장하다",
+    "example": "He tends to aggrandize his achievements in conversations.",
+    "mnemonic": "ag(~쪽으로) + grand(큰) + ize = 크게 만들다 → 확대하다, 과장하다"
+  },
+  {
+    "en": "compunction",
+    "ko": "양심의 가책, 후회",
+    "example": "He felt no compunction about lying to protect his friend.",
+    "mnemonic": "com(완전히) + punct(찌르다, 라틴어 pungere) + ion = 양심이 찔리는 것 → 가책. punct(찌르다): puncture, pungent, point"
+  }
+]

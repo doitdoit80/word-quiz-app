@@ -1,152 +1,152 @@
 [
   {
-    "en": "transmit",
-    "ko": "전송하다",
-    "example": "Radio waves transmit information.",
-    "mnemonic": "trans(넘어) + mit(보내다). 넘어서 보내면 전송!"
+    "en": "sacrifice",
+    "ko": "희생",
+    "example": "She sacrificed her free time for the project.",
+    "mnemonic": "sacri(신성한) + fice(만들다). 신에게 바쳐 만드는 것이 희생! sacred(신성한)도 같은 어근 sacr."
   },
   {
-    "en": "ultimately",
-    "ko": "궁극적으로",
-    "example": "Ultimately, it's your decision.",
-    "mnemonic": "ultim(마지막) + ately. 마지막으로 = 궁극적으로!"
+    "en": "exclude",
+    "ko": "제외하다",
+    "example": "Tax is excluded from the price.",
+    "mnemonic": "ex(밖으로) + clude(닫다). 밖으로 닫아내면 제외! clude(닫다): include(포함), conclude(결론)."
   },
   {
-    "en": "undergo",
-    "ko": "겪다",
-    "example": "The building is undergoing renovation.",
-    "mnemonic": "under(아래에서) + go(가다). 아래를 통과하며 겪다!"
+    "en": "displace",
+    "ko": "옮기다",
+    "example": "Many people were displaced by the flood.",
+    "mnemonic": "dis(떨어져) + place(장소). 원래 장소에서 떼어내면 이주! displacement(이동)은 명사형. replace(교체)도 같은 어근."
   },
   {
-    "en": "undertake",
-    "ko": "착수하다",
-    "example": "She undertook a new project.",
-    "mnemonic": "under(아래에서) + take(잡다). 아래에서 잡아 시작!"
+    "en": "pursue",
+    "ko": "추구하다",
+    "example": "She pursued her dream of becoming a doctor.",
+    "mnemonic": "pur(앞으로) + sue(따라가다). 앞으로 따라가면 추구! pursuit(추구)은 명사형."
   },
   {
-    "en": "welfare",
-    "ko": "복지",
-    "example": "The government supports social welfare.",
-    "mnemonic": "well(잘) + fare(지내다). 잘 지내게 하는 복지."
-  },
-  {
-    "en": "yield",
-    "ko": "산출하다",
-    "example": "The farm yields a lot of corn.",
-    "mnemonic": "'이엘드'는 수확물을 내놓는 산출!"
-  },
-  {
-    "en": "absorb",
-    "ko": "흡수하다",
-    "example": "Plants absorb water from the soil.",
-    "mnemonic": "ab(~으로) + sorb(빨아들이다). 빨아들이면 흡수!"
-  },
-  {
-    "en": "abstract",
-    "ko": "추상적인",
-    "example": "The painting is very abstract.",
-    "mnemonic": "abs(떨어져) + tract(끌다). 현실에서 떨어져 끌어낸 추상!"
-  },
-  {
-    "en": "capacity",
-    "ko": "용량",
-    "example": "The stadium has a capacity of 50,000.",
-    "mnemonic": "cap(잡다) + acity. 잡을 수 있는 양이 용량!"
-  },
-  {
-    "en": "compile",
-    "ko": "편찬하다",
-    "example": "She compiled a list of books.",
-    "mnemonic": "com(함께) + pile(쌓다). 함께 쌓으면 편찬!"
-  },
-  {
-    "en": "component",
-    "ko": "구성 요소",
-    "example": "Each component of the machine is important.",
-    "mnemonic": "com(함께) + pon(놓다). 함께 놓인 것이 구성 요소!"
-  },
-  {
-    "en": "comprehensive",
-    "ko": "포괄적인",
-    "example": "We need a comprehensive plan.",
-    "mnemonic": "com(함께) + prehens(잡다). 함께 다 잡으면 포괄적!"
-  },
-  {
-    "en": "accumulate",
-    "ko": "축적하다",
-    "example": "She accumulated a lot of experience.",
-    "mnemonic": "ac(~에) + cumul(쌓다). 쌓이면 축적!"
-  },
-  {
-    "en": "advocate",
-    "ko": "옹호하다",
-    "example": "She advocates for animal rights.",
-    "mnemonic": "ad(~에) + voc(소리). 소리 내어 옹호!"
-  },
-  {
-    "en": "agriculture",
-    "ko": "농업, 농사",
-    "example": "Agriculture is the main industry here.",
-    "mnemonic": "agri(밭) + culture(경작). 밭을 경작하는 농업!"
-  },
-  {
-    "en": "ambassador",
-    "ko": "대사",
-    "example": "The ambassador met with the president.",
-    "mnemonic": "앰배서더는 나라를 대표하는 대사!"
-  },
-  {
-    "en": "annual",
-    "ko": "연례의",
-    "example": "The annual festival was held in May.",
-    "mnemonic": "annu(해) + al. 매해 하는 연례!"
-  },
-  {
-    "en": "appeal",
-    "ko": "호소하다",
-    "example": "The charity appealed for donations.",
-    "mnemonic": "ap(~에) + peal(끌다). 끌리면 호소!"
-  },
-  {
-    "en": "arbitrary",
-    "ko": "임의의",
-    "example": "The decision seemed arbitrary.",
-    "mnemonic": "arbiter(중재자) + ary. 마음대로 = 임의!"
+    "en": "institute",
+    "ko": "기관",
+    "example": "He works at a research institute.",
+    "mnemonic": "in(안에) + stitute(세우다). 안에 세우면 기관 설립! stitute(세우다): constitute(구성), substitute(대체)."
   },
   {
     "en": "assemble",
     "ko": "조립하다",
     "example": "We assembled the furniture.",
-    "mnemonic": "as(~에) + semble(함께). 함께 모아 조립!"
+    "mnemonic": "as(~에) + semble(함께). 함께 모아 조립! resemble(닮다) = re + semble. assembly(조립, 집회)."
   },
   {
-    "en": "autonomous",
-    "ko": "자율적인",
-    "example": "The car is fully autonomous.",
-    "mnemonic": "auto(스스로) + nom(법). 스스로 법을 세우면 자율!"
+    "en": "moral",
+    "ko": "도덕의",
+    "example": "It was a moral decision.",
+    "mnemonic": "라틴어 moralis = mor(관습) + al. 사회의 관습에 맞는 도덕! morale(사기), morality(도덕성)."
   },
   {
-    "en": "barrier",
-    "ko": "장벽",
-    "example": "Language can be a barrier.",
-    "mnemonic": "bar(막대) + rier. 막대로 막으면 장벽!"
+    "en": "identify",
+    "ko": "확인하다",
+    "example": "Can you identify this plant?",
+    "mnemonic": "ident(같은) + ify(만들다). 같은 것으로 만들어 확인! identity(정체성), identical(동일한)도 같은 어근."
   },
   {
-    "en": "bias",
-    "ko": "편견, 선입견",
-    "example": "We should avoid bias in research.",
-    "mnemonic": "바이어스는 한쪽으로 치우친 편견!"
+    "en": "comprehensive",
+    "ko": "포괄적인",
+    "example": "We need a comprehensive plan.",
+    "mnemonic": "com(함께) + prehens(잡다) + ive. 함께 다 잡으면 포괄적! comprehend(이해하다)도 같은 어근."
   },
   {
-    "en": "broadcast",
-    "ko": "방송하다",
-    "example": "The game was broadcast live.",
-    "mnemonic": "broad(넓게) + cast(던지다). 넓게 던지면 방송!"
+    "en": "condemn",
+    "ko": "비난하다",
+    "example": "The public condemned the act.",
+    "mnemonic": "con(완전히) + demn(벌, 해). 완전히 벌을 주면 비난! damn(저주)도 같은 어근. condemnation(비난)."
   },
   {
-    "en": "bureaucracy",
-    "ko": "관료제",
-    "example": "Government bureaucracy can be slow.",
-    "mnemonic": "bureau(사무실) + cracy(통치). 관료제!"
+    "en": "concrete",
+    "ko": "구체적인",
+    "example": "Give me a concrete example.",
+    "mnemonic": "con(함께) + crete(자라다/굳다). 함께 굳어진 것이 구체적! abstract(추상적)의 반대."
+  },
+  {
+    "en": "evolve",
+    "ko": "진화하다",
+    "example": "Technology continues to evolve.",
+    "mnemonic": "e(밖으로) + volve(구르다). 밖으로 구르며 발전! volve(구르다): revolve(회전), involve(관여), revolution."
+  },
+  {
+    "en": "oppose",
+    "ko": "반대하다",
+    "example": "Many people opposed the plan.",
+    "mnemonic": "op(반대) + pose(놓다). 반대쪽에 놓으면 반대! pose(놓다): propose(제안), compose(구성). opposite(반대의)."
+  },
+  {
+    "en": "fraction",
+    "ko": "분수",
+    "example": "Only a fraction of students passed.",
+    "mnemonic": "fract(깨다) + ion. 깨뜨린 조각이 분수! fract(깨다): fracture(골절), fragment(파편)."
+  },
+  {
+    "en": "conceive",
+    "ko": "생각해내다",
+    "example": "She conceived a brilliant plan.",
+    "mnemonic": "con(완전히) + ceive(잡다). 머릿속에 완전히 잡으면 착상! ceive(잡다): receive(받다), perceive(인식), deceive(속이다)."
+  },
+  {
+    "en": "establish",
+    "ko": "설립하다",
+    "example": "The company was established in 1990.",
+    "mnemonic": "e(밖으로) + stablish(안정). 안정적으로 세우면 설립! stable(안정된)과 같은 어근. establishment(설립)."
+  },
+  {
+    "en": "characteristic",
+    "ko": "특성",
+    "example": "Patience is her main characteristic.",
+    "mnemonic": "character(성격, 문자) + istic. 성격의 특성! 그리스어 charakter(새긴 표시)에서 유래."
+  },
+  {
+    "en": "promote",
+    "ko": "촉진하다",
+    "example": "Exercise promotes good health.",
+    "mnemonic": "pro(앞으로) + mote(움직이다). 앞으로 움직이면 촉진! mot(움직이다): motion(움직임), remote(멀리), emotion(감정)."
+  },
+  {
+    "en": "device",
+    "ko": "장치",
+    "example": "This device can measure temperature.",
+    "mnemonic": "de(떨어져) + vice(나누다). 분리해서 만든 것이 장치! divide(나누다)와 같은 어근. devise(고안하다)는 동사형."
+  },
+  {
+    "en": "announce",
+    "ko": "발표하다",
+    "example": "The teacher announced the test results.",
+    "mnemonic": "an(~에) + nounce(알리다). 알려주면 발표! nounce(알리다): pronounce(발음), denounce(비난)."
+  },
+  {
+    "en": "strengthen",
+    "ko": "강화하다",
+    "example": "Exercise strengthens your muscles.",
+    "mnemonic": "strength(힘) + en(~하게 하다). 힘을 더하면 강화! -en 접미사: weaken(약화), widen(넓히다), deepen(깊게)."
+  },
+  {
+    "en": "eventually",
+    "ko": "결국",
+    "example": "He eventually passed the exam.",
+    "mnemonic": "event(사건) + ually. 여러 사건을 거쳐 결국! e(밖으로) + vent(오다) → 나타난 일 = 사건."
+  },
+  {
+    "en": "dilemma",
+    "ko": "딜레마",
+    "example": "She faced a difficult dilemma.",
+    "mnemonic": "그리스어 di(둘) + lemma(제안). 두 가지 중 어려운 선택이 딜레마!"
+  },
+  {
+    "en": "discipline",
+    "ko": "규율",
+    "example": "The school has strict discipline.",
+    "mnemonic": "라틴어 discipulus(배우는 사람) + ine. 배움의 규율! disciple(제자)과 같은 어근. disciplinary(규율의)."
+  },
+  {
+    "en": "cultivate",
+    "ko": "경작하다",
+    "example": "Farmers cultivate rice.",
+    "mnemonic": "라틴어 cultivare = cult(경작하다) + ivate. 밭을 갈아 경작! culture(문화), agriculture(농업)도 같은 어근 cult."
   }
 ]

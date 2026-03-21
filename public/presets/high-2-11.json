@@ -1,0 +1,302 @@
+[
+  {
+    "en": "compulsory",
+    "ko": "의무적인, 강제적인",
+    "example": "Education is compulsory for children between ages 6 and 15.",
+    "mnemonic": "com(함께) + puls(밀다) + ory = 밀어붙이는 → 강제적인. pulse(맥박), propel(추진)과 같은 어근"
+  },
+  {
+    "en": "salient",
+    "ko": "두드러진, 현저한",
+    "example": "The report highlighted the salient points of the research findings.",
+    "mnemonic": "라틴어 salire(뛰다)에서 유래. sali(뛰다) + ent = 튀어나온 → 두드러진. assault(공격), result(결과)와 같은 어근"
+  },
+  {
+    "en": "niche",
+    "ko": "틈새, 적소",
+    "example": "The company found a profitable niche in the organic food market.",
+    "mnemonic": "프랑스어 niche(벽감, 구멍)에서 유래. 벽의 작은 공간 → 틈새, 적소"
+  },
+  {
+    "en": "unanimity",
+    "ko": "만장일치, 전원합의",
+    "example": "The decision was made with unanimity among all board members.",
+    "mnemonic": "un(하나) + anim(마음) + ity = 하나의 마음 → 만장일치. animal(동물, 생명), animate(생기를 주다)와 같은 어근"
+  },
+  {
+    "en": "intricate",
+    "ko": "복잡한, 정교한",
+    "example": "The watch contains an intricate mechanism with hundreds of tiny parts.",
+    "mnemonic": "in(안에) + tric(얽히다) + ate = 안에서 얽힌 → 복잡한, 정교한. trick(속임수)과 같은 어근"
+  },
+  {
+    "en": "pristine",
+    "ko": "원시 그대로의, 깨끗한",
+    "example": "The beach was in pristine condition with crystal-clear water.",
+    "mnemonic": "라틴어 pristinus(이전의, 원래의)에서 유래. prist(이전의) + ine = 원래 그대로의 → 깨끗한"
+  },
+  {
+    "en": "relegate",
+    "ko": "좌천시키다, 격하하다",
+    "example": "The team was relegated to the second division after losing.",
+    "mnemonic": "re(다시) + leg(보내다) + ate = 다시 보내다 → 좌천시키다. delegate(위임하다), legal(법적인)과 같은 어근"
+  },
+  {
+    "en": "validate",
+    "ko": "확인하다, 유효하게 하다",
+    "example": "The experiment was designed to validate the researcher's hypothesis.",
+    "mnemonic": "valid(유효한) + ate = 유효하게 만들다 → 확인하다. valid(유효한), value(가치)와 같은 어근 val(강한, 가치있는)"
+  },
+  {
+    "en": "efficacy",
+    "ko": "효능, 유효성",
+    "example": "The efficacy of the new vaccine was confirmed by clinical trials.",
+    "mnemonic": "ef(밖으로) + fic(만들다) + acy = 만들어낸 결과 → 효능. efficient(효율적), effect(효과)와 같은 어근 fac/fic"
+  },
+  {
+    "en": "auspicious",
+    "ko": "길조의, 상서로운",
+    "example": "The sunny weather was an auspicious sign for the outdoor wedding.",
+    "mnemonic": "au(새) + spic(보다) + ious = 새를 보고 점치다 → 길조의. 고대 로마의 조점(鳥占)에서 유래. spectacle(광경)과 같은 어근"
+  },
+  {
+    "en": "deposition",
+    "ko": "퇴위, 증언 진술",
+    "example": "The witness gave a deposition before the trial began.",
+    "mnemonic": "de(아래로) + posit(놓다) + ion = 아래로 내려놓다 → 퇴위/증언. deposit(예금), position(위치)와 같은 어근"
+  },
+  {
+    "en": "purport",
+    "ko": "~라고 주장하다, 취지",
+    "example": "The document purports to be an official government report.",
+    "mnemonic": "pur(앞으로) + port(나르다) = 앞으로 내세우다 → 주장하다. transport(수송), import(수입)과 같은 어근"
+  },
+  {
+    "en": "indictment",
+    "ko": "기소, 고발",
+    "example": "The grand jury returned an indictment against the suspect.",
+    "mnemonic": "in(안으로) + dict(말하다) + ment = 말로 고하다 → 기소. dictate(지시하다), predict(예측하다)와 같은 어근"
+  },
+  {
+    "en": "pedagogy",
+    "ko": "교육학, 교수법",
+    "example": "Modern pedagogy emphasizes student-centered learning.",
+    "mnemonic": "ped(아이) + agogy(이끌다) = 아이를 이끌다 → 교육학. pediatric(소아과의)와 같은 어근"
+  },
+  {
+    "en": "tentative",
+    "ko": "잠정적인, 시험적인",
+    "example": "We made tentative plans for the trip that may change later.",
+    "mnemonic": "tent(시도하다) + ative = 시도하는 → 잠정적인. attempt(시도하다), tempt(유혹하다)와 같은 어근"
+  },
+  {
+    "en": "stagnant",
+    "ko": "정체된, 침체된",
+    "example": "The economy has remained stagnant for the past three years.",
+    "mnemonic": "stagn(멈추다, 못) + ant = 물이 고여 멈춘 → 정체된. 라틴어 stagnare(고이다)에서 유래"
+  },
+  {
+    "en": "dread",
+    "ko": "두려움, 몹시 두려워하다",
+    "example": "Many students dread final exams every semester.",
+    "mnemonic": "고대 영어 ondrædan(두려워하다)에서 유래. dread = 강한 두려움. dreadful(무서운)의 어근"
+  },
+  {
+    "en": "patronize",
+    "ko": "후원하다, 깔보듯 대하다",
+    "example": "She felt patronized by the condescending tone of his advice.",
+    "mnemonic": "patron(후원자) + ize = 후원자처럼 행동하다 → 후원하다/깔보듯 대하다. patriot(애국자)와 같은 어근"
+  },
+  {
+    "en": "ambiguous",
+    "ko": "모호한, 애매한",
+    "example": "His answer was deliberately ambiguous to avoid commitment.",
+    "mnemonic": "ambi(양쪽) + gu(가다) + ous = 양쪽으로 갈 수 있는 → 모호한. ambidextrous(양손잡이)와 같은 접두사"
+  },
+  {
+    "en": "ostracize",
+    "ko": "추방하다, 따돌리다",
+    "example": "The group ostracized anyone who disagreed with their views.",
+    "mnemonic": "그리스어 ostrakon(도자기 조각)에서 유래. 고대 아테네에서 도편추방 투표 → 추방하다"
+  },
+  {
+    "en": "quell",
+    "ko": "진압하다, 가라앉히다",
+    "example": "The police were called in to quell the disturbance.",
+    "mnemonic": "고대 영어 cwellan(죽이다)에서 유래. quell = 기세를 죽이다 → 진압하다"
+  },
+  {
+    "en": "topography",
+    "ko": "지형, 지세",
+    "example": "The topography of the region makes it difficult to build roads.",
+    "mnemonic": "topo(장소) + graphy(기록) = 장소를 기록하다 → 지형. geography(지리학), biography(전기)와 같은 어근 graph"
+  },
+  {
+    "en": "notorious",
+    "ko": "악명 높은",
+    "example": "The city was notorious for its high crime rate.",
+    "mnemonic": "not(알다) + orious = 알려진 → (나쁜 의미로) 악명 높은. notice(알아채다), note(주목하다)와 같은 어근"
+  },
+  {
+    "en": "corrode",
+    "ko": "부식하다, 침식하다",
+    "example": "Salt water can corrode metal surfaces over time.",
+    "mnemonic": "cor(완전히) + rode(갉아먹다) = 완전히 갉아먹다 → 부식하다. erode(침식하다)와 같은 어근 rod(갉다)"
+  },
+  {
+    "en": "contrive",
+    "ko": "고안하다, 획책하다",
+    "example": "She contrived a clever plan to surprise her friend on his birthday.",
+    "mnemonic": "con(함께) + trive(찾다, 발명하다) = 함께 찾아내다 → 고안하다. 고대 프랑스어 controver(발명하다)에서 유래"
+  },
+  {
+    "en": "implausible",
+    "ko": "믿기 어려운, 그럴듯하지 않은",
+    "example": "His excuse for being late sounded completely implausible.",
+    "mnemonic": "'임플로저블' → 'im(not)+plausible(그럴듯한)' 그럴듯하지 않은!"
+  },
+  {
+    "en": "ubiquitous",
+    "ko": "어디에나 있는, 편재하는",
+    "example": "Smartphones have become ubiquitous in modern society.",
+    "mnemonic": "ubi(어디에나) + quit(~곳) + ous = 어디에나 있는 → 편재하는. 라틴어 ubique(어디에서나)에서 유래"
+  },
+  {
+    "en": "skeptical",
+    "ko": "회의적인",
+    "example": "Scientists remained skeptical about the effectiveness of the treatment.",
+    "mnemonic": "그리스어 skeptikos(살펴보는)에서 유래. skept(살피다) + ical = 자세히 살피는 → 회의적인"
+  },
+  {
+    "en": "superfluous",
+    "ko": "불필요한, 과잉의",
+    "example": "Editing helps remove superfluous words from your writing.",
+    "mnemonic": "super(위로) + flu(흐르다) + ous = 넘쳐흐르는 → 불필요한. fluent(유창한), overflow(넘치다)와 같은 어근"
+  },
+  {
+    "en": "reprimand",
+    "ko": "질책, 질책하다",
+    "example": "The employee received a formal reprimand for violating company rules.",
+    "mnemonic": "re(다시) + prim(누르다) + and = 다시 눌러 억제하다 → 질책. repress(억압하다), compress(압축하다)와 같은 어근"
+  },
+  {
+    "en": "audacious",
+    "ko": "대담한, 뻔뻔한",
+    "example": "The audacious plan to rescue the hostages succeeded against all odds.",
+    "mnemonic": "aud(대담한) + acious = 라틴어 audax(대담한)에서 유래. audacity(대담함)의 형용사형"
+  },
+  {
+    "en": "perpetuate",
+    "ko": "영속시키다, 지속시키다",
+    "example": "Stereotypes are perpetuated through media and popular culture.",
+    "mnemonic": "per(완전히) + petu(추구하다) + ate = 끊임없이 추구하다 → 영속시키다. perpetual(영원한)과 같은 어근"
+  },
+  {
+    "en": "utilitarian",
+    "ko": "실용주의적인, 공리주의의",
+    "example": "She chose the furniture for utilitarian purposes rather than aesthetics.",
+    "mnemonic": "util(사용하다) + itarian = 사용에 관한 → 실용적인. utility(유용성), utilize(활용하다)와 같은 어근"
+  },
+  {
+    "en": "admonish",
+    "ko": "훈계하다, 충고하다",
+    "example": "The teacher admonished the students for talking during the lecture.",
+    "mnemonic": "ad(~에) + mon(경고하다) + ish = 경고하다 → 훈계하다. monitor(감시하다), monument(기념비)와 같은 어근"
+  },
+  {
+    "en": "efficacious",
+    "ko": "효과적인, 효력 있는",
+    "example": "The new treatment proved highly efficacious in clinical trials.",
+    "mnemonic": "ef(밖으로) + fic(만들다) + acious = 결과를 만들어내는 → 효과적인. efficient(효율적), effect(효과)와 같은 어근"
+  },
+  {
+    "en": "extort",
+    "ko": "강탈하다, 갈취하다",
+    "example": "The criminal tried to extort money from local business owners.",
+    "mnemonic": "ex(밖으로) + tort(비틀다) = 비틀어 빼내다 → 강탈하다. torture(고문), distort(왜곡하다)와 같은 어근"
+  },
+  {
+    "en": "sanction",
+    "ko": "제재, 인가하다",
+    "example": "The United Nations imposed sanctions on the country for violating international law.",
+    "mnemonic": "sanct(신성한) + ion = 신성한 결정 → 제재/인가. sanctuary(성역), saint(성인)과 같은 어근"
+  },
+  {
+    "en": "upheaval",
+    "ko": "격변, 대변동",
+    "example": "The political upheaval led to significant changes in the government.",
+    "mnemonic": "up(위로) + heav(들어올리다) + al = 위로 들어올려 뒤집는 → 격변. heave(들어올리다)에서 유래"
+  },
+  {
+    "en": "incipient",
+    "ko": "초기의, 발단의",
+    "example": "The doctor detected an incipient form of the disease.",
+    "mnemonic": "in(안으로) + cip(잡다) + ient = 막 잡기 시작하는 → 초기의. inception(시작)과 같은 어근"
+  },
+  {
+    "en": "flagrant",
+    "ko": "명백한, 극악한",
+    "example": "The referee penalized the player for a flagrant foul.",
+    "mnemonic": "'플레이그런트' → 'flagr(불타는)+ant' 불타오를 만큼 명백한!"
+  },
+  {
+    "en": "cumulative",
+    "ko": "누적의, 점증하는",
+    "example": "The cumulative effect of pollution is devastating.",
+    "mnemonic": "cumul(쌓다) + ative = 쌓이는 → 누적의. accumulate(축적하다)와 같은 어근"
+  },
+  {
+    "en": "galvanize",
+    "ko": "자극하다, 활기를 불어넣다",
+    "example": "The leader's speech galvanized the crowd into action.",
+    "mnemonic": "'갤버나이즈' → '갈바니(전기 발견자)' 전기 충격처럼 자극!"
+  },
+  {
+    "en": "saga",
+    "ko": "대서사시, 장편 이야기",
+    "example": "The family saga spans three generations of immigrants.",
+    "mnemonic": "고대 노르드어 saga(말하다, 이야기)에서 유래. 긴 이야기 → 대서사시. say(말하다)와 같은 어원 계열"
+  },
+  {
+    "en": "lucid",
+    "ko": "명료한, 맑은",
+    "example": "Despite his age, the professor gave a lucid explanation of the theory.",
+    "mnemonic": "luc(빛) + id = 빛이 있는 → 명료한. translucent(반투명한), lucent(빛나는)와 같은 어근"
+  },
+  {
+    "en": "redundant",
+    "ko": "잉여의, 불필요한",
+    "example": "Automation has made many factory workers redundant.",
+    "mnemonic": "re(다시) + und(넘치다) + ant = 다시 넘치는 → 잉여의. abundant(풍부한), inundate(범람)와 같은 어근"
+  },
+  {
+    "en": "scrutinize",
+    "ko": "면밀히 조사하다",
+    "example": "The auditor scrutinized every financial transaction of the company.",
+    "mnemonic": "scrutin(조사하다) + ize = 꼼꼼히 살피다 → 면밀히 조사하다. 라틴어 scrutari(뒤지다)에서 유래"
+  },
+  {
+    "en": "detachment",
+    "ko": "분리, 초연함",
+    "example": "She observed the argument with cool detachment.",
+    "mnemonic": "de(떨어져) + tach(붙이다) + ment = 떼어내는 것 → 분리. attach(붙이다)의 반대"
+  },
+  {
+    "en": "impeccable",
+    "ko": "흠잡을 데 없는, 완벽한",
+    "example": "She has an impeccable record of community service.",
+    "mnemonic": "im(not) + pecc(죄) + able = 죄가 없는 → 흠잡을 데 없는. 라틴어 peccare(죄를 짓다)에서 유래"
+  },
+  {
+    "en": "evade",
+    "ko": "피하다, 회피하다",
+    "example": "The suspect tried to evade the police by hiding in the forest.",
+    "mnemonic": "'이베이드' → 'e(밖)+vade(가다)' 밖으로 빠져나가 피하다!"
+  },
+  {
+    "en": "ruthless",
+    "ko": "무자비한, 냉혹한",
+    "example": "The ruthless dictator suppressed all forms of opposition.",
+    "mnemonic": "ruth(연민) + less(없는) = 연민이 없는 → 무자비한. 고대 영어 hreow(슬픔, 연민)에서 유래"
+  }
+]

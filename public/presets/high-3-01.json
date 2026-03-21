@@ -1,0 +1,302 @@
+[
+  {
+    "en": "benefactor",
+    "ko": "후원자, 은인",
+    "example": "An anonymous benefactor donated a million dollars to the university.",
+    "mnemonic": "bene(좋은) + fact(하다) + or = 좋은 일을 하는 사람 → 후원자. bene(좋은): benefit, benevolent. fac(하다): factory, manufacture"
+  },
+  {
+    "en": "abysmal",
+    "ko": "최악의, 심연의",
+    "example": "The team's performance this season has been abysmal.",
+    "mnemonic": "abyss(심연, 그리스어 abyssos = 바닥 없는) + mal = 심연처럼 깊은 → 최악의. a(없는) + byssos(바닥)"
+  },
+  {
+    "en": "immanent",
+    "ko": "내재하는, 고유한",
+    "example": "The philosopher argued that morality is immanent in human nature.",
+    "mnemonic": "im(안에) + man(머물다, 라틴어 manere) + ent = 안에 머무는 → 내재하는. man(머물다): remain, permanent, mansion"
+  },
+  {
+    "en": "preclude",
+    "ko": "배제하다, 불가능하게 하다",
+    "example": "His injury precluded him from participating in the championship match.",
+    "mnemonic": "pre(미리) + clude(닫다, 라틴어 claudere) = 미리 닫다 → 배제하다. clud(닫다): include, exclude, conclude, seclude"
+  },
+  {
+    "en": "risible",
+    "ko": "웃음을 자아내는, 우스꽝스러운",
+    "example": "The politician's risible excuse for his absence fooled no one.",
+    "mnemonic": "ris(웃다, 라틴어 ridere) + ible = 웃을 만한 → 우스꽝스러운. ris/rid(웃다): ridicule, deride, risibility"
+  },
+  {
+    "en": "partisan",
+    "ko": "당파적인, 편파적인",
+    "example": "The media was accused of presenting a partisan view of the election.",
+    "mnemonic": "part(부분, 파벌) + isan = 한 파벌에 속한 → 당파적인. part(부분): partial, participate"
+  },
+  {
+    "en": "mercenary",
+    "ko": "용병, 돈을 위한",
+    "example": "The warlord hired mercenary soldiers to fight on his behalf.",
+    "mnemonic": "mercen(보수, 라틴어 merces=임금) + ary = 보수를 위한 → 용병. merc(상업): merchant, mercury, commerce"
+  },
+  {
+    "en": "idiosyncrasy",
+    "ko": "특이한 버릇, 기벽",
+    "example": "Each artist has unique idiosyncrasies that define their creative process.",
+    "mnemonic": "idio(자기만의, 그리스어 idios) + syn(함께) + crasy(섞임) = 자기만의 독특한 혼합 → 기벽"
+  },
+  {
+    "en": "abnegate",
+    "ko": "포기하다, 부인하다",
+    "example": "The monk abnegated all worldly pleasures to pursue spiritual growth.",
+    "mnemonic": "ab(떨어져) + neg(부정하다, 라틴어 negare) + ate = 부정하여 떨어뜨리다 → 포기하다. neg(부정): negate, negative, deny"
+  },
+  {
+    "en": "evanescent",
+    "ko": "덧없는, 곧 사라지는",
+    "example": "The evanescent beauty of cherry blossoms attracts millions of visitors.",
+    "mnemonic": "e(밖으로) + van(사라지다, 라틴어 vanescere) + escent = 사라져가는 → 덧없는. van(사라지다): vanish, vain"
+  },
+  {
+    "en": "plaintive",
+    "ko": "슬픈, 애절한",
+    "example": "The plaintive cry of the bird echoed through the empty forest.",
+    "mnemonic": "plaint(불평, 탄식, 라틴어 plangere=가슴을 치다) + ive = 탄식하는 → 슬픈. plaint(탄식): complaint, plaintiff"
+  },
+  {
+    "en": "privation",
+    "ko": "결핍, 궁핍",
+    "example": "The refugees endured terrible privation during their long journey.",
+    "mnemonic": "priv(빼앗다, 라틴어 privare) + ation = 빼앗긴 상태 → 결핍. priv(빼앗다): deprive, private(개인적인=타인에게서 빼앗긴)"
+  },
+  {
+    "en": "monotonous",
+    "ko": "단조로운, 지루한",
+    "example": "The monotonous hum of the machinery made the workers drowsy.",
+    "mnemonic": "mono(하나) + ton(음, 그리스어 tonos) + ous = 하나의 음만 있는 → 단조로운. mono(하나): monologue, monopoly"
+  },
+  {
+    "en": "refulgent",
+    "ko": "눈부시게 빛나는, 찬란한",
+    "example": "The refulgent sunrise over the ocean filled the travelers with awe.",
+    "mnemonic": "re(다시, 뒤로) + fulg(빛나다, 라틴어 fulgere) + ent = 빛을 되쏘는 → 눈부시게 빛나는. fulg(빛나다): fulgent, effulgent"
+  },
+  {
+    "en": "sunder",
+    "ko": "갈라놓다, 분리하다",
+    "example": "The civil war sundered the nation into two hostile factions.",
+    "mnemonic": "고대 영어 sundrian(분리하다). 갈라놓다 → 분리하다. asunder(산산이)와 같은 어원"
+  },
+  {
+    "en": "querulous",
+    "ko": "불평하는, 투덜거리는",
+    "example": "The querulous patient complained about everything from the food to the nurses.",
+    "mnemonic": "quer(불평하다, 라틴어 queri) + ulous = 불평이 많은 → 투덜거리는. quer(불평): quarrel, query"
+  },
+  {
+    "en": "mar",
+    "ko": "손상시키다, 망치다",
+    "example": "A single mistake can mar an otherwise perfect record.",
+    "mnemonic": "고대 영어 merran(방해하다, 손상시키다). 짧고 강한 단어: 손상시키다 → 망치다"
+  },
+  {
+    "en": "debase",
+    "ko": "가치를 떨어뜨리다, 타락시키다",
+    "example": "The government debased the currency by printing excessive amounts of money.",
+    "mnemonic": "de(아래로) + base(기초, 낮은) = 아래로 낮추다 → 가치를 떨어뜨리다. base(낮은): abase, basement"
+  },
+  {
+    "en": "byzantine",
+    "ko": "복잡한, 난해한",
+    "example": "The byzantine tax code confused even the most experienced accountants.",
+    "mnemonic": "Byzantium(비잔티움 제국)에서 유래. 비잔티움 제국의 정치가 매우 복잡했던 것에서 → 복잡한, 난해한"
+  },
+  {
+    "en": "immutable",
+    "ko": "불변의, 변경할 수 없는",
+    "example": "The laws of physics are considered immutable by most scientists.",
+    "mnemonic": "'이뮤터블' → 'im(아닌)+mutable(변할 수 있는)' 변할 수 없는 불변!"
+  },
+  {
+    "en": "genteel",
+    "ko": "품위 있는, 상류층의",
+    "example": "The genteel manners of the old aristocracy have largely disappeared.",
+    "mnemonic": "gent(태어나다, 종족) + eel = 좋은 가문에서 태어난 → 품위 있는. gent(태어남): gentle, gentry, generate"
+  },
+  {
+    "en": "ablution",
+    "ko": "세정, 목욕 의식",
+    "example": "The monks performed their morning ablutions before entering the temple.",
+    "mnemonic": "ab(떨어져) + lut(씻다, 라틴어 luere) + ion = 씻어내는 행위 → 세정. lu/lav(씻다): dilute, lavatory, deluge"
+  },
+  {
+    "en": "umbrage",
+    "ko": "불쾌감, 화",
+    "example": "She took umbrage at the suggestion that she was not qualified.",
+    "mnemonic": "umbr(그림자, 라틴어 umbra) + age = 그림자가 드리우듯 → 불쾌감. umbr(그림자): umbrella, penumbra, adumbrate"
+  },
+  {
+    "en": "eschew",
+    "ko": "피하다, 삼가다",
+    "example": "The monk eschewed all worldly pleasures in pursuit of spiritual enlightenment.",
+    "mnemonic": "고대 프랑스어 eschiver(피하다), 게르만어 skiuhan(겁내다)에서 유래 → 의식적으로 피하다. shy(수줍은)와 같은 어원"
+  },
+  {
+    "en": "disabuse",
+    "ko": "잘못된 생각을 바로잡다",
+    "example": "The teacher tried to disabuse her students of common scientific myths.",
+    "mnemonic": "dis(제거) + abuse(남용, 잘못된 사용) = 잘못된 생각을 제거하다 → 바로잡다"
+  },
+  {
+    "en": "fatuous",
+    "ko": "어리석은, 멍청한",
+    "example": "His fatuous remarks during the meeting embarrassed everyone present.",
+    "mnemonic": "fatu(어리석은, 라틴어 fatuus) + ous = 어리석은. infatuate(열중시키다=어리석게 만들다)와 같은 어근"
+  },
+  {
+    "en": "mollify",
+    "ko": "달래다, 누그러뜨리다",
+    "example": "The company tried to mollify angry customers with gift vouchers.",
+    "mnemonic": "moll(부드러운, 라틴어 mollis) + ify = 부드럽게 만들다 → 달래다. moll(부드러운): emollient"
+  },
+  {
+    "en": "florid",
+    "ko": "화려한, 붉은빛의",
+    "example": "The author's florid prose style is not to everyone's taste.",
+    "mnemonic": "'플로리드' → 'flor(꽃)+id' 꽃처럼 화려한!"
+  },
+  {
+    "en": "anathema",
+    "ko": "혐오의 대상, 저주",
+    "example": "The idea of censorship is anathema to most journalists.",
+    "mnemonic": "그리스어 anathema(봉헌물 → 저주받은 것). ana(위로) + thema(놓다) = 신에게 바쳐 저주한 것 → 혐오의 대상"
+  },
+  {
+    "en": "truncate",
+    "ko": "절단하다, 축소하다",
+    "example": "The editor truncated the article to fit the available space.",
+    "mnemonic": "trunc(줄기, 라틴어 truncus) + ate = 줄기를 자르다 → 절단하다. trunk(줄기, 몸통)와 같은 어원"
+  },
+  {
+    "en": "officious",
+    "ko": "참견하기 좋아하는, 주제넘은",
+    "example": "The officious clerk insisted on checking every form three times.",
+    "mnemonic": "offic(직무, 라틴어 officium) + ious = 직무에 과도하게 열심인 → 참견하는. office(사무실)와 같은 어근"
+  },
+  {
+    "en": "endogenous",
+    "ko": "내인성의, 내부에서 생기는",
+    "example": "The economic problems were endogenous, caused by the country's own policies.",
+    "mnemonic": "endo(안에, 그리스어) + gen(생기다) + ous = 안에서 생기는 → 내인성의. gen(생기다): gene, generate. endo(안에): endoscopy"
+  },
+  {
+    "en": "chronicler",
+    "ko": "연대기 작가, 기록자",
+    "example": "The medieval chronicler recorded events from the king's reign in detail.",
+    "mnemonic": "chron(시간, 그리스어 chronos) + icler = 시간 순서대로 기록하는 사람 → 연대기 작가. chron(시간): chronology, synchronize"
+  },
+  {
+    "en": "progenitor",
+    "ko": "조상, 시조",
+    "example": "The ancient civilization is considered the progenitor of modern democratic thought.",
+    "mnemonic": "pro(앞으로) + genit(낳다, 라틴어 gignere) + or = 앞서 낳은 자 → 조상. gen(낳다): generate, genesis, progeny, congenital"
+  },
+  {
+    "en": "ephemeral",
+    "ko": "일시적인, 덧없는",
+    "example": "Fame in the entertainment industry is often ephemeral.",
+    "mnemonic": "'이페머럴' → 'epi(위에)+hemer(하루)' 하루만 위에 있는 덧없는!"
+  },
+  {
+    "en": "wane",
+    "ko": "이지러지다, 약해지다",
+    "example": "Public interest in the scandal began to wane after several weeks.",
+    "mnemonic": "고대 영어 wanian(줄어들다)에서 유래. 달이 이지러지다 → 약해지다. wax and wane(차고 기울다)"
+  },
+  {
+    "en": "quiescent",
+    "ko": "조용한, 잠잠한",
+    "example": "The volcano remained quiescent for centuries before suddenly erupting.",
+    "mnemonic": "quie(조용한, 라틴어 quies) + scent = 조용해지고 있는 → 잠잠한. quie(조용한): quiet, acquiesce(묵인하다)"
+  },
+  {
+    "en": "hypocrisy",
+    "ko": "위선",
+    "example": "The politician's hypocrisy was exposed when his private actions contradicted his public statements.",
+    "mnemonic": "hypo(아래에) + crisy(판단하다, 그리스어 krinein) = 아래에서 연기하다 → 위선. 그리스어 hypokrites(배우, 위선자)"
+  },
+  {
+    "en": "expatriate",
+    "ko": "국외 거주자, 추방하다",
+    "example": "Many expatriates living abroad still maintain strong ties to their homeland.",
+    "mnemonic": "'엑스패트리엇' → 'ex(밖)+patri(조국)+ate' 조국 밖으로 나간 국외 거주자!"
+  },
+  {
+    "en": "miscreant",
+    "ko": "악당, 범죄자",
+    "example": "The miscreants responsible for the vandalism were caught on camera.",
+    "mnemonic": "mis(잘못된, 고대 프랑스어 mes) + creant(믿는, 라틴어 credere) = 잘못 믿는 → 악당. cred(믿다): creed, credit"
+  },
+  {
+    "en": "forestall",
+    "ko": "미연에 방지하다, 선수치다",
+    "example": "Quick action by the authorities forestalled a potential disaster.",
+    "mnemonic": "'포어스톨' → 'fore(미리)+stall(멈추다)' 미리 멈추어 방지!"
+  },
+  {
+    "en": "pontificate",
+    "ko": "독단적으로 말하다, 교황직",
+    "example": "He loved to pontificate about politics at every family gathering.",
+    "mnemonic": "pontific(교황의, 라틴어 pontifex=다리를 놓는 자) + ate = 교황처럼 말하다 → 독단적으로 말하다"
+  },
+  {
+    "en": "peremptory",
+    "ko": "유무를 가리지 않는, 단호한",
+    "example": "The judge issued a peremptory order to clear the courtroom.",
+    "mnemonic": "per(완전히) + empt(취하다, 라틴어 emere=사다) + ory = 완전히 빼앗는 → 단호한. empt(취하다): exempt, preempt"
+  },
+  {
+    "en": "aplomb",
+    "ko": "침착함, 자신감",
+    "example": "The young actress handled the difficult interview with remarkable aplomb.",
+    "mnemonic": "a(~에) + plomb(납, 프랑스어 plomb) = 추처럼 흔들리지 않는 → 침착함. plumb(납추): plumber, plummet"
+  },
+  {
+    "en": "fractious",
+    "ko": "성마른, 다루기 힘든",
+    "example": "The fractious committee could not agree on a single proposal.",
+    "mnemonic": "'프랙셔스' → 'fract(부수다)+ious' 부수듯 성마르고 다루기 힘든!"
+  },
+  {
+    "en": "spurious",
+    "ko": "거짓의, 가짜의",
+    "example": "The archaeologist discovered that the artifact was spurious.",
+    "mnemonic": "라틴어 spurius(사생아, 가짜)에서 유래 → 진짜가 아닌 거짓의"
+  },
+  {
+    "en": "dissipate",
+    "ko": "흩어지다, 낭비하다",
+    "example": "The morning fog dissipated as the sun rose higher in the sky.",
+    "mnemonic": "dis(사방으로) + sip(던지다, 라틴어 supare) + ate = 사방으로 던져 흩다 → 흩어지다, 낭비하다"
+  },
+  {
+    "en": "restive",
+    "ko": "안절부절못하는, 다루기 힘든",
+    "example": "The restive crowd grew increasingly impatient with the long delay.",
+    "mnemonic": "rest(멈추다) + ive = 멈추기를 거부하는 → 안절부절못하는. 원래 말이 멈춰서 안 가려는 것에서 유래"
+  },
+  {
+    "en": "peccadillo",
+    "ko": "사소한 잘못, 경미한 과실",
+    "example": "Everyone has a few peccadilloes that they would rather keep private.",
+    "mnemonic": "스페인어 pecadillo(작은 죄), pecado(죄, 라틴어 peccatum). 작은 죄 → 사소한 잘못. pecc(죄): impeccable(흠잡을 데 없는)"
+  },
+  {
+    "en": "multifaceted",
+    "ko": "다면적인, 다양한",
+    "example": "The problem is multifaceted and requires a comprehensive solution.",
+    "mnemonic": "multi(많은) + facet(면) + ed = 많은 면을 가진 → 다면적인"
+  }
+]

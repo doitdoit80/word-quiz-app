@@ -1,0 +1,302 @@
+[
+  {
+    "en": "assist",
+    "ko": "돕다, 지원하다",
+    "example": "The nurse assisted the doctor during surgery.",
+    "mnemonic": "as(~옆에) + sist(서다, sistere) = 옆에 서다 → 돕다. 관련어: consist, persist"
+  },
+  {
+    "en": "import",
+    "ko": "수입하다, 수입",
+    "example": "Korea imports oil from the Middle East.",
+    "mnemonic": "'임포트' → 'im(안으로)+port(항구)' 항구 안으로 = 수입!"
+  },
+  {
+    "en": "defeat",
+    "ko": "패배시키다, 패배",
+    "example": "The team defeated their rivals in the final game.",
+    "mnemonic": "de(반대) + feat(만들다, facere) = 만든 것을 무너뜨리다 → 패배시키다. 관련어: defect"
+  },
+  {
+    "en": "extinct",
+    "ko": "멸종한",
+    "example": "Dinosaurs became extinct millions of years ago.",
+    "mnemonic": "ex(완전히) + tinct(꺼지다, stinguere) = 완전히 꺼진 → 멸종한. 관련어: distinguish, distinct"
+  },
+  {
+    "en": "destiny",
+    "ko": "운명",
+    "example": "She believed it was her destiny to become a singer.",
+    "mnemonic": "de(완전히) + stin(서다, 정하다, stare) + y = 확고히 정해진 것 → 운명. 관련어: destination"
+  },
+  {
+    "en": "kingdom",
+    "ko": "왕국",
+    "example": "The United Kingdom consists of four countries.",
+    "mnemonic": "'킹덤' → 'king(왕)+dom(영역)' 왕의 영역 = 왕국!"
+  },
+  {
+    "en": "genius",
+    "ko": "천재",
+    "example": "Einstein was a genius in physics.",
+    "mnemonic": "라틴어 genius(수호신, 재능)에서 유래. gen(낳다). 태어날 때 부여받은 재능 → 천재. 관련어: gene"
+  },
+  {
+    "en": "exception",
+    "ko": "예외",
+    "example": "Everyone must follow the rules without exception.",
+    "mnemonic": "ex(밖으로) + cept(잡다, capere) + ion = 밖으로 빠져나온 것 → 예외. 관련어: accept, concept"
+  },
+  {
+    "en": "symptom",
+    "ko": "증상, 징후",
+    "example": "Fever is a common symptom of the flu.",
+    "mnemonic": "sym(함께) + ptom(떨어지다, ptosis) = 함께 나타나는 것 → 증상. 관련어: syndrome"
+  },
+  {
+    "en": "expedition",
+    "ko": "탐험, 원정",
+    "example": "The team organized an expedition to the South Pole.",
+    "mnemonic": "ex(밖으로) + ped(발, pes) + ition = 발을 내딛고 밖으로 → 탐험. 관련어: pedestrian"
+  },
+  {
+    "en": "intelligence",
+    "ko": "지능, 정보",
+    "example": "Artificial intelligence is changing our world.",
+    "mnemonic": "'인텔리전스' → '인텔리(intelli=지능)+전스' AI 지능!"
+  },
+  {
+    "en": "objective",
+    "ko": "객관적인, 목표",
+    "example": "Our main objective is to finish the project on time.",
+    "mnemonic": "'오브젝티브' → 'object(목표)+ive' 목표를 향한 객관적인!"
+  },
+  {
+    "en": "enhance",
+    "ko": "향상시키다, 높이다",
+    "example": "Regular exercise can enhance your health.",
+    "mnemonic": "en(만들다) + hance(높은, altus) = 높게 만들다 → 향상시키다"
+  },
+  {
+    "en": "quest",
+    "ko": "탐색, 탐구",
+    "example": "The knight went on a quest to find the treasure.",
+    "mnemonic": "라틴어 quaerere(찾다, 구하다)에서 유래. 무언가를 찾아 나서다 → 탐색. 관련어: question, require"
+  },
+  {
+    "en": "soul",
+    "ko": "영혼, 정신",
+    "example": "Music touches the soul.",
+    "mnemonic": "고대 영어 sāwol(영혼)에서 유래. 살아있는 것의 본질 → 영혼"
+  },
+  {
+    "en": "bleed",
+    "ko": "피가 나다, 출혈하다",
+    "example": "His finger started to bleed after the cut.",
+    "mnemonic": "고대 영어 blēdan에서 유래. blood(피)와 같은 어근. 피가 흐르다 → 출혈하다"
+  },
+  {
+    "en": "attend",
+    "ko": "참석하다, 출석하다",
+    "example": "All students must attend the ceremony.",
+    "mnemonic": "at(~을 향해) + tend(뻗다, tendere) = 관심을 뻗다 → 참석하다. 관련어: attention"
+  },
+  {
+    "en": "ideal",
+    "ko": "이상적인, 이상",
+    "example": "This is the ideal location for a new park.",
+    "mnemonic": "'아이디얼' → '아이디(idea)얼' 아이디어가 이상적인!"
+  },
+  {
+    "en": "fault",
+    "ko": "잘못, 결함",
+    "example": "It was my fault that we were late.",
+    "mnemonic": "라틴어 fallere(속이다, 실패하다)에서 유래. 실패한 것 → 잘못, 결함. 관련어: false, fail"
+  },
+  {
+    "en": "root",
+    "ko": "뿌리, 근원",
+    "example": "We need to find the root of the problem.",
+    "mnemonic": "고대 영어 rōt(뿌리)에서 유래. 식물의 가장 아래 부분 → 뿌리, 근원"
+  },
+  {
+    "en": "voyage",
+    "ko": "항해, 여행",
+    "example": "Columbus made a famous voyage across the Atlantic.",
+    "mnemonic": "라틴어 viaticum(여행 비용)에서 유래. via(길). 긴 길을 가는 것 → 항해, 여행"
+  },
+  {
+    "en": "vivid",
+    "ko": "생생한, 선명한",
+    "example": "She has vivid memories of her childhood.",
+    "mnemonic": "라틴어 vividus(살아있는)에서 유래. vivere(살다). 살아있는 듯한 → 생생한. 관련어: survive, revive"
+  },
+  {
+    "en": "prescription",
+    "ko": "처방전",
+    "example": "The doctor wrote a prescription for the medicine.",
+    "mnemonic": "pre(미리) + script(쓰다, scribere) + ion = 미리 써놓은 것 → 처방전"
+  },
+  {
+    "en": "minister",
+    "ko": "장관, 목사",
+    "example": "The prime minister gave a speech on TV.",
+    "mnemonic": "'미니스터' → '미니(mini=작은)+스터(ster)' 작은 봉사자 = 장관(원래 왕의 하인)!"
+  },
+  {
+    "en": "punish",
+    "ko": "처벌하다",
+    "example": "The teacher punished the student for cheating.",
+    "mnemonic": "pun(벌, poena) + ish(동사화) = 벌을 주다 → 처벌하다. 관련어: penalty, pain"
+  },
+  {
+    "en": "terrain",
+    "ko": "지형, 지대",
+    "example": "The terrain in this area is very mountainous.",
+    "mnemonic": "라틴어 terra(땅)에서 유래. 땅의 생김새 → 지형. 관련어: territory, terrace"
+  },
+  {
+    "en": "poverty",
+    "ko": "가난, 빈곤",
+    "example": "Many people in the world live in poverty.",
+    "mnemonic": "라틴어 pauper(가난한)에서 유래. pauc(적은)와 parare(얻다) → 적게 가진 → 빈곤"
+  },
+  {
+    "en": "humanity",
+    "ko": "인류, 인간성",
+    "example": "We must protect the humanity of all people.",
+    "mnemonic": "'휴매니티' → 'human(인간)+ity' 인간다움 = 인류!"
+  },
+  {
+    "en": "locate",
+    "ko": "위치를 찾다, 자리 잡다",
+    "example": "Can you locate the nearest hospital on the map?",
+    "mnemonic": "'로케이트' → 'loc(장소)+ate' 장소를 찾다!"
+  },
+  {
+    "en": "sponsor",
+    "ko": "후원자, 후원하다",
+    "example": "The company sponsored the sports event.",
+    "mnemonic": "라틴어 sponsor(보증인)에서 유래. spond(약속하다, spondere). 약속하고 돈을 대는 사람 → 후원자"
+  },
+  {
+    "en": "myth",
+    "ko": "신화, 근거 없는 믿음",
+    "example": "Greek myths are fascinating stories.",
+    "mnemonic": "'미스' → '미스(myth)' 터리한 신화 이야기!"
+  },
+  {
+    "en": "measure",
+    "ko": "측정하다, 조치",
+    "example": "The doctor measured his blood pressure.",
+    "mnemonic": "'메져' → '메저(measure)' 줄자로 측정!"
+  },
+  {
+    "en": "genuine",
+    "ko": "진짜의, 진실된",
+    "example": "Is this painting genuine or a copy?",
+    "mnemonic": "라틴어 genuinus(타고난, 본래의)에서 유래. gen(낳다). 태어날 때부터의 → 진짜의. 관련어: gene, genius"
+  },
+  {
+    "en": "abundance",
+    "ko": "풍부함, 풍요",
+    "example": "There was an abundance of food at the party.",
+    "mnemonic": "ab(away) + und(파도, unda) + ance = 파도처럼 넘쳐흐르다 → 풍부함"
+  },
+  {
+    "en": "voluntary",
+    "ko": "자발적인",
+    "example": "Participation in the event is voluntary.",
+    "mnemonic": "volunt(의지, voluntas) + ary = 의지에 따른 → 자발적인. 관련어: volunteer"
+  },
+  {
+    "en": "flavor",
+    "ko": "맛, 풍미",
+    "example": "This ice cream comes in many different flavors.",
+    "mnemonic": "라틴어 flare(불다)에서 유래. 코로 불어 맡는 것 → 향기 → 맛, 풍미"
+  },
+  {
+    "en": "transparent",
+    "ko": "투명한",
+    "example": "The glass is completely transparent.",
+    "mnemonic": "trans(통해서) + parent(나타나다, parere) = 통해서 나타나는 → 투명한. 관련어: apparent"
+  },
+  {
+    "en": "opponent",
+    "ko": "상대, 반대자",
+    "example": "She defeated her opponent in the tennis match.",
+    "mnemonic": "'어포넌트' → 'op(반대)+pon(놓다)+ent' 맞은편에 놓인 사람 = 상대!"
+  },
+  {
+    "en": "remote",
+    "ko": "먼, 원격의",
+    "example": "They live in a remote village in the mountains.",
+    "mnemonic": "re(뒤로) + mote(움직이다, movere) = 멀리 움직여진 → 먼, 원격의. 관련어: remove, motion"
+  },
+  {
+    "en": "fancy",
+    "ko": "화려한, 고급의, 상상하다",
+    "example": "She wore a fancy dress to the party.",
+    "mnemonic": "fantasy(환상)의 축약형. 그리스어 phantasia(상상)에서 유래. 상상이 만들어낸 → 화려한"
+  },
+  {
+    "en": "solemn",
+    "ko": "엄숙한, 장엄한",
+    "example": "The ceremony was solemn and dignified.",
+    "mnemonic": "라틴어 sollemnis(매해 행하는, 의식적인)에서 유래. 매년 하는 중요한 행사 → 엄숙한"
+  },
+  {
+    "en": "edition",
+    "ko": "판, 에디션",
+    "example": "This is the third edition of the textbook.",
+    "mnemonic": "e(밖으로) + dit(주다, dare) + ion = 밖으로 내놓다 → 출판하다 → 판. 관련어: edit, editor"
+  },
+  {
+    "en": "external",
+    "ko": "외부의",
+    "example": "The building's external walls need repainting.",
+    "mnemonic": "exter(바깥의, exterus) + nal = 바깥의 → 외부의. 관련어: extra, extreme"
+  },
+  {
+    "en": "fabric",
+    "ko": "직물, 천",
+    "example": "This dress is made of soft fabric.",
+    "mnemonic": "라틴어 fabrica(작업장, 기술)에서 유래. faber(장인). 장인이 만든 것 → 직물. 관련어: fabricate"
+  },
+  {
+    "en": "terror",
+    "ko": "공포, 테러",
+    "example": "The explosion caused terror among the people.",
+    "mnemonic": "라틴어 terror(공포)에서 유래. terrere(겁먹게 하다). 극도의 두려움 → 공포. 관련어: terrible, terrify"
+  },
+  {
+    "en": "gesture",
+    "ko": "몸짓, 제스처",
+    "example": "He made a gesture with his hand to say goodbye.",
+    "mnemonic": "라틴어 gestus(행동, 몸짓)에서 유래. gerere(행하다, 나르다). 몸으로 행하는 것 → 몸짓"
+  },
+  {
+    "en": "persist",
+    "ko": "지속하다, 고집하다",
+    "example": "She persisted in her efforts despite the difficulties.",
+    "mnemonic": "'퍼시스트' → 'per(계속)+sist(서다)' 계속 서있다 = 지속!"
+  },
+  {
+    "en": "pharmacy",
+    "ko": "약국, 제약",
+    "example": "She bought medicine at the pharmacy.",
+    "mnemonic": "그리스어 pharmakon(약, 독)에서 유래. 약을 다루는 곳 → 약국"
+  },
+  {
+    "en": "triumph",
+    "ko": "승리, 대성공",
+    "example": "The team celebrated their triumph in the finals.",
+    "mnemonic": "라틴어 triumphus(개선식, 승리)에서 유래. 그리스어 thriambos. 전쟁에서의 큰 승리"
+  },
+  {
+    "en": "comfort",
+    "ko": "편안함, 위로하다",
+    "example": "She tried to comfort her crying friend.",
+    "mnemonic": "com(함께) + fort(강한, fortis) = 함께 강하게 하다 → 위로하다, 편안함"
+  }
+]

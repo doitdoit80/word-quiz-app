@@ -1,152 +1,152 @@
 [
   {
-    "en": "fast",
-    "ko": "빠른",
-    "example": "The train is very fast.",
-    "mnemonic": "'패스트'푸드는 빠르게 나오는 음식!"
+    "en": "lucky",
+    "ko": "운이 좋은",
+    "example": "You are so lucky!",
+    "mnemonic": "중세 네덜란드어 luc(행운)에서 유래. luck(운) + y → 운이 좋은."
   },
   {
-    "en": "gift",
-    "ko": "선물",
-    "example": "Thank you for the gift.",
-    "mnemonic": "'기프트'카드를 선물로 주는 것."
+    "en": "spend",
+    "ko": "(시간을) 보내다",
+    "example": "I spend weekends with my family.",
+    "mnemonic": "라틴어 expendere(지불하다)에서 유래. expense(비용)와 같은 어원! 시간이나 돈을 쓰다."
   },
   {
-    "en": "high",
-    "ko": "높은",
-    "example": "That mountain is very high.",
-    "mnemonic": "'하이'파이브를 높이 올려서 치는 것!"
+    "en": "river",
+    "ko": "강, 하천",
+    "example": "The river flows to the sea.",
+    "mnemonic": "라틴어 ripa(강둑)에서 유래. rival(경쟁자)도 같은 강물을 쓰는 사람이란 뜻!"
   },
   {
-    "en": "inside",
-    "ko": "안쪽에",
-    "example": "Come inside, it's raining.",
-    "mnemonic": "in(안) + side(쪽). 안쪽에!"
+    "en": "thin",
+    "ko": "얇은",
+    "example": "The ice is too thin to walk on.",
+    "mnemonic": "고대 영어 thynne에서 유래. thick(두꺼운)의 반대! 둘 다 th로 시작하니 세트로 기억."
   },
   {
-    "en": "jump",
-    "ko": "뛰다",
-    "example": "The frog can jump very high.",
-    "mnemonic": "'점프'는 한국어로도 뛰는 것!"
+    "en": "ice",
+    "ko": "얼음",
+    "example": "Put some ice in my drink, please.",
+    "mnemonic": "고대 영어 is에서 유래. iceberg = ice(얼음) + berg(산) → 빙산."
   },
   {
-    "en": "large",
-    "ko": "큰",
-    "example": "They live in a large house.",
-    "mnemonic": "'라지'사이즈는 큰 사이즈!"
+    "en": "king",
+    "ko": "왕, 국왕",
+    "example": "The king lived in a big castle.",
+    "mnemonic": "고대 영어 cyning(부족의 우두머리)에서 유래. kingdom = king + dom(영역) → 왕국."
   },
   {
-    "en": "mountain",
-    "ko": "산",
-    "example": "We climbed the mountain yesterday.",
-    "mnemonic": "'마운틴'바이크를 타고 산을 올라요."
+    "en": "hurt",
+    "ko": "다치다",
+    "example": "My leg hurts.",
+    "mnemonic": "고대 프랑스어 hurter(부딪치다)에서 유래. 부딪치면 아프니까 → 다치다."
   },
   {
-    "en": "near",
-    "ko": "가까운",
-    "example": "The store is near my house.",
-    "mnemonic": "'니어'는 가까이 있는 것."
+    "en": "office",
+    "ko": "사무실, 오피스",
+    "example": "My mom works in an office.",
+    "mnemonic": "라틴어 officium = opus(일) + facere(하다). 일을 하는 곳이 사무실!"
   },
   {
-    "en": "outside",
-    "ko": "바깥에",
-    "example": "Let's play outside.",
-    "mnemonic": "out(밖) + side(쪽). 바깥쪽에!"
-  },
-  {
-    "en": "poor",
-    "ko": "가난한",
-    "example": "The poor man had no food.",
-    "mnemonic": "'푸어'는 가난하거나 불쌍한 상태."
-  },
-  {
-    "en": "rich",
-    "ko": "부유한",
-    "example": "He is a rich man.",
-    "mnemonic": "'리치'는 부자인 상태. 부유한!"
-  },
-  {
-    "en": "sister",
-    "ko": "자매",
-    "example": "My sister is a doctor.",
-    "mnemonic": "'시스터'는 여자 형제, 자매."
-  },
-  {
-    "en": "travel",
-    "ko": "여행하다",
-    "example": "I want to travel around the world.",
-    "mnemonic": "'트래블'은 여행 가방을 끌고 떠나는 것."
-  },
-  {
-    "en": "warm",
-    "ko": "따뜻한",
-    "example": "It's warm and sunny today.",
-    "mnemonic": "'웜'은 따뜻한 느낌. 워밍업!"
-  },
-  {
-    "en": "add",
-    "ko": "더하다",
-    "example": "Add two and three.",
-    "mnemonic": "'애드'는 더하기. 추가하는 것!"
+    "en": "sweet",
+    "ko": "달콤한",
+    "example": "This candy is very sweet.",
+    "mnemonic": "고대 영어 swete에서 유래. sweetness = sweet + ness → 달콤함. 라틴어 suavis와 같은 뿌리."
   },
   {
     "en": "begin",
     "ko": "시작하다",
     "example": "Let's begin the lesson.",
-    "mnemonic": "'비긴'어게인! 다시 시작하다."
+    "mnemonic": "고대 영어 beginnan에서 유래. beginner = begin + ner → 초보자."
   },
   {
-    "en": "clean",
-    "ko": "깨끗한",
-    "example": "Keep your room clean.",
-    "mnemonic": "'클린'은 깨끗한 상태. 클리닝!"
+    "en": "smile",
+    "ko": "미소",
+    "example": "She always has a warm smile.",
+    "mnemonic": "스웨덴어 smila에서 유래. 입꼬리를 올리는 밝은 표정."
   },
   {
-    "en": "dark",
-    "ko": "어두운",
-    "example": "It gets dark early in winter.",
-    "mnemonic": "'다크'초콜릿은 어두운 색의 초콜릿."
+    "en": "key",
+    "ko": "열쇠, 키",
+    "example": "I lost my key yesterday.",
+    "mnemonic": "고대 영어 cæg에서 유래. keyboard(키보드)에서도 '핵심 입력 장치'의 의미."
   },
   {
-    "en": "end",
-    "ko": "끝",
-    "example": "This is the end of the movie.",
-    "mnemonic": "'엔딩'은 끝나는 장면!"
+    "en": "ready",
+    "ko": "준비된",
+    "example": "Are you ready to go?",
+    "mnemonic": "고대 영어 ræde(준비된)에서 유래. already = all + ready → 이미 준비됨."
   },
   {
-    "en": "finish",
-    "ko": "끝내다",
-    "example": "I finished my homework.",
-    "mnemonic": "'피니시'라인을 통과하면 끝!"
+    "en": "run",
+    "ko": "달리다",
+    "example": "He can run very fast.",
+    "mnemonic": "고대 영어 rinnan에서 유래. runner = run + ner(사람) → 달리는 사람."
   },
   {
-    "en": "ground",
-    "ko": "땅",
-    "example": "Sit on the ground.",
-    "mnemonic": "'그라운드'는 축구하는 운동장 바닥."
+    "en": "map",
+    "ko": "지도",
+    "example": "Look at the map to find the way.",
+    "mnemonic": "라틴어 mappa(천, 냅킨)에서 유래. 천 위에 그린 세계가 지도!"
   },
   {
-    "en": "hour",
-    "ko": "시간(한 시간)",
-    "example": "The movie is two hours long.",
-    "mnemonic": "'아워'는 60분짜리 시간 단위."
+    "en": "love",
+    "ko": "사랑",
+    "example": "I love my family.",
+    "mnemonic": "고대 영어 lufu에서 유래. lovely = love + ly → 사랑스러운."
   },
   {
-    "en": "late",
-    "ko": "늦은",
-    "example": "Sorry, I'm late.",
-    "mnemonic": "'레이트'체크인은 늦게 들어가는 것."
+    "en": "student",
+    "ko": "학생",
+    "example": "She is a good student.",
+    "mnemonic": "라틴어 studere(열심히 하다)에서 유래. study(공부) + ent(사람) → 공부하는 사람."
   },
   {
-    "en": "miss",
-    "ko": "그리워하다",
-    "example": "I miss my old friends.",
-    "mnemonic": "'미스'는 그리워하거나 놓치는 것."
+    "en": "rain",
+    "ko": "비",
+    "example": "It will rain tomorrow.",
+    "mnemonic": "고대 영어 regn에서 유래. rainbow = rain(비) + bow(활) → 비 온 뒤 무지개!"
   },
   {
-    "en": "north",
-    "ko": "북쪽",
-    "example": "Canada is north of the United States.",
-    "mnemonic": "'노스'페이스는 북쪽 얼굴(산의 북벽)!"
+    "en": "east",
+    "ko": "동쪽",
+    "example": "The sun rises in the east.",
+    "mnemonic": "고대 영어 east(새벽)에서 유래. 해가 뜨는 방향! west(서쪽)와 반대."
+  },
+  {
+    "en": "never",
+    "ko": "절대 ~않다",
+    "example": "I never eat fast food.",
+    "mnemonic": "ne(아닌) + ever(언제라도). 어느 때도 아닌 = 절대 않다! always의 반대."
+  },
+  {
+    "en": "together",
+    "ko": "함께",
+    "example": "Let's play together.",
+    "mnemonic": "to + gether(모으다). 한데 모으면 함께!"
+  },
+  {
+    "en": "table",
+    "ko": "탁자",
+    "example": "Put the plates on the table.",
+    "mnemonic": "라틴어 tabula(판자)에서 유래. tablet(태블릿)도 '납작한 판'이란 같은 어원!"
+  },
+  {
+    "en": "earth",
+    "ko": "지구",
+    "example": "The earth goes around the sun.",
+    "mnemonic": "고대 영어 eorthe(땅)에서 유래. earthquake = earth(땅) + quake(흔들다) → 지진."
+  },
+  {
+    "en": "listen",
+    "ko": "듣다",
+    "example": "Listen to the music carefully.",
+    "mnemonic": "고대 영어 hlystan(듣다)에서 유래. listener = listen + er(사람) → 듣는 사람."
+  },
+  {
+    "en": "hat",
+    "ko": "모자",
+    "example": "He is wearing a red hat.",
+    "mnemonic": "고대 영어 hæt에서 유래. 머리를 덮는 것(hood)과 비슷한 어원 계열."
   }
 ]

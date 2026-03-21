@@ -1,152 +1,152 @@
 [
   {
-    "en": "job",
-    "ko": "직업, 일",
-    "example": "What is your dream job?",
-    "mnemonic": "'잡'(job)을 잡으면 직업을 얻는 것!"
+    "en": "road",
+    "ko": "도로",
+    "example": "Be careful when crossing the road.",
+    "mnemonic": "고대 영어 rad(타는 것, 길)에서 유래. ride(타다)와 같은 뿌리!"
   },
   {
-    "en": "king",
-    "ko": "왕, 국왕",
-    "example": "The king lived in a big castle.",
-    "mnemonic": "'킹'콩은 왕 고릴라!"
+    "en": "buy",
+    "ko": "사다, 구매하다",
+    "example": "I want to buy a new phone.",
+    "mnemonic": "고대 영어 bycgan에서 유래. buyer = buy + er(사람) → 구매자. sell(팔다)의 반대!"
   },
   {
-    "en": "lake",
-    "ko": "호수",
-    "example": "We swam in the lake.",
-    "mnemonic": "'레이크'사이드에서 호수를 즐겨요."
+    "en": "after",
+    "ko": "~후에",
+    "example": "Let us meet after school.",
+    "mnemonic": "고대 영어 æfter(뒤에)에서 유래. afternoon = after + noon → 오후. before의 반대."
   },
   {
-    "en": "map",
-    "ko": "지도",
-    "example": "Look at the map to find the way.",
-    "mnemonic": "'맵'(map)을 펼쳐 길을 찾아요."
+    "en": "kind",
+    "ko": "친절한",
+    "example": "She is very kind to everyone.",
+    "mnemonic": "고대 영어 gecynde(자연스러운)에서 유래. 본성이 착한 → 친절한."
   },
   {
-    "en": "nose",
-    "ko": "코",
-    "example": "My nose is cold.",
-    "mnemonic": "'노즈'는 얼굴 한가운데 있는 코."
+    "en": "glad",
+    "ko": "기쁜",
+    "example": "I'm glad to see you.",
+    "mnemonic": "고대 영어 glæd(밝은, 빛나는)에서 유래. 마음이 밝은 상태 → 기쁜."
   },
   {
-    "en": "old",
-    "ko": "오래된",
-    "example": "This building is very old.",
-    "mnemonic": "'올드'패션은 오래된 스타일."
+    "en": "summer",
+    "ko": "여름",
+    "example": "I love swimming in summer.",
+    "mnemonic": "고대 영어 sumor에서 유래. 가장 따뜻한 계절. winter(겨울)과 반대!"
   },
   {
-    "en": "piano",
-    "ko": "피아노",
-    "example": "She plays the piano well.",
-    "mnemonic": "'피아노'는 한국어로도 같아요!"
+    "en": "mouth",
+    "ko": "입",
+    "example": "Open your mouth wide.",
+    "mnemonic": "고대 영어 muth에서 유래. 독일어 Mund(입)와 같은 뿌리."
   },
   {
-    "en": "queen",
-    "ko": "여왕, 왕비",
-    "example": "The queen wore a golden crown.",
-    "mnemonic": "'퀸'은 체스에서 가장 강한 말, 여왕!"
+    "en": "weather",
+    "ko": "날씨",
+    "example": "The weather is sunny today.",
+    "mnemonic": "고대 영어 weder에서 유래. wind(바람)와 같은 어원 계열."
   },
   {
-    "en": "river",
-    "ko": "강, 하천",
-    "example": "The river flows to the sea.",
-    "mnemonic": "'리버'사이드는 강가라는 뜻."
+    "en": "friend",
+    "ko": "친구",
+    "example": "He is my best friend.",
+    "mnemonic": "고대 영어 freond(사랑하는 사람)에서 유래. friendly = friend + ly → 다정한."
   },
   {
-    "en": "star",
-    "ko": "별",
-    "example": "I can see many stars tonight.",
-    "mnemonic": "'스타'는 하늘의 별, 또는 유명인!"
+    "en": "need",
+    "ko": "필요하다",
+    "example": "I need your help.",
+    "mnemonic": "고대 영어 nied(필요, 강제)에서 유래. needy = need + y → 어려운, 궁핍한."
   },
   {
-    "en": "table",
-    "ko": "탁자",
-    "example": "Put the plates on the table.",
-    "mnemonic": "'테이블'은 한국어로도 쓰이는 탁자."
+    "en": "eye",
+    "ko": "눈(신체)",
+    "example": "She has beautiful blue eyes.",
+    "mnemonic": "고대 영어 eage에서 유래. eyebrow, eyelid처럼 눈 관련 합성어의 기본."
   },
   {
-    "en": "use",
-    "ko": "사용하다",
-    "example": "Can I use your phone?",
-    "mnemonic": "USB의 U가 바로 use, 사용!"
+    "en": "watch",
+    "ko": "보다",
+    "example": "Let's watch a movie tonight.",
+    "mnemonic": "고대 영어 wæccan(깨어 있다)에서 유래. 깨어서 지켜보다 → 보다, 시계."
   },
   {
-    "en": "visit",
-    "ko": "방문하다",
-    "example": "I will visit my grandparents this weekend.",
-    "mnemonic": "'비짓'은 누군가를 찾아가는 방문."
+    "en": "idea",
+    "ko": "생각",
+    "example": "That's a great idea!",
+    "mnemonic": "그리스어 idea(형태, 모습)에서 유래. 머릿속에 떠오르는 형태 → 생각."
   },
   {
-    "en": "walk",
-    "ko": "걷다",
-    "example": "I walk to school every day.",
-    "mnemonic": "'워킹'데드처럼 걸어 다니는!"
+    "en": "poor",
+    "ko": "가난한",
+    "example": "The poor man had no food.",
+    "mnemonic": "라틴어 pauper(가난한)에서 유래. poverty(빈곤)도 같은 어원!"
   },
   {
-    "en": "box",
-    "ko": "상자",
-    "example": "Put the toys in the box.",
-    "mnemonic": "'박스'는 한국어로도 상자!"
+    "en": "dream",
+    "ko": "꿈",
+    "example": "I had a wonderful dream last night.",
+    "mnemonic": "고대 영어 dream(기쁨, 음악)에서 유래. dreamer = dream + er → 꿈꾸는 사람."
   },
   {
-    "en": "young",
-    "ko": "젊은",
-    "example": "She is young and energetic.",
-    "mnemonic": "'영'은 젊다는 뜻. 포에버 영!"
+    "en": "help",
+    "ko": "돕다",
+    "example": "Can you help me?",
+    "mnemonic": "고대 영어 helpan에서 유래. helpful = help + ful(가득한) → 도움이 되는."
   },
   {
-    "en": "zero",
-    "ko": "영",
-    "example": "The temperature dropped to zero.",
-    "mnemonic": "'제로'는 아무것도 없는 0!"
+    "en": "horse",
+    "ko": "말",
+    "example": "She rides a horse every weekend.",
+    "mnemonic": "고대 영어 hors에서 유래. horsepower(마력) = horse + power → 말의 힘."
   },
   {
-    "en": "baby",
-    "ko": "아기, 갓난아이",
-    "example": "The baby is sleeping now.",
-    "mnemonic": "'베이비'는 귀여운 아기."
+    "en": "city",
+    "ko": "도시",
+    "example": "Seoul is a big city.",
+    "mnemonic": "라틴어 civitas(시민의 공동체)에서 유래. citizen(시민)과 같은 어원!"
   },
   {
-    "en": "cake",
-    "ko": "케이크",
-    "example": "Mom made a birthday cake.",
-    "mnemonic": "'케이크'는 한국어로도 같아요!"
+    "en": "yesterday",
+    "ko": "어제",
+    "example": "I went to the movies yesterday.",
+    "mnemonic": "yester(지나간) + day(날). 지나간 날 = 어제!"
   },
   {
-    "en": "dance",
-    "ko": "춤",
-    "example": "She loves to dance.",
-    "mnemonic": "'댄스'는 한국어로도 춤!"
+    "en": "pen",
+    "ko": "펜",
+    "example": "Can I borrow your pen?",
+    "mnemonic": "라틴어 penna(깃털)에서 유래. 옛날에는 깃털로 글을 썼기 때문!"
   },
   {
-    "en": "east",
-    "ko": "동쪽",
-    "example": "The sun rises in the east.",
-    "mnemonic": "'이스트'는 해가 뜨는 동쪽."
+    "en": "near",
+    "ko": "가까운",
+    "example": "The store is near my house.",
+    "mnemonic": "고대 영어 neah에서 유래. nearby = near + by → 가까이에."
   },
   {
-    "en": "farm",
-    "ko": "농장, 농원",
-    "example": "My grandfather has a big farm.",
-    "mnemonic": "'팜'은 동물과 작물이 있는 농장."
+    "en": "boy",
+    "ko": "소년, 남자아이",
+    "example": "The boy is playing in the park.",
+    "mnemonic": "중세 영어 boi에서 유래. girl(소녀)의 반대말로 함께 외우세요."
   },
   {
-    "en": "garden",
-    "ko": "정원, 뜰",
-    "example": "She grows flowers in the garden.",
-    "mnemonic": "'가든'파티를 정원에서 열어요."
+    "en": "cold",
+    "ko": "추운",
+    "example": "It's very cold today.",
+    "mnemonic": "고대 영어 ceald에서 유래. cool(시원한)과 같은 어원 계열."
   },
   {
-    "en": "hair",
-    "ko": "머리카락, 머리",
-    "example": "She has long black hair.",
-    "mnemonic": "'헤어'스타일은 머리카락 스타일."
+    "en": "always",
+    "ko": "항상",
+    "example": "She always smiles.",
+    "mnemonic": "all(모든) + ways(방법/경우). 모든 경우에 = 항상!"
   },
   {
-    "en": "invite",
-    "ko": "초대하다",
-    "example": "I will invite my friends to the party.",
-    "mnemonic": "'인바이트'는 파티에 초대하는 것."
+    "en": "parent",
+    "ko": "부모",
+    "example": "My parents love me very much.",
+    "mnemonic": "라틴어 parere(낳다)에서 유래. 낳아준 사람 → 부모."
   }
 ]

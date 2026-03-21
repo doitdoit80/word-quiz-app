@@ -1,0 +1,302 @@
+[
+  {
+    "en": "frequent",
+    "ko": "빈번한, 자주 있는",
+    "example": "She is a frequent visitor to the museum.",
+    "mnemonic": "라틴어 frequens(붐비는, 빈번한)에서 유래. 사람이 많이 모이는 → 빈번한"
+  },
+  {
+    "en": "drought",
+    "ko": "가뭄",
+    "example": "The severe drought destroyed many crops.",
+    "mnemonic": "고대 영어 drugaþ(건조함)에서 유래. dry(마른)와 같은 어근. 바싹 마른 상태 → 가뭄"
+  },
+  {
+    "en": "nuclear",
+    "ko": "핵의, 원자력의",
+    "example": "Nuclear energy is a controversial topic.",
+    "mnemonic": "'뉴클리어' → '뉴클리어(nuclear)' 핵발전!"
+  },
+  {
+    "en": "govern",
+    "ko": "통치하다, 지배하다",
+    "example": "The president governs the country.",
+    "mnemonic": "그리스어 kybernan(배를 조종하다)에서 유래. 라틴어 gubernare. 나라를 조종하다 → 통치하다. 관련어: government"
+  },
+  {
+    "en": "proper",
+    "ko": "적절한, 올바른",
+    "example": "You must use proper grammar in your essay.",
+    "mnemonic": "라틴어 proprius(자기 자신의)에서 유래. 자기 것에 맞는 → 적절한, 올바른"
+  },
+  {
+    "en": "revolt",
+    "ko": "반란, 반란을 일으키다",
+    "example": "The people revolted against the unjust ruler.",
+    "mnemonic": "re(뒤로) + volt(굴리다, volvere) = 뒤집어엎다 → 반란. 관련어: revolve, evolve"
+  },
+  {
+    "en": "maximum",
+    "ko": "최대의, 최대",
+    "example": "The maximum speed on this road is 80 km/h.",
+    "mnemonic": "'맥시멈' → '맥시(maxi=최대)+멈' 최대한!"
+  },
+  {
+    "en": "polish",
+    "ko": "닦다, 윤을 내다",
+    "example": "He polished his shoes until they shone.",
+    "mnemonic": "라틴어 polire(매끄럽게 하다)에서 유래. 표면을 매끄럽게 → 닦다, 윤을 내다"
+  },
+  {
+    "en": "sketch",
+    "ko": "스케치, 약도",
+    "example": "She drew a quick sketch of the landscape.",
+    "mnemonic": "그리스어 schedios(즉석의)에서 유래. 즉석에서 빠르게 그리다 → 스케치"
+  },
+  {
+    "en": "fury",
+    "ko": "분노, 격분",
+    "example": "He was filled with fury when he heard the news.",
+    "mnemonic": "라틴어 furia(광분)에서 유래. furere(미치다, 광분하다). 미칠 듯한 분노 → 격분. 관련어: furious"
+  },
+  {
+    "en": "enthusiasm",
+    "ko": "열정, 열의",
+    "example": "She showed great enthusiasm for the project.",
+    "mnemonic": "en(안에) + thus(신, theos) + iasm = 신이 안에 들어온 상태 → 열정. 관련어: theology"
+  },
+  {
+    "en": "greenhouse",
+    "ko": "온실",
+    "example": "Greenhouse gases contribute to global warming.",
+    "mnemonic": "'그린하우스' → 'green(초록)+house(집)' 초록 집 = 온실!"
+  },
+  {
+    "en": "terminal",
+    "ko": "터미널, 말기의",
+    "example": "We waited at the bus terminal for two hours.",
+    "mnemonic": "termin(끝, terminus) + al = 끝의 → 종착점, 말기의. 관련어: determine, terminate"
+  },
+  {
+    "en": "sculpture",
+    "ko": "조각, 조각품",
+    "example": "The museum has a beautiful marble sculpture.",
+    "mnemonic": "sculpt(깎다, sculpere) + ure = 깎아서 만든 것 → 조각품. 관련어: sculpt"
+  },
+  {
+    "en": "proceed",
+    "ko": "진행하다, 나아가다",
+    "example": "Please proceed to the next question.",
+    "mnemonic": "pro(앞으로) + ceed(가다, cedere) = 앞으로 가다 → 진행하다. 관련어: process, precede"
+  },
+  {
+    "en": "senior",
+    "ko": "선배의, 연장자",
+    "example": "She is a senior student at the university.",
+    "mnemonic": "라틴어 senior(나이 많은, senex=늙은)에서 유래. 나이 많은 → 선배. 관련어: senate"
+  },
+  {
+    "en": "burst",
+    "ko": "폭발하다, 터지다",
+    "example": "The balloon burst with a loud pop.",
+    "mnemonic": "고대 영어 berstan(부서지다, 터지다)에서 유래. 갑자기 터지다 → 폭발하다"
+  },
+  {
+    "en": "eternal",
+    "ko": "영원한",
+    "example": "Their friendship seemed eternal.",
+    "mnemonic": "라틴어 aeternus(영원한)에서 유래. aev(나이, 시대) + ternus = 모든 시대를 관통하는 → 영원한"
+  },
+  {
+    "en": "consult",
+    "ko": "상담하다, 자문을 구하다",
+    "example": "You should consult a doctor about your symptoms.",
+    "mnemonic": "con(함께) + sult(모이다, sedere) = 함께 모여 의논하다 → 상담하다"
+  },
+  {
+    "en": "unique",
+    "ko": "독특한, 유일한",
+    "example": "Every person has a unique fingerprint.",
+    "mnemonic": "라틴어 unicus(유일한)에서 유래. unus(하나). 하나뿐인 → 유일한. 관련어: union, uniform"
+  },
+  {
+    "en": "inhabit",
+    "ko": "거주하다, 살다",
+    "example": "Many species of birds inhabit this forest.",
+    "mnemonic": "'인해빗' → 'in(안에)+habit(습관)' 안에서 사는 습관 = 거주!"
+  },
+  {
+    "en": "formal",
+    "ko": "공식적인, 격식의",
+    "example": "You should wear formal clothes to the interview.",
+    "mnemonic": "form(형태, forma) + al = 정해진 형태를 갖춘 → 공식적인. 관련어: format, formula, reform"
+  },
+  {
+    "en": "random",
+    "ko": "무작위의",
+    "example": "The winners were chosen at random.",
+    "mnemonic": "고대 프랑스어 randon(돌진, 빠른 달리기)에서 유래. 정해진 방향 없이 달리는 → 무작위의"
+  },
+  {
+    "en": "garment",
+    "ko": "의복, 옷",
+    "example": "The factory produces garments for export.",
+    "mnemonic": "고대 프랑스어 garnement(장비)에서 유래. garnir(갖추다). 몸에 갖추는 것 → 의복. 관련어: garnish"
+  },
+  {
+    "en": "halt",
+    "ko": "멈추다, 정지",
+    "example": "The bus came to a sudden halt.",
+    "mnemonic": "'홀트' → '홀(hole)트' 구멍에 빠져 멈추다!"
+  },
+  {
+    "en": "reckon",
+    "ko": "생각하다, 계산하다",
+    "example": "I reckon we should leave early tomorrow.",
+    "mnemonic": "고대 영어 gerecenian(말하다, 설명하다)에서 유래. 머릿속으로 세다 → 생각하다, 계산하다"
+  },
+  {
+    "en": "dismiss",
+    "ko": "해고하다, 기각하다",
+    "example": "The boss dismissed three employees last week.",
+    "mnemonic": "dis(떨어져) + miss(보내다, mittere) = 떨어져 보내다 → 해고하다. 관련어: mission, missile"
+  },
+  {
+    "en": "network",
+    "ko": "네트워크, 연결망",
+    "example": "He built a strong network of business contacts.",
+    "mnemonic": "'네트워크' → 'net(그물)+work(작동)' 그물처럼 연결!"
+  },
+  {
+    "en": "famine",
+    "ko": "기근, 대기근",
+    "example": "The famine caused many people to starve.",
+    "mnemonic": "라틴어 fames(굶주림, 배고픔)에서 유래. 극심한 굶주림 → 기근. 관련어: famish"
+  },
+  {
+    "en": "stroke",
+    "ko": "쓰다듬다, 뇌졸중, 한 획",
+    "example": "She gently stroked the cat's fur.",
+    "mnemonic": "고대 영어 strāc(한 번 치기, 쓸기)에서 유래. strike와 같은 어근. 부드럽게 한 번 쓸다"
+  },
+  {
+    "en": "parallel",
+    "ko": "평행의, 유사한",
+    "example": "The two roads run parallel to each other.",
+    "mnemonic": "'패럴렐' → 'para(나란히)+llel' 나란히 가는 = 평행!"
+  },
+  {
+    "en": "donate",
+    "ko": "기부하다",
+    "example": "She donated blood at the hospital.",
+    "mnemonic": "don(주다, donare) + ate = 주다 → 기부하다. 관련어: donor, pardon"
+  },
+  {
+    "en": "anger",
+    "ko": "분노, 화나게 하다",
+    "example": "His rude words filled her with anger.",
+    "mnemonic": "고대 노르드어 angr(고통, 슬픔)에서 유래. 마음의 고통 → 분노"
+  },
+  {
+    "en": "board",
+    "ko": "판, 이사회, 탑승하다",
+    "example": "Please board the train before the doors close.",
+    "mnemonic": "고대 영어 bord(판자, 배의 옆면)에서 유래. 판자를 밟고 배에 오르다 → 탑승하다"
+  },
+  {
+    "en": "confirm",
+    "ko": "확인하다, 확정하다",
+    "example": "Please confirm your reservation by email.",
+    "mnemonic": "con(완전히) + firm(확고한, firmus) = 완전히 확고하게 하다 → 확인하다, 확정하다"
+  },
+  {
+    "en": "broad",
+    "ko": "넓은, 폭넓은",
+    "example": "The river is very broad at this point.",
+    "mnemonic": "고대 영어 brād(넓은, 펼쳐진)에서 유래. 넓게 펼쳐진 → 넓은, 폭넓은"
+  },
+  {
+    "en": "ingredient",
+    "ko": "재료, 성분",
+    "example": "What are the main ingredients of this cake?",
+    "mnemonic": "'인그리디언트' → 'in(안에)+gredi(들어가는)' 안에 들어가는 재료!"
+  },
+  {
+    "en": "tense",
+    "ko": "긴장한, 시제",
+    "example": "The atmosphere in the room was very tense.",
+    "mnemonic": "라틴어 tensus(당겨진)에서 유래. tendere(당기다). 팽팽하게 당긴 → 긴장한. 관련어: tension, extend"
+  },
+  {
+    "en": "kneel",
+    "ko": "무릎 꿇다",
+    "example": "He kneeled down to tie his shoelace.",
+    "mnemonic": "'닐' → 'knee(무릎)+l' 무릎으로 = 무릎 꿇다!"
+  },
+  {
+    "en": "register",
+    "ko": "등록하다, 등록부",
+    "example": "Please register your name at the front desk.",
+    "mnemonic": "re(뒤에) + gist(나르다, gerere) + er = 기록을 나르다 → 등록하다. 관련어: digest"
+  },
+  {
+    "en": "crash",
+    "ko": "충돌하다, 사고",
+    "example": "The car crashed into the tree.",
+    "mnemonic": "의성어에서 유래. 쾅 부딪히는 소리를 본뜬 것 → 충돌하다"
+  },
+  {
+    "en": "infant",
+    "ko": "유아, 영아",
+    "example": "The infant was sleeping peacefully in the crib.",
+    "mnemonic": "'인펀트' → 'in(못하는)+fant(말하는)' 말 못하는 아기 = 유아!"
+  },
+  {
+    "en": "invade",
+    "ko": "침입하다, 침략하다",
+    "example": "The army invaded the neighboring country.",
+    "mnemonic": "'인베이드' → 'in(안으로)+vade(가다)' 안으로 들어가 침략!"
+  },
+  {
+    "en": "cling",
+    "ko": "달라붙다, 매달리다",
+    "example": "The child clung to his mother's hand.",
+    "mnemonic": "고대 영어 clingan(오그라들다, 달라붙다)에서 유래. 단단히 붙잡다 → 달라붙다"
+  },
+  {
+    "en": "undermine",
+    "ko": "약화시키다, 훼손하다",
+    "example": "His comments undermined the team's confidence.",
+    "mnemonic": "under(아래) + mine(파다) = 아래를 파다 → 기반을 무너뜨리다 → 약화시키다"
+  },
+  {
+    "en": "bold",
+    "ko": "대담한, 굵은",
+    "example": "She made a bold decision to study abroad.",
+    "mnemonic": "고대 영어 bald(대담한, 용감한)에서 유래. 두려움 없이 나서는 → 대담한"
+  },
+  {
+    "en": "gross",
+    "ko": "총, 심한, 역겨운",
+    "example": "The gross income before taxes was very high.",
+    "mnemonic": "'그로스' → '그로스(gross)' 총액 = 전체의!"
+  },
+  {
+    "en": "seize",
+    "ko": "붙잡다, 장악하다",
+    "example": "The police seized the stolen goods.",
+    "mnemonic": "게르만어 sazjan(놓다, 앉히다)에서 유래. 법적으로 가져다 놓다 → 압수하다, 붙잡다"
+  },
+  {
+    "en": "disagree",
+    "ko": "동의하지 않다",
+    "example": "I disagree with your opinion on this matter.",
+    "mnemonic": "dis(반대) + agree(동의하다) = 동의하지 않다"
+  },
+  {
+    "en": "anonymous",
+    "ko": "익명의",
+    "example": "The donation was made by an anonymous person.",
+    "mnemonic": "an(없는) + onym(이름, onoma) + ous = 이름이 없는 → 익명의. 관련어: synonym"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "en": "abnormal",
+    "ko": "비정상적인",
+    "example": "It is abnormal for it to snow in July.",
+    "mnemonic": "ab(벗어난) + normal(정상적인). 정상에서 벗어난 상태."
+  },
+  {
+    "en": "abolish",
+    "ko": "폐지하다",
+    "example": "The government decided to abolish the old tax law.",
+    "mnemonic": "법이나 제도를 '아(a) 보류하지 않고 당장 없애다(bolish)'."
+  },
+  {
+    "en": "accelerate",
+    "ko": "촉진하다, 가속화하다",
+    "example": "The car began to accelerate down the hill.",
+    "mnemonic": "자동차의 '엑셀(accelerator)'을 밟아 속도를 올리는 것."
+  },
+  {
+    "en": "accuse",
+    "ko": "고발하다, 비난하다",
+    "example": "He was accused of stealing the money.",
+    "mnemonic": "어떤 사람의 잘못을 가리키며(ac) 이유(cause)를 대고 고발하는 것."
+  },
+  {
+    "en": "nasty",
+    "ko": "못된, 불쾌한",
+    "example": "The medicine had a really nasty taste.",
+    "mnemonic": "내스티(nasty). 냄새나 성격이 고약하고 불쾌한 느낌."
+  },
+  {
+    "en": "by means of",
+    "ko": "~을 이용하여, ~에 의해서",
+    "example": "The heavy box was lifted by means of a crane.",
+    "mnemonic": "Mean이 '수단'이라는 뜻이 있어서, 어떤 수단을 사용한다는 의미."
+  },
+  {
+    "en": "command",
+    "ko": "지휘하다, 명령",
+    "example": "The general gave the command to attack.",
+    "mnemonic": "Com(함께) + mand(명령하다). 군대에서 지휘관(commander)이 내리는 명령."
+  },
+  {
+    "en": "nervous",
+    "ko": "긴장한",
+    "example": "I always feel nervous before a big exam.",
+    "mnemonic": "Nerve(신경) + ous. 신경이 곤두서서 안절부절못하는 상태."
+  },
+  {
+    "en": "regret",
+    "ko": "유감, 후회, 후회하다, 유감이다",
+    "example": "I regret not studying harder for the test.",
+    "mnemonic": "Re(다시) + gret(울다). 지난 일을 다시 떠올리며 후회하고 아쉬워하는 것."
+  },
+  {
+    "en": "comment",
+    "ko": "논평하다, 언급하다, 논평",
+    "example": "She refused to comment on the rumors.",
+    "mnemonic": "인터넷 게시물이나 유튜브에 다는 '코멘트(댓글)'를 생각하세요."
+  },
+  {
+    "en": "consumer",
+    "ko": "소비자",
+    "example": "The company tries to meet consumer needs.",
+    "mnemonic": "Consume(소비하다) + er(사람). 물건을 사서 쓰는 사람."
+  },
+  {
+    "en": "contact",
+    "ko": "~와 연락을 취하다, 친교, 연락",
+    "example": "Please contact me if you have any questions.",
+    "mnemonic": "Con(함께) + tact(닿다). 서로 연락이 닿아 교류하는 것."
+  },
+  {
+    "en": "demonstrate",
+    "ko": "증명하다, 설명하다",
+    "example": "The teacher will demonstrate how to do the experiment.",
+    "mnemonic": "Demo(데모) 버전을 보여주며 어떻게 작동하는지 눈앞에서 증명하는 것."
+  },
+  {
+    "en": "tension",
+    "ko": "긴장",
+    "example": "You could feel the tension in the room.",
+    "mnemonic": "팽팽하게 당겨진(tense) 줄처럼 마음이 조마조마한 상태."
+  },
+  {
+    "en": "depression",
+    "ko": "불황",
+    "example": "The country suffered a severe economic depression.",
+    "mnemonic": "De(아래로) + press(누르다). 경제 수치나 기분이 바닥으로 꾹 눌린 상태."
+  },
+  {
+    "en": "disappointing",
+    "ko": "실망스러운",
+    "example": "The team's performance was very disappointing.",
+    "mnemonic": "Dis(어긋난) + appoint(약속). 기대했던 결과가 어긋나서 실망스러운."
+  },
+  {
+    "en": "due to",
+    "ko": "~때문에, ~로 인하여",
+    "example": "The game was canceled due to heavy rain.",
+    "mnemonic": "Due(지불해야 할/예정된). 그 결과가 어떤 원인에 '기인한다'는 뜻."
+  },
+  {
+    "en": "emphasis",
+    "ko": "강조, 중점",
+    "example": "The school places a strong emphasis on math and science.",
+    "mnemonic": "Em(안에) + phasis(보여주다). 중요한 부분을 돋보이게 꾹 눌러 강조하는 것."
+  },
+  {
+    "en": "established",
+    "ko": "확립된, 기성의",
+    "example": "They are an established company in this industry.",
+    "mnemonic": "Establish(설립하다/확립하다) + ed. 이미 단단하게 자리를 잡은."
+  },
+  {
+    "en": "tough",
+    "ko": "곤란한, 힘든",
+    "example": "It was a tough decision to make.",
+    "mnemonic": "고기가 '터프(tough)'해서 질기거나, 상황이 헤쳐 나가기 힘든 것."
+  },
+  {
+    "en": "figure out",
+    "ko": "~을 알아내다",
+    "example": "I need to figure out how to solve this math problem.",
+    "mnemonic": "어지러운 숫자(figure)나 모양의 원리를 밖으로(out) 끄집어내어 알아내는 것."
+  },
+  {
+    "en": "upset",
+    "ko": "기분이 상한",
+    "example": "He was very upset when he lost his phone.",
+    "mnemonic": "Up(위로) + set(놓다). 마음이나 상황이 위아래로 엎어져 기분이 상한."
+  },
+  {
+    "en": "fundamental",
+    "ko": "기초의, 근본적인",
+    "example": "Freedom of speech is a fundamental human right.",
+    "mnemonic": "건물의 토대가 되는 파운데이션(foundation)처럼 가장 기본이 되는."
+  },
+  {
+    "en": "inevitable",
+    "ko": "불가피한",
+    "example": "Mistakes are an inevitable part of learning.",
+    "mnemonic": "In(not) + evitable(피할 수 있는). 도저히 피할 수 없이 꼭 일어나는."
+  },
+  {
+    "en": "angle",
+    "ko": "각, 각도",
+    "example": "Draw a triangle with a 90-degree angle.",
+    "mnemonic": "도형의 각도나 사진 찍을 때의 '카메라 앵글'을 생각하세요."
+  },
+  {
+    "en": "bend",
+    "ko": "구부리다",
+    "example": "Bend your knees slightly when playing table tennis.",
+    "mnemonic": "몸이나 무릎, 물건을 휘어지게 굽히는 동작."
+  },
+  {
+    "en": "column",
+    "ko": "기둥",
+    "example": "The roof is supported by four large columns.",
+    "mnemonic": "신문의 '칼럼'이나 고대 그리스 신전의 길쭉한 기둥."
+  },
+  {
+    "en": "curve",
+    "ko": "곡선, 구부리다",
+    "example": "Be careful when driving around the curve.",
+    "mnemonic": "야구의 '커브볼'이나 굽은 도로(커브 길)를 떠올리세요."
+  },
+  {
+    "en": "dent",
+    "ko": "움푹 들어간 곳, 움푹 들어가게 하다",
+    "example": "There is a small dent in the car door.",
+    "mnemonic": "차나 물건에 부딪혀서 움푹 파인 자국(덴트)."
+  },
+  {
+    "en": "dot",
+    "ko": "점",
+    "example": "Join the dots to complete the picture.",
+    "mnemonic": "인터넷 주소의 '닷(dot) 컴'처럼 작게 찍힌 점."
+  },
+  {
+    "en": "method",
+    "ko": "방법",
+    "example": "She found a creative method to solve the thinking math problem.",
+    "mnemonic": "어떤 일을 해내는 체계적인 수단이나 방식."
+  },
+  {
+    "en": "mutual",
+    "ko": "상호의",
+    "example": "The agreement was based on mutual respect.",
+    "mnemonic": "일방적이 아니라 상호 간에 서로서로 주고받는."
+  },
+  {
+    "en": "enormous",
+    "ko": "(크기, 양이) 거대한",
+    "example": "An enormous elephant stood in front of us.",
+    "mnemonic": "E(밖으로) + norm(정상) + ous. 정상적인 크기를 훌쩍 벗어나 엄청나게 큰."
+  },
+  {
+    "en": "prior to",
+    "ko": "~이전에",
+    "example": "Please arrive at the airport two hours prior to departure.",
+    "mnemonic": "Prior(이전의) + to. 시간이나 순서상 먼저 일어나는."
+  },
+  {
+    "en": "privilege",
+    "ko": "~에게 특권을 주다, 특권, 특전",
+    "example": "Education should be a right, not a privilege.",
+    "mnemonic": "Priv(개인) + lege(법). 특정 개인에게만 주어지는 특별한 혜택."
+  },
+  {
+    "en": "probable",
+    "ko": "유망한, 가망성 있는",
+    "example": "It is probable that he will win the race.",
+    "mnemonic": "Probably(아마도)의 형용사형. 충분히 일어날 가망성이 있는."
+  },
+  {
+    "en": "flat",
+    "ko": "평평한",
+    "example": "The Earth is not flat; it is round.",
+    "mnemonic": "타이어에 바람이 빠져 '플랫(flat)'해지거나 바닥이 평평한 모양."
+  },
+  {
+    "en": "qualify",
+    "ko": "자격을 부여하다",
+    "example": "You need a degree to qualify for this job.",
+    "mnemonic": "Quality(품질)를 갖추게(ify) 하여 자격을 주는 것."
+  },
+  {
+    "en": "remedy",
+    "ko": "치료법",
+    "example": "Lemon tea is a good home remedy for a cold.",
+    "mnemonic": "Re(다시) + medy(치료하다). 병이나 문제를 원래대로 고치는 방법."
+  },
+  {
+    "en": "review",
+    "ko": "검토하다, 평론, 재조사",
+    "example": "Let's review the notes before the test.",
+    "mnemonic": "Re(다시) + view(보다). 지나간 일을 다시 훑어보며 검토하는 것."
+  },
+  {
+    "en": "revision",
+    "ko": "수정, 개정",
+    "example": "I need to make a quick revision to my essay.",
+    "mnemonic": "Re(다시) + vision(보다). 글이나 계획을 다시 보고 고치는 것."
+  },
+  {
+    "en": "form",
+    "ko": "형태, 모양, 만들다, (조직을) 형성하다",
+    "example": "Clouds can form different shapes in the sky.",
+    "mnemonic": "신청서 폼(form)을 채우거나 어떤 모양을 만들어 내는 것."
+  },
+  {
+    "en": "suspend",
+    "ko": "중지하다, 연기하다",
+    "example": "The referee had to suspend the match due to rain.",
+    "mnemonic": "Sub(아래에) + pend(매달다). 하던 일을 공중에 매달아 두고 잠시 멈추는 것."
+  },
+  {
+    "en": "sustain",
+    "ko": "유지하다, 지속하다",
+    "example": "You need water and food to sustain life.",
+    "mnemonic": "Sub(아래에서) + tain(잡다). 무너지지 않게 아래에서 받치고 계속 유지하는 것."
+  },
+  {
+    "en": "sewage",
+    "ko": "하수, 오수",
+    "example": "Raw sewage was dumped into the river.",
+    "mnemonic": "집이나 공장에서 나오는 더러운 물(하수)."
+  },
+  {
+    "en": "horizon",
+    "ko": "수평선, 지평선",
+    "example": "The sun sank below the horizon.",
+    "mnemonic": "저 멀리 하늘과 땅, 혹은 바다가 맞닿은 선(호라이즌)."
+  },
+  {
+    "en": "timely",
+    "ko": "시기 적절한",
+    "example": "Thank you for your timely advice.",
+    "mnemonic": "Time(시간) + ly. 딱 필요한 알맞은 시기에 맞춰서."
+  },
+  {
+    "en": "transfer",
+    "ko": "이전, 전근, 이전하다, 전근시키다",
+    "example": "My friend will transfer to Yeoksam Middle School next semester.",
+    "mnemonic": "Trans(건너서) + fer(나르다). 다른 곳으로 옮겨가거나 전학, 전근을 가는 것."
+  },
+  {
+    "en": "understanding",
+    "ko": "이해, 납득, 이해심 있는",
+    "example": "Thank you for your understanding in this matter.",
+    "mnemonic": "Understand(이해하다) + ing. 남의 마음을 잘 헤아려주는."
+  },
+  {
+    "en": "unusually",
+    "ko": "비정상적으로",
+    "example": "It is unusually cold for this time of year.",
+    "mnemonic": "Un(not) + usually(보통). 평소와 다르게 유별나게."
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "en": "rough",
+    "ko": "거친, 대략적인",
+    "example": "The sea was rough during the storm.",
+    "mnemonic": "고대 영어 rūh(거친, 털이 많은)에서 유래. 표면이 매끄럽지 않은 → 거친"
+  },
+  {
+    "en": "prompt",
+    "ko": "즉각적인, 촉진하다",
+    "example": "Her illness prompted her to change her lifestyle.",
+    "mnemonic": "pro(앞으로) + mpt(가져오다, emere) = 앞으로 가져오다 → 촉진하다, 즉각적인"
+  },
+  {
+    "en": "audience",
+    "ko": "관객, 청중",
+    "example": "The audience cheered when the band appeared.",
+    "mnemonic": "audi(듣다, audire) + ence = 듣는 사람들 → 청중. 관련어: audio, auditorium"
+  },
+  {
+    "en": "consensus",
+    "ko": "합의, 의견 일치",
+    "example": "The committee reached a consensus on the new policy.",
+    "mnemonic": "con(함께) + sensus(느끼다, sentire) = 함께 느끼다 → 합의. 관련어: sense, consent"
+  },
+  {
+    "en": "amuse",
+    "ko": "즐겁게 하다",
+    "example": "The clown amused the children at the party.",
+    "mnemonic": "a(~하게) + muse(뮤즈, 예술의 여신) = 뮤즈처럼 영감을 주다 → 즐겁게 하다"
+  },
+  {
+    "en": "oxygen",
+    "ko": "산소",
+    "example": "Plants produce oxygen through photosynthesis.",
+    "mnemonic": "'옥시전' → '옥시(oxy=산)+전(gen=생기다)' 산을 만드는 = 산소!"
+  },
+  {
+    "en": "obligation",
+    "ko": "의무, 책임",
+    "example": "Parents have an obligation to care for their children.",
+    "mnemonic": "'오블리게이션' → 'ob(묶다)+lig(묶다)+ation' 묶여있는 의무!"
+  },
+  {
+    "en": "contempt",
+    "ko": "경멸, 모욕",
+    "example": "He looked at the cheater with contempt.",
+    "mnemonic": "con(완전히) + tempt(업신여기다, temnere) = 완전히 업신여기다 → 경멸"
+  },
+  {
+    "en": "logic",
+    "ko": "논리",
+    "example": "His argument lacks logic and evidence.",
+    "mnemonic": "'로직' → '로직(logic)' 프로그래밍의 논리!"
+  },
+  {
+    "en": "tropical",
+    "ko": "열대의",
+    "example": "Tropical fruits like mangoes grow in warm climates.",
+    "mnemonic": "그리스어 tropikos(회귀선의)에서 유래. trepein(돌다). 태양이 도는 곳 → 열대. 관련어: tropic"
+  },
+  {
+    "en": "dense",
+    "ko": "밀집한, 빽빽한",
+    "example": "The forest was so dense that sunlight couldn't get through.",
+    "mnemonic": "라틴어 densus(빽빽한, 두꺼운)에서 유래. 틈 없이 빽빽한 → 밀집한. 관련어: condense"
+  },
+  {
+    "en": "intellectual",
+    "ko": "지적인, 지식인",
+    "example": "She enjoys intellectual conversations about science.",
+    "mnemonic": "'인텔렉추얼' → '인텔(intel=지성)+렉추얼' 지성적인!"
+  },
+  {
+    "en": "violate",
+    "ko": "위반하다, 침해하다",
+    "example": "He violated the school rules and was punished.",
+    "mnemonic": "라틴어 violare(폭력을 쓰다)에서 유래. vis(힘, 폭력). 힘으로 깨뜨리다 → 위반하다. 관련어: violence"
+  },
+  {
+    "en": "scale",
+    "ko": "규모, 척도, 저울",
+    "example": "The project was done on a large scale.",
+    "mnemonic": "라틴어 scala(사다리)에서 유래. 사다리의 단계 → 척도, 규모. 관련어: escalator"
+  },
+  {
+    "en": "meanwhile",
+    "ko": "그 동안에, 한편",
+    "example": "She was cooking; meanwhile, he was cleaning.",
+    "mnemonic": "'민와일' → 'mean(중간)+while(동안)' 그 중간 동안에!"
+  },
+  {
+    "en": "afford",
+    "ko": "~할 여유가 되다",
+    "example": "I cannot afford to buy a new car right now.",
+    "mnemonic": "af(앞으로) + ford(제공하다, forthian) = 앞으로 내놓을 수 있다 → 여유가 되다"
+  },
+  {
+    "en": "peak",
+    "ko": "정상, 절정",
+    "example": "The mountain peak was covered with snow.",
+    "mnemonic": "'피크' → '피크(peak)' 시간 = 절정의 시간!"
+  },
+  {
+    "en": "contest",
+    "ko": "대회, 경쟁",
+    "example": "She won first place in the singing contest.",
+    "mnemonic": "con(함께) + test(증언하다, testari) = 함께 겨루며 증명하다 → 대회, 경쟁"
+  },
+  {
+    "en": "loyal",
+    "ko": "충실한, 충성스러운",
+    "example": "He is a loyal friend who always supports me.",
+    "mnemonic": "'로열' → '로열(loyal)티' 충성도 포인트!"
+  },
+  {
+    "en": "allocate",
+    "ko": "배분하다, 할당하다",
+    "example": "The government allocated funds for education.",
+    "mnemonic": "al(~에) + loc(장소, locus) + ate = 각 장소에 놓다 → 배분하다, 할당하다"
+  },
+  {
+    "en": "excite",
+    "ko": "흥분시키다, 설레게 하다",
+    "example": "The news excited everyone in the class.",
+    "mnemonic": "ex(밖으로) + cite(부르다, 자극하다, citare) = 밖으로 불러일으키다 → 흥분시키다. 관련어: recite"
+  },
+  {
+    "en": "rank",
+    "ko": "순위, 계급",
+    "example": "He holds the rank of captain in the army.",
+    "mnemonic": "고대 프랑스어 ranc(줄, 열)에서 유래. 줄을 세우다 → 순위, 계급"
+  },
+  {
+    "en": "valid",
+    "ko": "유효한, 타당한",
+    "example": "Your passport must be valid for at least six months.",
+    "mnemonic": "라틴어 validus(강한, 힘 있는)에서 유래. valere(강하다). 효력이 있는 → 유효한. 관련어: value"
+  },
+  {
+    "en": "fate",
+    "ko": "운명",
+    "example": "He accepted his fate and moved on.",
+    "mnemonic": "라틴어 fatum(신이 말한 것)에서 유래. fari(말하다). 신이 선언한 것 → 운명. 관련어: fatal, fame"
+  },
+  {
+    "en": "immigrant",
+    "ko": "이민자",
+    "example": "Many immigrants came to the country seeking a better life.",
+    "mnemonic": "'이미그런트' → 'im(안으로)+migrant(이동자)' 안으로 이동하는 이민자!"
+  },
+  {
+    "en": "faith",
+    "ko": "믿음, 신앙",
+    "example": "She has strong faith in her team.",
+    "mnemonic": "라틴어 fides(믿음, 신뢰)에서 유래. fid(믿다). 관련어: confident, fidelity"
+  },
+  {
+    "en": "arrange",
+    "ko": "정리하다, 배열하다",
+    "example": "She arranged the flowers in a beautiful vase.",
+    "mnemonic": "ar(~에) + range(줄, rang) = 줄에 맞추다 → 정리하다, 배열하다"
+  },
+  {
+    "en": "frame",
+    "ko": "틀, 액자, 구조",
+    "example": "She put the photo in a beautiful frame.",
+    "mnemonic": "고대 영어 framian(이롭게 하다, 형성하다)에서 유래. 형태를 만드는 틀 → 틀, 구조"
+  },
+  {
+    "en": "bare",
+    "ko": "벌거벗은, 텅 빈",
+    "example": "The trees were bare in winter.",
+    "mnemonic": "고대 영어 bær(드러난, 벗은)에서 유래. 덮개 없이 드러난 → 벌거벗은, 텅 빈"
+  },
+  {
+    "en": "trigger",
+    "ko": "방아쇠, 유발하다",
+    "example": "The accident triggered a series of changes in safety rules.",
+    "mnemonic": "네덜란드어 trekker(당기는 것)에서 유래. trek(끌다). 당겨서 작동시키는 것 → 방아쇠, 유발"
+  },
+  {
+    "en": "fortune",
+    "ko": "운, 재산",
+    "example": "She made a fortune by investing wisely.",
+    "mnemonic": "fort(나르다, 가져오다, ferre) + une = 가져다주는 것 → 운, 재산. 관련어: fortunate"
+  },
+  {
+    "en": "accuse",
+    "ko": "고발하다, 비난하다",
+    "example": "She accused him of stealing her phone.",
+    "mnemonic": "ac(~에게) + cuse(원인, causa) = 원인을 돌리다 → 고발하다, 비난하다"
+  },
+  {
+    "en": "identity",
+    "ko": "정체성, 신원",
+    "example": "Everyone has their own unique identity.",
+    "mnemonic": "'아이덴티티' → '아이덴티티(identity)' 카드 = 신분증!"
+  },
+  {
+    "en": "outcome",
+    "ko": "결과",
+    "example": "The outcome of the experiment was surprising.",
+    "mnemonic": "'아웃컴' → 'out(밖으로)+come(나오다)' 밖으로 나온 것 = 결과!"
+  },
+  {
+    "en": "poster",
+    "ko": "포스터, 벽보",
+    "example": "They put up posters to advertise the concert.",
+    "mnemonic": "post(기둥, 세우다) + er = 기둥에 세워 붙이는 것 → 포스터, 벽보"
+  },
+  {
+    "en": "inflation",
+    "ko": "인플레이션, 물가 상승",
+    "example": "Inflation caused the prices to rise sharply.",
+    "mnemonic": "'인플레이션' → '인플레이션(inflation)' 물가가 부풀어 오름!"
+  },
+  {
+    "en": "survey",
+    "ko": "조사, 설문, 측량하다",
+    "example": "The company conducted a customer survey.",
+    "mnemonic": "sur(위에서) + vey(보다, videre) = 위에서 내려다보다 → 조사하다. 관련어: video, view"
+  },
+  {
+    "en": "fuel",
+    "ko": "연료",
+    "example": "The car ran out of fuel on the highway.",
+    "mnemonic": "라틴어 focale(화덕용 재료)에서 유래. focus(화덕)와 관련. 불을 지피는 재료 → 연료"
+  },
+  {
+    "en": "engage",
+    "ko": "참여시키다, 약혼하다",
+    "example": "The teacher tried to engage all students in the discussion.",
+    "mnemonic": "en(안에) + gage(담보, wadium) = 담보를 걸다 → 약속하다, 참여시키다. 관련어: wage"
+  },
+  {
+    "en": "mature",
+    "ko": "성숙한, 성숙하다",
+    "example": "He became more mature after the experience.",
+    "mnemonic": "'머추어' → '머추(mature)어' 나이 들어 성숙한!"
+  },
+  {
+    "en": "syndrome",
+    "ko": "증후군",
+    "example": "He was diagnosed with chronic fatigue syndrome.",
+    "mnemonic": "그리스어 syndromos(함께 달리는)에서 유래. syn(함께) + drom(달리다). 함께 나타나는 증상들 → 증후군"
+  },
+  {
+    "en": "panel",
+    "ko": "패널, 위원단",
+    "example": "A panel of judges selected the winner.",
+    "mnemonic": "'패널' → '패널(panel)' 토론 = 위원단 토론!"
+  },
+  {
+    "en": "visible",
+    "ko": "보이는, 눈에 띄는",
+    "example": "The stars are visible on a clear night.",
+    "mnemonic": "vis(보다, videre) + ible(할 수 있는) = 볼 수 있는 → 보이는. 관련어: vision, video"
+  },
+  {
+    "en": "slope",
+    "ko": "경사, 비탈",
+    "example": "We walked up the steep slope of the mountain.",
+    "mnemonic": "고대 영어 slūpan(미끄러지다)에서 유래. slip(미끄러지다)과 관련. 미끄러지는 면 → 경사"
+  },
+  {
+    "en": "firm",
+    "ko": "회사, 확고한, 단단한",
+    "example": "She has a firm belief in justice.",
+    "mnemonic": "라틴어 firmus(단단한, 확고한)에서 유래. 확고하게 세운 것 → 회사. 관련어: confirm, affirm"
+  },
+  {
+    "en": "bond",
+    "ko": "유대, 결속, 채권",
+    "example": "The bond between mother and child is strong.",
+    "mnemonic": "고대 영어 bindan(묶다)에서 유래. bind의 명사형. 묶인 것 → 유대, 결속"
+  },
+  {
+    "en": "mass",
+    "ko": "대량, 질량, 대중",
+    "example": "Mass production made goods cheaper.",
+    "mnemonic": "'매스' → '매스(mass)' 미디어 = 대중 매체!"
+  },
+  {
+    "en": "raid",
+    "ko": "습격, 급습하다",
+    "example": "The police conducted a raid on the building.",
+    "mnemonic": "고대 영어 rād(타고 가기, 원정)에서 유래. ride(타다)와 같은 어근. 말을 타고 습격 → 급습"
+  },
+  {
+    "en": "panic",
+    "ko": "공황, 당황하다",
+    "example": "Don't panic if you hear the fire alarm.",
+    "mnemonic": "'패닉' → '패닉(panic)' 상태 = 극도의 공포!"
+  },
+  {
+    "en": "rural",
+    "ko": "시골의, 농촌의",
+    "example": "Rural areas have fewer hospitals than cities.",
+    "mnemonic": "라틴어 ruralis(시골의)에서 유래. rus(시골). 도시가 아닌 시골의. 관련어: rustic"
+  }
+]

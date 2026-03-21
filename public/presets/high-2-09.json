@@ -1,0 +1,302 @@
+[
+  {
+    "en": "oasis",
+    "ko": "오아시스, 안식처",
+    "example": "The park is an oasis of calm in the middle of the busy city.",
+    "mnemonic": "이집트어에서 유래. 사막 한가운데 물이 있는 곳 → 오아시스, 안식처"
+  },
+  {
+    "en": "entail",
+    "ko": "수반하다, 필요로 하다",
+    "example": "The job entails long hours and frequent travel.",
+    "mnemonic": "'인테일' → 'en+tail(꼬리)' 꼬리처럼 따라오는 = 수반!"
+  },
+  {
+    "en": "relinquish",
+    "ko": "포기하다, 양도하다",
+    "example": "He was forced to relinquish control of the company.",
+    "mnemonic": "re(뒤로) + linqu(남기다) + ish = 뒤에 남겨두다 → 포기하다. delinquent(비행의), relict(유물)과 같은 어근"
+  },
+  {
+    "en": "benevolence",
+    "ko": "자비, 선행",
+    "example": "The organization depends on the benevolence of wealthy donors.",
+    "mnemonic": "bene(좋은) + vol(의지) + ence = 좋은 의지 → 자비. benefit(이익), volunteer(자원봉사)와 같은 어근"
+  },
+  {
+    "en": "calibrate",
+    "ko": "보정하다, 눈금을 매기다",
+    "example": "The technician needs to calibrate the instrument before use.",
+    "mnemonic": "아랍어 qalib(주형, 틀)에서 유래. calibr(눈금) + ate = 눈금에 맞추다 → 보정하다. caliber(구경, 능력)와 같은 어원"
+  },
+  {
+    "en": "therapeutic",
+    "ko": "치료의, 치유 효과가 있는",
+    "example": "Music can have a therapeutic effect on patients with depression.",
+    "mnemonic": "그리스어 therapeutikos(치료하는)에서 유래. therap(돌보다) + eutic = 돌보는 → 치료의. therapy(치료)와 같은 어근"
+  },
+  {
+    "en": "hoax",
+    "ko": "사기, 속임수",
+    "example": "The bomb threat turned out to be a hoax.",
+    "mnemonic": "'혹스' → '혹(혹시)+스' 혹시 이것도 속임수?"
+  },
+  {
+    "en": "hinder",
+    "ko": "방해하다, 저해하다",
+    "example": "Lack of funding hindered the progress of the research.",
+    "mnemonic": "'힌더' → 'hind(뒤)+er' 뒤에서 잡아당겨 방해하다!"
+  },
+  {
+    "en": "inclination",
+    "ko": "경향, 성향",
+    "example": "She has a natural inclination toward the arts.",
+    "mnemonic": "'인클리네이션' → 'incline(기울다)+ation' 기울어지는 성향!"
+  },
+  {
+    "en": "discreet",
+    "ko": "신중한, 조심스러운",
+    "example": "Please be discreet about the surprise party we are planning.",
+    "mnemonic": "dis(분리) + creet(구별하다) = 분별하여 조심하는 → 신중한. discrete(별개의)와 구별. discern(분별하다)과 같은 어근"
+  },
+  {
+    "en": "versatile",
+    "ko": "다재다능한, 다목적의",
+    "example": "She is a versatile actress who can play both comedy and drama.",
+    "mnemonic": "vers(돌다) + atile = 이리저리 돌 수 있는 → 다재다능한. reverse(뒤집다), diverse(다양한)와 같은 어근"
+  },
+  {
+    "en": "restitution",
+    "ko": "배상, 반환",
+    "example": "The court ordered the company to pay restitution to the victims.",
+    "mnemonic": "re(다시) + stitut(세우다) + ion = 다시 세우다 → 원래대로 돌려놓기 = 배상. institute(설립하다)와 같은 어근"
+  },
+  {
+    "en": "sardonic",
+    "ko": "빈정대는, 냉소적인",
+    "example": "He made a sardonic remark about the quality of the presentation.",
+    "mnemonic": "그리스어 sardonios(비꼬는 웃음)에서 유래. 사르데냐 섬의 식물을 먹으면 경련으로 웃는 듯 → 빈정대는"
+  },
+  {
+    "en": "incongruent",
+    "ko": "일치하지 않는, 부적합한",
+    "example": "His cheerful tone was incongruent with the serious message.",
+    "mnemonic": "in(not) + con(함께) + gru(합하다) + ent = 합하지 않는 → 일치하지 않는. congruent(일치하는)의 반대"
+  },
+  {
+    "en": "abscond",
+    "ko": "도주하다, 잠적하다",
+    "example": "The thief absconded with the stolen jewels.",
+    "mnemonic": "ab(떠나) + scond(숨다) = 숨어서 떠나다 → 도주하다. 라틴어 abscondere(숨기다)에서 유래"
+  },
+  {
+    "en": "retribution",
+    "ko": "응보, 보복",
+    "example": "Many people believe in divine retribution for evil deeds.",
+    "mnemonic": "re(다시) + tribut(주다) + ion = 되돌려 주는 것 → 응보. contribute(기여하다), attribute(귀속시키다)와 같은 어근"
+  },
+  {
+    "en": "clamor",
+    "ko": "소란, 외침",
+    "example": "There was a growing clamor for political reform among the citizens.",
+    "mnemonic": "라틴어 clamare(외치다)에서 유래. clam(외치다) + or = 외침 → 소란. claim(주장하다), exclaim(외치다)과 같은 어근"
+  },
+  {
+    "en": "litigation",
+    "ko": "소송, 재판",
+    "example": "The dispute was settled without litigation.",
+    "mnemonic": "litig(다투다) + ation = 법적으로 다투는 것 → 소송. litigate(소송하다)"
+  },
+  {
+    "en": "speculate",
+    "ko": "추측하다, 투기하다",
+    "example": "Analysts speculate that interest rates will rise next year.",
+    "mnemonic": "spec(보다) + ulate = 살펴보다 → 추측하다. spectacle(광경), suspect(의심하다)와 같은 어근"
+  },
+  {
+    "en": "impartial",
+    "ko": "공정한, 편파적이지 않은",
+    "example": "The judge must remain impartial throughout the trial.",
+    "mnemonic": "'임파셜' → 'im(not)+partial(편파적)' 편파적이지 않은 = 공정한!"
+  },
+  {
+    "en": "conjecture",
+    "ko": "추측, 추측하다",
+    "example": "Without evidence, any theory remains mere conjecture.",
+    "mnemonic": "con(함께) + ject(던지다) + ure = 함께 던져보다 → 추측. project(투사하다), inject(주입하다)와 같은 어근"
+  },
+  {
+    "en": "depreciate",
+    "ko": "가치가 떨어지다, 평가절하하다",
+    "example": "New cars depreciate in value as soon as they are driven off the lot.",
+    "mnemonic": "de(아래로) + preci(가격, 가치) + ate = 가치가 내려가다 → 감가상각. precious(귀중한), appreciate(감사하다/가치를 올리다)와 반대"
+  },
+  {
+    "en": "dedicate",
+    "ko": "헌신하다, 바치다",
+    "example": "She dedicated her life to helping children in poverty.",
+    "mnemonic": "de(완전히) + dic(선언하다) + ate = 완전히 선언하여 바치다 → 헌신하다. dictate(구술하다), predict(예측하다)와 같은 어근"
+  },
+  {
+    "en": "genocide",
+    "ko": "집단 학살",
+    "example": "The international community condemned the genocide as a crime against humanity.",
+    "mnemonic": "'제노사이드' → 'geno(종족)+cide(죽이다)' 종족을 죽이는 = 학살!"
+  },
+  {
+    "en": "archipelago",
+    "ko": "군도, 다도해",
+    "example": "Indonesia is the world's largest archipelago.",
+    "mnemonic": "archi(으뜸, 주요한) + pelago(바다) = 주요 바다에 있는 섬들 → 군도. 그리스어 pelagos(바다)에서 유래"
+  },
+  {
+    "en": "stratify",
+    "ko": "계층화하다, 층으로 나누다",
+    "example": "Society has been stratified into distinct economic classes.",
+    "mnemonic": "strat(층) + ify(만들다) = 층으로 만들다 → 계층화하다. stratum(지층), strategy(전략)와 같은 어근"
+  },
+  {
+    "en": "baffle",
+    "ko": "당혹하게 하다",
+    "example": "The mystery of the missing artifacts baffled investigators.",
+    "mnemonic": "고대 프랑스어에서 유래. 소리나 흐름을 막는 장치(baffle)가 원뜻 → 막혀서 당혹하게 되다"
+  },
+  {
+    "en": "heresy",
+    "ko": "이단, 이설",
+    "example": "In medieval times, questioning the church was considered heresy.",
+    "mnemonic": "'헤러시' → '해(harm)+러시' 교회에 해가 되는 이단!"
+  },
+  {
+    "en": "amnesty",
+    "ko": "사면, 특사",
+    "example": "The president granted amnesty to political prisoners.",
+    "mnemonic": "a(not) + mnest(기억하다) + y = 기억하지 않다 → 죄를 잊어주는 사면. amnesia(기억상실)와 같은 어근"
+  },
+  {
+    "en": "epidemic",
+    "ko": "유행병, 전염병",
+    "example": "The flu epidemic spread rapidly across the country.",
+    "mnemonic": "'에피데믹' → 'epi(위에)+dem(사람)+ic' 사람들 위에 퍼지는 병!"
+  },
+  {
+    "en": "albeit",
+    "ko": "비록 ~이지만",
+    "example": "He accepted the job, albeit with some reservations.",
+    "mnemonic": "al(all) + be + it = 그것이 전부라 해도 → 비록 ~이지만. 중세 영어에서 유래"
+  },
+  {
+    "en": "hegemony",
+    "ko": "패권, 지배권",
+    "example": "The country sought to maintain its hegemony over the region.",
+    "mnemonic": "그리스어 hegemonia(지도력)에서 유래. hegemon(지도자) + y = 지도자의 권한 → 패권"
+  },
+  {
+    "en": "metaphysical",
+    "ko": "형이상학적인",
+    "example": "The philosopher explored metaphysical questions about the nature of reality.",
+    "mnemonic": "meta(너머) + phys(자연) + ical = 자연 너머의 → 형이상학적인. physics(물리학)와 같은 어근"
+  },
+  {
+    "en": "promulgate",
+    "ko": "공포하다, 널리 알리다",
+    "example": "The government promulgated new environmental regulations.",
+    "mnemonic": "pro(앞으로) + mulg(대중) + ate = 대중 앞에 내놓다 → 공포하다. 라틴어 promulgare(공표하다)에서 유래"
+  },
+  {
+    "en": "scarcity",
+    "ko": "부족, 결핍",
+    "example": "Water scarcity is a growing problem in many parts of the world.",
+    "mnemonic": "scarce(부족한) + ity = 부족한 상태 → 부족, 결핍. 고대 프랑스어 escars(적은)에서 유래"
+  },
+  {
+    "en": "inception",
+    "ko": "시작, 개시",
+    "example": "Since its inception in 2005, the company has grown rapidly.",
+    "mnemonic": "'인셉션' → 영화 '인셉션' = 꿈의 시작!"
+  },
+  {
+    "en": "affable",
+    "ko": "상냥한, 붙임성 있는",
+    "example": "The manager was known for his affable manner with customers.",
+    "mnemonic": "af(~에) + fable(말하다) = 말하기 쉬운 → 상냥한. fable(우화)과 같은 어근 fa(말하다)"
+  },
+  {
+    "en": "aesthetic",
+    "ko": "미적인, 심미적인",
+    "example": "The building has a unique aesthetic appeal.",
+    "mnemonic": "그리스어 aisthetikos(감각적인)에서 유래. aisth(느끼다) + etic = 감각으로 느끼는 → 미적인"
+  },
+  {
+    "en": "solitary",
+    "ko": "혼자의, 고독한",
+    "example": "He lived a solitary life in a small cabin in the woods.",
+    "mnemonic": "solit(혼자) + ary = 혼자의 → 고독한. sole(유일한), solitude(고독)와 같은 어근"
+  },
+  {
+    "en": "adjourn",
+    "ko": "연기하다, 휴회하다",
+    "example": "The judge decided to adjourn the trial until Monday.",
+    "mnemonic": "ad(~쪽으로) + journ(day, 날) = 다른 날로 미루다 → 연기하다. journal(일지)과 같은 어근"
+  },
+  {
+    "en": "annex",
+    "ko": "합병하다, 부속 건물",
+    "example": "The country annexed the neighboring territory after the war.",
+    "mnemonic": "an(~에) + nex(묶다) = 묶어 붙이다 → 합병하다. connect(연결하다)과 같은 어근 nect/nex"
+  },
+  {
+    "en": "fervent",
+    "ko": "열렬한, 뜨거운",
+    "example": "She made a fervent plea for peace and justice.",
+    "mnemonic": "'퍼번트' → 'ferv(끓다)+ent' 끓어오르는 = 열렬한!"
+  },
+  {
+    "en": "inadvertent",
+    "ko": "부주의한, 무심코 한",
+    "example": "She made an inadvertent error when copying the data.",
+    "mnemonic": "in(not) + ad(~에) + vert(돌다) + ent = 주의를 돌리지 않은 → 부주의한. advertise(광고하다)와 같은 어근"
+  },
+  {
+    "en": "castigate",
+    "ko": "혹평하다, 징계하다",
+    "example": "The media castigated the government for its slow response to the crisis.",
+    "mnemonic": "cast(순수하게) + ig(만들다) + ate = 순수하게 만들기 위해 벌주다 → 징계. chaste(순결한)와 같은 어근"
+  },
+  {
+    "en": "pessimistic",
+    "ko": "비관적인",
+    "example": "He has a pessimistic view of the economy's future.",
+    "mnemonic": "pessim(최악의) + istic = 최악을 생각하는 → 비관적인. 라틴어 pessimus(최악의)에서 유래"
+  },
+  {
+    "en": "elucidate",
+    "ko": "설명하다, 밝히다",
+    "example": "The professor tried to elucidate the complex theory for her students.",
+    "mnemonic": "e(밖으로) + lucid(밝은) + ate = 밝게 만들다 → 설명하다. lucid(명료한), translucent(반투명한)와 같은 어근"
+  },
+  {
+    "en": "grotesque",
+    "ko": "기괴한, 흉측한",
+    "example": "The horror movie featured grotesque creatures from another dimension.",
+    "mnemonic": "'그로테스크' → '그로테스크' 미술 용어로 기괴한 양식!"
+  },
+  {
+    "en": "refrain",
+    "ko": "삼가다, 자제하다",
+    "example": "Please refrain from using your phone during the performance.",
+    "mnemonic": "re(다시) + frain(고삐) = 고삐를 다시 당기다 → 자제하다. 라틴어 frenare(고삐를 매다)에서 유래"
+  },
+  {
+    "en": "bigotry",
+    "ko": "편견, 편협함",
+    "example": "The community united against bigotry and discrimination.",
+    "mnemonic": "고대 프랑스어 bigot(위선적인 종교인)에서 유래 → 편견에 사로잡힌 상태"
+  },
+  {
+    "en": "pandemic",
+    "ko": "전 세계적 유행병",
+    "example": "The COVID-19 pandemic affected nearly every country in the world.",
+    "mnemonic": "pan(모든) + dem(국민) + ic = 모든 국민에게 퍼지는 → 전 세계적 유행병. epidemic(전염병)보다 큰 규모"
+  }
+]

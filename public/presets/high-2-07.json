@@ -1,0 +1,302 @@
+[
+  {
+    "en": "ardent",
+    "ko": "열렬한, 열정적인",
+    "example": "She is an ardent supporter of animal rights.",
+    "mnemonic": "라틴어 ardere(불타다)에서 유래. ard(불타다) + ent = 불타는 듯한 → 열렬한. arson(방화)과 같은 어근"
+  },
+  {
+    "en": "tenacious",
+    "ko": "끈질긴, 집요한",
+    "example": "Her tenacious efforts finally led to a breakthrough in the research.",
+    "mnemonic": "ten(잡다) + acious = 꽉 잡는 → 끈질긴. contain(포함하다), retain(유지하다)와 같은 어근 ten/tain(잡다)"
+  },
+  {
+    "en": "embody",
+    "ko": "구체화하다, 체현하다",
+    "example": "The statue embodies the spirit of freedom and independence.",
+    "mnemonic": "em(안에) + body(몸) = 몸에 담다 → 구체화하다. body(몸)를 접두사 em으로 동사화"
+  },
+  {
+    "en": "nihilism",
+    "ko": "허무주의",
+    "example": "The novel explores themes of existential nihilism and meaninglessness.",
+    "mnemonic": "라틴어 nihil(아무것도 아닌) + ism = 아무것도 없다는 주의 → 허무주의. annihilate(전멸시키다)와 같은 어근"
+  },
+  {
+    "en": "obsolete",
+    "ko": "구식의, 쓸모없게 된",
+    "example": "Floppy disks became obsolete with the advent of USB drives.",
+    "mnemonic": "ob(반대) + sol(익숙한) + ete = 더 이상 익숙하지 않은 → 구식의. 라틴어 obsolescere(낡아지다)에서 유래"
+  },
+  {
+    "en": "apprenticeship",
+    "ko": "도제 제도, 견습 기간",
+    "example": "He completed a three-year apprenticeship with a master craftsman.",
+    "mnemonic": "ap(~쪽으로) + prehend(잡다, 배우다) → apprentice(견습생) + ship(상태) = 배우는 기간 → 도제 제도"
+  },
+  {
+    "en": "instigate",
+    "ko": "선동하다, 부추기다",
+    "example": "He was accused of instigating the riot in the city center.",
+    "mnemonic": "in(안으로) + stig(찌르다) + ate = 안에서 찌르다 → 부추기다. stimulate(자극하다)와 같은 어근"
+  },
+  {
+    "en": "impede",
+    "ko": "방해하다, 저지하다",
+    "example": "Heavy traffic impeded our journey to the airport.",
+    "mnemonic": "'임피드' → 'im(안에)+ped(발)' 발목을 잡다 = 방해!"
+  },
+  {
+    "en": "catalyst",
+    "ko": "촉매, 촉진제",
+    "example": "The assassination of the archduke was the catalyst for World War I.",
+    "mnemonic": "cata(아래로) + lyst(풀다) = 아래로 풀어 반응시키다 → 촉매. analysis(분석)와 같은 어근 lys(풀다)"
+  },
+  {
+    "en": "coherence",
+    "ko": "일관성, 응집력",
+    "example": "The essay lacks coherence and jumps from topic to topic.",
+    "mnemonic": "co(함께) + her(달라붙다) + ence = 함께 붙어있는 상태 → 일관성. adhere(접착하다)와 같은 어근"
+  },
+  {
+    "en": "communal",
+    "ko": "공동의, 공유의",
+    "example": "The apartment building has a communal garden for all residents.",
+    "mnemonic": "commun(공동) + al = 공동체의 → 공동의. community(공동체), communicate(소통하다)와 같은 어근"
+  },
+  {
+    "en": "safeguard",
+    "ko": "보호하다, 보호 장치",
+    "example": "New laws were introduced to safeguard consumer rights.",
+    "mnemonic": "safe(안전한) + guard(지키다) = 안전하게 지키다 → 보호하다"
+  },
+  {
+    "en": "impervious",
+    "ko": "영향을 받지 않는, 통하지 않는",
+    "example": "The raincoat is impervious to water and keeps you completely dry.",
+    "mnemonic": "im(not) + pervious(통과하는) = 통과하지 않는 → 영향을 받지 않는. pervade(퍼지다)와 같은 어근"
+  },
+  {
+    "en": "procurement",
+    "ko": "조달, 획득",
+    "example": "The procurement of raw materials is essential for manufacturing.",
+    "mnemonic": "pro(앞으로) + cure(돌보다) + ment = 앞서 돌보며 구하는 것 → 조달. procure(조달하다)의 명사형"
+  },
+  {
+    "en": "sanctimonious",
+    "ko": "위선적으로 경건한",
+    "example": "His sanctimonious attitude annoyed everyone around him.",
+    "mnemonic": "sancti(신성한) + monious = 신성한 척하는 → 위선적으로 경건한. sanctuary(성역), saint(성인)과 같은 어근"
+  },
+  {
+    "en": "anthology",
+    "ko": "선집, 명작 모음집",
+    "example": "The teacher assigned readings from a poetry anthology.",
+    "mnemonic": "antho(꽃) + logy(모음, 학문) = 꽃처럼 아름다운 글을 모은 것 → 선집, 명작 모음집"
+  },
+  {
+    "en": "hypothetical",
+    "ko": "가설의, 가정의",
+    "example": "Let us consider a hypothetical situation where resources are unlimited.",
+    "mnemonic": "'하이포세티컬' → 'hypo(아래)+thetic(놓다)+al' 아래에 놓은 가정!"
+  },
+  {
+    "en": "contend",
+    "ko": "다투다, 주장하다",
+    "example": "Several athletes contended for the gold medal.",
+    "mnemonic": "con(함께) + tend(뻗다) = 함께 뻗어 다투다 → 경쟁하다. extend(확장), intend(의도하다)와 같은 어근"
+  },
+  {
+    "en": "opt",
+    "ko": "선택하다",
+    "example": "Many students opt to study abroad for a semester.",
+    "mnemonic": "라틴어 optare(선택하다)에서 유래. opt = 선택하다. option(선택), optimal(최적의)과 같은 어근"
+  },
+  {
+    "en": "annotation",
+    "ko": "주석, 주해",
+    "example": "The textbook was filled with her handwritten annotations.",
+    "mnemonic": "an(~에) + not(표시하다) + ation = 표시를 달다 → 주석. note(노트), notice(알아채다)와 같은 어근"
+  },
+  {
+    "en": "misconstrue",
+    "ko": "오해하다, 잘못 해석하다",
+    "example": "His silence was misconstrued as agreement with the proposal.",
+    "mnemonic": "mis(잘못) + construe(해석하다) = 잘못 해석하다 → 오해하다. construct(건설하다)와 같은 어근 stru(쌓다)"
+  },
+  {
+    "en": "paramount",
+    "ko": "최고의, 가장 중요한",
+    "example": "Safety should be of paramount importance in any workplace.",
+    "mnemonic": "para(위로) + mount(산) = 산 위에 있는 → 최고의. 영화사 Paramount(파라마운트)의 이름 유래"
+  },
+  {
+    "en": "elusive",
+    "ko": "파악하기 어려운, 교묘한",
+    "example": "The meaning of the poem remains elusive to many readers.",
+    "mnemonic": "e(밖으로) + lus(놀다, 피하다) + ive = 빠져나가는 → 파악하기 어려운. illusion(환상), elude(피하다)와 같은 어근 lud/lus"
+  },
+  {
+    "en": "paucity",
+    "ko": "부족, 소량",
+    "example": "The paucity of evidence made it difficult to prosecute the case.",
+    "mnemonic": "라틴어 paucus(적은)에서 유래. pauc(적은) + ity = 적은 상태 → 부족. few와 같은 어원 계열"
+  },
+  {
+    "en": "opaque",
+    "ko": "불투명한, 이해하기 어려운",
+    "example": "The window was covered with opaque curtains to block the light.",
+    "mnemonic": "라틴어 opacus(그늘진)에서 유래. op(막힌) + aque = 빛이 막힌 → 불투명한"
+  },
+  {
+    "en": "redeem",
+    "ko": "상환하다, 구원하다",
+    "example": "He tried to redeem himself by volunteering in the community.",
+    "mnemonic": "re(다시) + deem(사다) = 다시 사오다 → 되찾다, 구원하다. 라틴어 redimere(되사다)에서 유래"
+  },
+  {
+    "en": "harbor",
+    "ko": "품다, 항구",
+    "example": "She still harbors resentment toward her former employer.",
+    "mnemonic": "'하버' → '하버(harbor=항구)' 마음의 항구에 감정을 품다!"
+  },
+  {
+    "en": "contingent",
+    "ko": "~에 달려 있는, 우발적인",
+    "example": "Our trip is contingent on getting approval from the boss.",
+    "mnemonic": "con(함께) + ting(접촉하다) + ent = 접촉해야 되는 → ~에 달려있는. contact(접촉), tangible(만질 수 있는)과 같은 어근"
+  },
+  {
+    "en": "prolific",
+    "ko": "다작의, 다산의",
+    "example": "She is a prolific author who has published over fifty novels.",
+    "mnemonic": "proli(자손) + fic(만들다) = 자손을 많이 만드는 → 다산의, 다작의"
+  },
+  {
+    "en": "tyranny",
+    "ko": "폭정, 독재",
+    "example": "The people finally overthrew the tyranny that had oppressed them.",
+    "mnemonic": "그리스어 tyrannos(독재자)에서 유래. tyrann(독재자) + y = 독재자의 통치 → 폭정"
+  },
+  {
+    "en": "emulate",
+    "ko": "모방하다, 경쟁하다",
+    "example": "Young athletes often try to emulate their sports heroes.",
+    "mnemonic": "라틴어 aemulus(경쟁자)에서 유래. emul(경쟁하다) + ate = 경쟁하듯 따라하다 → 모방하다. emulator(모방 장치)의 어근"
+  },
+  {
+    "en": "contentious",
+    "ko": "논쟁적인, 다투기 좋아하는",
+    "example": "Immigration policy remains a contentious political issue.",
+    "mnemonic": "con(함께) + tent(뻗다) + ious = 서로 뻗어 다투는 → 논쟁적인. contend(다투다)의 형용사형"
+  },
+  {
+    "en": "facilitate",
+    "ko": "촉진하다, 용이하게 하다",
+    "example": "Technology can facilitate communication between people worldwide.",
+    "mnemonic": "'퍼실리테이트' → 'facil(쉬운)+itate' 쉽게 만들다 = 촉진!"
+  },
+  {
+    "en": "resilient",
+    "ko": "회복력 있는, 탄력적인",
+    "example": "Children are remarkably resilient and can adapt to new situations quickly.",
+    "mnemonic": "re(다시) + sili(뛰다) + ent = 다시 튀어오르는 → 회복력 있는. result(결과), insult(모욕)과 같은 어근"
+  },
+  {
+    "en": "meager",
+    "ko": "빈약한, 부족한",
+    "example": "They survived on meager rations during the long winter.",
+    "mnemonic": "라틴어 macer(마른)에서 유래. 마른 듯 부족한 → 빈약한"
+  },
+  {
+    "en": "gregarious",
+    "ko": "사교적인, 군거하는",
+    "example": "He has a gregarious personality and loves meeting new people.",
+    "mnemonic": "greg(무리) + arious = 무리를 좋아하는 → 사교적인. congregate(모이다), aggregate(집합)과 같은 어근"
+  },
+  {
+    "en": "rationale",
+    "ko": "근거, 이론적 해석",
+    "example": "The manager explained the rationale behind the new policy.",
+    "mnemonic": "ration(이성) + ale = 이성적 근거 → 합리적 이유. rational(합리적인)과 같은 어근"
+  },
+  {
+    "en": "savvy",
+    "ko": "상식, 잘 아는",
+    "example": "She is a tech-savvy entrepreneur who understands digital marketing.",
+    "mnemonic": "스페인어 sabe(알다)에서 유래. savvy = 잘 아는, 빈틈없는"
+  },
+  {
+    "en": "synthesis",
+    "ko": "종합, 합성",
+    "example": "The essay is a synthesis of various theories on human behavior.",
+    "mnemonic": "syn(함께) + thesis(놓다) = 함께 놓다 → 종합. photosynthesis(광합성), antithesis(정반대)와 같은 어근"
+  },
+  {
+    "en": "aberration",
+    "ko": "일탈, 이상",
+    "example": "The warm winter weather was an aberration from the norm.",
+    "mnemonic": "ab(떠나) + err(방황하다) + ation = 정상에서 벗어남 → 일탈. error(오류)와 같은 어근"
+  },
+  {
+    "en": "affluent",
+    "ko": "부유한, 풍족한",
+    "example": "They live in an affluent neighborhood with large houses.",
+    "mnemonic": "af(~쪽으로) + flu(흐르다) + ent = 재물이 흘러들어오는 → 부유한. fluent(유창한), fluid(유체)와 같은 어근"
+  },
+  {
+    "en": "dichotomy",
+    "ko": "이분법, 양분",
+    "example": "There is a false dichotomy between economic growth and environmental protection.",
+    "mnemonic": "dicho(둘로) + tomy(자르다) = 둘로 자르다 → 이분법. anatomy(해부학), atom(원자)과 같은 어근 tom(자르다)"
+  },
+  {
+    "en": "deft",
+    "ko": "솜씨 좋은, 능숙한",
+    "example": "The chef's deft hands prepared the sushi with precision.",
+    "mnemonic": "고대 영어 dæfte(온순한, 적합한)에서 유래. deft = 손놀림이 맞는 → 솜씨 좋은"
+  },
+  {
+    "en": "anatomy",
+    "ko": "해부학, 구조",
+    "example": "Medical students must study human anatomy in detail.",
+    "mnemonic": "ana(위로, 분석) + tomy(자르다) = 잘라서 분석하다 → 해부학. atom(원자, 더 이상 자를 수 없는)과 같은 어근"
+  },
+  {
+    "en": "creed",
+    "ko": "신조, 신념",
+    "example": "People of every creed and nationality are welcome here.",
+    "mnemonic": "라틴어 credo(나는 믿는다)에서 유래. cred(믿다) + d = 믿는 것 → 신조. credit(신용), credible(믿을 만한)과 같은 어근"
+  },
+  {
+    "en": "polarize",
+    "ko": "양극화하다, 분열시키다",
+    "example": "The controversial issue polarized public opinion.",
+    "mnemonic": "polar(극) + ize = 극으로 만들다 → 양극화하다. pole(극)에서 유래"
+  },
+  {
+    "en": "pertinent",
+    "ko": "관련된, 적절한",
+    "example": "Please share only information that is pertinent to the case.",
+    "mnemonic": "per(완전히) + tin(잡다) + ent = 딱 맞게 잡은 → 적절한. pertain(관련되다), retain(유지하다)와 같은 어근"
+  },
+  {
+    "en": "milieu",
+    "ko": "환경, 사회적 배경",
+    "example": "The artist was influenced by the cultural milieu of 1920s Paris.",
+    "mnemonic": "프랑스어 mi(중간) + lieu(장소) = 중간의 장소 → 주변 환경. lieutenant(중위, 장소를 지키는 사람)과 같은 어근"
+  },
+  {
+    "en": "incur",
+    "ko": "초래하다, 입다",
+    "example": "The company incurred heavy losses during the recession.",
+    "mnemonic": "'인커' → 'in(안으로)+cur(달리다)' 안으로 달려오는 = 초래!"
+  },
+  {
+    "en": "interplay",
+    "ko": "상호작용",
+    "example": "The interplay between genetics and environment shapes personality.",
+    "mnemonic": "inter(사이) + play(놀다) = 사이에서 주고받는 놀이 → 상호작용"
+  }
+]

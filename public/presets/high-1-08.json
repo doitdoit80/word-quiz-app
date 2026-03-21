@@ -1,0 +1,302 @@
+[
+  {
+    "en": "sector",
+    "ko": "부문, 분야",
+    "example": "The technology sector is growing rapidly.",
+    "mnemonic": "sect(자르다, secare) + or = 잘라낸 부분 → 부문. 관련어: section, insect"
+  },
+  {
+    "en": "funeral",
+    "ko": "장례식",
+    "example": "Many people attended the funeral.",
+    "mnemonic": "라틴어 funus(장례, 시체)에서 유래. 죽은 자를 위한 의식 → 장례식"
+  },
+  {
+    "en": "classify",
+    "ko": "분류하다",
+    "example": "Scientists classify animals into different groups.",
+    "mnemonic": "class(등급, classis) + ify(만들다) = 등급을 만들다 → 분류하다"
+  },
+  {
+    "en": "obey",
+    "ko": "복종하다, 따르다",
+    "example": "Students must obey the school rules.",
+    "mnemonic": "'오베이' → 'ob(~을 향해)+ey(듣다)' 듣고 따르다 = 복종!"
+  },
+  {
+    "en": "gender",
+    "ko": "성별",
+    "example": "Gender equality is an important social issue.",
+    "mnemonic": "라틴어 genus(종류, 유형)에서 유래. gen(낳다, 생기다). 태어난 유형 → 성별. 관련어: gene, generate"
+  },
+  {
+    "en": "heap",
+    "ko": "더미, 쌓다",
+    "example": "There was a heap of dirty clothes on the floor.",
+    "mnemonic": "'힙' → '힙(heap)' 물건을 힙하게 쌓은 더미!"
+  },
+  {
+    "en": "gallery",
+    "ko": "미술관, 갤러리",
+    "example": "We visited an art gallery downtown.",
+    "mnemonic": "중세 라틴어 galeria(긴 복도)에서 유래. 긴 복도에 그림을 걸어놓은 곳 → 미술관"
+  },
+  {
+    "en": "scatter",
+    "ko": "흩뿌리다, 흩어지다",
+    "example": "The wind scattered the leaves across the yard.",
+    "mnemonic": "중세 영어 scateren(흩어지다)에서 유래. shatter(산산조각)와 관련. 조각조각 흩어지다"
+  },
+  {
+    "en": "flee",
+    "ko": "도망치다, 달아나다",
+    "example": "The villagers fled from the flood.",
+    "mnemonic": "고대 영어 flēon(도망치다)에서 유래. fly(날다)와 관련. 날듯이 달아나다 → 도망치다"
+  },
+  {
+    "en": "pledge",
+    "ko": "서약, 맹세하다",
+    "example": "She pledged to work harder this year.",
+    "mnemonic": "고대 프랑스어 plege(보증, 담보)에서 유래. 약속을 담보하다 → 서약, 맹세"
+  },
+  {
+    "en": "tribe",
+    "ko": "부족",
+    "example": "The tribe lived deep in the Amazon rainforest.",
+    "mnemonic": "라틴어 tribus(로마의 세 부족)에서 유래. tri(셋). 로마 초기 세 씨족 → 부족"
+  },
+  {
+    "en": "grace",
+    "ko": "우아함, 은혜",
+    "example": "The dancer moved with incredible grace.",
+    "mnemonic": "라틴어 gratia(호의, 매력, 감사)에서 유래. gratus(기쁜). 기쁨을 주는 것 → 우아함. 관련어: grateful, gratis"
+  },
+  {
+    "en": "spite",
+    "ko": "악의, 앙심",
+    "example": "In spite of the rain, they enjoyed the picnic.",
+    "mnemonic": "고대 프랑스어 despit(경멸)에서 유래. 라틴어 despicere(내려다보다). 경멸하는 마음 → 악의"
+  },
+  {
+    "en": "mount",
+    "ko": "오르다, 산",
+    "example": "They mounted the horse and rode away.",
+    "mnemonic": "'마운트' → '마운트(mount)' 에베레스트 = 산에 오르다!"
+  },
+  {
+    "en": "episode",
+    "ko": "에피소드, 일화",
+    "example": "Did you watch the latest episode of the drama?",
+    "mnemonic": "epi(위에, 추가로) + sode(길, hodos) = 본 길에 추가된 것 → 삽화, 에피소드. 관련어: method"
+  },
+  {
+    "en": "withdraw",
+    "ko": "철수하다, 인출하다",
+    "example": "She withdrew money from the bank.",
+    "mnemonic": "with(뒤로) + draw(끌다) = 뒤로 끌다 → 철수하다, 인출하다"
+  },
+  {
+    "en": "flat",
+    "ko": "평평한, 아파트",
+    "example": "The land here is completely flat.",
+    "mnemonic": "고대 노르드어 flatr(평평한)에서 유래. 게르만 공통어. 편평하게 펼쳐진 → 평평한"
+  },
+  {
+    "en": "mankind",
+    "ko": "인류",
+    "example": "This discovery changed the history of mankind.",
+    "mnemonic": "'맨카인드' → 'man(사람)+kind(종류)' 사람의 종류 = 인류!"
+  },
+  {
+    "en": "shelter",
+    "ko": "피난처, 대피소",
+    "example": "They found shelter from the rain under a tree.",
+    "mnemonic": "고대 영어 scieldtruma(방패 부대)에서 유래. shield(방패)와 관련. 방패처럼 보호하는 곳"
+  },
+  {
+    "en": "gravity",
+    "ko": "중력, 심각성",
+    "example": "Gravity keeps us on the ground.",
+    "mnemonic": "'그래비티' → 영화 '그래비티(Gravity)' 우주 중력!"
+  },
+  {
+    "en": "jail",
+    "ko": "감옥, 수감하다",
+    "example": "The criminal was sent to jail for ten years.",
+    "mnemonic": "'제일' → '제일(jail)' 무서운 곳 = 감옥!"
+  },
+  {
+    "en": "military",
+    "ko": "군대의, 군사적인",
+    "example": "He served in the military for two years.",
+    "mnemonic": "'밀리터리' → '밀리(mili=군인)+터리' 군인의 = 군사적인!"
+  },
+  {
+    "en": "flour",
+    "ko": "밀가루",
+    "example": "You need flour to make bread.",
+    "mnemonic": "flower(꽃)와 같은 어원. 라틴어 flos(꽃). 곡물의 가장 좋은 부분(=꽃) → 밀가루"
+  },
+  {
+    "en": "utter",
+    "ko": "완전한, 말하다",
+    "example": "The room was in utter silence.",
+    "mnemonic": "고대 영어 utter(바깥의, 완전한)에서 유래. out(밖)의 비교급. 밖으로 내보내다 → 말하다"
+  },
+  {
+    "en": "grateful",
+    "ko": "감사하는",
+    "example": "I am grateful for your help.",
+    "mnemonic": "'그레이트풀' → 'great(좋은)+ful(가득한)' 좋은 것 가득 = 감사한!"
+  },
+  {
+    "en": "mental",
+    "ko": "정신의, 마음의",
+    "example": "Mental health is as important as physical health.",
+    "mnemonic": "'멘탈' → '멘탈(mental)' 붕괴 = 정신 붕괴!"
+  },
+  {
+    "en": "routine",
+    "ko": "일상, 일과",
+    "example": "Exercise is part of my daily routine.",
+    "mnemonic": "route(길) + ine = 매일 같은 길 → 일상, 일과. 항상 다니는 길"
+  },
+  {
+    "en": "margin",
+    "ko": "여백, 차이",
+    "example": "She won the election by a narrow margin.",
+    "mnemonic": "'마진' → '마진(margin)' 이익 여백!"
+  },
+  {
+    "en": "superior",
+    "ko": "우월한, 상급의",
+    "example": "This product is superior to others in quality.",
+    "mnemonic": "라틴어 superior(더 위의)에서 유래. super(위). 위에 있는 → 우월한. 관련어: supreme"
+  },
+  {
+    "en": "persuade",
+    "ko": "설득하다",
+    "example": "She persuaded her parents to let her study abroad.",
+    "mnemonic": "'퍼스웨이드' → 'per(완전히)+suade(권하다)' 완전히 권하다 = 설득!"
+  },
+  {
+    "en": "arise",
+    "ko": "발생하다, 일어나다",
+    "example": "Problems may arise if we don't plan carefully.",
+    "mnemonic": "a(위로) + rise(일어나다) = 위로 일어나다 → 발생하다"
+  },
+  {
+    "en": "diligent",
+    "ko": "부지런한, 근면한",
+    "example": "She is a diligent student who always studies hard.",
+    "mnemonic": "di(떨어져) + lig(고르다, 사랑하다, legere) + ent = 일을 골라 사랑하는 → 근면한. 관련어: elegant"
+  },
+  {
+    "en": "oppress",
+    "ko": "억압하다, 탄압하다",
+    "example": "The dictator oppressed the people for decades.",
+    "mnemonic": "'어프레스' → 'op(위에)+press(누르다)' 위에서 누르다 = 억압!"
+  },
+  {
+    "en": "constitution",
+    "ko": "헌법, 체질",
+    "example": "The constitution protects the rights of citizens.",
+    "mnemonic": "con(함께) + stitut(세우다, statuere) + ion = 함께 세운 것 → 헌법. 관련어: institute, substitute"
+  },
+  {
+    "en": "revenue",
+    "ko": "수입, 세입",
+    "example": "The company's revenue increased by ten percent.",
+    "mnemonic": "re(뒤로) + venue(오다, venire) = 돌아오는 것 → 수입. 관련어: adventure, avenue"
+  },
+  {
+    "en": "correct",
+    "ko": "올바른, 교정하다",
+    "example": "Please correct the errors in your essay.",
+    "mnemonic": "cor(완전히) + rect(바르다, rectus) = 완전히 바르게 하다 → 교정하다. 관련어: direct, erect"
+  },
+  {
+    "en": "crop",
+    "ko": "농작물, 수확물",
+    "example": "The farmer harvested the crops in autumn.",
+    "mnemonic": "고대 영어 cropp(이삭, 꼭대기)에서 유래. 식물의 꼭대기를 거두다 → 농작물, 수확물"
+  },
+  {
+    "en": "burden",
+    "ko": "짐, 부담",
+    "example": "The heavy taxes were a burden on the people.",
+    "mnemonic": "고대 영어 byrðen(짐)에서 유래. bear(나르다)와 같은 어근. 나르는 것 → 짐, 부담"
+  },
+  {
+    "en": "portrait",
+    "ko": "초상화, 인물사진",
+    "example": "The artist painted a beautiful portrait of the queen.",
+    "mnemonic": "pro(앞으로) + trait(끌다, trahere) = 앞모습을 끌어내다 → 초상화"
+  },
+  {
+    "en": "attempt",
+    "ko": "시도, 시도하다",
+    "example": "He made an attempt to climb the mountain.",
+    "mnemonic": "at(~을 향해) + tempt(시도하다, temptare) = 향해 시도하다 → 시도"
+  },
+  {
+    "en": "upset",
+    "ko": "속상한, 뒤엎다",
+    "example": "She was upset about losing her wallet.",
+    "mnemonic": "up(위로) + set(놓다) = 위로 뒤집어 놓다 → 뒤엎다, 속상하게 하다"
+  },
+  {
+    "en": "role",
+    "ko": "역할",
+    "example": "She plays an important role in the team.",
+    "mnemonic": "라틴어 rotula(작은 바퀴, 두루마리)에서 유래. 배우의 대본 두루마리 → 역할"
+  },
+  {
+    "en": "shallow",
+    "ko": "얕은",
+    "example": "The river is shallow enough to walk across.",
+    "mnemonic": "고대 영어 sceald(얕은)에서 유래. shoal(여울)과 관련. 물이 얕은"
+  },
+  {
+    "en": "likewise",
+    "ko": "마찬가지로",
+    "example": "He is kind, and his sister is likewise.",
+    "mnemonic": "'라이크와이즈' → 'like(같은)+wise(방식)' 같은 방식으로!"
+  },
+  {
+    "en": "lone",
+    "ko": "혼자의, 외로운",
+    "example": "A lone wolf wandered through the forest.",
+    "mnemonic": "'론' → '론(lone)리' 외로운 늑대!"
+  },
+  {
+    "en": "household",
+    "ko": "가정, 가구",
+    "example": "The average household has two children.",
+    "mnemonic": "'하우스홀드' → 'house(집)+hold(유지)' 집을 유지하는 가정!"
+  },
+  {
+    "en": "swear",
+    "ko": "맹세하다, 욕하다",
+    "example": "He swore to tell the truth in court.",
+    "mnemonic": "고대 영어 swerian(맹세하다)에서 유래. answer(응답하다)와 같은 어근. 신에게 맹세하다"
+  },
+  {
+    "en": "urban",
+    "ko": "도시의",
+    "example": "Urban areas have better public transportation.",
+    "mnemonic": "라틴어 urbanus(도시의)에서 유래. urbs(도시). 도시에 관한 → 도시의. 관련어: suburb"
+  },
+  {
+    "en": "greet",
+    "ko": "인사하다, 맞이하다",
+    "example": "She greeted the guests with a warm smile.",
+    "mnemonic": "'그릿' → '그리(gree=기쁜)트' 기쁘게 인사!"
+  },
+  {
+    "en": "delight",
+    "ko": "기쁨, 즐거움",
+    "example": "The children squealed with delight at the surprise.",
+    "mnemonic": "de(강조) + light(유혹하다, lactare) = 크게 유혹되다 → 기쁨. 라틴어 delectare(즐겁게 하다)에서 유래"
+  }
+]

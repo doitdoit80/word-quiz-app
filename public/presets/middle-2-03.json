@@ -1,152 +1,152 @@
 [
   {
-    "en": "benefit",
-    "ko": "이익",
-    "example": "Exercise has many health benefits.",
-    "mnemonic": "bene(좋은) + fit(맞는). 잘 맞으면 이익!"
+    "en": "scene",
+    "ko": "장면, 현장",
+    "example": "The last scene of the movie was sad.",
+    "mnemonic": "그리스어 skene(무대 배경)에서 유래. scenery(풍경), scenario(시나리오)도 같은 어근."
   },
   {
-    "en": "challenge",
-    "ko": "도전",
-    "example": "It was a big challenge for me.",
-    "mnemonic": "'챌린지'는 유튜브에서도 하는 도전!"
+    "en": "volunteer",
+    "ko": "자원봉사자",
+    "example": "She works as a volunteer.",
+    "mnemonic": "volunt(자발적) + eer(사람). 자발적으로 나서는 사람! voluntary(자발적인)도 같은 어근."
   },
   {
-    "en": "choice",
-    "ko": "선택",
-    "example": "It was a difficult choice.",
-    "mnemonic": "choose(선택하다)의 명사형. 골라잡는 선택!"
+    "en": "economy",
+    "ko": "경제",
+    "example": "The economy is recovering.",
+    "mnemonic": "그리스어 oikonomia = oikos(집) + nomos(관리). 집안 살림이 경제! economic(경제의), economist(경제학자)."
   },
   {
-    "en": "comfortable",
-    "ko": "편안한",
-    "example": "This sofa is very comfortable.",
-    "mnemonic": "comfort(위안) + able(할 수 있는). 편히 쉴 수 있는!"
+    "en": "average",
+    "ko": "평균",
+    "example": "The average score was 80.",
+    "mnemonic": "아랍어 awariyya(손상된 화물)에서 유래. 화물 손실을 나눠 분담 → 평균으로 의미 변화."
   },
   {
-    "en": "common",
-    "ko": "흔한",
-    "example": "Colds are common in winter.",
-    "mnemonic": "com(함께) + mon(하나). 다 함께 하는 흔한 것."
+    "en": "source",
+    "ko": "원천",
+    "example": "What is the source of this information?",
+    "mnemonic": "라틴어 surgere(솟아오르다)에서 유래. 솟아나는 곳이 원천! resource = re + source(다시 쓸 수 있는 원천)."
   },
   {
-    "en": "complete",
-    "ko": "완성하다",
-    "example": "I completed the puzzle.",
-    "mnemonic": "com(함께) + plete(채우다). 다 채우면 완성!"
+    "en": "mind",
+    "ko": "마음",
+    "example": "Change your mind if you want.",
+    "mnemonic": "고대 영어 gemynd(기억)에서 유래. remind = re(다시) + mind → 다시 마음에 떠올리다."
   },
   {
-    "en": "concern",
-    "ko": "걱정",
-    "example": "Safety is our main concern.",
-    "mnemonic": "con(함께) + cern(구분). 함께 신경 쓰는 걱정."
+    "en": "method",
+    "ko": "방법",
+    "example": "We tried a new method.",
+    "mnemonic": "그리스어 methodos = meta(뒤따라) + hodos(길). 길을 따라가는 방법! methodology(방법론)."
   },
   {
-    "en": "connect",
-    "ko": "연결하다",
-    "example": "Connect the cable to the TV.",
-    "mnemonic": "con(함께) + nect(묶다). 함께 묶으면 연결!"
+    "en": "recent",
+    "ko": "최근의",
+    "example": "I read a recent news article.",
+    "mnemonic": "라틴어 recens(신선한, 새로운)에서 유래. 새로 온 것이 최근! recently(최근에)는 부사형."
   },
   {
-    "en": "continue",
-    "ko": "계속하다",
-    "example": "Let's continue the discussion tomorrow.",
-    "mnemonic": "con(함께) + tinue(잡다). 계속 잡고 있으면 계속하다!"
+    "en": "custom",
+    "ko": "관습",
+    "example": "It is a Korean custom.",
+    "mnemonic": "라틴어 consuetudo(습관)에서 유래. customer(고객) = 관습적으로 오는 사람! customize(맞춤화)."
   },
   {
-    "en": "control",
-    "ko": "통제하다",
-    "example": "You need to control your anger.",
-    "mnemonic": "'컨트롤'러로 게임을 조절하듯이!"
+    "en": "ancient",
+    "ko": "고대의",
+    "example": "This is an ancient temple.",
+    "mnemonic": "라틴어 ante(앞, 이전)에서 유래. 시간적으로 앞선 → 고대의. modern(현대의)의 반대."
   },
   {
-    "en": "create",
-    "ko": "만들다",
-    "example": "She created a beautiful painting.",
-    "mnemonic": "'크리에이트'는 새로운 것을 만드는 창작!"
+    "en": "ceremony",
+    "ko": "의식",
+    "example": "The graduation ceremony was beautiful.",
+    "mnemonic": "라틴어 caerimonia(경건한 의식)에서 유래. 공식적인 행사! ceremonial(의식의)."
   },
   {
-    "en": "culture",
-    "ko": "문화",
-    "example": "Korean culture is becoming popular worldwide.",
-    "mnemonic": "'컬처'는 한 나라의 문화. K-컬처!"
+    "en": "consider",
+    "ko": "고려하다",
+    "example": "Please consider my suggestion.",
+    "mnemonic": "con(함께) + sider(별). 별을 함께 보며 깊이 생각하다! consideration(고려)은 명사형."
   },
   {
-    "en": "decision",
-    "ko": "결정",
-    "example": "It was a hard decision to make.",
-    "mnemonic": "decide(결정하다)의 명사형. 결정!"
+    "en": "approach",
+    "ko": "접근하다",
+    "example": "The cat slowly approached the bird.",
+    "mnemonic": "ap(~에) + proach(가까이). 가까이 다가가면 접근! reproach(비난) = re + proach."
   },
   {
-    "en": "depend",
-    "ko": "~에 달려 있다",
-    "example": "Success depends on hard work.",
-    "mnemonic": "de(아래에) + pend(매달리다). 매달려 있으면 ~에 달려 있다!"
+    "en": "curious",
+    "ko": "호기심 많은",
+    "example": "Children are naturally curious.",
+    "mnemonic": "라틴어 cura(돌봄) + ious. 관심을 기울이면 호기심! curiosity(호기심), cure(치료)도 같은 어근."
   },
   {
-    "en": "describe",
-    "ko": "묘사하다",
-    "example": "Describe your favorite place.",
-    "mnemonic": "de(아래로) + scribe(쓰다). 자세히 써내려가면 묘사!"
+    "en": "decline",
+    "ko": "감소하다",
+    "example": "Sales declined last month.",
+    "mnemonic": "de(아래로) + cline(기울다). 아래로 기울면 감소! cline(기울다): incline(기울다), recline(기대다)."
   },
   {
-    "en": "destroy",
-    "ko": "파괴하다",
-    "example": "The fire destroyed the building.",
-    "mnemonic": "de(완전히) + stroy(쌓다의 반대). 완전히 부수면 파괴!"
+    "en": "cause",
+    "ko": "원인",
+    "example": "What caused the fire?",
+    "mnemonic": "라틴어 causa(이유)에서 유래. because = by + cause → 원인에 의해."
   },
   {
-    "en": "determine",
-    "ko": "결정하다",
-    "example": "She determined to study harder.",
-    "mnemonic": "de(완전히) + termine(끝). 완전히 끝내면 결정!"
+    "en": "debate",
+    "ko": "토론",
+    "example": "They had a debate about education.",
+    "mnemonic": "de(완전히) + bate(치다). 의견을 완전히 부딪치면 토론! 라틴어 battuere(치다)에서 유래."
   },
   {
-    "en": "display",
-    "ko": "전시하다",
-    "example": "The shop displays shoes in the window.",
-    "mnemonic": "dis(펼치다) + play(놓다). 펼쳐 놓으면 전시!"
+    "en": "valuable",
+    "ko": "가치 있는",
+    "example": "Time is very valuable.",
+    "mnemonic": "value(가치) + able(할 수 있는). 가치가 있는! invaluable = in(아닌 게 아니라) → 매우 귀중한."
   },
   {
-    "en": "effect",
-    "ko": "효과",
-    "example": "The medicine had a good effect.",
-    "mnemonic": "ef(밖으로) + fect(만들다). 밖으로 만들어진 효과!"
-  },
-  {
-    "en": "effort",
-    "ko": "노력",
-    "example": "She made a great effort to pass the test.",
-    "mnemonic": "ef(밖으로) + fort(강한). 강하게 밖으로 내면 노력!"
-  },
-  {
-    "en": "escape",
-    "ko": "탈출하다",
-    "example": "The bird escaped from the cage.",
-    "mnemonic": "es(밖으로) + cape(망토). 망토 두르고 밖으로! 탈출!"
+    "en": "principle",
+    "ko": "원칙",
+    "example": "He is a man of principle.",
+    "mnemonic": "라틴어 principium = prim(첫 번째) + cip(잡다). 처음 잡은 것이 원칙! principal(주요한)과 구분!"
   },
   {
     "en": "examine",
     "ko": "조사하다",
     "example": "The doctor examined the patient.",
-    "mnemonic": "exam(시험) + ine. 시험하듯 꼼꼼히 검사."
+    "mnemonic": "ex(밖으로) + amine(재다). 꺼내서 재보면 검사! exam(시험)은 줄임말. examination(검사)."
   },
   {
-    "en": "exist",
-    "ko": "존재하다",
-    "example": "Do aliens exist?",
-    "mnemonic": "ex(밖에) + ist(서다). 밖에 서 있으면 존재!"
+    "en": "system",
+    "ko": "체계",
+    "example": "We need a better system.",
+    "mnemonic": "그리스어 systema = syn(함께) + histanai(세우다). 함께 세운 것이 체계! systematic(체계적인)."
   },
   {
-    "en": "expect",
-    "ko": "기대하다",
-    "example": "I didn't expect to win.",
-    "mnemonic": "ex(밖을) + pect(보다). 밖을 내다보면 기대!"
+    "en": "discuss",
+    "ko": "토론하다",
+    "example": "Let's discuss the problem together.",
+    "mnemonic": "dis(떨어져) + cuss(흔들다). 의견을 떼어내 흔들며 논의! discussion(토론)은 명사형."
   },
   {
-    "en": "explain",
-    "ko": "설명하다",
-    "example": "Can you explain this to me?",
-    "mnemonic": "ex(밖으로) + plain(평평한). 평평하게 펼쳐 설명!"
+    "en": "information",
+    "ko": "정보",
+    "example": "I need more information about this.",
+    "mnemonic": "in(안에) + form(형태) + ation. 마음 안에 형태를 잡아주는 것이 정보! inform(알리다)의 명사형."
+  },
+  {
+    "en": "serious",
+    "ko": "심각한",
+    "example": "This is a serious problem.",
+    "mnemonic": "라틴어 serius(무거운, 진지한)에서 유래. seriously = serious + ly → 진지하게."
+  },
+  {
+    "en": "feature",
+    "ko": "특징",
+    "example": "The phone has many useful features.",
+    "mnemonic": "라틴어 factura = fact(만들다) + ure. 만들어진 형태가 특징! manufacture(제조)도 같은 어근 fact."
   }
 ]

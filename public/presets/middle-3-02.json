@@ -1,152 +1,152 @@
 [
   {
-    "en": "authority",
-    "ko": "권위",
-    "example": "The authorities investigated the case.",
-    "mnemonic": "author(만든 사람) + ity. 만든 사람의 권위!"
-  },
-  {
-    "en": "characteristic",
-    "ko": "특성",
-    "example": "Patience is her main characteristic.",
-    "mnemonic": "character(성격) + istic. 성격의 특성."
-  },
-  {
-    "en": "circumstance",
-    "ko": "상황",
-    "example": "Under no circumstances should you lie.",
-    "mnemonic": "circum(주위) + stance(서다). 주위에 서 있는 상황."
-  },
-  {
-    "en": "civil",
-    "ko": "시민의",
-    "example": "Civil rights are important in a democracy.",
-    "mnemonic": "'시빌'리안(civilian)은 시민!"
-  },
-  {
-    "en": "collapse",
-    "ko": "무너지다",
-    "example": "The old building collapsed.",
-    "mnemonic": "col(함께) + lapse(미끄러지다). 함께 미끄러지면 붕괴!"
-  },
-  {
-    "en": "commit",
-    "ko": "저지르다",
-    "example": "He committed himself to the project.",
-    "mnemonic": "com(함께) + mit(보내다). 마음을 함께 보내면 전념!"
-  },
-  {
-    "en": "complicated",
-    "ko": "복잡한",
-    "example": "This math problem is complicated.",
-    "mnemonic": "com(함께) + plic(접다). 여러 번 접으면 복잡!"
-  },
-  {
-    "en": "concentrate",
-    "ko": "집중하다",
-    "example": "I need to concentrate on my study.",
-    "mnemonic": "con(함께) + centr(중심). 중심에 모으면 집중!"
-  },
-  {
-    "en": "conflict",
-    "ko": "갈등",
-    "example": "There is a conflict between the two groups.",
-    "mnemonic": "con(함께) + flict(부딪치다). 함께 부딪치면 충돌!"
-  },
-  {
-    "en": "consequence",
-    "ko": "결과",
-    "example": "Every action has consequences.",
-    "mnemonic": "con(함께) + sequence(순서). 순서대로 따라오는 결과."
-  },
-  {
-    "en": "consist",
-    "ko": "~으로 이루어지다",
-    "example": "The team consists of five members.",
-    "mnemonic": "con(함께) + sist(서다). 함께 서 있으면 구성!"
-  },
-  {
-    "en": "constant",
-    "ko": "끊임없는",
-    "example": "There was a constant noise outside.",
-    "mnemonic": "con(함께) + stant(서다). 계속 서 있으면 일정한!"
-  },
-  {
-    "en": "construct",
-    "ko": "건설하다",
-    "example": "They constructed a new bridge.",
-    "mnemonic": "con(함께) + struct(쌓다). 함께 쌓으면 건설!"
-  },
-  {
-    "en": "consume",
-    "ko": "소비하다",
-    "example": "We consume too much plastic.",
-    "mnemonic": "con(완전히) + sume(취하다). 완전히 취하면 소비!"
-  },
-  {
-    "en": "contribute",
-    "ko": "기여하다",
-    "example": "Everyone can contribute to the community.",
-    "mnemonic": "con(함께) + tribute(주다). 함께 주면 기여!"
-  },
-  {
-    "en": "controversy",
-    "ko": "논란",
-    "example": "The decision caused a lot of controversy.",
-    "mnemonic": "contra(반대) + versy(돌다). 반대로 돌면 논란."
+    "en": "interpret",
+    "ko": "해석하다",
+    "example": "How do you interpret this poem?",
+    "mnemonic": "inter(사이에) + pret(설명하다). 언어 사이에서 설명하면 해석! interpretation(해석), interpreter(통역사)."
   },
   {
     "en": "convince",
     "ko": "확신시키다",
     "example": "I tried to convince him to stay.",
-    "mnemonic": "con(완전히) + vince(이기다). 완전히 이기면 설득!"
+    "mnemonic": "con(완전히) + vince(이기다). 완전히 이기면 설득! vince(이기다): victory(승리), invincible(무적의)."
   },
   {
-    "en": "cooperate",
-    "ko": "협력하다",
-    "example": "Countries should cooperate to solve problems.",
-    "mnemonic": "co(함께) + operate(작동). 함께 작동하면 협력!"
+    "en": "efficient",
+    "ko": "효율적인",
+    "example": "This machine is very efficient.",
+    "mnemonic": "ef(밖으로) + fici(만들다) + ent. 잘 만들어내면 효율적! fic(만들다): sufficient(충분한), deficient(부족한)."
   },
   {
-    "en": "crucial",
-    "ko": "결정적인",
-    "example": "This is a crucial moment.",
-    "mnemonic": "cruc(십자가) + ial. 십자가처럼 중대한 순간."
+    "en": "adjust",
+    "ko": "조정하다",
+    "example": "Please adjust the volume.",
+    "mnemonic": "ad(~에) + just(바른). 바르게 맞추면 조정! adjustment(조정)은 명사형. justice(정의)도 같은 어근."
   },
   {
-    "en": "currency",
-    "ko": "통화",
-    "example": "The currency of Japan is the yen.",
-    "mnemonic": "curr(흐르다) + ency. 흘러 다니는 돈이 화폐!"
+    "en": "delegate",
+    "ko": "대표",
+    "example": "She delegated the task to her assistant.",
+    "mnemonic": "de(아래로) + leg(보내다) + ate. 아래로 보내면 위임! leg(보내다): legacy(유산), legal(법적) - 법을 보내는."
   },
   {
-    "en": "decade",
-    "ko": "10년",
-    "example": "Technology has changed a lot in the last decade.",
-    "mnemonic": "deca(10) + de. 10년 단위!"
+    "en": "reject",
+    "ko": "거부하다",
+    "example": "She rejected the offer.",
+    "mnemonic": "re(뒤로) + ject(던지다). 뒤로 던지면 거부! ject(던지다): project(투사), inject(주입), object(반대하다)."
   },
   {
-    "en": "declare",
-    "ko": "선언하다",
-    "example": "The country declared independence.",
-    "mnemonic": "de(완전히) + clare(명확히). 명확히 말하면 선언!"
+    "en": "controversy",
+    "ko": "논란",
+    "example": "The decision caused a lot of controversy.",
+    "mnemonic": "contra(반대) + vers(돌다) + y. 반대로 돌면 논란! vers(돌다): reverse(뒤집다), diverse(다양한)."
   },
   {
-    "en": "define",
-    "ko": "정의하다",
-    "example": "How do you define success?",
-    "mnemonic": "de(완전히) + fine(끝). 끝까지 정해주면 정의!"
+    "en": "dispute",
+    "ko": "분쟁",
+    "example": "The two countries have a territorial dispute.",
+    "mnemonic": "dis(떨어져) + pute(생각하다). 생각이 떨어져 다르면 분쟁! pute(생각): compute(계산), reputation(평판)."
   },
   {
-    "en": "delay",
-    "ko": "지연",
-    "example": "The flight was delayed by two hours.",
-    "mnemonic": "de(떨어져) + lay(놓다). 떨어져 놓으면 지연!"
+    "en": "extend",
+    "ko": "연장하다",
+    "example": "They extended the deadline by a week.",
+    "mnemonic": "ex(밖으로) + tend(늘이다). 밖으로 늘이면 연장! tend(뻗다): attend(참석), intend(의도), pretend(~인 척)."
   },
   {
-    "en": "demonstrate",
-    "ko": "보여주다",
-    "example": "He demonstrated how to use the machine.",
-    "mnemonic": "de(완전히) + monstr(보여주다). 완전히 보여주면 시범!"
+    "en": "encounter",
+    "ko": "마주치다",
+    "example": "I encountered an old friend at the mall.",
+    "mnemonic": "en(안에서) + counter(반대). 맞은편에서 만나면 마주침! counter(반대): counterpart(상대), counteract(대응)."
+  },
+  {
+    "en": "generate",
+    "ko": "생성하다",
+    "example": "Solar panels generate electricity.",
+    "mnemonic": "gener(낳다) + ate. 낳아서 만들어내면 생성! gen(낳다): gene(유전자), general(일반적), generation(세대)."
+  },
+  {
+    "en": "essential",
+    "ko": "필수적인",
+    "example": "Water is essential for life.",
+    "mnemonic": "essence(본질) + tial. 본질적으로 필요한! 라틴어 esse(있다)에서 유래. essentially(본질적으로)."
+  },
+  {
+    "en": "deliberate",
+    "ko": "고의적인",
+    "example": "It was a deliberate decision.",
+    "mnemonic": "de(완전히) + liber(저울질) + ate. 저울질하여 깊이 생각한 → 고의적! deliberation(숙고)은 명사형."
+  },
+  {
+    "en": "complement",
+    "ko": "보완하다",
+    "example": "The two colors complement each other.",
+    "mnemonic": "com(완전히) + ple(채우다) + ment. 완전히 채우면 보완! compliment(칭찬)과 철자가 다르니 주의! complete도 같은 어근."
+  },
+  {
+    "en": "construct",
+    "ko": "건설하다",
+    "example": "They constructed a new bridge.",
+    "mnemonic": "con(함께) + struct(쌓다). 함께 쌓으면 건설! struct(쌓다): structure(구조), destruct(파괴), instruct(지시)."
+  },
+  {
+    "en": "advocate",
+    "ko": "옹호하다",
+    "example": "She advocates for animal rights.",
+    "mnemonic": "ad(~에) + voc(소리) + ate. 소리 내어 옹호! voc(소리): voice(목소리), vocal(목소리의), vocabulary(어휘)."
+  },
+  {
+    "en": "appropriate",
+    "ko": "적절한",
+    "example": "Wear appropriate clothes for the interview.",
+    "mnemonic": "ap(~에) + propri(자신의) + ate. 자기에게 맞으면 적절! proper(적절한)도 같은 어근 propri."
+  },
+  {
+    "en": "resource",
+    "ko": "자원",
+    "example": "Water is a valuable natural resource.",
+    "mnemonic": "re(다시) + source(원천). 다시 쓸 수 있는 원천이 자원! source(원천): surge(급등)도 같은 어근."
+  },
+  {
+    "en": "contradict",
+    "ko": "모순되다",
+    "example": "His actions contradict his words.",
+    "mnemonic": "contra(반대) + dict(말하다). 반대로 말하면 모순! dict(말하다): predict(예측), dictionary(사전), indicate(나타내다)."
+  },
+  {
+    "en": "launch",
+    "ko": "시작하다",
+    "example": "They launched a new product.",
+    "mnemonic": "라틴어 lancea(창)에서 유래. 창을 던지듯 힘차게 시작! 로켓 발사도 launch."
+  },
+  {
+    "en": "emerge",
+    "ko": "나타나다",
+    "example": "A new leader emerged.",
+    "mnemonic": "e(밖으로) + merge(잠기다). 물 밖으로 나오면 떠오르다! merge(합치다): submerge(잠수), emergency(비상)."
+  },
+  {
+    "en": "manufacture",
+    "ko": "제조하다",
+    "example": "This company manufactures electronics.",
+    "mnemonic": "manu(손) + fact(만들다) + ure. 손으로 만들면 제조! manu(손): manual(수동), manuscript(원고)."
+  },
+  {
+    "en": "preserve",
+    "ko": "보존하다",
+    "example": "We should preserve our cultural heritage.",
+    "mnemonic": "pre(미리) + serve(지키다). 미리 지키면 보존! serve(지키다): conserve(보전), reserve(예약), observe(관찰)."
+  },
+  {
+    "en": "substitute",
+    "ko": "대신하다",
+    "example": "You can substitute butter with oil.",
+    "mnemonic": "sub(아래에) + stitute(세우다). 아래에 대신 세우면 대체! stitute(세우다): institute(기관), constitute(구성)."
+  },
+  {
+    "en": "permanent",
+    "ko": "영구적인",
+    "example": "Is this a permanent or temporary job?",
+    "mnemonic": "per(완전히) + man(남다) + ent. 완전히 남으면 영구적! temporary(일시적)의 반대. remain(남다)도 같은 어근."
   }
 ]

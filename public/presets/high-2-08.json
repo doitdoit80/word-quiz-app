@@ -1,0 +1,302 @@
+[
+  {
+    "en": "bourgeois",
+    "ko": "부르주아의, 중산층의",
+    "example": "The film critiques bourgeois values and materialism.",
+    "mnemonic": "프랑스어 bourg(마을, 성곽 도시) + eois = 도시에 사는 사람 → 중산 시민 계급. Hamburg, Edinburgh의 burg와 같은 어원"
+  },
+  {
+    "en": "sporadic",
+    "ko": "산발적인, 간헐적인",
+    "example": "There were sporadic outbreaks of violence throughout the region.",
+    "mnemonic": "그리스어 sporadikos(흩어진)에서 유래. sporad(흩어진) + ic = 흩어져 발생하는 → 산발적인"
+  },
+  {
+    "en": "revoke",
+    "ko": "취소하다, 철회하다",
+    "example": "His driver's license was revoked after the serious accident.",
+    "mnemonic": "re(다시) + voke(부르다) = 다시 불러들이다 → 취소하다. invoke(호소하다), provoke(도발하다)와 같은 어근 voc(부르다)"
+  },
+  {
+    "en": "threshold",
+    "ko": "문턱, 한계점",
+    "example": "The noise level has exceeded the acceptable threshold.",
+    "mnemonic": "고대 영어 therscold(문턱)에서 유래. thresh(밟다) + old = 밟고 넘어가는 곳 → 문턱, 한계점"
+  },
+  {
+    "en": "treason",
+    "ko": "반역, 배신",
+    "example": "He was charged with treason for selling military secrets.",
+    "mnemonic": "라틴어 traditio(넘겨줌)에서 유래. treas(넘기다) + on = 적에게 넘겨주다 → 반역. tradition(전통)과 같은 어근"
+  },
+  {
+    "en": "lucrative",
+    "ko": "수익성 좋은, 이득이 되는",
+    "example": "Real estate can be a lucrative investment in growing cities.",
+    "mnemonic": "lucr(이익) + ative = 이익이 되는 → 수익성 좋은. 라틴어 lucrum(이익)에서 유래"
+  },
+  {
+    "en": "rectify",
+    "ko": "바로잡다, 수정하다",
+    "example": "The company took immediate steps to rectify the error.",
+    "mnemonic": "rect(곧은) + ify(만들다) = 곧게 만들다 → 바로잡다. correct(교정하다), direct(지시하다)와 같은 어근"
+  },
+  {
+    "en": "prerogative",
+    "ko": "특권, 특전",
+    "example": "It is the manager's prerogative to assign tasks to team members.",
+    "mnemonic": "pre(미리) + rog(묻다) + ative = 먼저 의견을 물을 권리 → 특권. interrogate(심문하다)와 같은 어근"
+  },
+  {
+    "en": "idiosyncratic",
+    "ko": "특이한, 고유의",
+    "example": "Each writer has an idiosyncratic style that makes their work unique.",
+    "mnemonic": "idio(고유한) + syn(함께) + cratic = 자기만의 독특한 혼합 → 특이한. idiom(관용어)과 같은 어근"
+  },
+  {
+    "en": "grudge",
+    "ko": "원한, 유감",
+    "example": "She still holds a grudge against him for what he said years ago.",
+    "mnemonic": "'그러지' → '그러지(그러지 마)' 원한을 갖지 마!"
+  },
+  {
+    "en": "diverge",
+    "ko": "갈라지다, 분기하다",
+    "example": "The path diverges into two trails at the top of the hill.",
+    "mnemonic": "di(떨어져) + verge(기울다) = 서로 다른 방향으로 기울다 → 갈라지다. converge(수렴하다)와 반대"
+  },
+  {
+    "en": "nomenclature",
+    "ko": "명명법, 전문 용어",
+    "example": "Medical nomenclature can be confusing for patients.",
+    "mnemonic": "nom(이름) + en + clature(부르다) = 이름을 부르는 체계 → 명명법. nominate(지명하다)와 같은 어근"
+  },
+  {
+    "en": "superimpose",
+    "ko": "겹쳐 놓다, 중첩시키다",
+    "example": "The designer superimposed the two images to create a new effect.",
+    "mnemonic": "super(위에) + impose(놓다) = 위에 놓다 → 겹쳐 놓다. impose(부과하다), compose(구성하다)와 같은 어근"
+  },
+  {
+    "en": "resonate",
+    "ko": "공명하다, 반향을 일으키다",
+    "example": "Her message of hope resonated with millions of people.",
+    "mnemonic": "re(다시) + son(소리) + ate = 다시 소리나다 → 공명하다. sound(소리), sonic(음속의)과 같은 어근"
+  },
+  {
+    "en": "robust",
+    "ko": "강건한, 튼튼한",
+    "example": "The economy showed robust growth in the third quarter.",
+    "mnemonic": "라틴어 robur(참나무, 힘)에서 유래. rob(강한) + ust = 참나무처럼 강한 → 강건한"
+  },
+  {
+    "en": "palatable",
+    "ko": "맛좋은, 구미에 맞는",
+    "example": "The proposal was modified to make it more palatable to critics.",
+    "mnemonic": "palat(입천장) + able = 입천장에 맞는 → 맛좋은, 구미에 맞는. palate(미각)와 같은 어근"
+  },
+  {
+    "en": "exonerate",
+    "ko": "무죄를 입증하다, 면제하다",
+    "example": "DNA evidence exonerated the man who had been wrongly imprisoned.",
+    "mnemonic": "ex(밖으로) + oner(짐) + ate = 짐을 벗기다 → 무죄를 입증하다. onerous(부담스러운)와 같은 어근"
+  },
+  {
+    "en": "escalate",
+    "ko": "확대되다, 악화되다",
+    "example": "Tensions between the two countries continued to escalate.",
+    "mnemonic": "'에스컬레이트' → '에스컬레이터' 올라가듯 확대되다!"
+  },
+  {
+    "en": "reminiscent",
+    "ko": "연상시키는, 회상하는",
+    "example": "The song was reminiscent of her happy childhood memories.",
+    "mnemonic": "re(다시) + minisc(기억하다) + ent = 다시 기억하게 하는 → 연상시키는. memory(기억)와 같은 어근 계열"
+  },
+  {
+    "en": "criterion",
+    "ko": "기준, 척도",
+    "example": "Academic performance is the main criterion for scholarship selection.",
+    "mnemonic": "그리스어 krinein(판단하다)에서 유래. crit(판단) + erion = 판단의 기준 → 기준. critic(비평가), crisis(위기)와 같은 어근"
+  },
+  {
+    "en": "incessant",
+    "ko": "끊임없는, 쉬지 않는",
+    "example": "The incessant rain caused severe flooding in the region.",
+    "mnemonic": "'인세선트' → 'in(not)+cess(멈추다)+ant' 멈추지 않는 = 끊임없는!"
+  },
+  {
+    "en": "premonition",
+    "ko": "예감, 전조",
+    "example": "She had a strange premonition that something bad was about to happen.",
+    "mnemonic": "pre(미리) + monit(경고하다) + ion = 미리 경고받은 느낌 → 예감. monitor(감시하다), admonish(훈계하다)와 같은 어근"
+  },
+  {
+    "en": "kinship",
+    "ko": "친족 관계, 유사성",
+    "example": "She felt a deep kinship with other immigrants who shared her experience.",
+    "mnemonic": "kin(친족) + ship(상태) = 친족의 상태 → 친족 관계, 유사성"
+  },
+  {
+    "en": "languid",
+    "ko": "나른한, 기운 없는",
+    "example": "The hot summer afternoon made everyone feel languid.",
+    "mnemonic": "라틴어 languere(지치다)에서 유래. langu(지친) + id = 지친 → 나른한. language(언어, 원래 '혀가 느슨한')와 같은 어근"
+  },
+  {
+    "en": "captivate",
+    "ko": "매혹하다, 사로잡다",
+    "example": "The storyteller captivated the audience with her tale.",
+    "mnemonic": "capt(잡다) + iv + ate = 사로잡다 → 매혹하다. capture(포획), captive(포로)와 같은 어근"
+  },
+  {
+    "en": "trivial",
+    "ko": "사소한, 하찮은",
+    "example": "Do not waste your time on trivial matters.",
+    "mnemonic": "라틴어 trivium(삼거리, 공공장소)에서 유래. tri(셋) + via(길) = 세 갈래 길에서 떠도는 흔한 → 사소한"
+  },
+  {
+    "en": "inalienable",
+    "ko": "양도할 수 없는",
+    "example": "Freedom of speech is an inalienable right of every citizen.",
+    "mnemonic": "in(not) + alien(다른, 넘기다) + able = 다른 사람에게 넘길 수 없는 → 양도할 수 없는"
+  },
+  {
+    "en": "rancor",
+    "ko": "원한, 깊은 적의",
+    "example": "Despite the bitter divorce, she felt no rancor toward her ex-husband.",
+    "mnemonic": "라틴어 rancor(썩은 냄새, 원한)에서 유래. ranc(썩은) + or = 썩어 남은 감정 → 원한"
+  },
+  {
+    "en": "obtrusive",
+    "ko": "눈에 거슬리는, 주제넘은",
+    "example": "The bright neon sign was obtrusive in the quiet residential area.",
+    "mnemonic": "ob(~쪽으로) + trus(밀다) + ive = 앞으로 밀고 나오는 → 눈에 거슬리는. intrude(침입하다)와 같은 어근"
+  },
+  {
+    "en": "colloquial",
+    "ko": "구어체의, 일상 회화의",
+    "example": "This dictionary includes many colloquial expressions used in daily life.",
+    "mnemonic": "col(함께) + loqu(말하다) + ial = 함께 이야기하는 → 구어체의. eloquent(유창한), soliloquy(독백)와 같은 어근"
+  },
+  {
+    "en": "preoccupation",
+    "ko": "몰두, 집착",
+    "example": "His preoccupation with work left him little time for family.",
+    "mnemonic": "pre(미리) + occupy(차지하다) + ation = 미리 마음을 차지하는 것 → 몰두, 집착"
+  },
+  {
+    "en": "ameliorate",
+    "ko": "개선하다, 향상시키다",
+    "example": "The new policy aims to ameliorate living conditions in rural areas.",
+    "mnemonic": "a(~쪽으로) + melior(더 나은) + ate = 더 낫게 만들다 → 개선하다. 라틴어 melior(더 나은)에서 유래"
+  },
+  {
+    "en": "demagogue",
+    "ko": "선동가",
+    "example": "History is full of demagogues who exploited people's fears.",
+    "mnemonic": "demo(국민) + agogue(이끄는 사람) = 국민을 이끄는 사람 → 선동가. pedagogy(교육학)와 같은 어근 agog(이끌다)"
+  },
+  {
+    "en": "embark",
+    "ko": "착수하다, 승선하다",
+    "example": "She embarked on a new career as a software developer.",
+    "mnemonic": "em(안에) + bark(배) = 배에 타다 → 출발하다, 착수하다. disembark(하선하다)와 반대. bark/barge(배)와 같은 어근"
+  },
+  {
+    "en": "optimum",
+    "ko": "최적의, 최선의",
+    "example": "Plants need optimum conditions of light and water to grow well.",
+    "mnemonic": "라틴어 optimus(최선의)에서 유래. optim(최선) + um = 최선의 것 → 최적의. optimal(최적의)과 같은 어근"
+  },
+  {
+    "en": "stationary",
+    "ko": "정지된, 움직이지 않는",
+    "example": "The car was stationary when it was hit from behind.",
+    "mnemonic": "station(정거장) + ary = 정거장에 서 있는 → 정지된. station(역)과 같은 어근 stat(서다)"
+  },
+  {
+    "en": "devise",
+    "ko": "고안하다, 발명하다",
+    "example": "Engineers devised a new method to purify water cheaply.",
+    "mnemonic": "de(완전히) + vise(보다) = 잘 살펴보고 구상하다 → 고안하다. vision(시각), revise(수정하다)와 같은 어근 vis(보다)"
+  },
+  {
+    "en": "connotation",
+    "ko": "함축, 내포",
+    "example": "The word 'home' has warm connotations of comfort and safety.",
+    "mnemonic": "con(함께) + not(표시) + ation = 함께 표시되는 의미 → 함축. denotation(표시적 의미)의 반대"
+  },
+  {
+    "en": "malevolent",
+    "ko": "악의 있는, 사악한",
+    "example": "The villain had a malevolent plan to destroy the city.",
+    "mnemonic": "mal(나쁜) + evol(바라다) + ent = 나쁜 것을 바라는 → 악의 있는. benevolent(자비로운)의 반대"
+  },
+  {
+    "en": "supplant",
+    "ko": "대체하다, 빼앗다",
+    "example": "E-books have not yet supplanted traditional paper books.",
+    "mnemonic": "sup(아래서) + plant(심다) = 아래에서 심어 밀어내다 → 대체하다. plant(심다), transplant(이식하다)와 같은 어근"
+  },
+  {
+    "en": "esteem",
+    "ko": "존경, 존중하다",
+    "example": "She is held in high esteem by her colleagues.",
+    "mnemonic": "'이스팀' → 'e+steem(증기)' 높이 올라가는 증기처럼 존경!"
+  },
+  {
+    "en": "zealous",
+    "ko": "열성적인, 열렬한",
+    "example": "She is a zealous advocate for children's education rights.",
+    "mnemonic": "zeal(열정) + ous = 열정이 있는 → 열성적인. 그리스어 zelos(열정, 경쟁심)에서 유래"
+  },
+  {
+    "en": "rehabilitate",
+    "ko": "재활시키다, 복권시키다",
+    "example": "Physical therapy helped rehabilitate her injured knee.",
+    "mnemonic": "re(다시) + habilit(능력있게) + ate = 다시 능력있게 만들다 → 재활시키다. habitat(서식지)와 같은 어근"
+  },
+  {
+    "en": "mundane",
+    "ko": "평범한, 세속적인",
+    "example": "She longed to escape the mundane routine of everyday life.",
+    "mnemonic": "mund(세상) + ane = 세상의, 세속적인 → 평범한. 라틴어 mundus(세상)에서 유래"
+  },
+  {
+    "en": "replenish",
+    "ko": "보충하다, 다시 채우다",
+    "example": "We need to replenish our water supply before continuing the hike.",
+    "mnemonic": "re(다시) + plen(가득) + ish = 다시 가득 채우다 → 보충하다. plenty(풍부), plenary(전체의)와 같은 어근"
+  },
+  {
+    "en": "degrade",
+    "ko": "저하시키다, 품위를 떨어뜨리다",
+    "example": "Plastic waste can degrade the quality of ocean ecosystems.",
+    "mnemonic": "de(아래로) + grade(등급) = 등급을 낮추다 → 저하시키다. grade(등급), gradual(점진적)과 같은 어근"
+  },
+  {
+    "en": "orthodox",
+    "ko": "정통의, 전통적인",
+    "example": "His orthodox approach to medicine rejected alternative therapies.",
+    "mnemonic": "ortho(올바른) + dox(의견) = 올바른 의견 → 정통의. orthopedic(정형외과의), paradox(역설)와 같은 어근"
+  },
+  {
+    "en": "parody",
+    "ko": "패러디, 풍자",
+    "example": "The comedian's parody of the president went viral on social media.",
+    "mnemonic": "para(옆에, 반대) + ody(노래) = 옆에서 따라하는 노래 → 패러디. melody(멜로디), ode(송가)와 같은 어근"
+  },
+  {
+    "en": "clout",
+    "ko": "영향력, 세게 때리다",
+    "example": "The senator has considerable political clout in Washington.",
+    "mnemonic": "고대 영어 clut(천 조각, 때리다)에서 유래 → 세게 때리는 힘 → 영향력"
+  },
+  {
+    "en": "courteous",
+    "ko": "예의 바른, 정중한",
+    "example": "The hotel staff were always courteous and helpful.",
+    "mnemonic": "court(궁정) + eous = 궁정에서의 예의 바른 → 정중한. courtesy(예의)의 형용사형"
+  }
+]

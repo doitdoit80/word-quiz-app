@@ -1,0 +1,302 @@
+[
+  {
+    "en": "casual",
+    "ko": "평상시의, 격식 없는",
+    "example": "You can wear casual clothes to the party.",
+    "mnemonic": "cas(떨어지다, cadere) + ual = 우연히 떨어진 → 격식 없는. 관련어: case, occasion"
+  },
+  {
+    "en": "recruit",
+    "ko": "모집하다, 신병",
+    "example": "The company recruited ten new employees.",
+    "mnemonic": "re(다시) + cruit(자라다, crescere) = 다시 자라게 하다 → 새 인원을 채우다 → 모집하다"
+  },
+  {
+    "en": "tough",
+    "ko": "단단한, 힘든",
+    "example": "The exam was really tough this time.",
+    "mnemonic": "고대 영어 tōh(질긴, 단단한)에서 유래. 잘 끊어지지 않는 → 단단한, 힘든"
+  },
+  {
+    "en": "ethics",
+    "ko": "윤리, 도덕",
+    "example": "Medical ethics are very important for doctors.",
+    "mnemonic": "그리스어 ethos(습관, 성격, 품성)에서 유래. 올바른 품성 → 윤리, 도덕"
+  },
+  {
+    "en": "liberty",
+    "ko": "자유",
+    "example": "The Statue of Liberty stands in New York.",
+    "mnemonic": "'리버티' → '리버티(liberty)' 자유의 여신상!"
+  },
+  {
+    "en": "cheat",
+    "ko": "속이다, 부정행위하다",
+    "example": "It is wrong to cheat on exams.",
+    "mnemonic": "escheat(몰수하다)에서 단축. 재산을 빼돌리다 → 속이다, 부정행위하다"
+  },
+  {
+    "en": "native",
+    "ko": "원래의, 원주민",
+    "example": "She is a native speaker of Korean.",
+    "mnemonic": "'네이티브' → '네이티브(native)' 스피커 = 원어민!"
+  },
+  {
+    "en": "motion",
+    "ko": "동작, 움직임",
+    "example": "The motion of the waves calmed her down.",
+    "mnemonic": "'모션' → '모션(motion)' 캡처 = 동작 포착!"
+  },
+  {
+    "en": "chapter",
+    "ko": "장, 챕터",
+    "example": "Please read chapter five before class.",
+    "mnemonic": "라틴어 caput(머리)에서 유래. 각 부분의 머리(제목) → 장. 관련어: captain, capital"
+  },
+  {
+    "en": "apart",
+    "ko": "떨어져, 따로",
+    "example": "The two houses are five miles apart.",
+    "mnemonic": "a(~으로) + part(부분) = 부분으로 나뉘어 → 떨어져, 따로"
+  },
+  {
+    "en": "maintain",
+    "ko": "유지하다, 주장하다",
+    "example": "It is important to maintain a healthy lifestyle.",
+    "mnemonic": "'메인테인' → 'main(주요한)+tain(잡다)' 주요한 것을 잡고 유지!"
+  },
+  {
+    "en": "lane",
+    "ko": "차선, 골목",
+    "example": "Stay in your lane while driving on the highway.",
+    "mnemonic": "'레인' → '레인(lane)' 고속도로 차선!"
+  },
+  {
+    "en": "impress",
+    "ko": "감동시키다, 인상을 주다",
+    "example": "Her speech impressed the entire audience.",
+    "mnemonic": "'임프레스' → 'im(안에)+press(누르다)' 마음에 눌러 새기다 = 감동!"
+  },
+  {
+    "en": "strain",
+    "ko": "부담, 긴장, 변종",
+    "example": "The long hours put a strain on his health.",
+    "mnemonic": "라틴어 stringere(조이다, 당기다)에서 유래. 팽팽하게 당기는 것 → 긴장, 부담. 관련어: string, strict"
+  },
+  {
+    "en": "instruct",
+    "ko": "지시하다, 가르치다",
+    "example": "The coach instructed the players on the new strategy.",
+    "mnemonic": "'인스트럭트' → 'in(안에)+struct(쌓다)' 안에 지식을 쌓아주는 지시!"
+  },
+  {
+    "en": "frontier",
+    "ko": "국경, 변경, 최전선",
+    "example": "Space is the final frontier for exploration.",
+    "mnemonic": "front(앞, 이마, frons) + ier = 가장 앞쪽 → 국경, 최전선. 관련어: confront"
+  },
+  {
+    "en": "wilderness",
+    "ko": "황야, 미개척지",
+    "example": "They camped in the wilderness far from the city.",
+    "mnemonic": "wilder(야생의) + ness = 야생의 상태 → 황야. wild(야생의)에서 유래. 관련어: wildlife"
+  },
+  {
+    "en": "tragedy",
+    "ko": "비극",
+    "example": "The earthquake was a terrible tragedy.",
+    "mnemonic": "그리스어 tragoidia에서 유래. tragos(염소) + oide(노래). 염소 노래(제의) → 비극"
+  },
+  {
+    "en": "extreme",
+    "ko": "극도의, 극단적인",
+    "example": "The desert has extreme temperatures.",
+    "mnemonic": "라틴어 extremus(가장 바깥의)에서 유래. exter(바깥)의 최상급. 가장 끝의 → 극도의"
+  },
+  {
+    "en": "diagram",
+    "ko": "도표, 도해",
+    "example": "The teacher drew a diagram on the board.",
+    "mnemonic": "dia(통해서) + gram(그리다, 쓰다, graphein) = 그려서 보여주는 것 → 도표"
+  },
+  {
+    "en": "moreover",
+    "ko": "게다가, 더욱이",
+    "example": "The food was delicious; moreover, it was cheap.",
+    "mnemonic": "'모어오버' → 'more(더)+over(위에)' 더 위에 = 게다가!"
+  },
+  {
+    "en": "horror",
+    "ko": "공포",
+    "example": "She screamed in horror when she saw the spider.",
+    "mnemonic": "'호러' → '호러(horror)' 영화 = 공포 영화!"
+  },
+  {
+    "en": "edge",
+    "ko": "가장자리, 모서리",
+    "example": "Be careful near the edge of the cliff.",
+    "mnemonic": "고대 영어 ecg(날, 칼날)에서 유래. 날카로운 끝 → 가장자리, 모서리. 관련어: 라틴어 acies(날카로움)"
+  },
+  {
+    "en": "tissue",
+    "ko": "조직, 휴지",
+    "example": "The doctor examined the tissue under a microscope.",
+    "mnemonic": "라틴어 texere(짜다)에서 유래. 짜여진 것 → 생체 조직 / 얇게 짠 종이 → 휴지. 관련어: textile"
+  },
+  {
+    "en": "partial",
+    "ko": "부분적인, 편파적인",
+    "example": "We only have a partial understanding of the problem.",
+    "mnemonic": "'파셜' → 'part(부분)+ial' 부분의 = 부분적인!"
+  },
+  {
+    "en": "duty",
+    "ko": "의무, 직무",
+    "example": "It is our duty to protect the environment.",
+    "mnemonic": "라틴어 debere(빚지다)의 과거분사 debitum에서 유래. 빚진 것 → 의무. 관련어: debt, due"
+  },
+  {
+    "en": "dare",
+    "ko": "감히 ~하다",
+    "example": "She didn't dare to speak up in the meeting.",
+    "mnemonic": "고대 영어 durran(감히 하다)에서 유래. 용기를 내어 감히 하다"
+  },
+  {
+    "en": "psychology",
+    "ko": "심리학",
+    "example": "She is studying psychology at university.",
+    "mnemonic": "psych(영혼, psyche) + ology(학문, logos) = 영혼의 학문 → 심리학"
+  },
+  {
+    "en": "contract",
+    "ko": "계약, 계약하다",
+    "example": "They signed a contract to build the new school.",
+    "mnemonic": "con(함께) + tract(끌다, trahere) = 함께 끌어당기다 → 계약. 관련어: attract, extract"
+  },
+  {
+    "en": "resign",
+    "ko": "사임하다, 체념하다",
+    "example": "The minister resigned after the scandal.",
+    "mnemonic": "re(뒤로) + sign(표시하다, signare) = 서명을 돌려보내다 → 사임하다"
+  },
+  {
+    "en": "harmony",
+    "ko": "조화, 화합",
+    "example": "The choir sang in perfect harmony.",
+    "mnemonic": "'하모니' → '하모니(harmony)' 화음 = 조화!"
+  },
+  {
+    "en": "junior",
+    "ko": "후배의, 연하의",
+    "example": "He is two years junior to me.",
+    "mnemonic": "'주니어' → '주니어(junior)' 나보다 어린 후배!"
+  },
+  {
+    "en": "reside",
+    "ko": "거주하다",
+    "example": "They reside in a small town near the coast.",
+    "mnemonic": "re(뒤에) + side(앉다, sedere) = 자리 잡고 앉다 → 거주하다. 관련어: resident, president"
+  },
+  {
+    "en": "liberate",
+    "ko": "해방시키다",
+    "example": "The soldiers liberated the prisoners from the camp.",
+    "mnemonic": "'리버레이트' → 'liber(자유)+ate' 자유롭게 하다 = 해방!"
+  },
+  {
+    "en": "steep",
+    "ko": "가파른",
+    "example": "The road to the top is very steep.",
+    "mnemonic": "고대 영어 stēap(높은, 가파른)에서 유래. 높이 솟은 → 가파른"
+  },
+  {
+    "en": "profile",
+    "ko": "프로필, 윤곽",
+    "example": "She updated her profile on social media.",
+    "mnemonic": "pro(앞으로) + fil(실, filum) = 앞에서 본 윤곽선 → 프로필"
+  },
+  {
+    "en": "praise",
+    "ko": "칭찬하다, 찬양",
+    "example": "The teacher praised the student for her hard work.",
+    "mnemonic": "라틴어 pretium(가치, 값)에서 유래. 가치를 인정하다 → 칭찬하다. 관련어: price, precious"
+  },
+  {
+    "en": "literary",
+    "ko": "문학의",
+    "example": "She has a deep interest in literary works.",
+    "mnemonic": "'리터러리' → '리터(liter=문자)러리' 문자의 = 문학의!"
+  },
+  {
+    "en": "rare",
+    "ko": "드문, 희귀한",
+    "example": "This is a very rare species of bird.",
+    "mnemonic": "라틴어 rarus(드문, 넓게 퍼진)에서 유래. 촘촘하지 않은 → 드문"
+  },
+  {
+    "en": "steady",
+    "ko": "꾸준한, 안정된",
+    "example": "The company showed steady growth over the years.",
+    "mnemonic": "고대 영어 stede(장소, 위치)에서 유래. stead(대신, 자리)와 같은 어근. 자리가 흔들리지 않는 → 꾸준한"
+  },
+  {
+    "en": "pace",
+    "ko": "속도, 걸음",
+    "example": "He walked at a slow pace through the park.",
+    "mnemonic": "'페이스' → '페이스(pace)' 자기 페이스대로 걸음!"
+  },
+  {
+    "en": "client",
+    "ko": "고객, 의뢰인",
+    "example": "The lawyer met with her client this morning.",
+    "mnemonic": "라틴어 cliens(보호를 받는 사람, clinare=기대다)에서 유래. 의지하는 사람 → 의뢰인"
+  },
+  {
+    "en": "plain",
+    "ko": "평범한, 명백한, 평원",
+    "example": "The answer is plain and simple.",
+    "mnemonic": "라틴어 planus(평평한)에서 유래. 평평한 → 평범한, 평원. 관련어: plane, explain"
+  },
+  {
+    "en": "deed",
+    "ko": "행위, 행동",
+    "example": "Good deeds make the world a better place.",
+    "mnemonic": "고대 영어 dǣd(행동, 행위)에서 유래. do(하다)의 명사형. 한 일 → 행위"
+  },
+  {
+    "en": "amaze",
+    "ko": "놀라게 하다",
+    "example": "The magician amazed everyone with his tricks.",
+    "mnemonic": "a(강조) + maze(미로) = 미로에 빠진 듯 어리둥절하게 하다 → 놀라게 하다"
+  },
+  {
+    "en": "relief",
+    "ko": "안도, 구호",
+    "example": "She felt a sense of relief after the exam.",
+    "mnemonic": "re(다시) + lief(들어올리다, levare) = 다시 들어올리다 → 짐을 덜다 → 안도. 관련어: relieve"
+  },
+  {
+    "en": "whisper",
+    "ko": "속삭이다",
+    "example": "She whispered a secret into my ear.",
+    "mnemonic": "고대 영어 hwisprian(속삭이다)에서 유래. 의성어. 쉿 소리를 내며 말하다 → 속삭이다"
+  },
+  {
+    "en": "accompany",
+    "ko": "동행하다, 함께 가다",
+    "example": "She accompanied her friend to the hospital.",
+    "mnemonic": "ac(~으로) + com(함께) + pan(빵, panis) = 함께 빵을 나누다 → 동행하다"
+  },
+  {
+    "en": "drama",
+    "ko": "드라마, 극적인 사건",
+    "example": "She loves watching Korean dramas.",
+    "mnemonic": "그리스어 drama(행동, 연극)에서 유래. dran(행동하다). 무대 위의 행동 → 연극, 극"
+  },
+  {
+    "en": "curiosity",
+    "ko": "호기심",
+    "example": "Curiosity is the key to learning new things.",
+    "mnemonic": "cur(돌보다, 관심, cura) + osity = 관심이 많은 상태 → 호기심. 관련어: cure, accurate"
+  }
+]

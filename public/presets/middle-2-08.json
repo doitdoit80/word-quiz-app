@@ -1,152 +1,152 @@
 [
   {
-    "en": "rely",
-    "ko": "의지하다",
-    "example": "You can rely on me.",
-    "mnemonic": "re(다시) + ly(묶다). 다시 묶여 의지하다!"
+    "en": "benefit",
+    "ko": "이익",
+    "example": "Exercise has many health benefits.",
+    "mnemonic": "bene(좋은) + fit(하다). 좋은 것을 하면 이익! bene(좋은): benediction(축복), benevolent(자비로운)."
   },
   {
-    "en": "scene",
-    "ko": "장면, 현장",
-    "example": "The last scene of the movie was sad.",
-    "mnemonic": "'씬'은 영화의 한 장면!"
-  },
-  {
-    "en": "seek",
-    "ko": "찾다",
-    "example": "He is seeking a new job.",
-    "mnemonic": "'시크'하게 찾아 나서는 것!"
-  },
-  {
-    "en": "settle",
-    "ko": "정착하다",
-    "example": "They settled in a small town.",
-    "mnemonic": "set(놓다) + tle. 한 곳에 놓으면 정착!"
-  },
-  {
-    "en": "signal",
-    "ko": "신호",
-    "example": "Wait for the green signal.",
-    "mnemonic": "'시그널'은 교통 신호!"
-  },
-  {
-    "en": "source",
-    "ko": "원천",
-    "example": "What is the source of this information?",
-    "mnemonic": "'소스'는 정보가 나오는 원천!"
-  },
-  {
-    "en": "specific",
-    "ko": "구체적인",
-    "example": "Can you be more specific?",
-    "mnemonic": "'스페시픽'은 딱 정해진 특정한 것!"
-  },
-  {
-    "en": "standard",
-    "ko": "기준",
-    "example": "We need to meet high standards.",
-    "mnemonic": "'스탠다드'는 기본이 되는 기준!"
-  },
-  {
-    "en": "suffer",
-    "ko": "고통받다",
-    "example": "He suffered from a headache.",
-    "mnemonic": "suf(아래에서) + fer(견디다). 아래서 견디면 고통!"
-  },
-  {
-    "en": "system",
-    "ko": "체계",
-    "example": "We need a better system.",
-    "mnemonic": "'시스템'은 한국어로도 쓰이는 체계!"
-  },
-  {
-    "en": "task",
-    "ko": "과제",
-    "example": "Finish this task by Friday.",
-    "mnemonic": "'태스크'는 해야 할 과제!"
-  },
-  {
-    "en": "tend",
-    "ko": "~하는 경향이 있다",
-    "example": "Children tend to be curious.",
-    "mnemonic": "'텐드'는 한쪽으로 기우는 경향!"
-  },
-  {
-    "en": "term",
-    "ko": "용어",
-    "example": "What does this term mean?",
-    "mnemonic": "'텀'은 학기(기간)나 전문 용어!"
-  },
-  {
-    "en": "threat",
-    "ko": "위협",
-    "example": "Pollution is a threat to wildlife.",
-    "mnemonic": "'스렛'은 위험을 알리는 위협!"
-  },
-  {
-    "en": "tool",
-    "ko": "도구",
-    "example": "A hammer is a useful tool.",
-    "mnemonic": "'툴'은 일할 때 쓰는 도구!"
-  },
-  {
-    "en": "topic",
-    "ko": "주제",
-    "example": "What is the topic of today's lesson?",
-    "mnemonic": "'토픽'은 이야기의 주제!"
-  },
-  {
-    "en": "transport",
-    "ko": "수송하다",
-    "example": "Goods are transported by truck.",
-    "mnemonic": "trans(건너) + port(나르다). 건너 나르면 수송!"
-  },
-  {
-    "en": "treat",
-    "ko": "대하다",
-    "example": "She treats everyone with kindness.",
-    "mnemonic": "'트릿'은 할로윈에서 대접(treat)해주는 것!"
-  },
-  {
-    "en": "trend",
-    "ko": "추세",
-    "example": "Social media trends change quickly.",
-    "mnemonic": "'트렌드'는 한국어로도 쓰이는 유행!"
-  },
-  {
-    "en": "typical",
-    "ko": "전형적인",
-    "example": "This is a typical Korean meal.",
-    "mnemonic": "type(유형) + ical. 유형에 딱 맞는 전형적인!"
-  },
-  {
-    "en": "unite",
-    "ko": "연합하다",
-    "example": "We must unite to solve this problem.",
-    "mnemonic": "uni(하나) + te. 하나로 합치면 통합!"
-  },
-  {
-    "en": "visual",
-    "ko": "시각의",
-    "example": "This movie has amazing visual effects.",
-    "mnemonic": "vis(보다) + ual. 보는 것과 관련된 시각!"
+    "en": "perform",
+    "ko": "수행하다",
+    "example": "The band performed on stage.",
+    "mnemonic": "per(완전히) + form(형태). 완전한 형태로 보여주면 공연! performance(공연, 성과)는 명사형."
   },
   {
     "en": "ability",
     "ko": "능력",
     "example": "She has the ability to lead.",
-    "mnemonic": "able(할 수 있는) + ity. 할 수 있는 능력!"
+    "mnemonic": "able(할 수 있는) + ity(명사). 할 수 있는 힘이 능력! -ability 패턴: possibility, responsibility."
   },
   {
-    "en": "absent",
-    "ko": "결석한",
-    "example": "He was absent from school.",
-    "mnemonic": "ab(떨어져) + sent(보내다). 떨어져 있으면 결석!"
+    "en": "attention",
+    "ko": "주의",
+    "example": "Pay attention to the teacher.",
+    "mnemonic": "at(~에) + tent(뻗다) + ion. 마음을 뻗어 향하면 주의! attend(참석하다)도 같은 어근."
   },
   {
-    "en": "accident",
-    "ko": "사고",
-    "example": "There was a car accident.",
-    "mnemonic": "악시던트는 갑자기 일어나는 사고!"
+    "en": "seek",
+    "ko": "찾다",
+    "example": "He is seeking a new job.",
+    "mnemonic": "고대 영어 secan(찾다)에서 유래. hide and seek(숨바꼭질) = 숨고 찾기!"
+  },
+  {
+    "en": "continue",
+    "ko": "계속하다",
+    "example": "Let's continue the discussion tomorrow.",
+    "mnemonic": "con(함께) + tinue(잡고 있다). 계속 잡고 있으면 지속! continuous(지속적인). contain도 같은 어근."
+  },
+  {
+    "en": "physical",
+    "ko": "신체의",
+    "example": "Physical exercise is important for health.",
+    "mnemonic": "그리스어 physis(자연) + ical. 자연/몸에 관한! physics(물리학), physician(의사)도 같은 어근."
+  },
+  {
+    "en": "rely",
+    "ko": "의지하다",
+    "example": "You can rely on me.",
+    "mnemonic": "re(다시) + ly(묶다). 다시 묶여 의지하다! reliable(믿을 수 있는) = rely + able."
+  },
+  {
+    "en": "forever",
+    "ko": "영원히",
+    "example": "I will remember you forever.",
+    "mnemonic": "for(동안) + ever(항상). 항상 동안 = 영원히! whatever, wherever도 같은 ever 패턴."
+  },
+  {
+    "en": "replace",
+    "ko": "교체하다",
+    "example": "We need to replace the old batteries.",
+    "mnemonic": "re(다시) + place(놓다). 다시 놓으면 교체! replacement(교체품)은 명사형."
+  },
+  {
+    "en": "beyond",
+    "ko": "~너머에",
+    "example": "The view beyond the mountain is beautiful.",
+    "mnemonic": "be(곁에) + yond(저쪽). 저쪽 너머에!"
+  },
+  {
+    "en": "suffer",
+    "ko": "고통받다",
+    "example": "He suffered from a headache.",
+    "mnemonic": "suf(아래에서) + fer(견디다). 아래에서 견디면 고통! fer(나르다/견디다): transfer, prefer도 같은 어근."
+  },
+  {
+    "en": "challenge",
+    "ko": "도전",
+    "example": "It was a big challenge for me.",
+    "mnemonic": "라틴어 calumnia(거짓 고발)에서 유래. 원래 '시비 걸기' → 도전으로 의미 변화. challenging(도전적인)."
+  },
+  {
+    "en": "advantage",
+    "ko": "이점",
+    "example": "Being tall is an advantage in basketball.",
+    "mnemonic": "ad(앞으로) + vant(앞서다) + age. 앞서 나가면 유리! disadvantage(불리)는 dis + advantage."
+  },
+  {
+    "en": "necessary",
+    "ko": "필요한",
+    "example": "Sleep is necessary for health.",
+    "mnemonic": "ne(아닌) + cess(물러나다) + ary. 물러날 수 없는 → 꼭 필요한!"
+  },
+  {
+    "en": "contain",
+    "ko": "포함하다",
+    "example": "This box contains many toys.",
+    "mnemonic": "con(함께) + tain(잡다). 함께 잡아 담는 것! maintain(유지), retain(보유)도 같은 어근 tain."
+  },
+  {
+    "en": "conservation",
+    "ko": "보존",
+    "example": "Wildlife conservation is important.",
+    "mnemonic": "con(함께) + serv(지키다) + ation. 함께 지키면 보존! serve(봉사): preserve(보존), reserve(예약)."
+  },
+  {
+    "en": "achieve",
+    "ko": "달성하다",
+    "example": "He achieved his dream.",
+    "mnemonic": "프랑스어 achever = a(~에) + chief(끝, 머리). 끝에 도달하면 달성! achievement(성취)은 명사형."
+  },
+  {
+    "en": "crowd",
+    "ko": "군중",
+    "example": "A large crowd gathered.",
+    "mnemonic": "중세 영어 cruden(밀다)에서 유래. 밀려드는 사람들이 군중! crowded(붐비는)."
+  },
+  {
+    "en": "industry",
+    "ko": "산업",
+    "example": "The car industry is growing.",
+    "mnemonic": "라틴어 industria = indu(안에서) + stru(쌓다). 안에서 쌓아 만드는 것이 산업! industrial(산업의)."
+  },
+  {
+    "en": "typical",
+    "ko": "전형적인",
+    "example": "This is a typical Korean meal.",
+    "mnemonic": "type(유형) + ical(~의). 유형에 딱 맞는 전형적인! typically(전형적으로)."
+  },
+  {
+    "en": "billion",
+    "ko": "10억",
+    "example": "The earth has 8 billion people.",
+    "mnemonic": "bi(둘) + million. 백만의 두 번째 거듭제곱(10^9)! million(백만) → billion(10억) → trillion(1조)."
+  },
+  {
+    "en": "encourage",
+    "ko": "격려하다",
+    "example": "My teacher encouraged me to try harder.",
+    "mnemonic": "en(안에 넣다) + courage(용기). 용기를 불어넣으면 격려! discourage(낙담시키다) = dis + courage."
+  },
+  {
+    "en": "survive",
+    "ko": "살아남다",
+    "example": "Only a few plants survived the drought.",
+    "mnemonic": "sur(위에, 넘어) + vive(살다). 어려움을 넘어 살아남다! vive(살다): vivid(생생한), revive(되살리다)."
+  },
+  {
+    "en": "favor",
+    "ko": "호의",
+    "example": "Can you do me a favor?",
+    "mnemonic": "라틴어 favere(좋아하다)에서 유래. favorite(가장 좋아하는) = favor + ite."
   }
 ]

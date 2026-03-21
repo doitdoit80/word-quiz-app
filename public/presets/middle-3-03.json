@@ -1,152 +1,152 @@
 [
   {
-    "en": "deny",
-    "ko": "부인하다",
-    "example": "He denied the accusation.",
-    "mnemonic": "de(아닌) + ny. 아니라고 하면 부인!"
+    "en": "comply",
+    "ko": "따르다",
+    "example": "You must comply with the rules.",
+    "mnemonic": "com(함께) + ply(채우다). 요구를 함께 채우면 따르는 것! compliance(준수)는 명사형. supply도 같은 어근 ply."
   },
   {
-    "en": "despite",
-    "ko": "~에도 불구하고",
-    "example": "Despite the rain, we went hiking.",
-    "mnemonic": "de + spite(악의). 악의에도 불구하고!"
+    "en": "component",
+    "ko": "구성 요소",
+    "example": "Each component of the machine is important.",
+    "mnemonic": "com(함께) + pon(놓다) + ent. 함께 놓인 것이 구성 요소! pon(놓다): compose(구성), opponent(상대), position(위치)."
   },
   {
-    "en": "device",
-    "ko": "장치",
-    "example": "This device can measure temperature.",
-    "mnemonic": "'디바이스'는 스마트 기기!"
+    "en": "negotiate",
+    "ko": "협상하다",
+    "example": "They negotiated a peace treaty.",
+    "mnemonic": "neg(아닌) + oti(여가) + ate. 쉴 틈 없이 논의하면 협상! negotiation(협상)은 명사형."
   },
   {
-    "en": "disappear",
-    "ko": "사라지다",
-    "example": "The rabbit disappeared into the hat.",
-    "mnemonic": "dis(반대) + appear(나타나다). 나타남의 반대 = 사라짐!"
-  },
-  {
-    "en": "distinguish",
-    "ko": "구별하다",
-    "example": "Can you distinguish the twins?",
-    "mnemonic": "dis(떨어져) + tinguish(찌르다). 찔러 떼어 구별!"
-  },
-  {
-    "en": "distribute",
-    "ko": "분배하다",
-    "example": "The teacher distributed the worksheets.",
-    "mnemonic": "dis(떨어져) + tribute(주다). 떼어서 나눠 주면 분배!"
-  },
-  {
-    "en": "domestic",
-    "ko": "국내의",
-    "example": "The domestic economy is growing.",
-    "mnemonic": "dom(집) + estic. 집 안의 = 국내의!"
-  },
-  {
-    "en": "dominate",
-    "ko": "지배하다",
-    "example": "One team dominated the game.",
-    "mnemonic": "domin(주인) + ate. 주인처럼 지배!"
-  },
-  {
-    "en": "efficient",
-    "ko": "효율적인",
-    "example": "This machine is very efficient.",
-    "mnemonic": "ef(밖으로) + fici(만들다). 잘 만들어내면 효율적!"
-  },
-  {
-    "en": "eliminate",
-    "ko": "제거하다",
-    "example": "We need to eliminate waste.",
-    "mnemonic": "e(밖으로) + limin(문턱). 문 밖으로 내보내면 제거!"
-  },
-  {
-    "en": "emerge",
-    "ko": "나타나다",
-    "example": "A new leader emerged.",
-    "mnemonic": "e(밖으로) + merge(잠기다). 물 밖으로 나오면 떠오르다!"
-  },
-  {
-    "en": "emphasize",
-    "ko": "강조하다",
-    "example": "I want to emphasize the importance of teamwork.",
-    "mnemonic": "em(안에) + phas(보여주다). 확 보여주면 강조!"
+    "en": "collapse",
+    "ko": "무너지다",
+    "example": "The old building collapsed.",
+    "mnemonic": "col(함께) + lapse(미끄러지다). 함께 미끄러지면 붕괴! lapse(미끄러지다): relapse(재발), elapse(경과하다)."
   },
   {
     "en": "enable",
     "ko": "가능하게 하다",
     "example": "Technology enables us to communicate easily.",
-    "mnemonic": "en(만들다) + able(할 수 있는). 할 수 있게 만들면!"
+    "mnemonic": "en(만들다) + able(할 수 있는). 할 수 있게 만들다! disable = dis + able → 불가능하게 하다."
   },
   {
-    "en": "encounter",
-    "ko": "마주치다",
-    "example": "I encountered an old friend at the mall.",
-    "mnemonic": "en(안에서) + counter(반대). 맞은편에서 만나면 마주침!"
+    "en": "portion",
+    "ko": "부분",
+    "example": "She ate a small portion of the cake.",
+    "mnemonic": "라틴어 portio(몫) = port(나르다) + ion. 나눠 나르는 몫이 부분! proportion(비율) = pro + portion."
   },
   {
-    "en": "enormous",
-    "ko": "거대한",
-    "example": "The elephant is enormous.",
-    "mnemonic": "e(밖으로) + norm(기준). 기준을 벗어나면 거대!"
+    "en": "define",
+    "ko": "정의하다",
+    "example": "How do you define success?",
+    "mnemonic": "de(완전히) + fine(끝, 한계). 한계를 완전히 정하면 정의! definition(정의), finite(유한한), final(마지막)."
   },
   {
-    "en": "ensure",
-    "ko": "보장하다",
-    "example": "We must ensure everyone's safety.",
-    "mnemonic": "en(만들다) + sure(확실한). 확실하게 만들면 보장!"
+    "en": "participate",
+    "ko": "참여하다",
+    "example": "Everyone should participate in the discussion.",
+    "mnemonic": "part(부분) + icip(잡다) + ate. 한 부분을 잡으면 참여! part(부분): department(부서), partial(부분적인)."
   },
   {
-    "en": "essential",
-    "ko": "필수적인",
-    "example": "Water is essential for life.",
-    "mnemonic": "essence(본질) + tial. 본질적으로 필요한!"
+    "en": "impose",
+    "ko": "부과하다",
+    "example": "The government imposed a new tax.",
+    "mnemonic": "im(위에) + pose(놓다). 위에 놓으면 부과! pose(놓다): compose(구성), expose(노출), propose(제안)."
   },
   {
-    "en": "establish",
-    "ko": "설립하다",
-    "example": "The company was established in 1990.",
-    "mnemonic": "e(밖으로) + stablish(안정). 안정적으로 세우면 설립!"
+    "en": "obvious",
+    "ko": "명백한",
+    "example": "The answer is obvious.",
+    "mnemonic": "ob(앞에) + vi(길) + ous. 길 앞에 보이면 명백! via(길): obvious는 '길 위에 있어 보이는'."
   },
   {
-    "en": "estimate",
-    "ko": "추정하다",
-    "example": "They estimated the cost of the project.",
-    "mnemonic": "estim(가치) + ate. 가치를 매기면 추정!"
+    "en": "schedule",
+    "ko": "일정",
+    "example": "Check your schedule for tomorrow.",
+    "mnemonic": "라틴어 schedula(종이 조각)에서 유래. 종이에 적어놓은 일정! reschedule = re + schedule(일정 변경)."
   },
   {
-    "en": "evaluate",
-    "ko": "평가하다",
-    "example": "Teachers evaluate students' progress.",
-    "mnemonic": "e(밖으로) + value(가치). 가치를 밖으로 내면 평가!"
+    "en": "numerous",
+    "ko": "수많은",
+    "example": "There are numerous reasons to exercise.",
+    "mnemonic": "라틴어 numerus(수) + ous(가득한). 수가 가득하면 수많은! number(숫자), enumerate(열거)도 같은 어근."
   },
   {
-    "en": "eventually",
-    "ko": "결국",
-    "example": "He eventually passed the exam.",
-    "mnemonic": "event(사건) + ually. 여러 사건을 거쳐 결국!"
+    "en": "exploit",
+    "ko": "이용하다",
+    "example": "We should not exploit natural resources.",
+    "mnemonic": "ex(밖으로) + ploit(접다/펴다). 밖으로 펴서 이용! explicit(명시적인), explain(설명)도 같은 어근 plic."
   },
   {
-    "en": "evidence",
-    "ko": "증거",
-    "example": "There is no evidence of the crime.",
-    "mnemonic": "e(밖으로) + vid(보다). 밖으로 보이는 것이 증거!"
+    "en": "illustrate",
+    "ko": "설명하다",
+    "example": "The teacher illustrated the concept with examples.",
+    "mnemonic": "il(위에) + lustr(빛나다) + ate. 빛을 비춰 밝히면 설명! illustration(삽화)은 명사형. luster(광택)도 같은 어근."
   },
   {
-    "en": "evolve",
-    "ko": "진화하다",
-    "example": "Technology continues to evolve.",
-    "mnemonic": "e(밖으로) + volve(구르다). 밖으로 구르며 발전!"
+    "en": "retain",
+    "ko": "유지하다",
+    "example": "She retained her position as CEO.",
+    "mnemonic": "re(뒤에) + tain(잡다). 뒤에서 꽉 잡으면 유지! tain(잡다): contain(포함), obtain(얻다), maintain(유지)."
   },
   {
-    "en": "exceed",
-    "ko": "초과하다",
-    "example": "Don't exceed the speed limit.",
-    "mnemonic": "ex(밖으로) + ceed(가다). 밖으로 나가면 초과!"
+    "en": "deny",
+    "ko": "부인하다",
+    "example": "He denied the accusation.",
+    "mnemonic": "de(아닌) + ny(말하다). 아니라고 말하면 부인! denial(부인)은 명사형."
   },
   {
-    "en": "exclude",
-    "ko": "제외하다",
-    "example": "Tax is excluded from the price.",
-    "mnemonic": "ex(밖으로) + clude(닫다). 밖으로 닫아 제외!"
+    "en": "precede",
+    "ko": "앞서다",
+    "example": "The introduction precedes the main text.",
+    "mnemonic": "pre(앞에) + cede(가다). 앞에 가면 앞서다! cede(가다): proceed(진행), exceed(초과), recede(물러나다)."
+  },
+  {
+    "en": "compile",
+    "ko": "편찬하다",
+    "example": "She compiled a list of books.",
+    "mnemonic": "com(함께) + pile(쌓다). 함께 쌓으면 편찬! pile(쌓다)과 같은 어근."
+  },
+  {
+    "en": "consist",
+    "ko": "~으로 이루어지다",
+    "example": "The team consists of five members.",
+    "mnemonic": "con(함께) + sist(서다). 함께 서 있으면 구성! sist(서다): insist(주장), resist(저항), persist(지속)."
+  },
+  {
+    "en": "atmosphere",
+    "ko": "대기",
+    "example": "The atmosphere of the restaurant was cozy.",
+    "mnemonic": "atmo(증기) + sphere(구). 지구를 감싼 증기의 구가 대기! sphere(구): hemisphere(반구), biosphere(생물권)."
+  },
+  {
+    "en": "compensate",
+    "ko": "보상하다",
+    "example": "They compensated for the damage.",
+    "mnemonic": "com(함께) + pens(무게를 달다) + ate. 무게를 함께 맞추면 보상! pend/pens(달다): suspend(매달다), expense(비용)."
+  },
+  {
+    "en": "bureaucracy",
+    "ko": "관료제",
+    "example": "Government bureaucracy can be slow.",
+    "mnemonic": "bureau(사무실) + cracy(통치). 사무실에서 통치하는 체제가 관료제! -cracy(통치): democracy(민주주의), aristocracy(귀족제)."
+  },
+  {
+    "en": "criteria",
+    "ko": "기준(복수)",
+    "example": "What are the criteria for selection?",
+    "mnemonic": "그리스어 kriterion(판단 기준) = krit(판단하다) + erion. 판단하는 기준! 단수형은 criterion. critic(비평가)도 같은 어근."
+  },
+  {
+    "en": "occupy",
+    "ko": "차지하다",
+    "example": "The army occupied the city.",
+    "mnemonic": "oc(향해) + cupy(잡다). 향해 잡으면 차지! occupation(직업, 점령). cap(잡다): capture(포획)도 같은 어근."
+  },
+  {
+    "en": "temporary",
+    "ko": "일시적인",
+    "example": "This is a temporary solution.",
+    "mnemonic": "tempor(시간) + ary. 시간이 정해진 일시적! tempor(시간): contemporary(현대의), tempo(속도). permanent의 반대."
   }
 ]

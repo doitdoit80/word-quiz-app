@@ -1,152 +1,152 @@
 [
   {
-    "en": "correspond",
-    "ko": "일치하다",
-    "example": "The results correspond with the theory.",
-    "mnemonic": "cor(함께) + respond(응답). 함께 응답하면 일치!"
+    "en": "expose",
+    "ko": "노출시키다",
+    "example": "Don't expose your skin to the sun too long.",
+    "mnemonic": "ex(밖으로) + pose(놓다). 밖에 놓으면 노출! pose(놓다): compose(구성), propose(제안), impose(부과)."
   },
   {
-    "en": "criteria",
-    "ko": "기준(복수)",
-    "example": "What are the criteria for selection?",
-    "mnemonic": "크라이티리아는 판단하는 기준들!"
-  },
-  {
-    "en": "critique",
-    "ko": "비평",
-    "example": "The teacher critiqued the essay.",
-    "mnemonic": "크리틱은 작품을 평가하는 비평!"
-  },
-  {
-    "en": "cultivate",
-    "ko": "경작하다",
-    "example": "Farmers cultivate rice.",
-    "mnemonic": "cult(경작) + ivate. 밭을 갈아 경작!"
-  },
-  {
-    "en": "deficit",
-    "ko": "적자",
-    "example": "The company has a budget deficit.",
-    "mnemonic": "de(아래) + ficit(만들다). 아래로 가면 적자!"
-  },
-  {
-    "en": "delegate",
-    "ko": "대표",
-    "example": "She delegated the task to her assistant.",
-    "mnemonic": "de(아래로) + legate(보내다). 아래로 보내면 위임!"
-  },
-  {
-    "en": "deliberate",
-    "ko": "고의적인",
-    "example": "It was a deliberate decision.",
-    "mnemonic": "de(완전히) + liber(저울). 저울질하면 숙고!"
-  },
-  {
-    "en": "demographic",
-    "ko": "인구통계의",
-    "example": "The demographic data shows population changes.",
-    "mnemonic": "demo(사람) + graphic(기록). 사람을 기록!"
-  },
-  {
-    "en": "derive",
-    "ko": "유래하다",
-    "example": "The word derives from Latin.",
-    "mnemonic": "de(아래에서) + rive(강). 강에서 끌어내면 유래!"
-  },
-  {
-    "en": "detect",
-    "ko": "발견하다",
-    "example": "The sensor detected movement.",
-    "mnemonic": "de(떼다) + tect(덮다). 덮개를 떼면 발견!"
-  },
-  {
-    "en": "deteriorate",
-    "ko": "악화되다",
-    "example": "The weather deteriorated rapidly.",
-    "mnemonic": "de(아래로) + terior(나쁜). 나빠지면 악화!"
-  },
-  {
-    "en": "devote",
-    "ko": "헌신하다",
-    "example": "He devoted his life to science.",
-    "mnemonic": "de(완전히) + vote(맹세). 완전히 맹세하면 헌신!"
-  },
-  {
-    "en": "dignity",
-    "ko": "존엄",
-    "example": "Everyone deserves dignity.",
-    "mnemonic": "dign(가치) + ity. 가치 있음이 존엄!"
-  },
-  {
-    "en": "dilemma",
-    "ko": "딜레마",
-    "example": "She faced a difficult dilemma.",
-    "mnemonic": "di(둘) + lemma(제안). 두 가지 중 고민!"
+    "en": "welfare",
+    "ko": "복지",
+    "example": "The government supports social welfare.",
+    "mnemonic": "well(잘) + fare(지내다). 잘 지내게 하는 것이 복지! farewell(작별인사) = fare + well."
   },
   {
     "en": "dimension",
     "ko": "차원",
     "example": "The room has large dimensions.",
-    "mnemonic": "di(떨어져) + mension(측정). 측정하면 차원!"
+    "mnemonic": "di(떨어져) + mens(측정) + ion. 측정해서 나눈 것이 차원! mens(측정): measure(측정), immense(거대한)."
   },
   {
-    "en": "diminish",
-    "ko": "줄어들다",
-    "example": "The pain gradually diminished.",
-    "mnemonic": "di(떨어져) + minish(작은). 작아지면 줄어들다!"
+    "en": "circumstance",
+    "ko": "상황",
+    "example": "Under no circumstances should you lie.",
+    "mnemonic": "circum(주위) + stance(서다). 주위에 서 있는 것들이 상황! circum(주위): circle(원), circuit(회로)."
+  },
+  {
+    "en": "agriculture",
+    "ko": "농업, 농사",
+    "example": "Agriculture is the main industry here.",
+    "mnemonic": "agri(밭) + culture(경작). 밭을 경작하는 것이 농업! agri(밭): agrarian(농업의). culture(경작): cultivate(경작)."
+  },
+  {
+    "en": "sufficient",
+    "ko": "충분한",
+    "example": "Do we have sufficient supplies?",
+    "mnemonic": "suf(아래에서) + fici(만들다) + ent. 아래에서 다 만들어주면 충분! fic(만들다): efficient(효율), deficient(부족)."
+  },
+  {
+    "en": "adapt",
+    "ko": "적응하다",
+    "example": "Animals adapt to their environment.",
+    "mnemonic": "ad(~에) + apt(적합한). 적합하게 맞추면 적응! adaptation(적응)은 명사형. adopt(채택)과 구분!"
+  },
+  {
+    "en": "reasonable",
+    "ko": "합리적인",
+    "example": "The price is reasonable.",
+    "mnemonic": "reason(이유) + able(할 수 있는). 이유가 있으면 합리적! unreasonable(불합리한) = un + reasonable."
+  },
+  {
+    "en": "associate",
+    "ko": "연관시키다",
+    "example": "I associate summer with the beach.",
+    "mnemonic": "as(~에) + soci(동료) + ate. 동료처럼 연결하면 연관! soci(동료): social(사회의), society(사회)."
+  },
+  {
+    "en": "proportion",
+    "ko": "비율",
+    "example": "A large proportion of students passed.",
+    "mnemonic": "pro(앞에) + portion(부분). 부분들의 앞뒤 비교가 비율! proportional(비례하는)."
+  },
+  {
+    "en": "appreciate",
+    "ko": "감사하다",
+    "example": "I appreciate your help.",
+    "mnemonic": "ap(~에) + preci(가치) + ate. 가치를 알면 감사! preci(가치): precious(귀중한), price(가격)도 같은 어근."
+  },
+  {
+    "en": "fundamental",
+    "ko": "기본적인",
+    "example": "Reading is a fundamental skill.",
+    "mnemonic": "funda(기초) + ment + al. 기초가 되는 근본! fund(기금), foundation(재단)도 같은 어근."
+  },
+  {
+    "en": "rational",
+    "ko": "합리적인",
+    "example": "We need a rational approach.",
+    "mnemonic": "ratio(비율, 이성) + nal. 이성에 맞게 생각하면 합리적! reason(이유)과 어원적으로 관련."
+  },
+  {
+    "en": "corporate",
+    "ko": "기업의",
+    "example": "The corporate office is in Seoul.",
+    "mnemonic": "라틴어 corpus(몸) + ate. 하나의 몸처럼 합쳐진 기업! corp(몸): corpse(시체), corporation(주식회사), incorporate(통합)."
   },
   {
     "en": "diplomacy",
     "ko": "외교",
     "example": "Diplomacy is better than war.",
-    "mnemonic": "diploma(문서) + cy. 문서로 소통하는 외교!"
+    "mnemonic": "그리스어 diploma(접힌 문서) + cy. 접힌 공식 문서로 소통하는 외교! diplomat(외교관), diplomatic(외교적인)."
   },
   {
-    "en": "discipline",
-    "ko": "규율",
-    "example": "The school has strict discipline.",
-    "mnemonic": "disciple(제자) + ine. 제자를 가르치는 규율!"
+    "en": "liberal",
+    "ko": "자유로운",
+    "example": "She has liberal views on education.",
+    "mnemonic": "liber(자유) + al. 자유로운! liber(자유): liberty(자유), liberate(해방), library(도서관, 자유롭게 읽는 곳)."
   },
   {
-    "en": "discourse",
-    "ko": "담론",
-    "example": "The discourse on climate change continued.",
-    "mnemonic": "dis(떨어져) + course(달리다). 의견이 오가는 담론!"
+    "en": "commodity",
+    "ko": "상품",
+    "example": "Oil is an important commodity.",
+    "mnemonic": "라틴어 commodus(편리한) + ity. 편리하게 쓰는 물건이 상품! accommodate(수용)도 같은 어근 mod(적합한)."
   },
   {
-    "en": "discrimination",
-    "ko": "차별",
-    "example": "Discrimination is against the law.",
-    "mnemonic": "dis(떨어져) + crimin(구분). 구분해서 떼면 차별!"
+    "en": "acquire",
+    "ko": "얻다",
+    "example": "She acquired new skills through practice.",
+    "mnemonic": "ac(~에) + quire(구하다). 구해서 얻다! quire(구하다): require(요구), inquire(문의)도 같은 어근."
   },
   {
-    "en": "displace",
-    "ko": "옮기다",
-    "example": "Many people were displaced by the flood.",
-    "mnemonic": "dis(떨어져) + place(장소). 장소에서 떼어내면 이주!"
+    "en": "commit",
+    "ko": "저지르다",
+    "example": "He committed himself to the project.",
+    "mnemonic": "com(함께) + mit(보내다). 마음을 함께 보내면 전념! mit(보내다): submit(제출), permit(허가), admit(인정)."
   },
   {
-    "en": "dispose",
-    "ko": "처분하다",
-    "example": "Dispose of waste properly.",
-    "mnemonic": "dis(떨어져) + pose(놓다). 떨어져 놓으면 처분!"
+    "en": "consume",
+    "ko": "소비하다",
+    "example": "We consume too much plastic.",
+    "mnemonic": "con(완전히) + sume(취하다). 완전히 취해 쓰면 소비! sume(취하다): assume(가정), resume(재개), presume(추정)."
   },
   {
-    "en": "dispute",
-    "ko": "분쟁",
-    "example": "The two countries have a territorial dispute.",
-    "mnemonic": "dis(떨어져) + pute(생각). 생각이 다르면 분쟁!"
+    "en": "accomplish",
+    "ko": "달성하다",
+    "example": "She accomplished her goal.",
+    "mnemonic": "ac(~을) + com(완전히) + plish(채우다). 완전히 채우면 달성! accomplishment(성취)은 명사형."
   },
   {
-    "en": "diversity",
-    "ko": "다양성",
-    "example": "We celebrate diversity in our school.",
-    "mnemonic": "divers(다양한) + ity. 다양한 상태가 다양성!"
+    "en": "accumulate",
+    "ko": "축적하다",
+    "example": "She accumulated a lot of experience.",
+    "mnemonic": "ac(~에) + cumul(쌓다) + ate. 쌓이면 축적! cumulus(적운, 뭉게구름)도 같은 어근."
   },
   {
-    "en": "doctrine",
-    "ko": "교리",
-    "example": "The doctrine was widely accepted.",
-    "mnemonic": "doct(가르치다) + rine. 가르치는 것이 교리!"
+    "en": "restore",
+    "ko": "복원하다",
+    "example": "They restored the old painting.",
+    "mnemonic": "re(다시) + store(저장). 다시 원래대로 돌리면 복원! restoration(복원)은 명사형."
+  },
+  {
+    "en": "modify",
+    "ko": "수정하다",
+    "example": "We need to modify the plan.",
+    "mnemonic": "mod(방식) + ify(만들다). 방식을 바꾸면 수정! mod(방식): mode(방식), model(모델), modern(현대의)."
+  },
+  {
+    "en": "conserve",
+    "ko": "보존하다",
+    "example": "We must conserve water.",
+    "mnemonic": "con(함께) + serve(지키다). 함께 지키면 보존! serve(지키다): preserve(보존), reserve(예약), observe(관찰)."
   }
 ]

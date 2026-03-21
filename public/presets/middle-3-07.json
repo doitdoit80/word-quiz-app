@@ -1,152 +1,152 @@
 [
   {
-    "en": "reconstruct",
-    "ko": "재건하다",
-    "example": "They reconstructed the damaged building.",
-    "mnemonic": "re(다시) + construct(건설). 다시 건설하면 재건!"
+    "en": "individual",
+    "ko": "개인의",
+    "example": "Every individual has rights.",
+    "mnemonic": "in(아닌) + divid(나누다) + ual. 더 나눌 수 없는 것이 개인! divide(나누다)와 같은 어근."
   },
   {
-    "en": "refer",
-    "ko": "언급하다",
-    "example": "Please refer to the manual.",
-    "mnemonic": "re(다시) + fer(가져오다). 다시 가져와 참조!"
+    "en": "decade",
+    "ko": "10년",
+    "example": "Technology has changed a lot in the last decade.",
+    "mnemonic": "deca(10) + de. 10년 단위! deca(10): December(원래 10월), decimal(소수점)."
   },
   {
-    "en": "reject",
-    "ko": "거부하다",
-    "example": "She rejected the offer.",
-    "mnemonic": "re(뒤로) + ject(던지다). 뒤로 던지면 거부!"
+    "en": "conflict",
+    "ko": "갈등",
+    "example": "There is a conflict between the two groups.",
+    "mnemonic": "con(함께) + flict(부딪치다). 함께 부딪치면 충돌! flict(부딪다): inflict(가하다), afflict(괴롭히다)."
+  },
+  {
+    "en": "attach",
+    "ko": "붙이다",
+    "example": "Please attach a photo to the application.",
+    "mnemonic": "at(~에) + tach(붙다). ~에 붙이면 첨부! attachment(첨부)은 명사형. detach(떼다) = de + tach."
+  },
+  {
+    "en": "arbitrary",
+    "ko": "임의의",
+    "example": "The decision seemed arbitrary.",
+    "mnemonic": "라틴어 arbiter(중재자, 판단자) + ary. 한 사람 마음대로 판단하면 임의적! arbitration(중재)."
+  },
+  {
+    "en": "confine",
+    "ko": "가두다",
+    "example": "The animals were confined to cages.",
+    "mnemonic": "con(완전히) + fine(끝, 경계). 경계 안에 완전히 가두다! fine(끝): finish(끝내다), define(정의), finite(유한)."
+  },
+  {
+    "en": "deteriorate",
+    "ko": "악화되다",
+    "example": "The weather deteriorated rapidly.",
+    "mnemonic": "de(아래로) + terior(더 나쁜) + ate. 더 나빠지면 악화! deterioration(악화)은 명사형."
+  },
+  {
+    "en": "coordinate",
+    "ko": "조정하다",
+    "example": "She coordinated the event.",
+    "mnemonic": "co(함께) + ordin(순서) + ate. 함께 순서를 맞추면 조정! order(질서), ordinary(평범한)도 같은 어근."
+  },
+  {
+    "en": "demographic",
+    "ko": "인구통계의",
+    "example": "The demographic data shows population changes.",
+    "mnemonic": "demo(사람) + graph(기록) + ic. 사람들을 기록한 인구통계! demo(사람): democracy(민주주의). graph(기록): biography."
+  },
+  {
+    "en": "dominate",
+    "ko": "지배하다",
+    "example": "One team dominated the game.",
+    "mnemonic": "domin(주인) + ate. 주인처럼 지배! dominus(주인): dominant(지배적인), domain(영역)."
+  },
+  {
+    "en": "declare",
+    "ko": "선언하다",
+    "example": "The country declared independence.",
+    "mnemonic": "de(완전히) + clare(명확히). 명확히 말하면 선언! declaration(선언)은 명사형. clear(명확한)도 같은 어근."
+  },
+  {
+    "en": "instance",
+    "ko": "경우",
+    "example": "For instance, let me give you an example.",
+    "mnemonic": "in(안에) + stance(서다). 앞에 서 있는 사례! instant(즉각) = 바로 앞에 서 있는."
+  },
+  {
+    "en": "consequence",
+    "ko": "결과",
+    "example": "Every action has consequences.",
+    "mnemonic": "con(함께) + sequ(따르다) + ence. 뒤따라오는 것이 결과! sequ(따르다): sequence(순서), subsequent(이후의)."
+  },
+  {
+    "en": "ultimately",
+    "ko": "궁극적으로",
+    "example": "Ultimately, it's your decision.",
+    "mnemonic": "ultim(마지막) + ately. 마지막으로 = 궁극적으로! ultimate(궁극의), ultimatum(최후통첩)."
+  },
+  {
+    "en": "dignity",
+    "ko": "존엄",
+    "example": "Everyone deserves dignity.",
+    "mnemonic": "라틴어 dignus(가치 있는) + ity. 가치 있음이 존엄! dignify(위엄을 주다), dignitary(고위 인사)."
+  },
+  {
+    "en": "appeal",
+    "ko": "호소하다",
+    "example": "The charity appealed for donations.",
+    "mnemonic": "ap(~에) + peal(몰다). ~에게 마음을 몰아가면 호소! appealing(매력적인). peal: compel(강제)도 같은 어근."
+  },
+  {
+    "en": "authority",
+    "ko": "권위",
+    "example": "The authorities investigated the case.",
+    "mnemonic": "author(만든 사람, 창시자) + ity. 만든 사람의 힘이 권위! authorize(허가하다), author(작가)도 같은 어근."
+  },
+  {
+    "en": "isolate",
+    "ko": "고립시키다",
+    "example": "The village was isolated by the flood.",
+    "mnemonic": "라틴어 insula(섬) + ate. 섬처럼 떨어지면 고립! island(섬), insulate(절연)도 같은 어근."
+  },
+  {
+    "en": "federal",
+    "ko": "연방의",
+    "example": "The federal government passed a new law.",
+    "mnemonic": "라틴어 foedus(동맹) + al. 동맹을 맺은 연방! federation(연방), confederate(동맹국)."
+  },
+  {
+    "en": "census",
+    "ko": "인구 조사",
+    "example": "The census is conducted every ten years.",
+    "mnemonic": "라틴어 censere(세다, 평가하다)에서 유래. 사람을 세면 인구 조사! censor(검열관)도 같은 어근."
+  },
+  {
+    "en": "contemplate",
+    "ko": "숙고하다",
+    "example": "She contemplated her future.",
+    "mnemonic": "con(함께) + templ(사원) + ate. 사원에서 깊이 생각! temple(사원)과 같은 어근. contemplation(숙고)."
+  },
+  {
+    "en": "inspect",
+    "ko": "점검하다",
+    "example": "The building was inspected for safety.",
+    "mnemonic": "in(안을) + spect(보다). 안을 들여다보면 검사! spect(보다) 가족: respect, expect, prospect, spectacle."
+  },
+  {
+    "en": "possess",
+    "ko": "소유하다",
+    "example": "He possesses great talent.",
+    "mnemonic": "pos(할 수 있다) + sess(앉다). 앉아서 가질 수 있으면 소유! possession(소유물), possessive(소유격)."
+  },
+  {
+    "en": "minority",
+    "ko": "소수",
+    "example": "Only a minority disagreed.",
+    "mnemonic": "minor(작은) + ity(명사). 작은 부분이 소수! majority(대다수)와 반대. minus(빼기)도 같은 어근."
   },
   {
     "en": "relevant",
     "ko": "관련 있는",
     "example": "This information is relevant to the topic.",
-    "mnemonic": "re(다시) + lev(들다). 다시 들 만큼 관련 있는!"
-  },
-  {
-    "en": "reluctant",
-    "ko": "꺼리는",
-    "example": "She was reluctant to speak in public.",
-    "mnemonic": "re(반대) + luct(투쟁). 반대로 투쟁하면 꺼림!"
-  },
-  {
-    "en": "resource",
-    "ko": "자원",
-    "example": "Water is a valuable natural resource.",
-    "mnemonic": "re(다시) + source(원천). 다시 쓸 수 있는 원천이 자원!"
-  },
-  {
-    "en": "restore",
-    "ko": "복원하다",
-    "example": "They restored the old painting.",
-    "mnemonic": "re(다시) + store(저장). 다시 원래대로 저장하면 복원!"
-  },
-  {
-    "en": "restrict",
-    "ko": "제한하다",
-    "example": "The government restricted travel.",
-    "mnemonic": "re(뒤로) + strict(엄격). 엄격하게 막으면 제한."
-  },
-  {
-    "en": "retain",
-    "ko": "유지하다",
-    "example": "She retained her position as CEO.",
-    "mnemonic": "re(뒤에) + tain(잡다). 뒤에서 꽉 잡으면 유지!"
-  },
-  {
-    "en": "revolution",
-    "ko": "혁명",
-    "example": "The industrial revolution changed the world.",
-    "mnemonic": "revolve(회전) + tion. 세상을 뒤집는 혁명!"
-  },
-  {
-    "en": "sacrifice",
-    "ko": "희생",
-    "example": "She sacrificed her free time for the project.",
-    "mnemonic": "sacri(신성한) + fice(만들다). 신에게 바치는 희생!"
-  },
-  {
-    "en": "schedule",
-    "ko": "일정",
-    "example": "Check your schedule for tomorrow.",
-    "mnemonic": "'스케줄'은 한국어로도 쓰이는 일정!"
-  },
-  {
-    "en": "secure",
-    "ko": "안전한",
-    "example": "Make sure the door is secure.",
-    "mnemonic": "se(떨어져) + cure(걱정). 걱정에서 벗어나면 안전!"
-  },
-  {
-    "en": "significant",
-    "ko": "중요한",
-    "example": "There has been a significant change.",
-    "mnemonic": "sign(표시) + ificant. 표시할 만큼 중요한!"
-  },
-  {
-    "en": "species",
-    "ko": "종(種)",
-    "example": "Many species are endangered.",
-    "mnemonic": "speci(보다) + es. 보고 나눈 종류가 종!"
-  },
-  {
-    "en": "strategy",
-    "ko": "전략",
-    "example": "We need a new marketing strategy.",
-    "mnemonic": "strat(군대) + egy. 군대의 작전이 전략!"
-  },
-  {
-    "en": "strengthen",
-    "ko": "강화하다",
-    "example": "Exercise strengthens your muscles.",
-    "mnemonic": "strength(힘) + en. 힘을 더하면 강화!"
-  },
-  {
-    "en": "substitute",
-    "ko": "대신하다",
-    "example": "You can substitute butter with oil.",
-    "mnemonic": "sub(아래에) + stitute(세우다). 아래에 대신 세우면 대체!"
-  },
-  {
-    "en": "sufficient",
-    "ko": "충분한",
-    "example": "Do we have sufficient supplies?",
-    "mnemonic": "suf(아래에서) + fici(만들다). 아래에서 다 만들면 충분!"
-  },
-  {
-    "en": "sustain",
-    "ko": "유지하다",
-    "example": "We need to sustain economic growth.",
-    "mnemonic": "sus(아래에서) + tain(잡다). 아래에서 잡아주면 지탱!"
-  },
-  {
-    "en": "temporary",
-    "ko": "일시적인",
-    "example": "This is a temporary solution.",
-    "mnemonic": "tempor(시간) + ary. 시간이 정해진 일시적!"
-  },
-  {
-    "en": "territory",
-    "ko": "영토",
-    "example": "The country expanded its territory.",
-    "mnemonic": "terri(땅) + tory. 땅의 범위가 영토!"
-  },
-  {
-    "en": "theory",
-    "ko": "이론",
-    "example": "Einstein developed the theory of relativity.",
-    "mnemonic": "'이론(theory)'은 생각을 체계화한 것."
-  },
-  {
-    "en": "threaten",
-    "ko": "위협하다",
-    "example": "Pollution threatens wildlife.",
-    "mnemonic": "threat(위협) + en. 위협을 가하다!"
-  },
-  {
-    "en": "transform",
-    "ko": "변환시키다",
-    "example": "Technology has transformed our lives.",
-    "mnemonic": "trans(넘어) + form(형태). 형태를 넘어 바꾸면 변환!"
+    "mnemonic": "re(다시) + lev(들다) + ant. 다시 들어올릴 만큼 관련 있는! irrelevant(무관한) = ir + relevant."
   }
 ]

@@ -1,0 +1,302 @@
+[
+  {
+    "en": "systematic",
+    "ko": "체계적인, 조직적인",
+    "example": "The researchers conducted a systematic review of all available studies.",
+    "mnemonic": "system(체계) + atic = 체계에 따른 → 체계적인. 그리스어 systema(조합)에서 유래"
+  },
+  {
+    "en": "attrition",
+    "ko": "마찰, 소모",
+    "example": "The company reduced staff through natural attrition rather than layoffs.",
+    "mnemonic": "at(~쪽으로) + trit(문지르다) + ion = 문질러 닳게 하다 → 소모. trite(진부한)와 같은 어근"
+  },
+  {
+    "en": "paradigm",
+    "ko": "패러다임, 전형",
+    "example": "The internet created a paradigm shift in how people communicate.",
+    "mnemonic": "para(옆에) + digm(보여주다) = 옆에서 보여주는 모범 → 전형. 그리스어 paradeigma(모범)에서 유래"
+  },
+  {
+    "en": "egalitarian",
+    "ko": "평등주의적인",
+    "example": "The school promotes an egalitarian environment where all students are treated equally.",
+    "mnemonic": "프랑스어 egal(평등한)에서 유래. egal(평등) + itarian = 평등을 추구하는. equal(동등한)과 같은 어근"
+  },
+  {
+    "en": "intercept",
+    "ko": "가로채다, 차단하다",
+    "example": "The spy intercepted a secret message from the enemy.",
+    "mnemonic": "inter(사이) + cept(잡다) = 사이에서 잡다 → 가로채다. accept(받아들이다), receive(받다)와 같은 어근"
+  },
+  {
+    "en": "plagiarism",
+    "ko": "표절",
+    "example": "Plagiarism is a serious offense in the academic world.",
+    "mnemonic": "라틴어 plagiarius(납치범)에서 유래. plagi(훔치다) + arism = 남의 것을 훔치는 행위 → 표절"
+  },
+  {
+    "en": "compelling",
+    "ko": "설득력 있는, 강렬한",
+    "example": "She made a compelling argument for changing the school policy.",
+    "mnemonic": "com(함께) + pel(몰다) + ling = 마음을 몰아세우는 → 설득력 있는. compel(강요하다), propel(추진하다)과 같은 어근"
+  },
+  {
+    "en": "commodify",
+    "ko": "상품화하다",
+    "example": "Critics argue that social media has commodified personal relationships.",
+    "mnemonic": "com(함께) + mod(측정, 편리) + ify(만들다) = commodity(상품) + fy → 상품으로 만들다"
+  },
+  {
+    "en": "illicit",
+    "ko": "불법적인, 부정한",
+    "example": "The police cracked down on the illicit trade of endangered species.",
+    "mnemonic": "'일리싯' → 'il(not)+licit(합법)' 합법이 아닌 = 불법적!"
+  },
+  {
+    "en": "adept",
+    "ko": "숙련된, 능숙한",
+    "example": "She is adept at solving complex mathematical problems.",
+    "mnemonic": "ad(~쪽으로) + ept(apt, 적합한) = 딱 맞는 → 숙련된. apt(적절한)와 같은 어근"
+  },
+  {
+    "en": "precarious",
+    "ko": "불안정한, 위태로운",
+    "example": "Many workers face a precarious employment situation.",
+    "mnemonic": "prec(기도) + arious = 기도해야 할 정도로 → 위태로운. pray(기도하다), precaution(예방)과 같은 어근"
+  },
+  {
+    "en": "sedentary",
+    "ko": "앉아서 하는, 정적인",
+    "example": "A sedentary lifestyle can lead to various health problems.",
+    "mnemonic": "sed(앉다) + ent + ary = 앉아있는 → 정적인. reside(거주하다), session(회의)과 같은 어근 sed/sid(앉다)"
+  },
+  {
+    "en": "repercussion",
+    "ko": "영향, 반향",
+    "example": "The decision could have serious repercussions for the entire industry.",
+    "mnemonic": "re(되돌아) + percuss(치다) + ion = 되돌아와 치는 것 → 반향, 영향. percussion(타악기)과 같은 어근"
+  },
+  {
+    "en": "largesse",
+    "ko": "후한 선물, 관대함",
+    "example": "The billionaire's largesse funded the construction of the new hospital.",
+    "mnemonic": "large(큰) + esse = 크게 베푸는 → 관대함. 프랑스어 largesse에서 유래"
+  },
+  {
+    "en": "alleviate",
+    "ko": "완화하다, 경감하다",
+    "example": "This medicine will help alleviate your back pain.",
+    "mnemonic": "al(~쪽으로) + levi(가볍게) + ate = 가볍게 해주다 → 완화하다. levity(경솔), elevator(엘리베이터)와 같은 어근"
+  },
+  {
+    "en": "extravagant",
+    "ko": "사치스러운, 과도한",
+    "example": "They threw an extravagant party with fireworks and live music.",
+    "mnemonic": "'익스트래버건트' → 'extra(초과)+vag(방황)+ant' 돈이 넘쳐 흘러넘치는 사치!"
+  },
+  {
+    "en": "zenith",
+    "ko": "정점, 절정",
+    "example": "The Roman Empire reached its zenith in the second century AD.",
+    "mnemonic": "아랍어 samt(방향) + al-ras(머리 위) → 머리 위의 방향 → 천정, 정점. nadir(최저점)의 반대"
+  },
+  {
+    "en": "stalemate",
+    "ko": "교착 상태",
+    "example": "Negotiations between the two sides reached a stalemate.",
+    "mnemonic": "stale(정지된) + mate(체크메이트) = 체스에서 움직일 수 없는 상태 → 교착 상태"
+  },
+  {
+    "en": "omnipotent",
+    "ko": "전능한",
+    "example": "In many religions, God is described as omnipotent.",
+    "mnemonic": "omni(모든) + pot(힘) + ent = 모든 힘을 가진 → 전능한. omnivore(잡식성), potent(강력한)와 같은 어근"
+  },
+  {
+    "en": "preemptive",
+    "ko": "선제의, 선점하는",
+    "example": "The country launched a preemptive strike against the enemy base.",
+    "mnemonic": "pre(미리) + empt(사다, 잡다) + ive = 미리 잡는 → 선제의. exempt(면제하다)와 같은 어근"
+  },
+  {
+    "en": "voracious",
+    "ko": "탐욕스러운, 게걸스러운",
+    "example": "He is a voracious reader who devours several books a week.",
+    "mnemonic": "vor(삼키다) + acious = 삼키는 → 탐욕스러운. devour(먹어치우다), carnivore(육식동물)와 같은 어근"
+  },
+  {
+    "en": "bequeath",
+    "ko": "유산으로 남기다",
+    "example": "She bequeathed her entire art collection to the museum.",
+    "mnemonic": "be(강조) + queath(말하다) = 유언으로 말하여 남기다 → 유산으로 남기다. 고대 영어 cwethan(말하다)에서 유래"
+  },
+  {
+    "en": "debacle",
+    "ko": "대실패, 대패",
+    "example": "The military operation turned into a complete debacle.",
+    "mnemonic": "프랑스어 débâcler(빗장을 풀다)에서 유래. de(풀다) + bacle(빗장) = 빗장이 풀려 무너지는 → 대실패"
+  },
+  {
+    "en": "repudiate",
+    "ko": "거부하다, 부인하다",
+    "example": "The government repudiated the accusations of human rights violations.",
+    "mnemonic": "re(반대) + pudi(부끄러운) + ate = 부끄러워 반대하다 → 거부하다. 라틴어 repudiare(이혼하다, 거절하다)에서 유래"
+  },
+  {
+    "en": "marital",
+    "ko": "결혼의, 부부의",
+    "example": "Marital problems can have a negative impact on children.",
+    "mnemonic": "marit(남편) + al = 남편의, 결혼의. 라틴어 maritus(남편)에서 유래. marriage(결혼)와 같은 어근"
+  },
+  {
+    "en": "meritocracy",
+    "ko": "실력주의, 능력주의 사회",
+    "example": "In a meritocracy, promotions are based on ability rather than connections.",
+    "mnemonic": "merit(실력, 공적) + cracy(통치) = 실력으로 통치하는 → 능력주의. democracy(민주주의)와 같은 어근 cracy"
+  },
+  {
+    "en": "havoc",
+    "ko": "대혼란, 파괴",
+    "example": "The storm wreaked havoc on the coastal towns.",
+    "mnemonic": "'해벅' → '해(해)+벅(벅찬)' 감당하기 벅찬 피해 = 대혼란!"
+  },
+  {
+    "en": "subordinate",
+    "ko": "종속적인, 부하",
+    "example": "A manager must learn to communicate effectively with subordinates.",
+    "mnemonic": "sub(아래) + ordin(순서) + ate = 순서상 아래의 → 종속적인. order(순서), ordinary(보통의)와 같은 어근"
+  },
+  {
+    "en": "latent",
+    "ko": "잠재적인, 숨어 있는",
+    "example": "The virus can remain latent in the body for years.",
+    "mnemonic": "lat(숨다) + ent = 숨어있는 → 잠재적인. lateral(옆의)과 같은 어근에서 파생"
+  },
+  {
+    "en": "liability",
+    "ko": "책임, 부채",
+    "example": "The company has significant liabilities that need to be addressed.",
+    "mnemonic": "li(묶다) + ability(능력) = 묶여있는 의무 → 책임, 부채. reliable(신뢰할 수 있는)과 같은 어근"
+  },
+  {
+    "en": "waive",
+    "ko": "포기하다, 적용을 면제하다",
+    "example": "The university agreed to waive the application fee for low-income students.",
+    "mnemonic": "고대 프랑스어 gaiver(포기하다)에서 유래. waive = 손을 흔들어 보내다 → 포기하다, 면제하다"
+  },
+  {
+    "en": "retaliate",
+    "ko": "보복하다, 앙갚음하다",
+    "example": "The country threatened to retaliate if attacked.",
+    "mnemonic": "re(다시) + tali(같은 것) + ate = 같은 것으로 되갚다 → 보복하다. 라틴어 talis(그런)에서 유래"
+  },
+  {
+    "en": "staunch",
+    "ko": "확고한, 충실한",
+    "example": "She is a staunch defender of free speech and human rights.",
+    "mnemonic": "라틴어 stancare(멈추다)에서 유래. stanch/staunch = 멈추지 않는 → 확고한. stand(서다)와 같은 어근 계열"
+  },
+  {
+    "en": "hierarchy",
+    "ko": "계층, 위계질서",
+    "example": "In the corporate hierarchy, she holds a senior position.",
+    "mnemonic": "'하이어라키' → 'hier(신성한)+archy(지배)' 신성한 순서의 계층!"
+  },
+  {
+    "en": "accolade",
+    "ko": "찬사, 표창",
+    "example": "The film received accolades from critics around the world.",
+    "mnemonic": "라틴어 ad(~에) + collum(목) = 목을 껴안다 → 기사 서임식의 포옹 → 찬사, 표창"
+  },
+  {
+    "en": "attain",
+    "ko": "달성하다, 이르다",
+    "example": "With hard work, you can attain your goals.",
+    "mnemonic": "at(~쪽으로) + tain(잡다, 유지하다) = 잡아서 이루다 → 달성하다. contain(포함하다), maintain(유지하다)과 같은 어근"
+  },
+  {
+    "en": "surmount",
+    "ko": "극복하다, 넘다",
+    "example": "With determination, any obstacle can be surmounted.",
+    "mnemonic": "sur(위로) + mount(산) = 산 위로 올라가다 → 극복하다. mount(오르다), paramount(최고의)와 같은 어근"
+  },
+  {
+    "en": "substantive",
+    "ko": "실질적인, 중요한",
+    "example": "The talks failed to produce any substantive agreement.",
+    "mnemonic": "sub(아래) + stant(서다) + ive = 아래에 든든히 선 → 실질적인. substance(물질), substantial(상당한)과 같은 어근"
+  },
+  {
+    "en": "inflict",
+    "ko": "가하다, 입히다",
+    "example": "The hurricane inflicted severe damage on the coastal towns.",
+    "mnemonic": "in(안으로) + flict(치다) = 안으로 때리다 → 가하다. conflict(충돌), afflict(괴롭히다)와 같은 어근"
+  },
+  {
+    "en": "erroneous",
+    "ko": "잘못된, 틀린",
+    "example": "The report was based on erroneous data and had to be corrected.",
+    "mnemonic": "err(방황하다, 틀리다) + oneous = 길을 잃은 → 잘못된. error(오류), erratic(불규칙한)과 같은 어근"
+  },
+  {
+    "en": "elicit",
+    "ko": "이끌어 내다, 유도하다",
+    "example": "The comedian's jokes elicited laughter from the audience.",
+    "mnemonic": "e(밖으로) + licit(유인하다) = 밖으로 유인하다 → 이끌어 내다. 라틴어 lacere(유혹하다)에서 유래. illicit(불법의)와 구별"
+  },
+  {
+    "en": "foolproof",
+    "ko": "실패할 수 없는, 확실한",
+    "example": "There is no foolproof method for predicting earthquakes.",
+    "mnemonic": "'풀프루프' → 'fool(바보)+proof(방지)' 바보도 못 틀리는 확실한!"
+  },
+  {
+    "en": "totalitarian",
+    "ko": "전체주의의",
+    "example": "The totalitarian regime controlled every aspect of citizens' lives.",
+    "mnemonic": "total(전체) + itarian = 전체를 지배하는 → 전체주의의. total(전체)에서 파생"
+  },
+  {
+    "en": "solidarity",
+    "ko": "연대, 결속",
+    "example": "Workers showed solidarity by going on strike together.",
+    "mnemonic": "solid(단단한) + arity = 단단히 뭉침 → 연대. solid(단단한), consolidate(통합하다)와 같은 어근"
+  },
+  {
+    "en": "wary",
+    "ko": "경계하는, 조심하는",
+    "example": "Consumers should be wary of deals that seem too good to be true.",
+    "mnemonic": "고대 영어 wær(주의 깊은)에서 유래. war(경계) + y = 경계하는. aware(알고 있는), beware(조심하다)와 같은 어근"
+  },
+  {
+    "en": "conspicuous",
+    "ko": "눈에 띄는, 두드러진",
+    "example": "His absence from the meeting was conspicuous.",
+    "mnemonic": "con(완전히) + spic(보다) + uous = 완전히 보이는 → 눈에 띄는. spectacle(광경), inspect(검사하다)와 같은 어근"
+  },
+  {
+    "en": "debilitate",
+    "ko": "쇠약하게 하다",
+    "example": "The long illness debilitated him both physically and mentally.",
+    "mnemonic": "de(아래로) + bilit(힘) + ate = 힘을 떨어뜨리다 → 쇠약하게 하다. ability(능력)와 같은 어근 bil(힘)"
+  },
+  {
+    "en": "exponential",
+    "ko": "기하급수적인",
+    "example": "The company experienced exponential growth in its first year.",
+    "mnemonic": "'엑스포넨셜' → 'exponent(지수)+ial' 지수처럼 급격히 증가하는!"
+  },
+  {
+    "en": "assertion",
+    "ko": "주장, 단언",
+    "example": "His assertion that the project would succeed proved correct.",
+    "mnemonic": "as(~쪽으로) + sert(결합하다, 놓다) + ion = 확고히 놓다 → 주장, 단언. insert(삽입), desert(버리다)와 같은 어근"
+  },
+  {
+    "en": "cater",
+    "ko": "음식을 공급하다, 충족시키다",
+    "example": "This restaurant caters to vegetarian customers.",
+    "mnemonic": "고대 프랑스어 acater(사다)에서 유래. cat(사들이다) + er = 사서 공급하다 → 음식을 공급하다, 충족시키다"
+  }
+]

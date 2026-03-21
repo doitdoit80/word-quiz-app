@@ -328,5 +328,500 @@
       "중3",
       "심화"
     ]
+  },
+  {
+    "id": "high-1-01",
+    "name": "고1 필수 영단어 01",
+    "description": "고1 영단어 1~50번",
+    "fileName": "high-1-01.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-02",
+    "name": "고1 필수 영단어 02",
+    "description": "고1 영단어 51~100번",
+    "fileName": "high-1-02.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-03",
+    "name": "고1 필수 영단어 03",
+    "description": "고1 영단어 101~150번",
+    "fileName": "high-1-03.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-04",
+    "name": "고1 필수 영단어 04",
+    "description": "고1 영단어 151~200번",
+    "fileName": "high-1-04.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-05",
+    "name": "고1 필수 영단어 05",
+    "description": "고1 영단어 201~250번",
+    "fileName": "high-1-05.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-06",
+    "name": "고1 필수 영단어 06",
+    "description": "고1 영단어 251~300번",
+    "fileName": "high-1-06.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-07",
+    "name": "고1 필수 영단어 07",
+    "description": "고1 영단어 301~350번",
+    "fileName": "high-1-07.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-08",
+    "name": "고1 필수 영단어 08",
+    "description": "고1 영단어 351~400번",
+    "fileName": "high-1-08.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-09",
+    "name": "고1 필수 영단어 09",
+    "description": "고1 영단어 401~450번",
+    "fileName": "high-1-09.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-10",
+    "name": "고1 필수 영단어 10",
+    "description": "고1 영단어 451~500번",
+    "fileName": "high-1-10.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-11",
+    "name": "고1 필수 영단어 11",
+    "description": "고1 영단어 501~550번",
+    "fileName": "high-1-11.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-12",
+    "name": "고1 필수 영단어 12",
+    "description": "고1 영단어 551~600번",
+    "fileName": "high-1-12.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-13",
+    "name": "고1 필수 영단어 13",
+    "description": "고1 영단어 601~650번",
+    "fileName": "high-1-13.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-14",
+    "name": "고1 필수 영단어 14",
+    "description": "고1 영단어 651~700번",
+    "fileName": "high-1-14.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-1-15",
+    "name": "고1 필수 영단어 15",
+    "description": "고1 영단어 701~750번",
+    "fileName": "high-1-15.json",
+    "wordCount": 50,
+    "tags": [
+      "고1",
+      "고급 기초"
+    ]
+  },
+  {
+    "id": "high-2-01",
+    "name": "고2 필수 영단어 01",
+    "description": "고2 영단어 1~50번",
+    "fileName": "high-2-01.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-02",
+    "name": "고2 필수 영단어 02",
+    "description": "고2 영단어 51~100번",
+    "fileName": "high-2-02.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-03",
+    "name": "고2 필수 영단어 03",
+    "description": "고2 영단어 101~150번",
+    "fileName": "high-2-03.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-04",
+    "name": "고2 필수 영단어 04",
+    "description": "고2 영단어 151~200번",
+    "fileName": "high-2-04.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-05",
+    "name": "고2 필수 영단어 05",
+    "description": "고2 영단어 201~250번",
+    "fileName": "high-2-05.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-06",
+    "name": "고2 필수 영단어 06",
+    "description": "고2 영단어 251~300번",
+    "fileName": "high-2-06.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-07",
+    "name": "고2 필수 영단어 07",
+    "description": "고2 영단어 301~350번",
+    "fileName": "high-2-07.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-08",
+    "name": "고2 필수 영단어 08",
+    "description": "고2 영단어 351~400번",
+    "fileName": "high-2-08.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-09",
+    "name": "고2 필수 영단어 09",
+    "description": "고2 영단어 401~450번",
+    "fileName": "high-2-09.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-10",
+    "name": "고2 필수 영단어 10",
+    "description": "고2 영단어 451~500번",
+    "fileName": "high-2-10.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-11",
+    "name": "고2 필수 영단어 11",
+    "description": "고2 영단어 501~550번",
+    "fileName": "high-2-11.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-12",
+    "name": "고2 필수 영단어 12",
+    "description": "고2 영단어 551~600번",
+    "fileName": "high-2-12.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-13",
+    "name": "고2 필수 영단어 13",
+    "description": "고2 영단어 601~650번",
+    "fileName": "high-2-13.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-14",
+    "name": "고2 필수 영단어 14",
+    "description": "고2 영단어 651~700번",
+    "fileName": "high-2-14.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-2-15",
+    "name": "고2 필수 영단어 15",
+    "description": "고2 영단어 701~750번",
+    "fileName": "high-2-15.json",
+    "wordCount": 50,
+    "tags": [
+      "고2",
+      "수능"
+    ]
+  },
+  {
+    "id": "high-3-01",
+    "name": "고3 필수 영단어 01",
+    "description": "고3 영단어 1~50번",
+    "fileName": "high-3-01.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-02",
+    "name": "고3 필수 영단어 02",
+    "description": "고3 영단어 51~100번",
+    "fileName": "high-3-02.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-03",
+    "name": "고3 필수 영단어 03",
+    "description": "고3 영단어 101~150번",
+    "fileName": "high-3-03.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-04",
+    "name": "고3 필수 영단어 04",
+    "description": "고3 영단어 151~200번",
+    "fileName": "high-3-04.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-05",
+    "name": "고3 필수 영단어 05",
+    "description": "고3 영단어 201~250번",
+    "fileName": "high-3-05.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-06",
+    "name": "고3 필수 영단어 06",
+    "description": "고3 영단어 251~300번",
+    "fileName": "high-3-06.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-07",
+    "name": "고3 필수 영단어 07",
+    "description": "고3 영단어 301~350번",
+    "fileName": "high-3-07.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-08",
+    "name": "고3 필수 영단어 08",
+    "description": "고3 영단어 351~400번",
+    "fileName": "high-3-08.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-09",
+    "name": "고3 필수 영단어 09",
+    "description": "고3 영단어 401~450번",
+    "fileName": "high-3-09.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-10",
+    "name": "고3 필수 영단어 10",
+    "description": "고3 영단어 451~500번",
+    "fileName": "high-3-10.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-11",
+    "name": "고3 필수 영단어 11",
+    "description": "고3 영단어 501~550번",
+    "fileName": "high-3-11.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-12",
+    "name": "고3 필수 영단어 12",
+    "description": "고3 영단어 551~600번",
+    "fileName": "high-3-12.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-13",
+    "name": "고3 필수 영단어 13",
+    "description": "고3 영단어 601~650번",
+    "fileName": "high-3-13.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-14",
+    "name": "고3 필수 영단어 14",
+    "description": "고3 영단어 651~700번",
+    "fileName": "high-3-14.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
+  },
+  {
+    "id": "high-3-15",
+    "name": "고3 필수 영단어 15",
+    "description": "고3 영단어 701~750번",
+    "fileName": "high-3-15.json",
+    "wordCount": 50,
+    "tags": [
+      "고3",
+      "수능 고난도"
+    ]
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "en": "apple",
-    "ko": "사과",
-    "example": "I eat an apple every morning.",
-    "mnemonic": "'애플' 로고를 떠올리면 바로 사과!"
+    "en": "kid",
+    "ko": "아이, 어린이",
+    "example": "The kids are playing outside.",
+    "mnemonic": "고대 노르드어 kith(새끼 염소)에서 유래. 새끼 염소 → 어린아이로 뜻이 확장."
   },
   {
-    "en": "bag",
-    "ko": "가방, 백",
-    "example": "She put her books in the bag.",
-    "mnemonic": "'백'팩의 백이 바로 가방."
+    "en": "farm",
+    "ko": "농장, 농원",
+    "example": "My grandfather has a big farm.",
+    "mnemonic": "라틴어 firma(고정된 지불금)에서 유래. farmer = farm + er(사람) → 농부."
   },
   {
-    "en": "boy",
-    "ko": "소년, 남자아이",
-    "example": "The boy is playing in the park.",
-    "mnemonic": "'보이'밴드의 보이, 소년들의 그룹!"
+    "en": "newspaper",
+    "ko": "신문",
+    "example": "My dad reads the newspaper every morning.",
+    "mnemonic": "news(소식) + paper(종이). 소식이 담긴 종이!"
   },
   {
-    "en": "cat",
-    "ko": "고양이",
-    "example": "The cat is sleeping on the sofa.",
-    "mnemonic": "'캣'우먼은 고양이 여자!"
+    "en": "bed",
+    "ko": "침대",
+    "example": "I go to bed at 10 o'clock.",
+    "mnemonic": "고대 영어 bedd에서 유래. bedroom = bed + room → 침실."
   },
   {
-    "en": "dog",
-    "ko": "개",
-    "example": "I walk my dog every evening.",
-    "mnemonic": "'도그'는 우리 친구 강아지."
+    "en": "wear",
+    "ko": "입다",
+    "example": "She wears a uniform to school.",
+    "mnemonic": "고대 영어 werian(입다)에서 유래. underwear = under(아래) + wear(입다) → 속옷."
   },
   {
-    "en": "egg",
-    "ko": "달걀, 계란",
-    "example": "I had two eggs for breakfast.",
-    "mnemonic": "'에그'타르트 속 달걀 크림!"
+    "en": "understand",
+    "ko": "이해하다",
+    "example": "I understand what you mean.",
+    "mnemonic": "under(사이에) + stand(서다). 사물 사이에 서서 파악하면 이해!"
   },
   {
-    "en": "fish",
-    "ko": "물고기, 생선",
-    "example": "We caught three fish at the lake.",
-    "mnemonic": "'피시'방에서 물고기를 잡아요(낚시 게임)."
+    "en": "join",
+    "ko": "참가하다",
+    "example": "Can I join your team?",
+    "mnemonic": "라틴어 jungere(연결하다)에서 유래. joint(관절, 연결 부분)도 같은 어원!"
   },
   {
-    "en": "girl",
-    "ko": "소녀, 여자아이",
-    "example": "The girl is reading a book.",
-    "mnemonic": "'걸'그룹의 걸, 소녀들!"
+    "en": "box",
+    "ko": "상자",
+    "example": "Put the toys in the box.",
+    "mnemonic": "라틴어 buxus(회양목 상자)에서 유래. mailbox, lunchbox 등 합성어가 많은 기본 단어."
   },
   {
-    "en": "house",
-    "ko": "집",
-    "example": "My house has a big garden.",
-    "mnemonic": "'하우스'는 집 그 자체."
+    "en": "leave",
+    "ko": "떠나다",
+    "example": "I will leave at 5 o'clock.",
+    "mnemonic": "고대 영어 læfan(남기다)에서 유래. 무언가를 남기고 가는 것이 떠남."
   },
   {
-    "en": "juice",
-    "ko": "주스",
-    "example": "Would you like some orange juice?",
-    "mnemonic": "'주스'는 한국어로도 그대로!"
+    "en": "old",
+    "ko": "오래된",
+    "example": "This building is very old.",
+    "mnemonic": "고대 영어 eald에서 유래. elder(연장자) = old의 비교급에서 나온 말."
   },
   {
-    "en": "key",
-    "ko": "열쇠, 키",
-    "example": "I lost my key yesterday.",
-    "mnemonic": "'키'보드의 키, 자물쇠를 여는 열쇠."
+    "en": "fast",
+    "ko": "빠른",
+    "example": "The train is very fast.",
+    "mnemonic": "고대 영어 fæst(단단한)에서 유래. 원래 '단단히 고정된' → '빠른'. breakfast의 fast(금식)도 같은 어원."
   },
   {
-    "en": "lion",
-    "ko": "사자",
-    "example": "The lion is the king of animals.",
-    "mnemonic": "'라이온' 킹! 사자 왕."
+    "en": "try",
+    "ko": "시도하다",
+    "example": "Try your best.",
+    "mnemonic": "프랑스어 trier(골라내다)에서 유래. trial(시도, 재판)도 같은 어원!"
   },
   {
-    "en": "milk",
-    "ko": "우유",
-    "example": "I drink milk every day.",
-    "mnemonic": "'밀크'쉐이크에 들어가는 우유."
+    "en": "hope",
+    "ko": "희망",
+    "example": "I hope you feel better soon.",
+    "mnemonic": "고대 영어 hopian에서 유래. hopeful = hope + ful → 희망에 찬. hopeless의 반대!"
   },
   {
-    "en": "name",
-    "ko": "이름",
-    "example": "What is your name?",
-    "mnemonic": "'네임'태그에 적는 이름."
+    "en": "miss",
+    "ko": "그리워하다",
+    "example": "I miss my old friends.",
+    "mnemonic": "고대 영어 missan(빗나가다)에서 유래. 빗나가서 만나지 못하면 → 그리워하다."
   },
   {
-    "en": "orange",
-    "ko": "오렌지",
-    "example": "This orange is very sweet.",
-    "mnemonic": "'오렌지'는 한국어로도 같죠!"
+    "en": "remember",
+    "ko": "기억하다",
+    "example": "Please remember my name.",
+    "mnemonic": "re(다시) + member(구성원). 다시 마음의 일부로 떠올리면 기억!"
   },
   {
-    "en": "park",
-    "ko": "공원",
-    "example": "Let's go to the park.",
-    "mnemonic": "'파크'는 놀이공원의 파크!"
+    "en": "favorite",
+    "ko": "가장 좋아하는",
+    "example": "What is your favorite subject?",
+    "mnemonic": "라틴어 favor(호의)에서 유래. favor(호의) + ite → 호의를 가진, 가장 좋아하는."
   },
   {
-    "en": "rain",
-    "ko": "비",
-    "example": "It will rain tomorrow.",
-    "mnemonic": "'레인'보우(무지개)가 비 온 뒤에 뜨죠."
+    "en": "gift",
+    "ko": "선물",
+    "example": "Thank you for the gift.",
+    "mnemonic": "고대 영어 gift(주는 것)에서 유래. give(주다)와 같은 어근!"
   },
   {
-    "en": "snow",
-    "ko": "눈(날씨)",
-    "example": "Children love to play in the snow.",
-    "mnemonic": "'스노우'맨(눈사람)을 만드는 눈!"
+    "en": "sometimes",
+    "ko": "때때로",
+    "example": "I sometimes go to the park.",
+    "mnemonic": "some(일부) + times(시간). 일부 시간에만 → 때때로."
   },
   {
-    "en": "tree",
-    "ko": "나무",
-    "example": "There is a big tree in the garden.",
-    "mnemonic": "크리스마스 '트리'가 바로 나무."
+    "en": "mountain",
+    "ko": "산",
+    "example": "We climbed the mountain yesterday.",
+    "mnemonic": "라틴어 mons, montis(산)에서 유래. mount(산), fountain(분수)도 같은 뿌리!"
   },
   {
-    "en": "water",
-    "ko": "물",
-    "example": "Can I have a glass of water?",
-    "mnemonic": "'워터'파크에서 신나게 노는 물!"
+    "en": "number",
+    "ko": "숫자",
+    "example": "What is your phone number?",
+    "mnemonic": "라틴어 numerus(수)에서 유래. numerous(수많은)도 같은 어원!"
   },
   {
-    "en": "book",
-    "ko": "책, 도서",
-    "example": "She is reading a book in the library.",
-    "mnemonic": "'북'마크를 꽂는 곳이 책."
+    "en": "dark",
+    "ko": "어두운",
+    "example": "It gets dark early in winter.",
+    "mnemonic": "고대 영어 deorc에서 유래. darkness = dark + ness(상태) → 어둠."
   },
   {
-    "en": "chair",
-    "ko": "의자",
-    "example": "Please sit on the chair.",
-    "mnemonic": "'체어'맨은 의자에 앉은 회장님."
+    "en": "job",
+    "ko": "직업, 일",
+    "example": "What is your dream job?",
+    "mnemonic": "중세 영어 jobbe(한 덩어리 일)에서 유래. 해야 할 일 한 건이 직업으로 확장."
   },
   {
-    "en": "door",
-    "ko": "문",
-    "example": "Please close the door.",
-    "mnemonic": "'도어'벨을 누르면 문이 열려요."
+    "en": "tomorrow",
+    "ko": "내일",
+    "example": "See you tomorrow!",
+    "mnemonic": "to(다음) + morrow(아침). 다음 아침 = 내일!"
   },
   {
-    "en": "eye",
-    "ko": "눈(신체)",
-    "example": "She has beautiful blue eyes.",
-    "mnemonic": "'아이'라이너를 눈에 그려요."
+    "en": "desk",
+    "ko": "책상",
+    "example": "Put your books on the desk.",
+    "mnemonic": "라틴어 discus(원반, 탁자)에서 유래. disc(원반)와 같은 뿌리!"
   },
   {
-    "en": "food",
-    "ko": "음식",
-    "example": "Korean food is delicious.",
-    "mnemonic": "'푸드'코트에서 먹는 음식!"
+    "en": "evening",
+    "ko": "저녁",
+    "example": "I study in the evening.",
+    "mnemonic": "고대 영어 æfnung(해질녘)에서 유래. even(평평한)과 관련 — 해가 수평선에 닿는 시간."
   }
 ]

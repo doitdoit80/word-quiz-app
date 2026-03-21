@@ -1,7 +1,7 @@
 [
   {
     "en": "wavelength",
-    "ko": "(빛 소리 등의) 파장",
+    "ko": "(빛, 소리 등의) 파장",
     "example": "Different colors of light have different wavelengths.",
     "mnemonic": "Wave(파도) + length(길이). 파동이 한 번 진동할 때 이동하는 거리."
   },
@@ -296,4 +296,7 @@
   {
     "en": "belonging",
     "ko": "소지품",
-    "example": "Please take all
+    "example": "Please take all your personal belongings with you.",
+    "mnemonic": "Belong(~에 속하다) + ing. 나에게 속해있는 내 물건들."
+  }
+]

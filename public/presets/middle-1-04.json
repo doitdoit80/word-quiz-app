@@ -1,152 +1,152 @@
 [
   {
-    "en": "join",
-    "ko": "참가하다",
-    "example": "Can I join your team?",
-    "mnemonic": "'조인'하면 팀에 합류!"
+    "en": "time",
+    "ko": "시간",
+    "example": "What time is it now?",
+    "mnemonic": "고대 영어 tima에서 유래. timer, timetable처럼 시간 관련 합성어의 기본."
   },
   {
-    "en": "kitchen",
-    "ko": "부엌, 주방",
-    "example": "Mom is cooking in the kitchen.",
-    "mnemonic": "'키친'은 요리하는 공간, 부엌."
+    "en": "book",
+    "ko": "책, 도서",
+    "example": "She is reading a book in the library.",
+    "mnemonic": "고대 영어 boc(너도밤나무)에서 유래. 옛날 나무껍질에 글을 썼던 것에서!"
   },
   {
-    "en": "letter",
-    "ko": "편지",
-    "example": "I wrote a letter to my friend.",
-    "mnemonic": "'레터'는 마음을 담은 편지."
+    "en": "because",
+    "ko": "왜냐하면",
+    "example": "I stayed home because it was raining.",
+    "mnemonic": "by(~에 의해) + cause(원인). 원인에 의해 → 왜냐하면."
   },
   {
-    "en": "mouth",
-    "ko": "입",
-    "example": "Open your mouth wide.",
-    "mnemonic": "'마우스'워시로 입을 헹궈요."
+    "en": "safe",
+    "ko": "안전한",
+    "example": "Is it safe to swim here?",
+    "mnemonic": "라틴어 salvus(안전한)에서 유래. safety = safe + ty → 안전. save(구하다)도 같은 어근!"
   },
   {
-    "en": "number",
-    "ko": "숫자",
-    "example": "What is your phone number?",
-    "mnemonic": "'넘버'원! 1등 숫자!"
+    "en": "cat",
+    "ko": "고양이",
+    "example": "The cat is sleeping on the sofa.",
+    "mnemonic": "라틴어 cattus에서 유래. catalog(목록)의 cat과는 다른 어원!"
   },
   {
-    "en": "picture",
-    "ko": "그림",
-    "example": "She drew a picture of her house.",
-    "mnemonic": "'픽처'는 카메라로 찍은 사진이나 그림."
+    "en": "nice",
+    "ko": "좋은",
+    "example": "It's nice to meet you.",
+    "mnemonic": "라틴어 nescius(무지한)에서 유래. 원래 '어리석은'이었다가 '좋은'으로 뜻이 변화!"
   },
   {
-    "en": "read",
-    "ko": "읽다",
-    "example": "I read books every night.",
-    "mnemonic": "'리드'는 책을 읽는 것. 리딩!"
+    "en": "warm",
+    "ko": "따뜻한",
+    "example": "It's warm and sunny today.",
+    "mnemonic": "고대 영어 wearm에서 유래. warmth = warm + th → 따뜻함."
   },
   {
-    "en": "sleep",
-    "ko": "자다",
-    "example": "I need to sleep early tonight.",
-    "mnemonic": "'슬립'은 잠을 자는 것. 슬리핑!"
+    "en": "name",
+    "ko": "이름",
+    "example": "What is your name?",
+    "mnemonic": "고대 영어 nama에서 유래. 라틴어 nomen, 독일어 Name과 같은 뿌리."
   },
   {
-    "en": "teach",
-    "ko": "가르치다",
-    "example": "She teaches English at school.",
-    "mnemonic": "'티치'는 가르치다. 티처는 선생님!"
+    "en": "girl",
+    "ko": "소녀, 여자아이",
+    "example": "The girl is reading a book.",
+    "mnemonic": "중세 영어 girle(어린아이)에서 유래. boy의 반대말로 함께 기억."
   },
   {
-    "en": "under",
-    "ko": "~아래에",
-    "example": "The cat is under the table.",
-    "mnemonic": "'언더'웨어는 아래에 입는 옷."
+    "en": "heavy",
+    "ko": "무거운",
+    "example": "This bag is too heavy.",
+    "mnemonic": "고대 영어 hefig에서 유래. heave(들어올리다)와 같은 어원 → 들기 힘든 = 무거운."
   },
   {
-    "en": "voice",
-    "ko": "목소리",
-    "example": "She has a beautiful voice.",
-    "mnemonic": "'보이스'피싱의 보이스, 목소리."
+    "en": "tree",
+    "ko": "나무",
+    "example": "There is a big tree in the garden.",
+    "mnemonic": "고대 영어 treow(나무, 믿음)에서 유래. true(진실)와 같은 뿌리!"
   },
   {
-    "en": "watch",
-    "ko": "보다",
-    "example": "Let's watch a movie tonight.",
-    "mnemonic": "'워치'는 손목시계, 또는 지켜보다."
+    "en": "deep",
+    "ko": "깊은",
+    "example": "The ocean is very deep.",
+    "mnemonic": "고대 영어 deop에서 유래. depth = deep + th → 깊이. deepen = deep + en(되다)."
   },
   {
-    "en": "angry",
-    "ko": "화난",
-    "example": "Don't be angry with me.",
-    "mnemonic": "'앵그리'버드는 화난 새!"
+    "en": "lion",
+    "ko": "사자",
+    "example": "The lion is the king of animals.",
+    "mnemonic": "라틴어 leo(사자)에서 유래. Leo(사자자리)와 같은 어원!"
   },
   {
-    "en": "beach",
-    "ko": "해변, 바닷가",
-    "example": "We played at the beach.",
-    "mnemonic": "'비치'발리볼을 해변에서 해요."
+    "en": "every",
+    "ko": "모든",
+    "example": "I exercise every day.",
+    "mnemonic": "고대 영어 æfre(항상) + ælc(각각). everybody(모든 사람), everything(모든 것)의 기본!"
   },
   {
-    "en": "class",
-    "ko": "수업",
-    "example": "My favorite class is science.",
-    "mnemonic": "'클래스'는 교실에서 하는 수업."
+    "en": "quiet",
+    "ko": "조용한",
+    "example": "Please be quiet in the library.",
+    "mnemonic": "라틴어 quietus(쉬는, 평온한)에서 유래. quite(꽤)와 철자를 헷갈리지 마세요!"
   },
   {
-    "en": "dinner",
-    "ko": "저녁 식사, 저녁밥",
-    "example": "What's for dinner tonight?",
-    "mnemonic": "'디너'쇼를 보면서 저녁 식사!"
+    "en": "ground",
+    "ko": "땅",
+    "example": "Sit on the ground.",
+    "mnemonic": "고대 영어 grund(바닥)에서 유래. underground = under + ground → 지하."
   },
   {
-    "en": "enjoy",
-    "ko": "즐기다",
-    "example": "I enjoy playing soccer.",
-    "mnemonic": "en(안에) + joy(기쁨). 기쁨 안에 있으면 즐기는 것!"
+    "en": "snow",
+    "ko": "눈(날씨)",
+    "example": "Children love to play in the snow.",
+    "mnemonic": "고대 영어 snaw에서 유래. snowman, snowball 등 합성어를 많이 만드는 단어."
   },
   {
-    "en": "friend",
-    "ko": "친구",
-    "example": "He is my best friend.",
-    "mnemonic": "'프렌드'는 미드 제목으로도 유명하죠!"
+    "en": "pass",
+    "ko": "지나가다",
+    "example": "Can you pass me the salt?",
+    "mnemonic": "라틴어 passus(걸음)에서 유래. passage(통로), passenger(승객)도 같은 어근!"
   },
   {
-    "en": "great",
-    "ko": "훌륭한",
-    "example": "You did a great job!",
-    "mnemonic": "'그레이트'월은 만리장성, 큰 벽!"
+    "en": "door",
+    "ko": "문",
+    "example": "Please close the door.",
+    "mnemonic": "고대 영어 duru에서 유래. outdoor = out + door(밖의 문 너머)."
   },
   {
-    "en": "help",
-    "ko": "돕다",
-    "example": "Can you help me?",
-    "mnemonic": "'헬프'! 도와주세요!"
+    "en": "birthday",
+    "ko": "생일",
+    "example": "Happy birthday to you!",
+    "mnemonic": "birth(태어남) + day(날). 태어난 날이 생일!"
   },
   {
-    "en": "idea",
-    "ko": "생각",
-    "example": "That's a great idea!",
-    "mnemonic": "'아이디어'는 한국어로도 그대로!"
+    "en": "jump",
+    "ko": "뛰다",
+    "example": "The frog can jump very high.",
+    "mnemonic": "스칸디나비아어에서 유래한 의성어. 뛰어오르는 동작의 소리를 흉내 낸 것."
   },
   {
-    "en": "know",
-    "ko": "알다",
-    "example": "I know the answer.",
-    "mnemonic": "'노'는 발음이 같은 no와 헷갈리지만 알다!"
+    "en": "soft",
+    "ko": "부드러운",
+    "example": "The pillow is very soft.",
+    "mnemonic": "고대 영어 softe에서 유래. software = soft(유연한) + ware(물건). hard의 반대!"
   },
   {
-    "en": "learn",
-    "ko": "배우다",
-    "example": "I want to learn Korean.",
-    "mnemonic": "'러닝'(learning)은 배우는 것!"
+    "en": "hour",
+    "ko": "시간(한 시간)",
+    "example": "The movie is two hours long.",
+    "mnemonic": "라틴어 hora(시간)에서 유래. horoscope(별자리) = hora(시간) + scope(보다)!"
   },
   {
-    "en": "make",
-    "ko": "만들다",
-    "example": "Let's make a cake together.",
-    "mnemonic": "'메이크'업은 얼굴을 만드는 것!"
+    "en": "water",
+    "ko": "물",
+    "example": "Can I have a glass of water?",
+    "mnemonic": "고대 영어 wæter에서 유래. 독일어 Wasser와 같은 어원의 기본 단어."
   },
   {
-    "en": "need",
-    "ko": "필요하다",
-    "example": "I need your help.",
-    "mnemonic": "'니드'는 꼭 필요한 것."
+    "en": "question",
+    "ko": "질문",
+    "example": "Do you have any questions?",
+    "mnemonic": "라틴어 quaestio = quest(찾다) + ion(것). 답을 찾으려고 묻는 것이 질문!"
   }
 ]

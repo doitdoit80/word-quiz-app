@@ -1,0 +1,302 @@
+[
+  {
+    "en": "forgo",
+    "ko": "포기하다, 그만두다",
+    "example": "She decided to forgo dessert to maintain her diet.",
+    "mnemonic": "'포고' → 'for(앞에)+go(가다)' 앞으로 가기 위해 포기하다!"
+  },
+  {
+    "en": "dissent",
+    "ko": "반대 의견, 반대하다",
+    "example": "There was strong dissent among the committee members.",
+    "mnemonic": "dis(반대로) + sent(느끼다) = 반대로 느끼다 → 반대 의견. consent(동의), sense(감각)와 같은 어근 sent/sens"
+  },
+  {
+    "en": "rebuke",
+    "ko": "비난하다, 꾸짖다",
+    "example": "The teacher rebuked the student for cheating on the exam.",
+    "mnemonic": "re(다시) + buke(자르다, 베다) = 다시 베어내듯 → 비난하다. 고대 프랑스어 rebuchier(뒤로 몰다)에서 유래"
+  },
+  {
+    "en": "cordial",
+    "ko": "진심 어린, 다정한",
+    "example": "The host gave us a cordial welcome at the door.",
+    "mnemonic": "cord(심장) + ial = 심장에서 우러나오는 → 진심 어린. courage(용기), record(기록하다)와 같은 어근 cor/cord(심장)"
+  },
+  {
+    "en": "posterity",
+    "ko": "후대, 자손",
+    "example": "We must preserve the environment for posterity.",
+    "mnemonic": "poster(뒤의) + ity = 뒤에 오는 사람들 → 후대. posterior(뒤의)와 같은 어근"
+  },
+  {
+    "en": "bilateral",
+    "ko": "양자간의, 양측의",
+    "example": "The two nations signed a bilateral trade agreement.",
+    "mnemonic": "bi(둘) + later(옆) + al = 양쪽의 → 양자간의. unilateral(일방적)의 반대. bicycle(자전거)와 같은 접두사"
+  },
+  {
+    "en": "dubious",
+    "ko": "의심스러운, 수상한",
+    "example": "The claim seemed dubious and lacked supporting evidence.",
+    "mnemonic": "dub(둘, 의심) + ious = 둘 사이에서 흔들리는 → 의심스러운. doubt(의심), double(두 배)과 같은 어근 dub(둘)"
+  },
+  {
+    "en": "menace",
+    "ko": "위협, 위협하다",
+    "example": "Pollution is a serious menace to public health.",
+    "mnemonic": "라틴어 minari(위협하다)에서 유래. men(위협) + ace = 위협하는 것 → 위협. imminent(임박한), prominent(두드러진)과 같은 어근 min"
+  },
+  {
+    "en": "mediocre",
+    "ko": "평범한, 보통의",
+    "example": "The restaurant received mediocre reviews from food critics.",
+    "mnemonic": "medi(중간) + ocre(봉우리) = 산 중간 높이 → 평범한. medium(중간)과 같은 어근"
+  },
+  {
+    "en": "innate",
+    "ko": "타고난, 선천적인",
+    "example": "She has an innate talent for music that amazes everyone.",
+    "mnemonic": "in(안에) + nate(태어나다) = 안에서 태어난 → 타고난. native(원주민), nature(자연)과 같은 어근"
+  },
+  {
+    "en": "facile",
+    "ko": "쉬운, 피상적인",
+    "example": "His facile explanation oversimplified the complex problem.",
+    "mnemonic": "facil(쉬운) + e = 너무 쉬운 → 피상적인. facility(시설), facilitate(촉진하다)와 같은 어근"
+  },
+  {
+    "en": "intervene",
+    "ko": "개입하다, 중재하다",
+    "example": "The teacher had to intervene to stop the fight.",
+    "mnemonic": "inter(사이) + vene(오다) = 사이에 들어오다 → 개입하다. adventure(모험), convention(회의)과 같은 어근"
+  },
+  {
+    "en": "congenital",
+    "ko": "선천적인, 타고난",
+    "example": "The baby was born with a congenital heart defect.",
+    "mnemonic": "con(함께) + genit(태어나다) + al = 함께 태어난 → 선천적인. generate(생산하다), gene(유전자)와 같은 어근"
+  },
+  {
+    "en": "plurality",
+    "ko": "다수, 복수성",
+    "example": "A plurality of voters supported the new candidate.",
+    "mnemonic": "plur(다수의) + ality = 다수의 상태 → 다수. plural(복수의), plus(더하기)와 같은 어근"
+  },
+  {
+    "en": "incarcerate",
+    "ko": "투옥하다, 감금하다",
+    "example": "He was incarcerated for five years for his crimes.",
+    "mnemonic": "'인카서레이트' → 'in+carcer(감옥)+ate' 감옥에 넣다 = 투옥!"
+  },
+  {
+    "en": "breviary",
+    "ko": "요약, 개요",
+    "example": "The professor provided a breviary of the course content for review.",
+    "mnemonic": "brevi(짧은) + ary = 짧게 만든 것 → 요약. brief(짧은), brevity(간결함)와 같은 어근"
+  },
+  {
+    "en": "leverage",
+    "ko": "영향력, 지렛대 효과",
+    "example": "The company used its market position as leverage in negotiations.",
+    "mnemonic": "lever(지렛대) + age = 지렛대의 힘 → 영향력. elevate(높이다)와 같은 어근"
+  },
+  {
+    "en": "anecdote",
+    "ko": "일화, 짧은 이야기",
+    "example": "He shared a funny anecdote about his childhood.",
+    "mnemonic": "an(not) + ec(밖으로) + dote(주다) = 밖에 내주지 않는 이야기 → 비공식적 일화"
+  },
+  {
+    "en": "vicinity",
+    "ko": "부근, 인근",
+    "example": "There are several good restaurants in the vicinity of the hotel.",
+    "mnemonic": "vicin(이웃) + ity = 이웃의 → 부근. 라틴어 vicinus(이웃의)에서 유래. village(마을)와 같은 어근 계열"
+  },
+  {
+    "en": "traverse",
+    "ko": "가로지르다, 횡단하다",
+    "example": "The explorers traversed the entire jungle on foot.",
+    "mnemonic": "tra(건너) + verse(돌다) = 건너서 돌다 → 가로지르다. reverse(뒤집다), diverse(다양한)와 같은 어근"
+  },
+  {
+    "en": "somber",
+    "ko": "침울한, 어두운",
+    "example": "The mood at the funeral was understandably somber.",
+    "mnemonic": "라틴어 sub(아래) + umbra(그림자) = 그림자 아래의 → 어둡고 침울한. umbrella(우산)와 같은 어근"
+  },
+  {
+    "en": "exile",
+    "ko": "망명, 추방하다",
+    "example": "The political dissident lived in exile for twenty years.",
+    "mnemonic": "'엑사일' → 'ex(밖)+ile' 밖으로 쫓겨난 = 망명!"
+  },
+  {
+    "en": "interrogate",
+    "ko": "심문하다, 질문하다",
+    "example": "The detective interrogated the suspect for several hours.",
+    "mnemonic": "inter(사이) + rog(묻다) + ate = 사이사이 묻다 → 심문하다. arrogant(오만한)와 같은 어근"
+  },
+  {
+    "en": "amalgamate",
+    "ko": "합병하다, 혼합하다",
+    "example": "The two companies amalgamated to form a larger corporation.",
+    "mnemonic": "a(~에) + malg(섞다) + amate = 섞어 합치다 → 합병하다. 아랍어 al-malgham(연고)에서 유래"
+  },
+  {
+    "en": "circulate",
+    "ko": "순환하다, 유포하다",
+    "example": "Blood circulates through the body via the heart.",
+    "mnemonic": "circul(원) + ate = 원형으로 돌다 → 순환하다. circle(원), circuit(회로)와 같은 어근"
+  },
+  {
+    "en": "intangible",
+    "ko": "만질 수 없는, 무형의",
+    "example": "Trust and loyalty are intangible but extremely valuable assets.",
+    "mnemonic": "in(not) + tang(만지다) + ible = 만질 수 없는 → 무형의. tangible(유형의)의 반대"
+  },
+  {
+    "en": "copious",
+    "ko": "풍부한, 다량의",
+    "example": "She took copious notes during every lecture.",
+    "mnemonic": "라틴어 copia(풍부)에서 유래. cop(풍부) + ious = 풍부한. copy(복사, 원래 '풍부함'의 뜻)와 같은 어원"
+  },
+  {
+    "en": "chronological",
+    "ko": "연대순의, 시간순의",
+    "example": "The events are presented in chronological order.",
+    "mnemonic": "chrono(시간) + log(기록) + ical = 시간 기록 순서의 → 연대순의. chronicle(연대기)와 같은 어근"
+  },
+  {
+    "en": "discern",
+    "ko": "분별하다, 식별하다",
+    "example": "It was difficult to discern the truth from the lies.",
+    "mnemonic": "dis(분리) + cern(구별하다, 체로 거르다) = 분리해서 구별하다 → 분별하다. concern(관련되다), certain(확실한)과 같은 어근"
+  },
+  {
+    "en": "stoic",
+    "ko": "금욕적인, 감정을 억제하는",
+    "example": "He remained stoic throughout the difficult ordeal.",
+    "mnemonic": "고대 그리스 철학파 Stoics(스토아학파)에서 유래. 감정을 다스리며 평정을 유지하는 → 금욕적인"
+  },
+  {
+    "en": "proximity",
+    "ko": "근접, 가까움",
+    "example": "The house's proximity to the school makes it very convenient.",
+    "mnemonic": "proxim(가까운) + ity = 가까운 상태 → 근접. approximate(대략적인)와 같은 어근"
+  },
+  {
+    "en": "paraphrase",
+    "ko": "의역하다, 바꿔 말하다",
+    "example": "Could you paraphrase what the author is saying in simpler words?",
+    "mnemonic": "para(옆에) + phrase(말) = 옆에 다른 말로 → 바꿔 말하다. paragraph(단락)과 같은 접두사"
+  },
+  {
+    "en": "concede",
+    "ko": "인정하다, 양보하다",
+    "example": "He conceded that his opponent had made a valid point.",
+    "mnemonic": "con(완전히) + cede(물러나다, 가다) = 물러나다 → 양보하다. precede(선행하다), proceed(진행하다)와 같은 어근"
+  },
+  {
+    "en": "viable",
+    "ko": "실행 가능한, 생존 가능한",
+    "example": "Solar energy is a viable alternative to fossil fuels.",
+    "mnemonic": "vi(살다) + able = 살 수 있는 → 생존 가능한. vital(필수적인), survive(생존하다)와 같은 어근"
+  },
+  {
+    "en": "remorse",
+    "ko": "후회, 자책",
+    "example": "She felt deep remorse for the hurtful things she had said.",
+    "mnemonic": "re(다시) + morse(물다) = 다시 물어뜯다 → 양심이 자신을 물어뜯는 후회. 라틴어 mordere(물다)에서 유래"
+  },
+  {
+    "en": "apprehend",
+    "ko": "체포하다, 이해하다",
+    "example": "The police managed to apprehend the suspect within hours.",
+    "mnemonic": "ap(~쪽으로) + prehend(잡다) = 잡다 → 체포하다/이해하다. comprehend(이해하다)와 같은 어근"
+  },
+  {
+    "en": "prevalent",
+    "ko": "널리 퍼진, 유행하는",
+    "example": "Cyberbullying has become prevalent among teenagers.",
+    "mnemonic": "pre(앞에) + val(강한) + ent = 강하게 앞서있는 → 널리 퍼진. prevail(우세하다)과 같은 어근"
+  },
+  {
+    "en": "recourse",
+    "ko": "의지, 의존",
+    "example": "Without legal recourse, the victims had no way to seek justice.",
+    "mnemonic": "re(다시) + course(달리다) = 다시 달려가다 → 의지하다. course(과정), occur(발생하다)와 같은 어근"
+  },
+  {
+    "en": "constrain",
+    "ko": "제약하다, 억제하다",
+    "example": "Budget limitations constrained the scope of the project.",
+    "mnemonic": "con(함께) + strain(조이다) = 꽉 조이다 → 제약하다. strict(엄격한), restrict(제한하다)와 같은 어근 string/strain"
+  },
+  {
+    "en": "fortify",
+    "ko": "강화하다, 요새화하다",
+    "example": "They fortified the castle walls against potential attacks.",
+    "mnemonic": "'포티파이' → 'fort(요새)+ify(만들다)' 요새로 만들다 = 강화!"
+  },
+  {
+    "en": "recalcitrant",
+    "ko": "반항적인, 고집센",
+    "example": "The recalcitrant employee refused to follow the new dress code.",
+    "mnemonic": "re(다시) + calcitrant(발로 차는) = 다시 발로 차는 → 반항적인. 라틴어 calcitrare(발로 차다)에서 유래"
+  },
+  {
+    "en": "glaring",
+    "ko": "눈부신, 명백한",
+    "example": "There was a glaring error in the financial report.",
+    "mnemonic": "'글레어링' → 'glare(섬광)+ing' 눈이 부실 만큼 명백한!"
+  },
+  {
+    "en": "preclusion",
+    "ko": "배제, 방지",
+    "example": "The preclusion of certain evidence weakened the prosecution's case.",
+    "mnemonic": "pre(미리) + clus(닫다) + ion = 미리 닫아버리다 → 배제. include(포함하다), exclude(배제하다)와 같은 어근"
+  },
+  {
+    "en": "counterpart",
+    "ko": "상대방, 대응 관계에 있는 것",
+    "example": "The Korean minister met with his Japanese counterpart.",
+    "mnemonic": "counter(맞은편) + part(부분) = 맞은편에 대응하는 부분 → 상대방"
+  },
+  {
+    "en": "fiasco",
+    "ko": "대실패, 대참사",
+    "example": "The product launch was a complete fiasco due to technical problems.",
+    "mnemonic": "이탈리아어 fiasco(병)에서 유래. far fiasco(병을 만들다) = 유리 불기에 실패하다 → 대실패"
+  },
+  {
+    "en": "gloomy",
+    "ko": "우울한, 침울한",
+    "example": "The gloomy weather made everyone feel tired and sad.",
+    "mnemonic": "'글루미' → '글(gloom)+루미' 어둡고 루(루저)한 느낌 = 우울!"
+  },
+  {
+    "en": "myriad",
+    "ko": "무수한, 다수",
+    "example": "There are myriad reasons why students choose to study abroad.",
+    "mnemonic": "그리스어 myrioi(만, 10000)에서 유래. myriad = 만(萬)처럼 많은 → 무수한"
+  },
+  {
+    "en": "conducive",
+    "ko": "도움이 되는, 촉진하는",
+    "example": "A quiet environment is conducive to studying effectively.",
+    "mnemonic": "con(함께) + duc(이끌다) + ive = 이끌어주는 → 도움이 되는. conduct(인도하다), produce(생산하다)와 같은 어근"
+  },
+  {
+    "en": "terminate",
+    "ko": "종료하다, 끝내다",
+    "example": "The company decided to terminate the employee's contract.",
+    "mnemonic": "termin(끝) + ate = 끝내다 → 종료하다. terminal(터미널, 말기의), determine(결정하다)와 같은 어근"
+  },
+  {
+    "en": "insinuate",
+    "ko": "넌지시 비추다, 암시하다",
+    "example": "Are you insinuating that I was involved in the theft?",
+    "mnemonic": "in(안으로) + sinu(구부러지다) + ate = 구불구불 안으로 들어가다 → 넌지시 비추다. sinuous(구불구불한)와 같은 어근"
+  }
+]

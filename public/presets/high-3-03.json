@@ -1,0 +1,302 @@
+[
+  {
+    "en": "incantation",
+    "ko": "주문, 주술",
+    "example": "The witch muttered an incantation over the bubbling cauldron.",
+    "mnemonic": "in(안에) + cant(노래하다, 라틴어 cantare) + ation = 마법의 노래 → 주문. cant(노래): chant, recant, canticle"
+  },
+  {
+    "en": "bellicose",
+    "ko": "호전적인, 전투적인",
+    "example": "The bellicose rhetoric between the nations heightened fears of war.",
+    "mnemonic": "belli(전쟁, 라틴어 bellum) + cose = 전쟁을 좋아하는 → 호전적인. bell(전쟁): belligerent, rebel, antebellum"
+  },
+  {
+    "en": "deterioration",
+    "ko": "악화, 저하",
+    "example": "The deterioration of air quality in the city has alarmed health experts.",
+    "mnemonic": "deterior(더 나쁜, 라틴어) + ation = 더 나빠지는 것 → 악화. deteriorate(악화하다)의 명사형"
+  },
+  {
+    "en": "abject",
+    "ko": "비참한, 비굴한",
+    "example": "Millions of people live in abject poverty around the world.",
+    "mnemonic": "ab(아래로) + ject(던지다) = 아래로 던져진 → 비참한. ject(던지다): reject, inject, project, eject"
+  },
+  {
+    "en": "encomium",
+    "ko": "찬사, 칭송",
+    "example": "The retiring professor received encomiums from colleagues around the world.",
+    "mnemonic": "en(안에) + com(축제, 그리스어 komos) + ium = 축제에서의 칭송 → 찬사"
+  },
+  {
+    "en": "compendium",
+    "ko": "개요, 요약집",
+    "example": "The professor compiled a compendium of essential research papers.",
+    "mnemonic": "com(함께) + pend(달다, 무게 재다) + ium = 함께 달아 모은 것 → 요약집. pend(달다): pendant, depend, suspend"
+  },
+  {
+    "en": "burgeon",
+    "ko": "급성장하다, 싹트다",
+    "example": "The tech industry has burgeoned in the last decade.",
+    "mnemonic": "고대 프랑스어 borjon(싹, 봉오리)에서 유래. 싹이 트다 → 급성장하다"
+  },
+  {
+    "en": "morbid",
+    "ko": "병적인, 불건전한",
+    "example": "He had a morbid fascination with horror movies and ghost stories.",
+    "mnemonic": "morb(병, 라틴어 morbus) + id = 병의 → 병적인. morb(병): morbidity, comorbidity"
+  },
+  {
+    "en": "libertarian",
+    "ko": "자유지상주의의",
+    "example": "Libertarian philosophy advocates for minimal government intervention.",
+    "mnemonic": "libert(자유, 라틴어 libertas) + arian = 자유를 최우선시하는. liber(자유): liberty, liberal, liberate"
+  },
+  {
+    "en": "tirade",
+    "ko": "장광설, 격렬한 비난",
+    "example": "The customer launched into a tirade about the poor service at the restaurant.",
+    "mnemonic": "이탈리아어 tirata(사격, 연발), tirare(당기다)에서 유래. 연발 사격처럼 퍼붓는 → 장광설"
+  },
+  {
+    "en": "platonic",
+    "ko": "정신적인, 관념적인",
+    "example": "Their relationship remained purely platonic throughout the years.",
+    "mnemonic": "Plato(플라톤)에서 유래. 플라톤의 이상적 사랑처럼 → 정신적인, 육체적이지 않은"
+  },
+  {
+    "en": "beleaguer",
+    "ko": "포위하다, 괴롭히다",
+    "example": "The beleaguered company faced lawsuits from multiple directions simultaneously.",
+    "mnemonic": "be(주위에) + leaguer(진영, 네덜란드어 leger=캠프) = 주위에 진을 치다 → 포위하다. leger(캠프): lager(맥주=군 저장소에서 유래)"
+  },
+  {
+    "en": "debunk",
+    "ko": "허위를 폭로하다, 반박하다",
+    "example": "The scientist debunked the myth that vaccines cause autism.",
+    "mnemonic": "de(제거) + bunk(허튼소리) = 허튼소리를 제거하다 → 폭로하다, 반박하다"
+  },
+  {
+    "en": "militate",
+    "ko": "(~에 불리하게) 작용하다",
+    "example": "Several factors militate against the success of the new policy.",
+    "mnemonic": "milit(군인, 라틴어 miles) + ate = 군인처럼 싸우다 → (against와 함께) 불리하게 작용하다. military(군사의)"
+  },
+  {
+    "en": "innuendo",
+    "ko": "암시, 빗대어 말하기",
+    "example": "The article was full of innuendo suggesting the politician was corrupt.",
+    "mnemonic": "라틴어 innuendo(고개를 끄덕이며), in(향해) + nuere(끄덕이다). 고개짓으로 암시하다 → 빗대어 말하기"
+  },
+  {
+    "en": "harbinger",
+    "ko": "전조, 선구자",
+    "example": "The robin is often considered a harbinger of spring.",
+    "mnemonic": "'하빈저' → 'harbor(항구)+inger' 항구에 먼저 도착하는 전조!"
+  },
+  {
+    "en": "tortuous",
+    "ko": "꾸불꾸불한, 복잡한",
+    "example": "The tortuous mountain road made the journey twice as long.",
+    "mnemonic": "tort(비틀다, 라틴어 torquere) + uous = 비틀린 → 꾸불꾸불한. tort(비틀다): torture, contort, distort, extort"
+  },
+  {
+    "en": "vernacular",
+    "ko": "토착어, 일상어",
+    "example": "The poet wrote in the local vernacular rather than in formal literary language.",
+    "mnemonic": "vernacul(집에서 태어난, 라틴어 verna=집에서 태어난 노예) + ar = 집에서 쓰는 말 → 토착어"
+  },
+  {
+    "en": "denizen",
+    "ko": "거주자, 서식 생물",
+    "example": "The deep-sea denizens have adapted to extreme pressure and darkness.",
+    "mnemonic": "프랑스어 deinz(안의, 라틴어 de intus=안에서) + en = 안에 사는 자 → 거주자"
+  },
+  {
+    "en": "astute",
+    "ko": "기민한, 빈틈없는",
+    "example": "The astute businessman spotted the investment opportunity before anyone else.",
+    "mnemonic": "라틴어 astutus(교활한, astus=기술에서). 기술이 뛰어난 → 기민한, 빈틈없는"
+  },
+  {
+    "en": "seminal",
+    "ko": "영향력 있는, 혁신적인",
+    "example": "Darwin's seminal work on evolution transformed the biological sciences.",
+    "mnemonic": "semin(씨앗, 라틴어 semen) + al = 씨앗이 되는 → 영향력 있는, 혁신적인. semin(씨앗): disseminate, seminary"
+  },
+  {
+    "en": "engross",
+    "ko": "몰두하게 하다, 열중시키다",
+    "example": "She was so engrossed in the novel that she forgot to eat dinner.",
+    "mnemonic": "en(안에) + gross(큰, 라틴어 grossus) = 크게 안에 빠져들다 → 몰두하게 하다"
+  },
+  {
+    "en": "scrupulous",
+    "ko": "양심적인, 꼼꼼한",
+    "example": "The researcher maintained scrupulous attention to detail throughout the study.",
+    "mnemonic": "scrupul(작은 돌, 라틴어 scrupulus) + ous = 신발 속 작은 돌처럼 마음에 걸리는 → 양심적인"
+  },
+  {
+    "en": "inviolable",
+    "ko": "신성불가침의, 침범할 수 없는",
+    "example": "The constitution declares certain human rights to be inviolable.",
+    "mnemonic": "in(아닌) + viol(침범하다) + able = 침범할 수 없는 → 신성불가침의. viol(침범): violate, violence"
+  },
+  {
+    "en": "reclusive",
+    "ko": "은둔적인, 세상을 피하는",
+    "example": "The reclusive author rarely gave interviews or made public appearances.",
+    "mnemonic": "re(뒤로) + clus(닫다, 라틴어 claudere) + ive = 뒤로 물러나 문을 닫는 → 은둔적인. recluse(은둔자)의 형용사형"
+  },
+  {
+    "en": "cerebral",
+    "ko": "지적인, 대뇌의",
+    "example": "The film appeals to cerebral viewers who enjoy complex narratives.",
+    "mnemonic": "cerebr(뇌, 라틴어 cerebrum) + al = 뇌의 → 지적인. cerebrum(대뇌)"
+  },
+  {
+    "en": "bureaucrat",
+    "ko": "관료, 관리",
+    "example": "The reform-minded bureaucrat pushed for modernization of government systems.",
+    "mnemonic": "bureau(사무실, 프랑스어) + crat(통치자) = 사무실에서 통치하는 사람 → 관료. crat(통치): democrat, aristocrat"
+  },
+  {
+    "en": "metamorphosis",
+    "ko": "변태, 변신",
+    "example": "The caterpillar undergoes a metamorphosis to become a butterfly.",
+    "mnemonic": "meta(변화) + morph(형태, 그리스어 morphe) + osis = 형태의 변화 → 변태, 변신. morph(형태): amorphous, morphology"
+  },
+  {
+    "en": "credulous",
+    "ko": "잘 믿는, 잘 속는",
+    "example": "The credulous tourist was easily deceived by the street scammer.",
+    "mnemonic": "cred(믿다, 라틴어 credere) + ulous = 너무 쉽게 믿는 → 잘 속는. cred(믿다): credit, credible, incredible, creed"
+  },
+  {
+    "en": "obtuse",
+    "ko": "둔한, 우둔한",
+    "example": "He was being deliberately obtuse, pretending not to understand.",
+    "mnemonic": "ob(향해) + tuse(두드리다) = 두들겨서 무뎌진 → 둔한. 둔각(obtuse angle)도 같은 단어"
+  },
+  {
+    "en": "gainsay",
+    "ko": "부인하다, 반박하다",
+    "example": "No one could gainsay the effectiveness of the new treatment.",
+    "mnemonic": "gain(반대, 고대 영어 gegn) + say(말하다) = 반대로 말하다 → 부인하다, 반박하다"
+  },
+  {
+    "en": "legerdemain",
+    "ko": "마술, 교묘한 속임수",
+    "example": "The magician performed incredible feats of legerdemain on stage.",
+    "mnemonic": "프랑스어 léger de main(손이 가벼운). 가벼운 손놀림 → 마술, 교묘한 속임수"
+  },
+  {
+    "en": "fusillade",
+    "ko": "일제 사격, 연발",
+    "example": "A fusillade of questions greeted the CEO at the press conference.",
+    "mnemonic": "프랑스어 fusiller(총살하다), fusil(총). 총을 일제히 쏘다 → 일제 사격"
+  },
+  {
+    "en": "exalt",
+    "ko": "높이다, 칭송하다",
+    "example": "The ceremony was designed to exalt the achievements of the award winners.",
+    "mnemonic": "ex(위로) + alt(높은, 라틴어 altus) = 높이 올리다 → 칭송하다. alt(높은): altitude, altar, exalted"
+  },
+  {
+    "en": "disparage",
+    "ko": "폄하하다, 깎아내리다",
+    "example": "He disparaged her achievements out of jealousy.",
+    "mnemonic": "dis(부정) + par(동등한, 라틴어 par) + age = 동등하지 않다고 하다 → 폄하하다. par(동등): pair, compare, parity"
+  },
+  {
+    "en": "reprisal",
+    "ko": "보복, 앙갚음",
+    "example": "The bombing was carried out in reprisal for the earlier attack.",
+    "mnemonic": "re(되돌려) + pris(잡다, 라틴어 prehendere) + al = 되잡아주다 → 보복. pris(잡다): prison, surprise, comprise"
+  },
+  {
+    "en": "imprimatur",
+    "ko": "인가, 공식 허가",
+    "example": "The project received the imprimatur of the board of directors.",
+    "mnemonic": "라틴어 imprimatur(인쇄하게 하라). im(안에) + prim(찍다) = 허가 도장을 찍다 → 공식 허가. print(인쇄)와 같은 어원"
+  },
+  {
+    "en": "dilapidated",
+    "ko": "허물어진, 황폐한",
+    "example": "The dilapidated building was scheduled for demolition next month.",
+    "mnemonic": "di(떨어져) + lapid(돌, 라틴어 lapis) + ated = 돌이 떨어져 나간 → 허물어진. lapid(돌): lapis lazuli, lapidary"
+  },
+  {
+    "en": "acumen",
+    "ko": "통찰력, 예리함",
+    "example": "Her business acumen helped the company grow rapidly.",
+    "mnemonic": "acu(날카로운, 라틴어 acuere) + men = 날카로운 정신 → 통찰력. acu(날카로운): acute, acupuncture(침술)"
+  },
+  {
+    "en": "ostentatious",
+    "ko": "과시하는, 허세부리는",
+    "example": "His ostentatious display of wealth made others uncomfortable.",
+    "mnemonic": "ostent(보여주다, 라틴어 ostendere) + atious = 과도하게 보여주는 → 과시하는"
+  },
+  {
+    "en": "apparatus",
+    "ko": "장치, 기구, 조직",
+    "example": "The scientific apparatus in the laboratory was state-of-the-art.",
+    "mnemonic": "ap(~을 향해) + par(준비하다, 라틴어 parare) + atus = 준비된 것 → 장치. par(준비): prepare, repair, separate"
+  },
+  {
+    "en": "subsume",
+    "ko": "포함시키다, 포섭하다",
+    "example": "The new department subsumed the functions of three smaller divisions.",
+    "mnemonic": "sub(아래에) + sume(취하다, 라틴어 sumere) = 아래에 취하다 → 포함시키다. sume(취하다): assume, consume, presume"
+  },
+  {
+    "en": "munificent",
+    "ko": "관대한, 후한",
+    "example": "The munificent donation funded an entire wing of the new hospital.",
+    "mnemonic": "muni(선물, 라틴어 munus) + fic(만들다) + ent = 선물을 만드는 → 관대한"
+  },
+  {
+    "en": "ebullient",
+    "ko": "열광적인, 넘치는",
+    "example": "The team was ebullient after winning the championship game.",
+    "mnemonic": "e(밖으로) + bull(끓다, 라틴어 bullire) + ient = 끓어 넘치는 → 열광적인. bull(끓다): boil, bulletin"
+  },
+  {
+    "en": "incriminate",
+    "ko": "유죄를 보여주다, 연루시키다",
+    "example": "The evidence found at the scene incriminated the prime suspect.",
+    "mnemonic": "in(안에) + crimin(범죄, 라틴어 crimen) + ate = 범죄 안에 넣다 → 유죄를 보여주다. crimin(범죄): crime, criminal, recrimination"
+  },
+  {
+    "en": "truculent",
+    "ko": "호전적인, 잔인한",
+    "example": "The truculent gang terrorized the neighborhood for months.",
+    "mnemonic": "truc(사나운, 라틴어 trux) + ulent = 사나운 → 호전적인, 잔인한"
+  },
+  {
+    "en": "commiserate",
+    "ko": "동정하다, 위로하다",
+    "example": "Friends gathered to commiserate with her after the loss of her pet.",
+    "mnemonic": "com(함께) + miser(불쌍한, 라틴어) + ate = 함께 불쌍해하다 → 동정하다. miser(불쌍한): miserable, misery"
+  },
+  {
+    "en": "warrant",
+    "ko": "영장, 정당화하다",
+    "example": "The situation warrants immediate action from the authorities.",
+    "mnemonic": "warrant(보증, 게르만어 *warand=보호하는 자). 보증하다 → 정당화하다"
+  },
+  {
+    "en": "malfeasance",
+    "ko": "비리, 위법 행위",
+    "example": "The mayor was removed from office for malfeasance.",
+    "mnemonic": "mal(나쁜, 라틴어 malus) + feas(하다, 라틴어 facere) + ance = 나쁜 짓을 함 → 비리. mal(나쁜): malice. fac(하다): feasible"
+  },
+  {
+    "en": "laud",
+    "ko": "칭찬하다, 찬양하다",
+    "example": "Critics lauded the director's bold artistic choices in the film.",
+    "mnemonic": "라틴어 laudare(칭찬하다), laus(칭찬). 칭찬하다 → 찬양하다. laud(칭찬): laudable, laudatory, applaud"
+  }
+]

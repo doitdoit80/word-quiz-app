@@ -1,0 +1,302 @@
+[
+  {
+    "en": "deprecate",
+    "ko": "반대하다, 깎아내리다",
+    "example": "She deprecated the idea of raising tuition fees again.",
+    "mnemonic": "de(아래로) + prec(기도하다, 가치) + ate = 가치를 아래로 내리다 → 반대하다. prec(기도, 가치): pray, precious, appreciate"
+  },
+  {
+    "en": "endemic",
+    "ko": "고유의, 풍토병의",
+    "example": "Corruption is endemic in many developing nations.",
+    "mnemonic": "'엔데믹' → 'en(안에)+dem(민중)+ic' 민중 안에 고유하게 있는!"
+  },
+  {
+    "en": "erudite",
+    "ko": "박식한, 학식 있는",
+    "example": "The erudite professor could speak on any topic with great depth.",
+    "mnemonic": "'에루다이트' → 'erud(가르치다)+ite' 많이 배워서 박식한!"
+  },
+  {
+    "en": "complicit",
+    "ko": "공모한, 연루된",
+    "example": "The investigation revealed that several officials were complicit in the fraud.",
+    "mnemonic": "com(함께) + plic(접다, 엮다) + it = 함께 엮인 → 공모한. plic(접다): complicate, implicit, explicit"
+  },
+  {
+    "en": "turpitude",
+    "ko": "사악함, 타락",
+    "example": "The official was dismissed for moral turpitude.",
+    "mnemonic": "turp(추한, 라틴어 turpis) + itude = 추함 → 사악함, 타락"
+  },
+  {
+    "en": "contravene",
+    "ko": "위반하다, 모순되다",
+    "example": "The company's actions contravene international trade agreements.",
+    "mnemonic": "contra(반대로) + vene(오다, 라틴어 venire) = 반대로 오다 → 위반하다. ven(오다): convention, intervene, prevent"
+  },
+  {
+    "en": "proscribe",
+    "ko": "금지하다, 추방하다",
+    "example": "The new law proscribes the use of certain chemicals in agriculture.",
+    "mnemonic": "pro(앞에) + scribe(쓰다) = 앞에 써 붙여 금지하다. scrib(쓰다): prescribe(처방), describe, inscribe"
+  },
+  {
+    "en": "nefarious",
+    "ko": "극악무도한, 사악한",
+    "example": "The criminal mastermind carried out nefarious schemes across the country.",
+    "mnemonic": "ne(아닌) + far(신성한 법, 라틴어 fas) + ious = 신성한 법을 어기는 → 극악무도한"
+  },
+  {
+    "en": "exorbitant",
+    "ko": "엄청난, 과도한",
+    "example": "The hotel charges exorbitant prices during the peak tourist season.",
+    "mnemonic": "ex(밖으로) + orbit(궤도) + ant = 궤도를 벗어난 → 과도한. orbit(궤도): 정상 범위를 벗어난"
+  },
+  {
+    "en": "monastic",
+    "ko": "수도원의, 금욕적인",
+    "example": "He led a monastic existence, devoted entirely to study and contemplation.",
+    "mnemonic": "monast(혼자, 그리스어 monazein=혼자 살다) + ic = 혼자 사는 → 수도원의. mono(혼자): monk, monastery, monologue"
+  },
+  {
+    "en": "portentous",
+    "ko": "전조의, 불길한",
+    "example": "The dark clouds on the horizon seemed portentous of an approaching storm.",
+    "mnemonic": "portent(전조, 라틴어 portentum) + ous = 전조의 → 불길한. por(앞으로)+tend(뻗다): 앞으로 뻗어 보여주는"
+  },
+  {
+    "en": "capitulate",
+    "ko": "항복하다, 굴복하다",
+    "example": "After a long siege, the fortress finally capitulated to the enemy.",
+    "mnemonic": "capit(머리, 라틴어 caput) + ulate = 머리를 숙이다 → 항복하다. capit(머리): capital, captain, decapitate(참수하다)"
+  },
+  {
+    "en": "punctilious",
+    "ko": "꼼꼼한, 세심한",
+    "example": "The punctilious accountant checked every figure twice before submitting.",
+    "mnemonic": "punct(점, 라틴어 punctum) + ilious = 점 하나까지 신경 쓰는 → 꼼꼼한. punct(점, 찌르다): punctual, punctuation"
+  },
+  {
+    "en": "approbation",
+    "ko": "승인, 칭찬",
+    "example": "The plan received the approbation of all committee members.",
+    "mnemonic": "ap(~쪽으로) + prob(좋은, 증명하다) + ation = 좋다고 증명하다 → 승인. prob(좋은): approve, probity, probable"
+  },
+  {
+    "en": "modicum",
+    "ko": "소량, 약간",
+    "example": "With a modicum of patience, you can master this difficult technique.",
+    "mnemonic": "mod(적당한, 라틴어 modicus) + icum = 적당한 양보다 적은 → 소량. mod(적당한): moderate, modest, modify"
+  },
+  {
+    "en": "beatific",
+    "ko": "행복에 겨운, 지복의",
+    "example": "A beatific smile spread across her face when she held her newborn baby.",
+    "mnemonic": "beat(축복하다, 라틴어 beatus=축복받은) + ific = 축복받은 → 행복에 겨운. beatitude(지복), beatify(시복하다)"
+  },
+  {
+    "en": "mediocrity",
+    "ko": "평범함, 범인",
+    "example": "The company refused to accept mediocrity and always strived for excellence.",
+    "mnemonic": "medio(중간, 라틴어 medius) + crity = 중간에 머무는 것 → 평범함. medi(중간): medium, mediate, mediocre"
+  },
+  {
+    "en": "probity",
+    "ko": "정직, 성실",
+    "example": "A judge must be a person of unquestionable probity and fairness.",
+    "mnemonic": "prob(좋은, 정직한, 라틴어 probus) + ity = 정직함. prob(좋은, 증명): prove, probe, probable, approve"
+  },
+  {
+    "en": "eminent",
+    "ko": "저명한, 탁월한",
+    "example": "The eminent scientist was awarded the Nobel Prize for her research.",
+    "mnemonic": "e(밖으로) + min(돌출하다, 라틴어 minere) + ent = 밖으로 돌출된 → 저명한. emin(돌출): prominent, preeminent, imminent"
+  },
+  {
+    "en": "demur",
+    "ko": "이의를 제기하다, 반대하다",
+    "example": "When asked to work overtime again, she politely demurred.",
+    "mnemonic": "de(떨어져) + mur(지체하다, 라틴어 morari) = 지체하며 반대하다 → 이의 제기. mor(지체): moratorium, demurrage"
+  },
+  {
+    "en": "moribund",
+    "ko": "빈사 상태의, 사양길의",
+    "example": "The moribund industry desperately needed government support to survive.",
+    "mnemonic": "mori(죽다, 라틴어 mors) + bund = 죽어가는 → 빈사 상태의. mort(죽음): mortal, mortuary, immortal"
+  },
+  {
+    "en": "cacophony",
+    "ko": "불협화음, 소음",
+    "example": "The cacophony of car horns made it impossible to concentrate.",
+    "mnemonic": "caco(나쁜, 그리스어 kakos) + phon(소리) + y = 나쁜 소리 → 불협화음. phon(소리): phone, symphony(함께 울리는 소리)"
+  },
+  {
+    "en": "hapless",
+    "ko": "불운한, 불행한",
+    "example": "The hapless tourist was pickpocketed on his very first day in the city.",
+    "mnemonic": "hap(운, 행운) + less(없는) = 운이 없는 → 불운한. hap(운): happy, happen, mishap, perhaps"
+  },
+  {
+    "en": "inordinate",
+    "ko": "지나친, 과도한",
+    "example": "She spent an inordinate amount of time worrying about trivial matters.",
+    "mnemonic": "in(아닌) + ordin(질서, 라틴어 ordo) + ate = 질서에서 벗어난 → 지나친. ordin(질서): order, ordinary, ordain"
+  },
+  {
+    "en": "puerile",
+    "ko": "유치한, 어린애 같은",
+    "example": "His puerile jokes were inappropriate for a professional setting.",
+    "mnemonic": "puer(소년, 라틴어) + ile = 소년 같은 → 유치한. puer(아이): puerile, puerperal(산후의)"
+  },
+  {
+    "en": "catholic",
+    "ko": "보편적인, 포괄적인",
+    "example": "She has catholic tastes in music, enjoying everything from jazz to hip-hop.",
+    "mnemonic": "그리스어 katholikos(보편적인). kata(전체적으로) + holos(전체) = 전체에 걸친 → 보편적인. 대문자 Catholic은 가톨릭교"
+  },
+  {
+    "en": "stolid",
+    "ko": "무감각한, 둔감한",
+    "example": "The stolid guard showed no emotion as the crowd protested around him.",
+    "mnemonic": "라틴어 stolidus(둔한, 어리석은). 감정이 둔한 → 무감각한"
+  },
+  {
+    "en": "doctrinaire",
+    "ko": "교조적인, 이론에만 치우친",
+    "example": "The doctrinaire approach ignored practical considerations entirely.",
+    "mnemonic": "doctrine(교리) + aire = 교리에 집착하는 → 교조적인. doc(가르치다): doctor, document, docile"
+  },
+  {
+    "en": "tendentious",
+    "ko": "편향된, 한쪽으로 치우친",
+    "example": "The tendentious report clearly favored one side of the argument.",
+    "mnemonic": "tend(향하다, 라틴어 tendere) + entious = 한 방향으로 향하는 → 편향된. tend(향하다): tendency, intend"
+  },
+  {
+    "en": "abstemious",
+    "ko": "절제하는, 금욕적인",
+    "example": "Her abstemious lifestyle kept her healthy well into old age.",
+    "mnemonic": "abs(떨어져) + tem(술, 라틴어 temetum) + ious = 술에서 떨어진 → 절제하는. abstain(삼가다)과 같은 접두사"
+  },
+  {
+    "en": "malign",
+    "ko": "중상하다, 악의적인",
+    "example": "Competitors tried to malign the company's reputation with false accusations.",
+    "mnemonic": "mal(나쁜, 라틴어 malus) + ign(태어나다) = 나쁘게 태어난 → 악의적인. mal(나쁜): malice, malevolent, malfunction"
+  },
+  {
+    "en": "scintillate",
+    "ko": "반짝이다, 재치를 발휘하다",
+    "example": "Her scintillating conversation kept everyone at the party entertained.",
+    "mnemonic": "scintill(불꽃, 라틴어 scintilla) + ate = 불꽃을 내다 → 반짝이다. scintilla(불꽃): scintillation"
+  },
+  {
+    "en": "effrontery",
+    "ko": "뻔뻔함, 무례함",
+    "example": "He had the effrontery to demand a raise after arriving late every day.",
+    "mnemonic": "ef(밖으로) + front(이마, 앞) + ery = 이마를 내밀며 나서는 → 뻔뻔함. front(앞): confront, frontier, affront"
+  },
+  {
+    "en": "maelstrom",
+    "ko": "대소용돌이, 혼란",
+    "example": "The country was caught in a maelstrom of political and economic chaos.",
+    "mnemonic": "네덜란드어 maalstroom. malen(갈다) + stroom(흐름) = 갈아버리는 소용돌이 → 대혼란"
+  },
+  {
+    "en": "epigone",
+    "ko": "아류, 모방자",
+    "example": "Critics dismissed the young artist as merely an epigone of the great impressionists.",
+    "mnemonic": "epi(뒤에) + gone(태어난, 그리스어 gonos) = 뒤에 태어난 자 → 아류. Epigonoi(테바이 7장수의 후손들=원래 영웅보다 못한 후예)"
+  },
+  {
+    "en": "predisposition",
+    "ko": "성향, 소질",
+    "example": "Research shows a genetic predisposition to certain types of cancer.",
+    "mnemonic": "pre(미리) + disposition(배치, 성향) = 미리 정해진 성향. dis+pos(놓다): 미리 놓여진 경향"
+  },
+  {
+    "en": "malleable",
+    "ko": "유순한, 가단성의",
+    "example": "Gold is one of the most malleable metals known to humanity.",
+    "mnemonic": "malle(망치, 라틴어 malleus) + able = 망치로 두드릴 수 있는 → 유순한, 가단성의. mallet(나무 망치)"
+  },
+  {
+    "en": "debonair",
+    "ko": "상냥한, 세련된",
+    "example": "The debonair gentleman charmed everyone at the gala.",
+    "mnemonic": "프랑스어 de bon aire(좋은 태도의). bon(좋은) + air(분위기) = 좋은 분위기의 → 세련된"
+  },
+  {
+    "en": "indifferent",
+    "ko": "무관심한, 대수롭지 않은",
+    "example": "The audience remained indifferent to the speaker's passionate plea.",
+    "mnemonic": "in(아닌) + different(다른) = 차이를 느끼지 못하는 → 무관심한. fer(나르다): differ, infer, prefer"
+  },
+  {
+    "en": "verisimilitude",
+    "ko": "그럴듯함, 핍진성",
+    "example": "The novel achieved remarkable verisimilitude in its depiction of wartime life.",
+    "mnemonic": "veri(진실, 라틴어 verus) + simil(비슷한) + tude = 진실과 비슷함 → 그럴듯함. ver(진실): verify, veracious"
+  },
+  {
+    "en": "permeate",
+    "ko": "스며들다, 배어들다",
+    "example": "The smell of fresh bread permeated the entire house.",
+    "mnemonic": "per(통하여) + meate(가다, 라틴어 meare) = 통과하여 가다 → 스며들다. per(통과): permanent, permeable"
+  },
+  {
+    "en": "expiate",
+    "ko": "속죄하다, 보상하다",
+    "example": "He spent years trying to expiate the guilt he felt over the accident.",
+    "mnemonic": "ex(완전히) + pi(경건한, 라틴어 pius) + ate = 경건하게 속죄하다. pi(경건한): pious, pity, impious"
+  },
+  {
+    "en": "redress",
+    "ko": "시정하다, 보상",
+    "example": "The victims sought redress for the injustices they had suffered.",
+    "mnemonic": "re(다시) + dress(곧게 하다, 바로잡다) = 다시 바로잡다 → 시정하다, 보상. dress(곧게): address, direct"
+  },
+  {
+    "en": "ensconce",
+    "ko": "안전하게 자리잡다",
+    "example": "He ensconced himself in the comfortable armchair with a good book.",
+    "mnemonic": "en(안에) + sconce(은폐물, 보루) = 보루 안에 들어가다 → 안전하게 자리잡다"
+  },
+  {
+    "en": "forthright",
+    "ko": "솔직한, 거리낌 없는",
+    "example": "She was forthright in expressing her disagreement with the proposal.",
+    "mnemonic": "forth(앞으로) + right(곧은) = 곧바로 앞으로 나가는 → 솔직한"
+  },
+  {
+    "en": "fallible",
+    "ko": "오류를 범할 수 있는",
+    "example": "Even the most experienced doctors are fallible and can make mistakes.",
+    "mnemonic": "fall(속이다, 라틴어 fallere) + ible = 속을 수 있는 → 오류를 범할 수 있는. fall(속이다): fallacy, infallible"
+  },
+  {
+    "en": "perjury",
+    "ko": "위증, 거짓 맹세",
+    "example": "The witness was charged with perjury for lying under oath.",
+    "mnemonic": "per(완전히, 나쁘게) + jur(맹세하다, 라틴어 jurare) + y = 나쁘게 맹세하다 → 위증. jur(맹세, 법): jury, justice, jurisdiction"
+  },
+  {
+    "en": "virulent",
+    "ko": "독성이 강한, 악의적인",
+    "example": "The virulent strain of the virus spread rapidly across the continent.",
+    "mnemonic": "virul(독, 라틴어 virus) + ent = 독이 있는 → 독성이 강한. virus(독): virus, virulent"
+  },
+  {
+    "en": "caustic",
+    "ko": "신랄한, 부식성의",
+    "example": "Her caustic remarks hurt the feelings of everyone in the room.",
+    "mnemonic": "caust(태우다, 그리스어 kaiein) + ic = 태우는 → 부식성의, 신랄한. caust(태우다): holocaust(전소), cauterize(소작하다)"
+  },
+  {
+    "en": "espouse",
+    "ko": "지지하다, 옹호하다",
+    "example": "The candidate espoused a progressive platform on healthcare.",
+    "mnemonic": "'이스파우스' → 'e+spouse(배우자)' 배우자처럼 든든히 지지!"
+  }
+]

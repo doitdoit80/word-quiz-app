@@ -1,152 +1,152 @@
 [
   {
-    "en": "express",
-    "ko": "표현하다",
-    "example": "He expressed his feelings honestly.",
-    "mnemonic": "ex(밖으로) + press(누르다). 밖으로 눌러 내면 표현!"
+    "en": "prevent",
+    "ko": "예방하다",
+    "example": "Vaccines prevent diseases.",
+    "mnemonic": "pre(미리) + vent(오다). 미리 막아서 오지 못하게! vent(오다): event(사건), invent(발명)도 같은 어근."
   },
   {
-    "en": "feature",
-    "ko": "특징",
-    "example": "The phone has many useful features.",
-    "mnemonic": "feat(행하다) + ure. 눈에 띄게 행해지는 특징!"
+    "en": "career",
+    "ko": "직업",
+    "example": "She wants a career in medicine.",
+    "mnemonic": "라틴어 carrus(수레)에서 유래. 인생의 수레를 끌고 가는 경로가 직업! car(차)도 같은 어원."
   },
   {
-    "en": "forever",
-    "ko": "영원히",
-    "example": "I will remember you forever.",
-    "mnemonic": "for(위해) + ever(항상). 항상 위해 = 영원히!"
+    "en": "budget",
+    "ko": "예산",
+    "example": "We need to plan our budget.",
+    "mnemonic": "프랑스어 bougette(작은 가방)에서 유래. 돈을 넣은 작은 가방 → 예산!"
   },
   {
-    "en": "gather",
-    "ko": "모으다",
-    "example": "We gathered around the campfire.",
-    "mnemonic": "'개더'링은 사람들이 모이는 모임!"
+    "en": "creature",
+    "ko": "생물",
+    "example": "Sea creatures are fascinating.",
+    "mnemonic": "create(만들다) + ure(것). 만들어진 생명체! create(창조), creative(창의적인)도 같은 어근."
   },
   {
-    "en": "habit",
-    "ko": "습관",
-    "example": "Eating breakfast is a good habit.",
-    "mnemonic": "'해빗'은 매일 반복하는 습관."
+    "en": "apologize",
+    "ko": "사과하다",
+    "example": "I apologize for being late.",
+    "mnemonic": "apo(떨어져) + log(말) + ize. 자기 변호의 말을 하면 사과! apology(사과)는 명사형. log(말): dialogue, monologue."
   },
   {
-    "en": "handle",
-    "ko": "다루다",
-    "example": "She can handle the situation well.",
-    "mnemonic": "hand(손) + le. 손으로 다루는 것!"
+    "en": "receive",
+    "ko": "받다",
+    "example": "I received a gift from my friend.",
+    "mnemonic": "re(뒤로) + ceive(잡다). 뒤로 잡아당기면 받다! ceive(잡다): perceive(인식), conceive(구상)."
   },
   {
-    "en": "ignore",
-    "ko": "무시하다",
-    "example": "Don't ignore the warning signs.",
-    "mnemonic": "ig(아닌) + nore(알다). 모르는 척하면 무시!"
+    "en": "material",
+    "ko": "재료",
+    "example": "What material is this made of?",
+    "mnemonic": "라틴어 materia(물질) = mater(어머니). 어머니가 되는 원료가 재료! maternal(모성의)도 같은 어근."
+  },
+  {
+    "en": "clever",
+    "ko": "영리한",
+    "example": "The clever student solved the puzzle.",
+    "mnemonic": "중세 영어 cliver(잡는 데 뛰어난)에서 유래. 재빨리 잡는 → 영리한!"
+  },
+  {
+    "en": "accept",
+    "ko": "받아들이다",
+    "example": "She accepted my apology.",
+    "mnemonic": "ac(~으로) + cept(잡다). 잡아서 받아들이다! cept(잡다): except(제외), concept(개념)도 같은 어근."
+  },
+  {
+    "en": "equal",
+    "ko": "같은",
+    "example": "Everyone is equal before the law.",
+    "mnemonic": "라틴어 aequalis = aequ(같은) + al. 같은! equality(평등), equation(방정식)도 같은 어근."
+  },
+  {
+    "en": "threat",
+    "ko": "위협",
+    "example": "Pollution is a threat to wildlife.",
+    "mnemonic": "고대 영어 threat(압박)에서 유래. threaten = threat + en(~하게 하다) → 위협하다."
+  },
+  {
+    "en": "element",
+    "ko": "요소",
+    "example": "Water is an important element.",
+    "mnemonic": "라틴어 elementum(기본 성분)에서 유래. 기본이 되는 것이 요소! elementary(기본적인)."
+  },
+  {
+    "en": "display",
+    "ko": "전시하다",
+    "example": "The shop displays shoes in the window.",
+    "mnemonic": "dis(펼치다) + play(접다). 접힌 것을 펼치면 전시! explain도 비슷: ex + plain(펼치다)."
+  },
+  {
+    "en": "department",
+    "ko": "부서",
+    "example": "He works in the marketing department.",
+    "mnemonic": "de(떨어져) + part(부분) + ment. 떨어져 나뉜 부분이 부서! part(부분): depart(출발), participate(참여)."
   },
   {
     "en": "improve",
     "ko": "개선하다",
     "example": "I want to improve my English.",
-    "mnemonic": "im(안에) + prove(증명). 안에서 증명하면 향상!"
+    "mnemonic": "im(안에) + prove(증명하다). 안에서 더 나은 것을 증명하면 개선! improvement(개선)은 명사형."
   },
   {
-    "en": "insist",
-    "ko": "주장하다",
-    "example": "She insisted on paying for dinner.",
-    "mnemonic": "in(안에) + sist(서다). 안에 꿋꿋이 서면 고집!"
+    "en": "belong",
+    "ko": "~에 속하다",
+    "example": "This book belongs to me.",
+    "mnemonic": "be(완전히) + long(함께하다). 오래 함께하면 속하게 된다! belonging(소속감, 소지품)."
   },
   {
-    "en": "introduce",
-    "ko": "소개하다",
-    "example": "Let me introduce myself.",
-    "mnemonic": "intro(안으로) + duce(이끌다). 안으로 이끌면 소개!"
+    "en": "represent",
+    "ko": "대표하다",
+    "example": "This flag represents our country.",
+    "mnemonic": "re(다시) + present(보여주다). 다시 보여주면 대표! representative(대표자)."
   },
   {
-    "en": "invent",
-    "ko": "발명하다",
-    "example": "Edison invented the light bulb.",
-    "mnemonic": "in(안에서) + vent(오다). 안에서 나오면 발명!"
+    "en": "confidence",
+    "ko": "자신감",
+    "example": "She speaks with confidence.",
+    "mnemonic": "con(완전히) + fid(믿다) + ence. 완전히 믿으면 자신감! fid(믿다): faith, fidelity도 같은 어근."
   },
   {
-    "en": "involve",
-    "ko": "포함하다",
-    "example": "The project involves many people.",
-    "mnemonic": "in(안에) + volve(감다). 안에 감아 넣으면 포함!"
+    "en": "process",
+    "ko": "과정",
+    "example": "Learning is a slow process.",
+    "mnemonic": "pro(앞으로) + cess(가다). 앞으로 나아가는 것이 과정! cess(가다): access(접근), success(성공)."
   },
   {
-    "en": "judge",
-    "ko": "판단하다",
-    "example": "Don't judge people by their looks.",
-    "mnemonic": "'저지'는 판결을 내리는 재판관!"
+    "en": "disaster",
+    "ko": "재난",
+    "example": "The earthquake was a terrible disaster.",
+    "mnemonic": "dis(나쁜) + aster(별). 나쁜 별이 뜰 때 재난! aster(별): asteroid(소행성), astronaut(우주비행사)."
   },
   {
-    "en": "lack",
-    "ko": "부족",
-    "example": "He failed due to lack of effort.",
-    "mnemonic": "'랙'이 걸리면 뭔가가 부족한 것!"
+    "en": "condition",
+    "ko": "조건",
+    "example": "The car is in good condition.",
+    "mnemonic": "con(함께) + dit(말하다) + ion. 함께 정한 것이 조건! tradition(전통)도 같은 어근 dit."
   },
   {
-    "en": "limit",
-    "ko": "제한",
-    "example": "There is a speed limit on this road.",
-    "mnemonic": "'리밋'은 더 이상 갈 수 없는 한계."
+    "en": "intend",
+    "ko": "~할 작정이다",
+    "example": "I intend to finish this today.",
+    "mnemonic": "in(안에) + tend(향하다). 마음 안에서 향하면 의도! tend(향하다): attend(참석), extend(연장)."
   },
   {
-    "en": "manage",
-    "ko": "관리하다",
-    "example": "She manages the team well.",
-    "mnemonic": "'매니저'가 팀을 관리하는 것!"
+    "en": "separate",
+    "ko": "분리하다",
+    "example": "Please separate the recyclables.",
+    "mnemonic": "se(떨어져) + par(준비하다) + ate. 따로 떨어뜨리면 분리! preparation(준비)의 par와 같은 어근."
   },
   {
-    "en": "manner",
-    "ko": "방법",
-    "example": "She has good manners.",
-    "mnemonic": "'매너'가 좋다 = 예절이 좋다!"
+    "en": "borrow",
+    "ko": "빌리다",
+    "example": "Can I borrow your pen?",
+    "mnemonic": "고대 영어 borgian(담보로 빌리다)에서 유래. 가져오는 빌림! lend(빌려주다)의 반대."
   },
   {
-    "en": "mention",
-    "ko": "언급하다",
-    "example": "He mentioned your name.",
-    "mnemonic": "ment(마음) + ion. 마음에 있는 걸 말하면 언급!"
-  },
-  {
-    "en": "notice",
-    "ko": "알아차리다",
-    "example": "I noticed a change in her behavior.",
-    "mnemonic": "'노티스'보드에 알림을 붙여 알아차리게!"
-  },
-  {
-    "en": "obtain",
-    "ko": "얻다",
-    "example": "She obtained a scholarship.",
-    "mnemonic": "ob(향해) + tain(잡다). 향해 잡으면 얻다!"
-  },
-  {
-    "en": "occur",
-    "ko": "발생하다",
-    "example": "Accidents can occur at any time.",
-    "mnemonic": "oc(향해) + cur(달리다). 달려오면 발생!"
-  },
-  {
-    "en": "organize",
-    "ko": "조직하다",
-    "example": "She organized a charity event.",
-    "mnemonic": "organ(기관) + ize. 기관처럼 체계를 세우면 조직!"
-  },
-  {
-    "en": "perform",
-    "ko": "수행하다",
-    "example": "The band performed on stage.",
-    "mnemonic": "per(완전히) + form(형태). 완전한 형태로 보여주면 공연!"
-  },
-  {
-    "en": "period",
-    "ko": "기간",
-    "example": "It rained for a long period.",
-    "mnemonic": "'피리어드'는 문장 끝의 마침표이자 기간."
-  },
-  {
-    "en": "permit",
-    "ko": "허락하다",
-    "example": "Smoking is not permitted here.",
-    "mnemonic": "per(통해) + mit(보내다). 통과시켜 보내면 허가!"
+    "en": "choice",
+    "ko": "선택",
+    "example": "It was a difficult choice.",
+    "mnemonic": "choose(선택하다)의 명사형. 고대 영어 ceosan에서 유래. -ce/-se 교체 패턴: advice/advise처럼."
   }
 ]

@@ -1,0 +1,302 @@
+[
+  {
+    "en": "tremendous",
+    "ko": "엄청난, 거대한",
+    "example": "The project required a tremendous amount of effort.",
+    "mnemonic": "라틴어 tremendus(떨릴 만한)에서 유래. tremere(떨다). 떨릴 정도로 큰 → 엄청난. 관련어: tremble"
+  },
+  {
+    "en": "export",
+    "ko": "수출하다, 수출",
+    "example": "Korea exports electronics to many countries.",
+    "mnemonic": "ex(밖으로) + port(나르다, portare) = 밖으로 나르다 → 수출. 관련어: import, transport"
+  },
+  {
+    "en": "purchase",
+    "ko": "구매하다, 구입",
+    "example": "She purchased a new laptop for school.",
+    "mnemonic": "pur(위해, pro) + chase(쫓다) = 쫓아가서 잡다 → 구매하다 (원래 사냥한 전리품의 뜻)"
+  },
+  {
+    "en": "adhere",
+    "ko": "고수하다, 들러붙다",
+    "example": "You must adhere to the rules of the school.",
+    "mnemonic": "ad(~에) + here(붙다, haerere) = ~에 붙다 → 고수하다, 들러붙다"
+  },
+  {
+    "en": "empire",
+    "ko": "제국",
+    "example": "The Roman Empire lasted for centuries.",
+    "mnemonic": "라틴어 imperium(지배, 통치)에서 유래. im(안에) + parare(준비하다, 명령하다) → 제국. 관련어: emperor"
+  },
+  {
+    "en": "recover",
+    "ko": "회복하다, 되찾다",
+    "example": "She recovered from her illness quickly.",
+    "mnemonic": "re(다시) + cover(덮다) = 다시 덮다 → 원래 상태를 되찾다 → 회복하다"
+  },
+  {
+    "en": "mutual",
+    "ko": "상호의, 서로의",
+    "example": "They have a mutual respect for each other.",
+    "mnemonic": "'뮤추얼' → '뮤추얼(mutual)' 펀드 = 상호 투자!"
+  },
+  {
+    "en": "confess",
+    "ko": "고백하다, 자백하다",
+    "example": "He confessed that he had made a mistake.",
+    "mnemonic": "con(완전히) + fess(말하다, fateri) = 완전히 말하다 → 고백하다. 관련어: profess"
+  },
+  {
+    "en": "insurance",
+    "ko": "보험",
+    "example": "Everyone should have health insurance.",
+    "mnemonic": "'인슈런스' → 'in(안전)+sure(확실)+ance' 확실하게 안전한 보험!"
+  },
+  {
+    "en": "emission",
+    "ko": "배출, 방출",
+    "example": "Car emissions are a major cause of air pollution.",
+    "mnemonic": "e(밖으로) + miss(보내다, mittere) + ion = 밖으로 보내다 → 배출. 관련어: mission, missile"
+  },
+  {
+    "en": "advertise",
+    "ko": "광고하다",
+    "example": "They advertise their products on social media.",
+    "mnemonic": "ad(~으로) + vert(돌리다, vertere) + ise = 관심을 돌리다 → 광고하다"
+  },
+  {
+    "en": "disappoint",
+    "ko": "실망시키다",
+    "example": "The movie disappointed many fans.",
+    "mnemonic": "dis(반대) + appoint(임명하다, 정하다) = 기대한 것이 빗나가다 → 실망시키다"
+  },
+  {
+    "en": "victim",
+    "ko": "피해자, 희생자",
+    "example": "The victims of the earthquake received aid.",
+    "mnemonic": "라틴어 victima(제물, 희생물)에서 유래. 신에게 바치는 제물 → 피해자, 희생자"
+  },
+  {
+    "en": "load",
+    "ko": "짐, 싣다",
+    "example": "They loaded the boxes onto the truck.",
+    "mnemonic": "'로드' → '로딩(loading)' 중 = 짐을 싣는 중!"
+  },
+  {
+    "en": "vital",
+    "ko": "필수적인, 생명의",
+    "example": "Water is vital for all living things.",
+    "mnemonic": "라틴어 vitalis(생명의)에서 유래. vita(생명). 생명에 관한 → 필수적인. 관련어: vitamin"
+  },
+  {
+    "en": "suspect",
+    "ko": "의심하다, 용의자",
+    "example": "The police suspect him of the crime.",
+    "mnemonic": "sus(아래에서) + pect(보다, spectare) = 아래에서 올려보다 → 의심하다. 관련어: inspect, respect"
+  },
+  {
+    "en": "durable",
+    "ko": "내구성 있는, 오래가는",
+    "example": "This bag is made of durable material.",
+    "mnemonic": "dur(단단한, 오래가는, durus) + able = 오래갈 수 있는 → 내구성 있는. 관련어: endure, during"
+  },
+  {
+    "en": "wage",
+    "ko": "임금, 수행하다",
+    "example": "The minimum wage has increased this year.",
+    "mnemonic": "고대 프랑스어 wage(담보, 보수)에서 유래. 일의 대가로 받는 담보 → 임금. 관련어: engage"
+  },
+  {
+    "en": "critic",
+    "ko": "비평가",
+    "example": "The movie critic gave the film a bad review.",
+    "mnemonic": "그리스어 kritikos(판단하는)에서 유래. krinein(판단하다). 판단하는 사람 → 비평가"
+  },
+  {
+    "en": "minimum",
+    "ko": "최소의, 최소",
+    "example": "The minimum age to drive is eighteen.",
+    "mnemonic": "'미니멈' → '미니(mini=최소)+멈' 최소한!"
+  },
+  {
+    "en": "master",
+    "ko": "주인, 달인, 숙달하다",
+    "example": "She mastered three languages by age twenty.",
+    "mnemonic": "'마스터' → '마스터(master)' 요리를 마스터하다!"
+  },
+  {
+    "en": "solid",
+    "ko": "고체의, 단단한",
+    "example": "Ice is water in its solid form.",
+    "mnemonic": "라틴어 solidus(단단한, 빈틈없는)에서 유래. 관련어: soldier(군인=돈을 받는 사람, solidus=동전)"
+  },
+  {
+    "en": "desert",
+    "ko": "사막, 버리다",
+    "example": "The Sahara is the largest desert in Africa.",
+    "mnemonic": "de(완전히) + sert(연결하다, serere) = 연결을 끊다 → 버리다; 버려진 땅 → 사막"
+  },
+  {
+    "en": "harvest",
+    "ko": "수확, 거두다",
+    "example": "Farmers harvest rice in the fall.",
+    "mnemonic": "'하비스트' → '하(have)비(big)스트' 큰 것을 갖다 = 수확!"
+  },
+  {
+    "en": "mineral",
+    "ko": "광물, 미네랄",
+    "example": "The mountain is rich in minerals.",
+    "mnemonic": "'미네랄' → '미네랄(mineral)' 워터 = 광물 포함 물!"
+  },
+  {
+    "en": "era",
+    "ko": "시대",
+    "example": "We are living in the digital era.",
+    "mnemonic": "라틴어 aera(시대의 기점, 셈의 단위)에서 유래. 역사의 구분 단위 → 시대"
+  },
+  {
+    "en": "colony",
+    "ko": "식민지, 집단",
+    "example": "The country was once a British colony.",
+    "mnemonic": "라틴어 colonus(농부, 정착민)에서 유래. col(경작하다, colere)에서 파생. 정착지 → 식민지"
+  },
+  {
+    "en": "unemployment",
+    "ko": "실업",
+    "example": "The unemployment rate has been rising this year.",
+    "mnemonic": "un(아닌) + employ(고용) + ment = 고용되지 않은 상태 → 실업"
+  },
+  {
+    "en": "branch",
+    "ko": "가지, 지점",
+    "example": "The bank has many branches across the country.",
+    "mnemonic": "라틴어 branca(발, 발톱)에서 유래. 나무에서 뻗어나간 발처럼 → 가지, 지점"
+  },
+  {
+    "en": "vessel",
+    "ko": "선박, 용기, 혈관",
+    "example": "A large vessel entered the harbor.",
+    "mnemonic": "라틴어 vascellum(작은 용기)에서 유래. vas(용기). 물을 담는 그릇 → 선박, 혈관"
+  },
+  {
+    "en": "muscle",
+    "ko": "근육",
+    "example": "Regular exercise strengthens your muscles.",
+    "mnemonic": "'머슬' → '머슬(muscle)카' 근육질 차!"
+  },
+  {
+    "en": "compel",
+    "ko": "강요하다, 어쩔 수 없이 ~하게 하다",
+    "example": "The storm compelled us to stay indoors.",
+    "mnemonic": "com(함께) + pel(몰다, pellere) = 함께 몰아붙이다 → 강요하다. 관련어: propel, expel"
+  },
+  {
+    "en": "embrace",
+    "ko": "포옹하다, 받아들이다",
+    "example": "She embraced her friend at the airport.",
+    "mnemonic": "em(안에) + brace(팔, brachium) = 팔 안에 넣다 → 포옹하다. 관련어: bracelet(팔찌)"
+  },
+  {
+    "en": "react",
+    "ko": "반응하다",
+    "example": "How did she react to the news?",
+    "mnemonic": "re(다시) + act(행동하다) = 다시 행동하다 → 반응하다"
+  },
+  {
+    "en": "civilization",
+    "ko": "문명",
+    "example": "Ancient civilizations built impressive monuments.",
+    "mnemonic": "civil(시민, civis) + ization = 시민의 상태 → 문명. 관련어: civil, citizen"
+  },
+  {
+    "en": "narrow",
+    "ko": "좁은",
+    "example": "The road is too narrow for two cars.",
+    "mnemonic": "'내로우' → '내(나)로(road)우' 나만 갈 수 있는 좁은 길!"
+  },
+  {
+    "en": "vehicle",
+    "ko": "차량, 수단",
+    "example": "Electric vehicles are better for the environment.",
+    "mnemonic": "라틴어 vehiculum(운반 수단)에서 유래. vehere(나르다). 나르는 것 → 차량. 관련어: convey"
+  },
+  {
+    "en": "plenty",
+    "ko": "많은, 풍부",
+    "example": "There is plenty of time to finish the homework.",
+    "mnemonic": "라틴어 plenus(가득 찬)에서 유래. 관련어: full. 가득 차있는 → 풍부"
+  },
+  {
+    "en": "proposal",
+    "ko": "제안, 청혼",
+    "example": "The company submitted a business proposal.",
+    "mnemonic": "pro(앞으로) + pos(놓다, ponere) + al = 앞에 내놓다 → 제안. 관련어: propose"
+  },
+  {
+    "en": "explore",
+    "ko": "탐험하다, 탐구하다",
+    "example": "The children explored the forest near their home.",
+    "mnemonic": "ex(밖으로) + plore(울다, 외치다, plorare) = 밖으로 나가 외치며 찾다 → 탐험하다"
+  },
+  {
+    "en": "depress",
+    "ko": "우울하게 하다, 억누르다",
+    "example": "The rainy weather depressed everyone.",
+    "mnemonic": "de(아래로) + press(누르다) = 아래로 누르다 → 우울하게 하다. 관련어: compress, express"
+  },
+  {
+    "en": "inspire",
+    "ko": "영감을 주다",
+    "example": "The teacher inspired her students to dream big.",
+    "mnemonic": "'인스파이어' → 'in(안에)+spire(숨쉬다)' 안에 숨을 불어넣다 = 영감!"
+  },
+  {
+    "en": "troop",
+    "ko": "군대, 부대",
+    "example": "The troops marched toward the border.",
+    "mnemonic": "프랑스어 troupe(무리, 집단)에서 유래. 사람들의 무리 → 군대, 부대"
+  },
+  {
+    "en": "sole",
+    "ko": "유일한, 단독의",
+    "example": "She is the sole owner of the company.",
+    "mnemonic": "라틴어 solus(혼자의, 유일한)에서 유래. 관련어: solo, solitude(고독)"
+  },
+  {
+    "en": "spare",
+    "ko": "여분의, 아끼다",
+    "example": "Do you have a spare pen I can borrow?",
+    "mnemonic": "고대 영어 sparian(아끼다, 삼가다)에서 유래. 쓰지 않고 남긴 → 여분의"
+  },
+  {
+    "en": "republic",
+    "ko": "공화국",
+    "example": "France is a republic with a president.",
+    "mnemonic": "res(것, 일) + public(공공의, publicus) = 공공의 것 → 공화국. 모두의 나라"
+  },
+  {
+    "en": "murder",
+    "ko": "살인, 살해하다",
+    "example": "The detective solved the murder case.",
+    "mnemonic": "'머더' → '머더(murder)' 미스터리 = 살인 사건!"
+  },
+  {
+    "en": "status",
+    "ko": "지위, 상태",
+    "example": "What is the current status of the project?",
+    "mnemonic": "라틴어 status(서있는 상태)에서 유래. sta(서다, stare). 서있는 위치 → 지위, 상태"
+  },
+  {
+    "en": "novel",
+    "ko": "소설, 새로운",
+    "example": "She wrote a novel about life in the countryside.",
+    "mnemonic": "'노블' → '노블(novel)' 소설책 읽기!"
+  },
+  {
+    "en": "volcano",
+    "ko": "화산",
+    "example": "The volcano erupted and covered the town in ash.",
+    "mnemonic": "로마 신화 Vulcanus(불의 신 불칸)에서 유래. 불의 신이 사는 산 → 화산"
+  }
+]

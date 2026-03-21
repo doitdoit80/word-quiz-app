@@ -1,0 +1,302 @@
+[
+  {
+    "en": "penitent",
+    "ko": "뉘우치는, 참회하는",
+    "example": "The penitent thief confessed his crimes and asked for forgiveness.",
+    "mnemonic": "poen(벌) + it + ent = 벌을 받아들이는 → 뉘우치는. penalty(벌금), punish(처벌하다)와 같은 어근"
+  },
+  {
+    "en": "fanatic",
+    "ko": "광신자, 열광적인",
+    "example": "He is a football fanatic who never misses a game.",
+    "mnemonic": "'퍼내틱' → '팬(fan)+atic' 극단적인 팬 = 광신자!"
+  },
+  {
+    "en": "nostalgia",
+    "ko": "향수, 그리움",
+    "example": "The old photograph filled her with nostalgia for her childhood.",
+    "mnemonic": "nost(집) + algia(고통) = 집을 그리워하는 고통 → 향수. neuralgia(신경통)와 같은 어근 algia"
+  },
+  {
+    "en": "depict",
+    "ko": "묘사하다, 그리다",
+    "example": "The mural depicts scenes from Korean history.",
+    "mnemonic": "de(완전히) + pict(그리다) = 완전히 그리다 → 묘사하다. picture(그림), picturesque(그림 같은)와 같은 어근"
+  },
+  {
+    "en": "implicit",
+    "ko": "암시적인, 내포된",
+    "example": "There was an implicit understanding between the two leaders.",
+    "mnemonic": "'임플리싯' → 'im(안에)+plic(접다)+it' 안에 접어둔 = 암시적!"
+  },
+  {
+    "en": "desolate",
+    "ko": "황량한, 적막한",
+    "example": "The abandoned village looked completely desolate.",
+    "mnemonic": "de(완전히) + sol(혼자) + ate = 완전히 혼자인 → 황량한. sole(유일한), solitude(고독)와 같은 어근"
+  },
+  {
+    "en": "dormant",
+    "ko": "휴면 중인, 활동을 중단한",
+    "example": "The volcano has been dormant for over a century.",
+    "mnemonic": "dorm(잠자다) + ant = 잠자는 → 휴면 중인. dormitory(기숙사)와 같은 어근"
+  },
+  {
+    "en": "cessation",
+    "ko": "중단, 정지",
+    "example": "Both sides agreed to an immediate cessation of hostilities.",
+    "mnemonic": "cess(멈추다) + ation = 멈추는 것 → 중단. cease(중단하다), recess(휴식)와 같은 어근"
+  },
+  {
+    "en": "benign",
+    "ko": "양성의, 온화한",
+    "example": "Fortunately, the tumor was benign and not cancerous.",
+    "mnemonic": "ben(좋은) + ign(태어난) = 좋게 태어난 → 온화한, 양성의. benefit(이익), benevolent(자비로운)와 같은 접두사"
+  },
+  {
+    "en": "atrocity",
+    "ko": "잔학 행위, 만행",
+    "example": "The documentary exposed the atrocities committed during the war.",
+    "mnemonic": "atro(검은, 잔혹한) + city(상태) = 잔혹한 상태 → 잔학 행위. atrocious(잔혹한)의 명사형"
+  },
+  {
+    "en": "immerse",
+    "ko": "몰두하다, 담그다",
+    "example": "She immersed herself in studying Korean history.",
+    "mnemonic": "'이머스' → 'im(안에)+merse(잠기다)' 안에 잠기다 = 몰두!"
+  },
+  {
+    "en": "negate",
+    "ko": "부정하다, 무효화하다",
+    "example": "His later actions negated all the progress he had made.",
+    "mnemonic": "neg(아니) + ate = 아니라고 하다 → 부정하다. negative(부정적), neglect(무시하다)와 같은 어근"
+  },
+  {
+    "en": "embargo",
+    "ko": "통상 금지, 금수 조치",
+    "example": "The country imposed an oil embargo on its rival.",
+    "mnemonic": "em(안에) + barg(막대, 장벽) + o = 장벽을 쳐서 막다 → 통상 금지. bar(막대, 금지), barrier(장벽)와 같은 어근"
+  },
+  {
+    "en": "denigrate",
+    "ko": "폄하하다, 중상하다",
+    "example": "Critics denigrated the artist's work as unoriginal.",
+    "mnemonic": "de(아래로) + nigr(검은) + ate = 검게 칠하다 → 폄하하다. 라틴어 niger(검은)에서 유래"
+  },
+  {
+    "en": "taboo",
+    "ko": "금기, 터부",
+    "example": "Discussing money is considered taboo in many cultures.",
+    "mnemonic": "폴리네시아어 tabu(금지된)에서 유래. 신성하거나 금지된 것 → 금기"
+  },
+  {
+    "en": "discrepancy",
+    "ko": "불일치, 차이",
+    "example": "There was a discrepancy between the two reports.",
+    "mnemonic": "dis(다른) + crep(소리내다) + ancy = 다른 소리가 나다 → 불일치. 라틴어 discrepare(다르게 울리다)에서 유래"
+  },
+  {
+    "en": "provocation",
+    "ko": "도발, 자극",
+    "example": "He responded calmly despite the constant provocation.",
+    "mnemonic": "pro(앞으로) + voc(부르다) + ation = 앞으로 불러내는 것 → 도발. invoke(호소), revoke(취소)와 같은 어근"
+  },
+  {
+    "en": "avarice",
+    "ko": "탐욕, 인색",
+    "example": "His avarice led him to accumulate wealth at others' expense.",
+    "mnemonic": "라틴어 avere(갈망하다)에서 유래. avar(갈망하다) + ice = 끝없는 갈망 → 탐욕. avid(열렬한)와 같은 어근"
+  },
+  {
+    "en": "irony",
+    "ko": "아이러니, 반어법",
+    "example": "The irony is that he became a firefighter after being afraid of fire as a child.",
+    "mnemonic": "그리스어 eironeia(거짓 무지)에서 유래. 겉과 속이 다른 상황 → 아이러니, 반어법"
+  },
+  {
+    "en": "requisite",
+    "ko": "필수적인, 필요 조건",
+    "example": "Prior experience is a requisite for this senior position.",
+    "mnemonic": "re(다시) + quis(구하다) + ite = 반드시 구해야 하는 → 필수적인. require(요구하다), acquire(획득하다)와 같은 어근"
+  },
+  {
+    "en": "retrospect",
+    "ko": "회고, 회상",
+    "example": "In retrospect, moving abroad was the best decision she ever made.",
+    "mnemonic": "retro(뒤로) + spect(보다) = 뒤를 돌아보다 → 회고. perspective(관점), inspect(검사하다)와 같은 어근"
+  },
+  {
+    "en": "morale",
+    "ko": "사기, 의욕",
+    "example": "The team's morale improved after winning three games in a row.",
+    "mnemonic": "프랑스어 moral(정신적인)에서 유래. 정신의 상태 → 사기, 의욕. moral(도덕의)과 같은 어원이지만 의미 다름"
+  },
+  {
+    "en": "dissolution",
+    "ko": "해산, 용해",
+    "example": "The dissolution of the Soviet Union changed world politics.",
+    "mnemonic": "dis(분리) + solut(풀다) + ion = 풀어 헤치다 → 해산. solve(풀다), resolve(해결하다)와 같은 어근 solv/solut"
+  },
+  {
+    "en": "interim",
+    "ko": "임시의, 잠정적인",
+    "example": "An interim government was formed until elections could be held.",
+    "mnemonic": "inter(사이) + im = 사이의 기간 → 임시의. interval(간격)과 같은 접두사"
+  },
+  {
+    "en": "plight",
+    "ko": "곤경, 어려운 상황",
+    "example": "The documentary highlighted the plight of refugees worldwide.",
+    "mnemonic": "고대 프랑스어 pleit(접힌 상태)에서 유래 → 접혀서 꼬인 상황 = 곤경"
+  },
+  {
+    "en": "vicarious",
+    "ko": "대리의, 간접적인",
+    "example": "She experienced vicarious joy through her daughter's achievements.",
+    "mnemonic": "vicar(대리인) + ious = 대리인의 → 대리 경험의. vicar(대리 목사)와 같은 어근"
+  },
+  {
+    "en": "adversary",
+    "ko": "적, 상대방",
+    "example": "He respected his adversary in the chess tournament.",
+    "mnemonic": "ad(~쪽으로) + vers(돌다) + ary = 반대쪽으로 도는 사람 → 적. reverse(뒤집다)와 같은 어근"
+  },
+  {
+    "en": "lofty",
+    "ko": "높은, 고상한",
+    "example": "She has lofty ambitions to change the world.",
+    "mnemonic": "loft(다락방, 높은 곳) + y = 높은 곳의 → 고상한, 높은"
+  },
+  {
+    "en": "denouement",
+    "ko": "결말, 대단원",
+    "example": "The novel builds to a dramatic denouement in the final chapter.",
+    "mnemonic": "프랑스어 dénouer(풀다)에서 유래. de(풀다) + noue(매듭) = 매듭을 풀다 → 결말"
+  },
+  {
+    "en": "noncompliance",
+    "ko": "불이행, 위반",
+    "example": "Noncompliance with safety regulations can result in heavy fines.",
+    "mnemonic": "non(아닌) + compliance(준수) = 준수하지 않음 → 불이행. comply(따르다)의 반대"
+  },
+  {
+    "en": "diatribe",
+    "ko": "통렬한 비판, 비난 연설",
+    "example": "The senator launched into a diatribe against government corruption.",
+    "mnemonic": "그리스어 diatribein(시간을 보내다, 논쟁하다)에서 유래. dia(통해) + tribe(마찰) = 마찰을 통해 → 통렬한 비판"
+  },
+  {
+    "en": "vehement",
+    "ko": "격렬한, 열렬한",
+    "example": "She expressed vehement opposition to the proposed changes.",
+    "mnemonic": "라틴어 vehemens(격렬한)에서 유래. veh(운반하다, 마음이 실리다) + ement = 마음이 강하게 실린 → 격렬한"
+  },
+  {
+    "en": "connoisseur",
+    "ko": "감정가, 감식안",
+    "example": "She is a connoisseur of fine wine and French cuisine.",
+    "mnemonic": "프랑스어 connaître(알다)에서 유래. conn(알다) + oisseur = 잘 아는 사람 → 감정가. cognition(인지)과 같은 어근"
+  },
+  {
+    "en": "unilateral",
+    "ko": "일방적인",
+    "example": "The country made a unilateral decision to withdraw from the treaty.",
+    "mnemonic": "uni(하나) + later(옆) + al = 한쪽의 → 일방적인. bilateral(양자간의), lateral(측면의)과 같은 어근"
+  },
+  {
+    "en": "quagmire",
+    "ko": "수렁, 곤경",
+    "example": "The country found itself in a political quagmire with no easy exit.",
+    "mnemonic": "quag(흔들리는 땅) + mire(늪) = 흔들리는 늪 → 수렁, 곤경"
+  },
+  {
+    "en": "bland",
+    "ko": "싱거운, 특색 없는",
+    "example": "The food at the hospital cafeteria was rather bland.",
+    "mnemonic": "라틴어 blandus(부드러운, 아첨하는)에서 유래 → 너무 부드러워서 자극이 없는 → 싱거운, 특색 없는"
+  },
+  {
+    "en": "commend",
+    "ko": "칭찬하다, 추천하다",
+    "example": "The teacher commended the students for their excellent work.",
+    "mnemonic": "com(강조) + mend(맡기다) = 강하게 맡기다 → 칭찬하다, 추천하다. recommend(추천하다), mandate(명령)와 같은 어근"
+  },
+  {
+    "en": "epitome",
+    "ko": "전형, 축소판",
+    "example": "She is the epitome of grace and elegance.",
+    "mnemonic": "'이피터미' → 'epi(위)+tome(자르다)' 핵심만 잘라낸 = 전형!"
+  },
+  {
+    "en": "exert",
+    "ko": "발휘하다, 행사하다",
+    "example": "She exerted considerable influence over the committee's decision.",
+    "mnemonic": "'이그저트' → 'ex(밖으로)+ert(넣다)' 밖으로 힘을 내다 = 발휘!"
+  },
+  {
+    "en": "penchant",
+    "ko": "경향, 기호",
+    "example": "She has a penchant for collecting vintage books.",
+    "mnemonic": "프랑스어 pencher(기울다)에서 유래. pench(기울다) + ant = 기울어지는 → 경향, 기호"
+  },
+  {
+    "en": "anarchy",
+    "ko": "무정부 상태, 혼란",
+    "example": "The country fell into anarchy after the dictator was overthrown.",
+    "mnemonic": "an(없는) + archy(통치, 정부) = 통치가 없는 상태 → 무정부. monarchy(군주제), hierarchy(계층)와 같은 어근"
+  },
+  {
+    "en": "jurisdiction",
+    "ko": "관할권, 재판권",
+    "example": "The case falls under the jurisdiction of the federal court.",
+    "mnemonic": "juris(법) + dict(말하다) + ion = 법을 말하는 권한 → 관할권. judge(판사), dictate(지시하다)와 같은 어근"
+  },
+  {
+    "en": "authenticate",
+    "ko": "인증하다, 진위를 확인하다",
+    "example": "Experts were called in to authenticate the ancient painting.",
+    "mnemonic": "auto(스스로) + hent(행하다) + icate = 스스로 행한 것을 확인하다 → 인증하다. authentic(진짜의)의 동사형"
+  },
+  {
+    "en": "pedagogue",
+    "ko": "교육자, 학자",
+    "example": "The renowned pedagogue devoted his life to reforming the school system.",
+    "mnemonic": "ped(아이) + agogue(이끄는 사람) = 아이를 이끄는 사람 → 교육자. demagogue(선동가)와 같은 어근"
+  },
+  {
+    "en": "potent",
+    "ko": "강력한, 효능 있는",
+    "example": "This medication is extremely potent and should be taken with care.",
+    "mnemonic": "pot(힘) + ent = 힘이 있는 → 강력한. potential(잠재적), omnipotent(전능한)와 같은 어근"
+  },
+  {
+    "en": "prerequisite",
+    "ko": "전제 조건, 필수 조건",
+    "example": "A bachelor's degree is a prerequisite for this graduate program.",
+    "mnemonic": "pre(미리) + requisite(필요한) = 미리 필요한 것 → 전제 조건. require(요구하다)와 같은 어근"
+  },
+  {
+    "en": "augment",
+    "ko": "증가시키다, 늘리다",
+    "example": "She took a part-time job to augment her income.",
+    "mnemonic": "aug(증가하다) + ment = 늘리다 → 증가시키다. auction(경매, 값을 올리는), author(저자, 늘리는 사람)와 같은 어근"
+  },
+  {
+    "en": "disproportionate",
+    "ko": "불균형한, 비례하지 않는",
+    "example": "A disproportionate amount of the budget goes to defense.",
+    "mnemonic": "dis(부정) + pro(앞으로) + portion(비율) + ate = 비율이 맞지 않는 → 불균형한. proportion(비율)의 반대"
+  },
+  {
+    "en": "avid",
+    "ko": "열렬한, 탐욕스러운",
+    "example": "She is an avid reader who finishes a book every week.",
+    "mnemonic": "라틴어 avidus(갈망하는)에서 유래. av(갈망하다) + id = 갈망하는 → 열렬한. avidity(탐욕)의 형용사형"
+  },
+  {
+    "en": "decipher",
+    "ko": "해독하다, 판독하다",
+    "example": "Experts worked for years to decipher the ancient script.",
+    "mnemonic": "de(풀다) + cipher(암호) = 암호를 풀다 → 해독하다. cipher(암호)는 아랍어 sifr(영, 빈것)에서 유래"
+  }
+]

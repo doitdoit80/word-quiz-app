@@ -1,152 +1,152 @@
 [
   {
-    "en": "weak",
-    "ko": "약한",
-    "example": "I feel weak after the flu.",
-    "mnemonic": "'위크'는 strong의 반대, 약한!"
+    "en": "lunch",
+    "ko": "점심 식사, 점심밥",
+    "example": "What did you have for lunch?",
+    "mnemonic": "luncheon(오찬)의 줄임말. breakfast(아침), dinner(저녁)과 함께 세트로 기억."
   },
   {
-    "en": "deep",
-    "ko": "깊은",
-    "example": "The ocean is very deep.",
-    "mnemonic": "'딥'러닝은 깊이 학습하는 것!"
+    "en": "orange",
+    "ko": "오렌지",
+    "example": "This orange is very sweet.",
+    "mnemonic": "산스크리트어 naranga(향기로운 과일)에서 유래. 과일 이름이 색 이름이 된 경우!"
   },
   {
-    "en": "wide",
-    "ko": "넓은",
-    "example": "The river is very wide.",
-    "mnemonic": "'와이드'스크린은 넓은 화면!"
+    "en": "uncle",
+    "ko": "삼촌",
+    "example": "My uncle lives in Busan.",
+    "mnemonic": "라틴어 avunculus(어머니의 형제)에서 유래. aunt(이모/고모)와 함께 기억."
   },
   {
-    "en": "thin",
-    "ko": "얇은",
-    "example": "The ice is too thin to walk on.",
-    "mnemonic": "'씬'은 얇고 가느다란 것."
+    "en": "winter",
+    "ko": "겨울",
+    "example": "It snows a lot in winter.",
+    "mnemonic": "고대 영어 winter에서 유래. water(물)과 같은 뿌리 — '젖은 계절'이란 뜻."
   },
   {
-    "en": "thick",
-    "ko": "두꺼운",
-    "example": "This book is very thick.",
-    "mnemonic": "'씩'은 두꺼운 것. thin의 반대!"
+    "en": "room",
+    "ko": "방",
+    "example": "Clean your room, please.",
+    "mnemonic": "고대 영어 rum(공간)에서 유래. classroom, bedroom처럼 합성어를 많이 만들어요."
   },
   {
-    "en": "soft",
-    "ko": "부드러운",
-    "example": "The pillow is very soft.",
-    "mnemonic": "'소프트'웨어는 부드러운(유연한) 프로그램."
+    "en": "interest",
+    "ko": "흥미",
+    "example": "I have an interest in science.",
+    "mnemonic": "inter(사이에) + est(있다). 마음 사이에 있는 것 → 흥미, 관심."
   },
   {
-    "en": "hard",
-    "ko": "딱딱한",
-    "example": "This test is very hard.",
-    "mnemonic": "'하드'디스크는 딱딱한 저장장치!"
+    "en": "zero",
+    "ko": "영",
+    "example": "The temperature dropped to zero.",
+    "mnemonic": "아랍어 sifr(빈 것)에서 유래. cipher(암호)도 같은 어원에서!"
   },
   {
-    "en": "bright",
-    "ko": "밝은",
-    "example": "The sun is very bright today.",
-    "mnemonic": "'브라이트'한 미래는 밝은 미래!"
+    "en": "island",
+    "ko": "섬",
+    "example": "Jeju is a beautiful island.",
+    "mnemonic": "고대 영어 igland = ig(섬) + land(땅). s는 나중에 추가된 묵음 글자!"
   },
   {
-    "en": "safe",
-    "ko": "안전한",
-    "example": "Is it safe to swim here?",
-    "mnemonic": "'세이프'는 안전한 금고도 뜻해요!"
+    "en": "teacher",
+    "ko": "선생님, 교사",
+    "example": "Our teacher is very kind.",
+    "mnemonic": "teach(가르치다) + er(사람). 가르치는 사람! -er은 '~하는 사람' 접미사."
   },
   {
-    "en": "lucky",
-    "ko": "운이 좋은",
-    "example": "You are so lucky!",
-    "mnemonic": "'럭키'세븐! 행운의 7!"
+    "en": "different",
+    "ko": "다른",
+    "example": "We have different opinions.",
+    "mnemonic": "dif(떨어져) + fer(나르다) + ent. 서로 떨어져 나르면 달라지는 것! differ(다르다)에서."
   },
   {
-    "en": "busy",
-    "ko": "바쁜",
-    "example": "I'm busy with homework.",
-    "mnemonic": "'비지'니스는 바쁘게 일하는 것!"
+    "en": "hair",
+    "ko": "머리카락, 머리",
+    "example": "She has long black hair.",
+    "mnemonic": "고대 영어 hær에서 유래. hairy = hair + y → 털이 많은."
   },
   {
-    "en": "because",
-    "ko": "왜냐하면",
-    "example": "I stayed home because it was raining.",
-    "mnemonic": "비커즈는 이유를 설명할 때 쓰는 접속사!"
+    "en": "beautiful",
+    "ko": "아름다운",
+    "example": "The flowers are beautiful.",
+    "mnemonic": "beauty(아름다움) + ful(가득한). 아름다움이 가득한! beauty는 라틴어 bellus(예쁜)에서."
   },
   {
-    "en": "today",
-    "ko": "오늘",
-    "example": "Today is Monday.",
-    "mnemonic": "to + day. 이 날 = 오늘!"
+    "en": "school",
+    "ko": "학교",
+    "example": "I go to school by bus.",
+    "mnemonic": "그리스어 schole(여가)에서 유래. 원래 여가 시간에 배우는 곳이었어요!"
   },
   {
-    "en": "tomorrow",
-    "ko": "내일",
-    "example": "See you tomorrow!",
-    "mnemonic": "to + morrow(아침). 다음 아침 = 내일!"
-  },
-  {
-    "en": "yesterday",
-    "ko": "어제",
-    "example": "I went to the movies yesterday.",
-    "mnemonic": "yester + day. 지나간 날 = 어제!"
-  },
-  {
-    "en": "always",
-    "ko": "항상",
-    "example": "She always smiles.",
-    "mnemonic": "all(모든) + ways(방법). 모든 경우에 = 항상!"
-  },
-  {
-    "en": "never",
-    "ko": "절대 ~않다",
-    "example": "I never eat fast food.",
-    "mnemonic": "네버엔딩 = 절대 끝나지 않는!"
-  },
-  {
-    "en": "often",
-    "ko": "자주",
-    "example": "I often visit the library.",
-    "mnemonic": "오프튼은 자주 반복하는 것."
-  },
-  {
-    "en": "before",
-    "ko": "~전에",
-    "example": "Wash your hands before eating.",
-    "mnemonic": "be + fore(앞). 앞에 있으면 ~전에!"
-  },
-  {
-    "en": "after",
-    "ko": "~후에",
-    "example": "Let us meet after school.",
-    "mnemonic": "애프터스쿨은 학교 후에!"
-  },
-  {
-    "en": "during",
-    "ko": "~동안",
-    "example": "I fell asleep during the movie.",
-    "mnemonic": "듀링은 어떤 시간 동안."
+    "en": "cross",
+    "ko": "건너다",
+    "example": "Look both ways before you cross the street.",
+    "mnemonic": "라틴어 crux(십자가)에서 유래. 십자로 가로지르다 → 건너다. crossroad(교차로)."
   },
   {
     "en": "around",
     "ko": "~주위에",
     "example": "There are trees around the house.",
-    "mnemonic": "어라운드 더 월드 = 세계 주위!"
+    "mnemonic": "a(~에) + round(둥글게). 둥글게 에워싸면 주위에!"
+  },
+  {
+    "en": "alive",
+    "ko": "살아있는",
+    "example": "The fish is still alive.",
+    "mnemonic": "a(~의 상태) + live(살다). 살아 있는 상태!"
   },
   {
     "en": "already",
     "ko": "이미",
     "example": "I already finished my homework.",
-    "mnemonic": "all + ready. 모두 준비됨 = 이미!"
+    "mnemonic": "all(모두) + ready(준비된). 모두 준비됨 = 이미!"
   },
   {
-    "en": "again",
-    "ko": "다시",
-    "example": "Can you say that again?",
-    "mnemonic": "어겐은 다시 한 번 반복!"
+    "en": "sleep",
+    "ko": "자다",
+    "example": "I need to sleep early tonight.",
+    "mnemonic": "고대 영어 slæpan에서 유래. sleepy = sleep + y → 졸리운."
   },
   {
-    "en": "every",
-    "ko": "모든",
-    "example": "I exercise every day.",
-    "mnemonic": "에브리바디(everybody)에서 모든 사람!"
+    "en": "week",
+    "ko": "주",
+    "example": "I exercise three times a week.",
+    "mnemonic": "고대 영어 wice에서 유래. weekend = week + end → 한 주의 끝, 주말."
+  },
+  {
+    "en": "drive",
+    "ko": "운전하다",
+    "example": "My mom drives me to school.",
+    "mnemonic": "고대 영어 drifan(몰다)에서 유래. driver = drive + er(사람) → 운전자."
+  },
+  {
+    "en": "walk",
+    "ko": "걷다",
+    "example": "I walk to school every day.",
+    "mnemonic": "고대 영어 wealcan(구르다)에서 유래. walker = walk + er(사람)."
+  },
+  {
+    "en": "late",
+    "ko": "늦은",
+    "example": "Sorry, I'm late.",
+    "mnemonic": "고대 영어 læt(느린)에서 유래. lately = late + ly → 최근에."
+  },
+  {
+    "en": "move",
+    "ko": "움직이다",
+    "example": "Don't move! Stay there.",
+    "mnemonic": "라틴어 movere(움직이다)에서 유래. movie = 움직이는 그림, remove = re + move(치우다)."
+  },
+  {
+    "en": "bright",
+    "ko": "밝은",
+    "example": "The sun is very bright today.",
+    "mnemonic": "고대 영어 beorht에서 유래. brighten = bright + en(되다) → 밝아지다."
+  },
+  {
+    "en": "art",
+    "ko": "미술",
+    "example": "I like art class the most.",
+    "mnemonic": "라틴어 ars(기술, 솜씨)에서 유래. artist = art + ist(사람) → 예술가."
   }
 ]

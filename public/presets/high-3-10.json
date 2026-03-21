@@ -1,0 +1,302 @@
+[
+  {
+    "en": "rapprochement",
+    "ko": "화해, 관계 개선",
+    "example": "The diplomatic rapprochement between the two countries ended decades of hostility.",
+    "mnemonic": "프랑스어 rapprocher(가까이 하다). re(다시) + approcher(가까이 가다) → 다시 가까워짐 → 화해"
+  },
+  {
+    "en": "nebulous",
+    "ko": "모호한, 흐릿한",
+    "example": "His plans for the future remained nebulous and undefined.",
+    "mnemonic": "nebul(구름, 안개, 라틴어 nebula) + ous = 구름 같은 → 모호한. nebula(성운): nebulous, nebulizer"
+  },
+  {
+    "en": "mordant",
+    "ko": "신랄한, 통렬한",
+    "example": "The comedian's mordant wit spared no one, including himself.",
+    "mnemonic": "mord(물다, 라틴어 mordere) + ant = 물어뜯는 → 신랄한. mord(물다): remorse(후회=되물어뜯는)"
+  },
+  {
+    "en": "fecund",
+    "ko": "다산의, 비옥한",
+    "example": "The fecund soil of the river valley supports abundant agriculture.",
+    "mnemonic": "fecund(다산의, 라틴어 fecundus). fec(만들다): 많이 만들어내는 → 비옥한. fecundity(다산)"
+  },
+  {
+    "en": "apotheosis",
+    "ko": "신격화, 극치",
+    "example": "The cathedral represents the apotheosis of Gothic architecture.",
+    "mnemonic": "apo(~에서) + theos(신, 그리스어) + is = 신이 됨 → 신격화. theo(신): theology, atheist, monotheism"
+  },
+  {
+    "en": "venality",
+    "ko": "매수 가능함, 부패",
+    "example": "The venality of the judges undermined public trust in the legal system.",
+    "mnemonic": "ven(팔다, 라틴어 venum) + ality = 팔 수 있는 상태 → 부패. ven(팔다): venal, vendor, vend"
+  },
+  {
+    "en": "ignominy",
+    "ko": "불명예, 치욕",
+    "example": "The defeated general bore the ignominy of surrender.",
+    "mnemonic": "ig(아닌) + nomin(이름, 라틴어 nomen) + y = 이름에 먹칠 → 불명예. nom(이름): nominal, nominate, ignominious"
+  },
+  {
+    "en": "equanimity",
+    "ko": "평정심, 침착함",
+    "example": "She faced the crisis with remarkable equanimity.",
+    "mnemonic": "'이퀴너미티' → 'equa(같은)+nimity(마음)' 마음이 항상 같은 평정심!"
+  },
+  {
+    "en": "reprobate",
+    "ko": "타락한 사람, 비난하다",
+    "example": "The reprobate gambler squandered his family's entire fortune.",
+    "mnemonic": "re(반대) + prob(좋은, 라틴어 probus) + ate = 좋지 않다고 판단된 → 타락한. prob(좋은): approve, probity"
+  },
+  {
+    "en": "indigent",
+    "ko": "빈곤한, 궁핍한",
+    "example": "The charity provides free legal services for indigent defendants.",
+    "mnemonic": "in(아닌) + dig(가지다, 라틴어 egere=필요하다) + ent = 가진 것이 없는 → 빈곤한. indigenous(토착의)와 어근 구별"
+  },
+  {
+    "en": "minatory",
+    "ko": "위협적인, 협박하는",
+    "example": "The dictator issued a minatory warning to all who dared to oppose his regime.",
+    "mnemonic": "min(돌출하다, 위협하다, 라틴어 minari) + atory = 위협하는. min(위협): menace, imminent, prominent(앞으로 돌출된)"
+  },
+  {
+    "en": "specious",
+    "ko": "그럴듯하지만 잘못된",
+    "example": "His specious argument sounded convincing but was logically flawed.",
+    "mnemonic": "spec(보다, 라틴어 specere) + ious = 보기에는 좋아 보이지만 → 그럴듯하나 잘못된. spec(보다): species, specimen, spectacle"
+  },
+  {
+    "en": "etiology",
+    "ko": "원인론, 병인학",
+    "example": "Researchers continue to study the etiology of autoimmune diseases.",
+    "mnemonic": "etio(원인, 그리스어 aitia) + logy(학문) = 원인에 대한 학문 → 원인론. logy(학문): biology, psychology, pathology"
+  },
+  {
+    "en": "torpid",
+    "ko": "무기력한, 둔한",
+    "example": "The bear becomes torpid during the winter months of hibernation.",
+    "mnemonic": "torp(마비시키다, 라틴어 torpere) + id = 마비된 → 무기력한. torpedo(어뢰=마비시키는 물고기)와 같은 어원"
+  },
+  {
+    "en": "impetuous",
+    "ko": "성급한, 충동적인",
+    "example": "His impetuous decision to quit his job left him in financial trouble.",
+    "mnemonic": "'임페추어스' → 'impet(돌진)+uous' 돌진하듯 성급한!"
+  },
+  {
+    "en": "encroach",
+    "ko": "침범하다, 잠식하다",
+    "example": "Urban development continues to encroach on wildlife habitats.",
+    "mnemonic": "en(안으로) + croach(갈고리, 고대 프랑스어 croc=갈고리) = 갈고리로 끌어당기다 → 침범하다. crochet(뜨개질=갈고리)"
+  },
+  {
+    "en": "importune",
+    "ko": "졸르다, 끈질기게 요구하다",
+    "example": "The charity workers importuned passersby for donations all day long.",
+    "mnemonic": "im(향해) + portun(적절한, 라틴어 opportunus의 반대) + e = 적절하지 않게 요구하다 → 졸르다. opportune(적절한)의 반대"
+  },
+  {
+    "en": "adumbrate",
+    "ko": "윤곽을 그리다, 예시하다",
+    "example": "The architect adumbrated the design before creating detailed plans.",
+    "mnemonic": "ad(~쪽으로) + umbr(그림자, 라틴어 umbra) + ate = 그림자를 드리우다 → 윤곽을 그리다. umbr(그림자): umbrella, penumbra"
+  },
+  {
+    "en": "impeach",
+    "ko": "탄핵하다, 비난하다",
+    "example": "Congress voted to impeach the president for abuse of power.",
+    "mnemonic": "im(안에) + peach(발, 라틴어 pedica=족쇄) = 족쇄를 채우다 → 탄핵하다. ped(발): impede, impediment"
+  },
+  {
+    "en": "parsimonious",
+    "ko": "인색한, 구두쇠의",
+    "example": "The parsimonious landlord refused to spend money on necessary repairs.",
+    "mnemonic": "parsimoni(절약, 라틴어 parcere=아끼다) + ous = 지나치게 아끼는 → 인색한. parsimony(인색)"
+  },
+  {
+    "en": "didactic",
+    "ko": "교훈적인, 설교조의",
+    "example": "The novel is didactic in nature, teaching moral lessons through its characters.",
+    "mnemonic": "그리스어 didaktikos, didaskein(가르치다)에서 유래. 가르침을 주는 → 교훈적인. autodidact(독학자) = auto(스스로) + didact(가르치다)"
+  },
+  {
+    "en": "enmity",
+    "ko": "적의, 증오",
+    "example": "Years of war had created deep enmity between the two nations.",
+    "mnemonic": "'엔미티' → 'en+mit(보내다)' enemy(적)에게 보내는 적의!"
+  },
+  {
+    "en": "dissolute",
+    "ko": "방탕한, 방종한",
+    "example": "The dissolute king squandered the kingdom's wealth on lavish parties.",
+    "mnemonic": "dis(떨어져) + solut(풀다, 라틴어 solvere) + e = 도덕이 풀어진 → 방탕한. solv(풀다): dissolve, resolve, solution"
+  },
+  {
+    "en": "ennui",
+    "ko": "권태, 무료함",
+    "example": "A sense of ennui pervaded the sleepy coastal town during winter.",
+    "mnemonic": "프랑스어 ennui(지루함), 라틴어 inodiare(싫어하다, in+odium=증오). 싫증 → 권태"
+  },
+  {
+    "en": "imperious",
+    "ko": "거만한, 위압적인",
+    "example": "The manager's imperious attitude alienated most of the staff.",
+    "mnemonic": "'임피리어스' → 'imper(명령)+ious' 명령하듯 거만한!"
+  },
+  {
+    "en": "tumult",
+    "ko": "소동, 혼란",
+    "example": "The announcement caused a tumult among the assembled protesters.",
+    "mnemonic": "라틴어 tumultus(소란), tumere(부풀다). 감정이 부풀어 터지는 → 소동. tumultuous(격렬한)"
+  },
+  {
+    "en": "digress",
+    "ko": "주제에서 벗어나다, 탈선하다",
+    "example": "The professor often digressed from the main topic during lectures.",
+    "mnemonic": "di(떨어져) + gress(걷다, 라틴어 gradi) = 떨어져 걷다 → 탈선하다. gress(걷다): progress, regress, transgress, congress"
+  },
+  {
+    "en": "pariah",
+    "ko": "버림받은 사람, 천민",
+    "example": "After the scandal, he became a pariah in the business world.",
+    "mnemonic": "인도 타밀어 paraiyar(북 치는 사람=하층민)에서 유래 → 사회에서 버림받은 사람"
+  },
+  {
+    "en": "vagary",
+    "ko": "변덕, 예측 불가한 변화",
+    "example": "Farmers must cope with the vagaries of weather and market prices.",
+    "mnemonic": "vag(방황하다, 라틴어 vagari) + ary = 방황하는 것 → 변덕. vag(방황): vague, vagrant, vagabond"
+  },
+  {
+    "en": "filibuster",
+    "ko": "의사진행 방해, 필리버스터",
+    "example": "The senator launched a filibuster to delay the vote on the controversial bill.",
+    "mnemonic": "스페인어 filibustero(해적), 네덜란드어 vrijbuiter(자유 약탈자). 의회에서 해적처럼 시간을 약탈 → 의사진행 방해"
+  },
+  {
+    "en": "uxorious",
+    "ko": "아내에게 지나치게 순종하는",
+    "example": "The uxorious husband agreed to every one of his wife's demands.",
+    "mnemonic": "uxor(아내, 라틴어) + ious = 아내에 관한 → 아내에게 지나치게 순종하는"
+  },
+  {
+    "en": "industrious",
+    "ko": "근면한, 부지런한",
+    "example": "The industrious farmer worked from dawn to dusk every single day.",
+    "mnemonic": "industr(근면, 라틴어 industria) + ious = 근면한. 같은 어근: industry(산업=근면의 결과)"
+  },
+  {
+    "en": "deplorable",
+    "ko": "한탄스러운, 비통한",
+    "example": "The refugees lived in deplorable conditions in the overcrowded camp.",
+    "mnemonic": "de(완전히) + plor(울다, 라틴어 plorare) + able = 완전히 울 만한 → 한탄스러운. plor(울다): deplore, implore(간청하다=울며 빌다)"
+  },
+  {
+    "en": "picaresque",
+    "ko": "악한 소설의, 떠돌이의",
+    "example": "The picaresque novel follows a clever rogue through a series of adventures.",
+    "mnemonic": "스페인어 picaresco, picaro(악한, 건달). 건달의 모험을 다룬 → 악한 소설의"
+  },
+  {
+    "en": "sobriquet",
+    "ko": "별명, 애칭",
+    "example": "The boxer earned the sobriquet 'The Iron Fist' after his knockout victories.",
+    "mnemonic": "프랑스어 sobriquet(별명), 원래 soubriquet(턱 아래를 치는 것). 가볍게 치며 부르는 이름 → 별명"
+  },
+  {
+    "en": "autonomy",
+    "ko": "자치권, 자율성",
+    "example": "The region demanded greater autonomy from the central government.",
+    "mnemonic": "auto(스스로) + nomy(법칙) = 스스로의 법칙 → 자치권. auto(스스로): automobile, autobiography. nom(법칙): economy"
+  },
+  {
+    "en": "dilatory",
+    "ko": "지연시키는, 꾸물거리는",
+    "example": "The company's dilatory tactics frustrated the regulators.",
+    "mnemonic": "dilat(늦추다, 라틴어 differre) + ory = 늦추는 → 지연시키는. defer(연기하다)와 같은 어원 계열"
+  },
+  {
+    "en": "stringency",
+    "ko": "엄격함, 긴축",
+    "example": "The stringency of the new regulations frustrated many small business owners.",
+    "mnemonic": "string(조이다, 라틴어 stringere) + ency = 조이는 상태 → 엄격함. stringent(엄격한)의 명사형"
+  },
+  {
+    "en": "comity",
+    "ko": "예의, 상호 존중",
+    "example": "International comity requires nations to respect each other's legal systems.",
+    "mnemonic": "라틴어 comitas(예의바름), comis(친절한)에서 유래. 국제간 예의 → 상호 존중"
+  },
+  {
+    "en": "desuetude",
+    "ko": "폐용, 불사용 상태",
+    "example": "Many ancient customs have fallen into desuetude in the modern era.",
+    "mnemonic": "de(떨어져) + suet(익숙한, 라틴어 suescere=익숙해지다) + ude = 익숙함에서 떨어진 → 폐용. suet(익숙한): custom(관습)과 어원 관련"
+  },
+  {
+    "en": "palliative",
+    "ko": "완화하는, 일시적인",
+    "example": "The medication provides only palliative care, not a cure for the disease.",
+    "mnemonic": "palli(덮다, 라틴어 palliare) + ative = 덮어서 가리는 → 완화하는. pall(덮다): palliate, pall(관을 덮는 천)"
+  },
+  {
+    "en": "derelict",
+    "ko": "유기된, 태만한",
+    "example": "The derelict building was a haven for stray cats and pigeons.",
+    "mnemonic": "de(완전히) + relict(버려진, 라틴어 relinquere) = 완전히 버려진 → 유기된. relinquish(포기하다)와 같은 어근"
+  },
+  {
+    "en": "goad",
+    "ko": "자극하다, 몰아세우다",
+    "example": "His critics' mockery goaded him into proving them wrong.",
+    "mnemonic": "고대 영어 gad(뾰족한 막대). 소를 몰 때 쓰는 뾰족한 막대 → 자극하다, 몰아세우다"
+  },
+  {
+    "en": "holistic",
+    "ko": "전체론적인, 전인적인",
+    "example": "The hospital takes a holistic approach to patient care, treating mind and body.",
+    "mnemonic": "hol(전체, 그리스어 holos) + istic = 전체의 → 전체론적인. hol(전체): whole, catholic(보편적)"
+  },
+  {
+    "en": "morose",
+    "ko": "우울한, 침울한",
+    "example": "He became morose after losing his job and barely spoke to anyone.",
+    "mnemonic": "mor(기질, 라틴어 morosus=까다로운) + ose = 까다롭고 우울한"
+  },
+  {
+    "en": "precocious",
+    "ko": "조숙한, 일찍 발달한",
+    "example": "The precocious child could read and write by the age of three.",
+    "mnemonic": "pre(미리) + coc(익다, 라틴어 coquere) + ious = 미리 익은 → 조숙한. coqu/coc(요리하다): cook, concoct"
+  },
+  {
+    "en": "escalation",
+    "ko": "확대, 격화",
+    "example": "The escalation of the conflict threatened regional stability.",
+    "mnemonic": "escalat(오르다, 라틴어 scala=사다리) + ion = 올라가는 것 → 확대. scala(사다리): escalate, scale"
+  },
+  {
+    "en": "plangent",
+    "ko": "울려 퍼지는, 애절한",
+    "example": "The plangent notes of the cello resonated throughout the cathedral.",
+    "mnemonic": "plang(치다, 라틴어 plangere) + ent = 가슴을 치는 듯한 소리 → 울려 퍼지는. plang(치다): complain, plaintiff"
+  },
+  {
+    "en": "embezzle",
+    "ko": "횡령하다, 착복하다",
+    "example": "The accountant embezzled thousands of dollars from the company over several years.",
+    "mnemonic": "em(안에) + bezzle(파괴하다, 앵글로-프랑스어 besiler) = 안에서 파괴하다(=몰래 가져가다) → 횡령하다"
+  },
+  {
+    "en": "interpolate",
+    "ko": "삽입하다, 보간하다",
+    "example": "The editor interpolated several explanatory notes into the ancient text.",
+    "mnemonic": "inter(사이에) + pol(다듬다, 라틴어 polire) + ate = 사이를 다듬어 넣다 → 삽입하다. pol(다듬다): polish"
+  }
+]

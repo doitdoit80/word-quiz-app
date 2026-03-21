@@ -1,152 +1,152 @@
 [
   {
-    "en": "anxious",
-    "ko": "불안한",
-    "example": "She felt anxious before the exam.",
-    "mnemonic": "앵지어스는 마음이 조마조마 불안한!"
-  },
-  {
-    "en": "apologize",
-    "ko": "사과하다",
-    "example": "I apologize for being late.",
-    "mnemonic": "아폴로지는 sorry보다 정중한 사과!"
-  },
-  {
-    "en": "architect",
-    "ko": "건축가",
-    "example": "The architect designed the building.",
-    "mnemonic": "아키텍트는 건물을 설계하는 사람!"
-  },
-  {
-    "en": "argue",
-    "ko": "논쟁하다",
-    "example": "They argued about the plan.",
-    "mnemonic": "아규먼트(argument)는 논쟁!"
-  },
-  {
-    "en": "attract",
-    "ko": "끌어당기다",
-    "example": "The flower attracts bees.",
-    "mnemonic": "at(~에) + tract(끌다). 끌리면 매력!"
-  },
-  {
-    "en": "average",
-    "ko": "평균",
-    "example": "The average score was 80.",
-    "mnemonic": "애버리지는 평균적인 것!"
-  },
-  {
-    "en": "behavior",
-    "ko": "행동",
-    "example": "His behavior was strange.",
-    "mnemonic": "비헤이비어는 사람의 행동 방식!"
-  },
-  {
-    "en": "billion",
-    "ko": "10억",
-    "example": "The earth has 8 billion people.",
-    "mnemonic": "빌리언은 밀리언보다 훨씬 큰 10억!"
-  },
-  {
-    "en": "borrow",
-    "ko": "빌리다",
-    "example": "Can I borrow your pen?",
-    "mnemonic": "보로우는 빌려오는 것. lend의 반대!"
-  },
-  {
-    "en": "breath",
-    "ko": "숨",
-    "example": "Take a deep breath.",
-    "mnemonic": "브레스는 숨을 쉬는 호흡!"
-  },
-  {
-    "en": "budget",
-    "ko": "예산",
-    "example": "We need to plan our budget.",
-    "mnemonic": "버짓은 돈을 계획하는 예산!"
-  },
-  {
-    "en": "calm",
-    "ko": "차분한",
-    "example": "Stay calm and take a deep breath.",
-    "mnemonic": "캄 다운! 차분하게!"
-  },
-  {
     "en": "capital",
     "ko": "수도",
     "example": "Seoul is the capital of Korea.",
-    "mnemonic": "캐피탈은 나라의 중심, 수도!"
+    "mnemonic": "라틴어 caput(머리) + al. 나라의 머리가 수도! cap(머리): captain(대장), chapter(장)도 같은 어근."
   },
   {
-    "en": "career",
-    "ko": "직업",
-    "example": "She wants a career in medicine.",
-    "mnemonic": "커리어는 평생의 직업 경로!"
+    "en": "service",
+    "ko": "서비스",
+    "example": "The service at this hotel is excellent.",
+    "mnemonic": "라틴어 servitium = serv(봉사하다) + ice. 봉사하는 것! serve(봉사), servant(하인)도 같은 어근."
   },
   {
-    "en": "category",
-    "ko": "범주",
-    "example": "Divide the items into categories.",
-    "mnemonic": "카테고리는 분류하는 범주!"
+    "en": "confuse",
+    "ko": "혼란시키다",
+    "example": "The directions confused me.",
+    "mnemonic": "con(함께) + fuse(붓다). 함께 섞어부으면 혼란! fuse(붓다/녹이다): refuse(거부), diffuse(퍼뜨리다)."
   },
   {
-    "en": "cause",
-    "ko": "원인",
-    "example": "What caused the fire?",
-    "mnemonic": "코즈는 일이 일어난 원인!"
+    "en": "determine",
+    "ko": "결정하다",
+    "example": "She determined to study harder.",
+    "mnemonic": "de(완전히) + termin(끝, 한계). 끝까지 정하면 결정! terminal(터미널, 끝)도 같은 어근."
   },
   {
-    "en": "ceremony",
-    "ko": "의식",
-    "example": "The graduation ceremony was beautiful.",
-    "mnemonic": "세레모니는 공식적인 행사!"
+    "en": "profit",
+    "ko": "이익",
+    "example": "The company made a big profit.",
+    "mnemonic": "pro(앞으로) + fit(만들다). 앞으로 만들어낸 것이 이익! profitable(수익성 있는)."
   },
   {
-    "en": "clever",
-    "ko": "영리한",
-    "example": "The clever student solved the puzzle.",
-    "mnemonic": "클레버는 머리가 좋은 영리한!"
+    "en": "decrease",
+    "ko": "감소하다",
+    "example": "The temperature decreased at night.",
+    "mnemonic": "de(아래로) + crease(자라다). 아래로 향하면 감소! increase(증가)의 반대."
   },
   {
-    "en": "climate",
-    "ko": "기후",
-    "example": "The climate is getting warmer.",
-    "mnemonic": "클라이밋은 오랜 기간의 날씨, 기후!"
+    "en": "deliver",
+    "ko": "배달하다",
+    "example": "The package was delivered.",
+    "mnemonic": "de(완전히) + liver(자유롭게 하다). 완전히 자유롭게 보내면 배달! delivery(배달)은 명사형. liberate(해방)도 같은 어근."
   },
   {
-    "en": "collect",
-    "ko": "모으다",
-    "example": "He collects stamps.",
-    "mnemonic": "col(함께) + lect(모으다). 함께 모으면 수집!"
+    "en": "publish",
+    "ko": "출판하다",
+    "example": "She published her first book.",
+    "mnemonic": "public(대중) + ish. 대중에게 내놓으면 출판! publication(출판물)은 명사형."
   },
   {
-    "en": "combine",
-    "ko": "결합하다",
-    "example": "Combine the ingredients together.",
-    "mnemonic": "com(함께) + bine(묶다). 함께 묶으면 결합!"
+    "en": "support",
+    "ko": "지지하다",
+    "example": "My family always supports me.",
+    "mnemonic": "sup(아래에서) + port(나르다). 아래에서 받쳐 나르면 지지! port(나르다): transport, import, export."
   },
   {
-    "en": "community",
-    "ko": "공동체",
-    "example": "Our community is friendly.",
-    "mnemonic": "커뮤니티는 함께 사는 공동체!"
+    "en": "destroy",
+    "ko": "파괴하다",
+    "example": "The fire destroyed the building.",
+    "mnemonic": "de(완전히) + stroy(쌓다의 반대). 완전히 무너뜨리면 파괴! construct(건설)의 struct와 반대 관계."
+  },
+  {
+    "en": "culture",
+    "ko": "문화",
+    "example": "Korean culture is becoming popular worldwide.",
+    "mnemonic": "라틴어 cultura = cult(경작하다) + ure. 마음의 밭을 경작한 것이 문화! agriculture(농업)도 같은 어근."
+  },
+  {
+    "en": "respond",
+    "ko": "응답하다",
+    "example": "He didn't respond to my message.",
+    "mnemonic": "re(다시) + spond(약속하다). 약속에 다시 답하면 응답! response(응답), responsible(책임감 있는)."
+  },
+  {
+    "en": "recognize",
+    "ko": "인식하다",
+    "example": "I didn't recognize you at first.",
+    "mnemonic": "re(다시) + cogn(알다) + ize. 다시 알아보면 인식! cognition(인지)도 같은 어근 cogn."
+  },
+  {
+    "en": "experiment",
+    "ko": "실험",
+    "example": "We did an experiment in science class.",
+    "mnemonic": "ex(밖으로) + peri(시도하다) + ment. 밖으로 나가 시도하면 실험! experience(경험)도 같은 어근 peri."
+  },
+  {
+    "en": "symbol",
+    "ko": "상징",
+    "example": "The dove is a symbol of peace.",
+    "mnemonic": "그리스어 symbolon = sym(함께) + bol(던지다). 함께 던져 맞추는 표시가 상징!"
   },
   {
     "en": "competition",
     "ko": "경쟁",
     "example": "She won the swimming competition.",
-    "mnemonic": "컴피티션은 서로 겨루는 경쟁!"
+    "mnemonic": "com(함께) + pet(구하다) + ition. 함께 구하면 경쟁! compete(경쟁하다), competitive(경쟁적인)."
   },
   {
-    "en": "complain",
-    "ko": "불평하다",
-    "example": "He always complains about the food.",
-    "mnemonic": "컴플레인은 불만을 표현하는 불평!"
+    "en": "insist",
+    "ko": "주장하다",
+    "example": "She insisted on paying for dinner.",
+    "mnemonic": "in(위에) + sist(서다). 꿋꿋이 서 있으면 고집! sist(서다): resist(저항), persist(끈질기게 하다)."
   },
   {
-    "en": "conclusion",
-    "ko": "결론",
-    "example": "In conclusion, we should recycle more.",
-    "mnemonic": "con + clus(닫다). 토론을 닫으면 결론!"
+    "en": "calm",
+    "ko": "차분한",
+    "example": "Stay calm and take a deep breath.",
+    "mnemonic": "라틴어 cauma(더위의 쉼)에서 유래. 뜨거운 오후 쉬는 시간처럼 고요한 상태."
+  },
+  {
+    "en": "accident",
+    "ko": "사고",
+    "example": "There was a car accident.",
+    "mnemonic": "ac(~에) + cid(떨어지다) + ent. 갑자기 떨어진 일이 사고! cid(떨어지다): incident(사건), coincide(일치)."
+  },
+  {
+    "en": "conscious",
+    "ko": "의식하는",
+    "example": "She was conscious of being watched.",
+    "mnemonic": "con(함께) + sci(알다) + ous. 함께 알면 의식하는! sci(알다): science(과학), conscience(양심)."
+  },
+  {
+    "en": "temperature",
+    "ko": "온도",
+    "example": "The temperature is 30 degrees today.",
+    "mnemonic": "temper(조절하다) + ature. 열을 조절하는 정도가 온도! temperate(온화한)도 같은 어근."
+  },
+  {
+    "en": "realize",
+    "ko": "깨닫다",
+    "example": "I realized I was wrong.",
+    "mnemonic": "real(진짜) + ize(~하다). 진짜를 알게 되면 깨달음! realization(깨달음)은 명사형."
+  },
+  {
+    "en": "decision",
+    "ko": "결정",
+    "example": "It was a hard decision to make.",
+    "mnemonic": "de(완전히) + cis(자르다) + ion. 완전히 잘라내면 결정! precise(정확한)도 같은 어근 cis(자르다)."
+  },
+  {
+    "en": "effort",
+    "ko": "노력",
+    "example": "She made a great effort to pass the test.",
+    "mnemonic": "ef(밖으로) + fort(강한). 힘을 밖으로 내면 노력! fort(강한): fortune(행운), comfort(위안)도 같은 어근."
+  },
+  {
+    "en": "present",
+    "ko": "선물",
+    "example": "She presented her project to the class.",
+    "mnemonic": "pre(앞에) + sent(있다). 앞에 있는 것 → 선물, 현재, 발표! presence(존재)도 같은 어근."
   }
 ]

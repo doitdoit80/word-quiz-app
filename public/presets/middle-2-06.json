@@ -1,152 +1,152 @@
 [
   {
-    "en": "reveal",
-    "ko": "드러내다",
-    "example": "He revealed his secret.",
-    "mnemonic": "re(다시) + veal(베일). 베일을 벗기면 드러남!"
+    "en": "structure",
+    "ko": "구조",
+    "example": "The structure of the building is strong.",
+    "mnemonic": "struct(쌓다) + ure(것). 쌓아올린 것이 구조! struct(쌓다): construct(건설), destruct(파괴), instruct(지시)."
   },
   {
-    "en": "select",
-    "ko": "선택하다",
-    "example": "Please select your answer.",
-    "mnemonic": "se(떨어져) + lect(모으다). 떼어서 모으면 선택!"
+    "en": "manage",
+    "ko": "관리하다",
+    "example": "She manages the team well.",
+    "mnemonic": "라틴어 manus(손)에서 유래. 손으로 다루면 관리! manual(수동의), manuscript(원고)도 같은 어근 man(손)."
   },
   {
-    "en": "serious",
-    "ko": "심각한",
-    "example": "This is a serious problem.",
-    "mnemonic": "'시리어스'한 표정은 진지한 표정!"
+    "en": "impossible",
+    "ko": "불가능한",
+    "example": "Nothing is impossible.",
+    "mnemonic": "im(아닌) + possible(가능한). 가능하지 않은! im-/in-은 부정 접두사: impolite, incorrect."
   },
   {
-    "en": "service",
-    "ko": "서비스",
-    "example": "The service at this hotel is excellent.",
-    "mnemonic": "'서비스'는 한국어로도 같아요!"
+    "en": "entire",
+    "ko": "전체의",
+    "example": "The entire class went on a field trip.",
+    "mnemonic": "라틴어 integer(온전한) = in(아닌) + teg(만지다). 손대지 않은 온전한 → 전체의! entirely(완전히)."
   },
   {
-    "en": "similar",
-    "ko": "비슷한",
-    "example": "The two dresses are similar.",
-    "mnemonic": "'시밀러'는 닮은 것, 비슷한 것."
+    "en": "ignore",
+    "ko": "무시하다",
+    "example": "Don't ignore the warning signs.",
+    "mnemonic": "ig(아닌) + nore(알다). 알지 못하는 척 → 무시! ignorant(무지한)도 같은 어근. gnor = know."
   },
   {
-    "en": "society",
-    "ko": "사회",
-    "example": "We live in a modern society.",
-    "mnemonic": "soci(동료) + ety. 동료들이 모인 사회!"
+    "en": "treat",
+    "ko": "대하다",
+    "example": "She treats everyone with kindness.",
+    "mnemonic": "라틴어 tractare(끌다, 다루다)에서 유래. 사람을 끌어 다루는 것이 대접! treatment(치료, 대우)."
+  },
+  {
+    "en": "unite",
+    "ko": "연합하다",
+    "example": "We must unite to solve this problem.",
+    "mnemonic": "uni(하나) + te. 하나로 합치면 통합! uni(하나): uniform(제복), universe(우주), unique(독특한)."
+  },
+  {
+    "en": "provide",
+    "ko": "제공하다",
+    "example": "The school provides free lunch.",
+    "mnemonic": "pro(앞에) + vide(보다). 앞을 내다보고 미리 마련하면 제공! vid(보다): video, vision도 같은 어근."
+  },
+  {
+    "en": "desire",
+    "ko": "욕망",
+    "example": "He has a strong desire to win.",
+    "mnemonic": "de(~에서) + sire(별). 별을 보며 바라는 것이 욕망! 라틴어 desiderare(별을 그리워하다)에서 유래."
   },
   {
     "en": "solution",
     "ko": "해결책",
     "example": "We need to find a solution.",
-    "mnemonic": "solve(풀다) + tion. 문제를 풀면 해결책!"
+    "mnemonic": "solve(풀다) + tion(명사). 문제를 풀면 해결책! solv(풀다): resolve(해결), dissolve(녹이다)."
   },
   {
-    "en": "spread",
-    "ko": "퍼지다",
-    "example": "The news spread quickly.",
-    "mnemonic": "'스프레드'는 빵에 펼쳐 바르는 것처럼 퍼지는 것!"
+    "en": "complain",
+    "ko": "불평하다",
+    "example": "He always complains about the food.",
+    "mnemonic": "com(강조) + plain(가슴을 치다). 가슴을 치며 호소하면 불평! complaint(불만)은 명사형."
   },
   {
-    "en": "structure",
-    "ko": "구조",
-    "example": "The structure of the building is strong.",
-    "mnemonic": "struct(쌓다) + ure. 쌓아올린 것이 구조!"
+    "en": "express",
+    "ko": "표현하다",
+    "example": "He expressed his feelings honestly.",
+    "mnemonic": "ex(밖으로) + press(누르다). 마음을 밖으로 눌러 짜내면 표현! press(누르다): impress, compress도 같은 어근."
   },
   {
-    "en": "struggle",
-    "ko": "노력하다",
-    "example": "She struggled to finish the project.",
-    "mnemonic": "'스트러글'은 힘들게 발버둥치는 것!"
+    "en": "pressure",
+    "ko": "압력",
+    "example": "He is under a lot of pressure.",
+    "mnemonic": "press(누르다) + ure(것). 누르는 것이 압력! press(누르다): express(표현), impress(감동시키다)."
   },
   {
-    "en": "success",
-    "ko": "성공",
-    "example": "Hard work leads to success.",
-    "mnemonic": "suc(아래에서) + cess(가다). 아래에서 올라가면 성공!"
+    "en": "purpose",
+    "ko": "목적",
+    "example": "What is the purpose of this meeting?",
+    "mnemonic": "pur(앞으로) + pose(놓다). 앞에 놓아둔 것이 목적! propose = pro + pose → 제안하다."
   },
   {
-    "en": "support",
-    "ko": "지지하다",
-    "example": "My family always supports me.",
-    "mnemonic": "sup(아래에서) + port(나르다). 아래에서 받쳐주면 지지!"
+    "en": "control",
+    "ko": "통제하다",
+    "example": "You need to control your anger.",
+    "mnemonic": "contra(반대로) + rol(기록 두루마리). 기록과 대조하며 점검 → 통제! controller(관리자)."
   },
   {
-    "en": "survive",
-    "ko": "살아남다",
-    "example": "Only a few plants survived the drought.",
-    "mnemonic": "sur(위에) + vive(살다). 위에서 살아남다!"
-  },
-  {
-    "en": "symbol",
-    "ko": "상징",
-    "example": "The dove is a symbol of peace.",
-    "mnemonic": "'심볼'은 무언가를 나타내는 상징!"
-  },
-  {
-    "en": "talent",
-    "ko": "재능",
-    "example": "She has a talent for singing.",
-    "mnemonic": "'탤런트'는 재능 있는 사람을 뜻하기도!"
-  },
-  {
-    "en": "valuable",
-    "ko": "가치 있는",
-    "example": "Time is very valuable.",
-    "mnemonic": "value(가치) + able(할 수 있는). 가치가 있는!"
-  },
-  {
-    "en": "variety",
-    "ko": "다양성",
-    "example": "There is a wide variety of food.",
-    "mnemonic": "vary(다양하다) + ety. 다양한 것들의 모음!"
+    "en": "remain",
+    "ko": "남다",
+    "example": "Only two pieces remain.",
+    "mnemonic": "re(뒤에) + main(머무르다). 뒤에 머무르면 남다! remainder(나머지)은 명사형."
   },
   {
     "en": "warn",
     "ko": "경고하다",
     "example": "I warned him about the danger.",
-    "mnemonic": "'워닝'은 경고! 위험을 알리는 것."
+    "mnemonic": "고대 영어 warnian(조심시키다)에서 유래. warning = warn + ing → 경고."
   },
   {
-    "en": "worth",
-    "ko": "가치가 있는",
-    "example": "This book is worth reading.",
-    "mnemonic": "'워스'는 ~할 가치가 있다는 뜻."
+    "en": "trend",
+    "ko": "추세",
+    "example": "Social media trends change quickly.",
+    "mnemonic": "고대 영어 trendan(구르다, 돌다)에서 유래. 세상이 굴러가는 방향이 추세! trending(유행하는)."
   },
   {
-    "en": "apply",
-    "ko": "지원하다",
-    "example": "She applied for the job.",
-    "mnemonic": "ap(~에) + ply(접다). 서류를 접어 제출하면 지원!"
+    "en": "tend",
+    "ko": "~하는 경향이 있다",
+    "example": "Children tend to be curious.",
+    "mnemonic": "라틴어 tendere(향하다, 뻗다)에서 유래. 한쪽으로 기울면 경향! tendency(경향), attend(참석)도 같은 어근."
   },
   {
-    "en": "base",
-    "ko": "기초",
-    "example": "This soup has a tomato base.",
-    "mnemonic": "'베이스'캠프는 기초가 되는 캠프!"
+    "en": "remove",
+    "ko": "제거하다",
+    "example": "Please remove your shoes.",
+    "mnemonic": "re(뒤로) + move(움직이다). 뒤로 치우면 제거! removal(제거)은 명사형."
   },
   {
-    "en": "beyond",
-    "ko": "~너머에",
-    "example": "The view beyond the mountain is beautiful.",
-    "mnemonic": "be + yond(저쪽). 저쪽 너머에!"
+    "en": "specific",
+    "ko": "구체적인",
+    "example": "Can you be more specific?",
+    "mnemonic": "라틴어 species(종류) + fic(만들다). 종류를 딱 정하면 구체적! specify(명시하다)."
   },
   {
-    "en": "claim",
-    "ko": "주장하다",
-    "example": "He claims he is innocent.",
-    "mnemonic": "'클레임'은 불만을 주장하는 것!"
+    "en": "tradition",
+    "ko": "전통",
+    "example": "We should keep our traditions.",
+    "mnemonic": "tra(넘어) + dit(주다) + ion. 세대를 넘어 전해주는 것이 전통! traditional(전통적인)."
   },
   {
-    "en": "divide",
-    "ko": "나누다",
-    "example": "Divide the cake into eight pieces.",
-    "mnemonic": "di(둘로) + vide(보다). 둘로 보면 나누기!"
+    "en": "judge",
+    "ko": "판단하다",
+    "example": "Don't judge people by their looks.",
+    "mnemonic": "라틴어 judex = jus(법) + dic(말하다). 법에 의해 말하면 판결! justice(정의)도 같은 어근 jus."
   },
   {
-    "en": "emotion",
-    "ko": "감정",
-    "example": "She expressed her emotions through art.",
-    "mnemonic": "e(밖으로) + motion(움직임). 밖으로 움직이는 마음이 감정!"
+    "en": "introduce",
+    "ko": "소개하다",
+    "example": "Let me introduce myself.",
+    "mnemonic": "intro(안으로) + duce(이끌다). 안으로 이끌어 들이면 소개! duce(이끌다): produce, reduce, educate."
+  },
+  {
+    "en": "involve",
+    "ko": "포함하다",
+    "example": "The project involves many people.",
+    "mnemonic": "in(안에) + volve(감다, 구르다). 안에 감아 넣으면 관여! volve(구르다): evolve(진화), revolve(회전)."
   }
 ]

@@ -1,0 +1,302 @@
+[
+  {
+    "en": "blind",
+    "ko": "눈먼, 맹목적인",
+    "example": "The blind man crossed the street with a guide dog.",
+    "mnemonic": "고대 영어 blind(보이지 않는)에서 유래. blend(섞다)와 어원 관련 — 뒤섞여 안 보이는"
+  },
+  {
+    "en": "naval",
+    "ko": "해군의",
+    "example": "The naval fleet sailed across the ocean.",
+    "mnemonic": "'네이벌' → 'nav(배, navis)+al' 배의 = 해군의!"
+  },
+  {
+    "en": "rage",
+    "ko": "분노, 격노",
+    "example": "He was filled with rage after the unfair decision.",
+    "mnemonic": "라틴어 rabies(광기, 분노)에서 유래. 미칠 듯한 분노 → 격노"
+  },
+  {
+    "en": "attitude",
+    "ko": "태도, 자세",
+    "example": "A positive attitude can change your life.",
+    "mnemonic": "apt(적합한, aptus) + itude(상태) = 적합하게 갖춘 상태 → 태도, 자세"
+  },
+  {
+    "en": "agenda",
+    "ko": "안건, 의제",
+    "example": "The meeting agenda includes three important topics.",
+    "mnemonic": "ag(행동하다, agere) + enda(해야 할 것들) = 해야 할 일 목록 → 안건, 의제"
+  },
+  {
+    "en": "doubt",
+    "ko": "의심, 의심하다",
+    "example": "I doubt that he will come to the party.",
+    "mnemonic": "라틴어 dubitare(망설이다)에서 유래. du(둘, duo) = 두 갈래로 망설이다 → 의심하다. 관련어: double"
+  },
+  {
+    "en": "spirit",
+    "ko": "정신, 영혼, 기운",
+    "example": "The team showed great fighting spirit.",
+    "mnemonic": "라틴어 spiritus(숨, 호흡)에서 유래. spir(숨쉬다, spirare). 숨 = 생명력 → 정신. 관련어: inspire"
+  },
+  {
+    "en": "account",
+    "ko": "계좌, 설명",
+    "example": "He gave a detailed account of the accident.",
+    "mnemonic": "ac(~으로) + count(세다, computare) = 하나씩 세다 → 계좌, 설명"
+  },
+  {
+    "en": "bloom",
+    "ko": "꽃이 피다, 개화",
+    "example": "Cherry blossoms bloom in early spring.",
+    "mnemonic": "고대 노르드어 blóm(꽃)에서 유래. 관련어: blossom(꽃피다). 꽃이 활짝 피다"
+  },
+  {
+    "en": "flame",
+    "ko": "불꽃, 화염",
+    "example": "The flame of the candle flickered in the wind.",
+    "mnemonic": "라틴어 flamma(불꽃)에서 유래. flagrare(타다)와 관련. 활활 타는 것 → 불꽃. 관련어: inflame"
+  },
+  {
+    "en": "route",
+    "ko": "경로, 노선",
+    "example": "What is the shortest route to the airport?",
+    "mnemonic": "라틴어 rupta(깨진 길, rumpere=깨다)에서 유래. 숲을 깨고 만든 길 → 경로"
+  },
+  {
+    "en": "merely",
+    "ko": "단지, 그저",
+    "example": "I merely asked a simple question.",
+    "mnemonic": "'미얼리' → '미어(mere=순수한)리' 순수하게 단지!"
+  },
+  {
+    "en": "arrest",
+    "ko": "체포하다",
+    "example": "The police arrested the thief last night.",
+    "mnemonic": "ar(~에) + rest(멈추다) = 멈추게 하다 → 체포하다"
+  },
+  {
+    "en": "patent",
+    "ko": "특허",
+    "example": "The inventor registered a patent for his new device.",
+    "mnemonic": "'패턴트' → '패턴(patent)' 특별한 발명에 특허!"
+  },
+  {
+    "en": "index",
+    "ko": "색인, 지수",
+    "example": "Look up the word in the index at the back of the book.",
+    "mnemonic": "'인덱스' → '인덱스(index)' 손가락으로 가리키는 색인!"
+  },
+  {
+    "en": "regulate",
+    "ko": "규제하다, 조절하다",
+    "example": "The government regulates food safety standards.",
+    "mnemonic": "regul(규칙, regula) + ate = 규칙에 맞추다 → 규제하다. 관련어: regular, rule"
+  },
+  {
+    "en": "resemble",
+    "ko": "닮다, 비슷하다",
+    "example": "She resembles her mother in many ways.",
+    "mnemonic": "re(다시) + semble(비슷한, similis) = 다시 비슷하다 → 닮다. 관련어: similar, assemble"
+  },
+  {
+    "en": "shift",
+    "ko": "이동, 변화, 교대",
+    "example": "There has been a shift in public opinion.",
+    "mnemonic": "고대 영어 sciftan(배열하다, 나누다)에서 유래. 위치를 바꾸다 → 이동, 변화"
+  },
+  {
+    "en": "innocent",
+    "ko": "무죄의, 순진한",
+    "example": "The lawyer proved that his client was innocent.",
+    "mnemonic": "'이노센트' → 'in(아닌)+nocent(해로운)' 해롭지 않은 = 무죄!"
+  },
+  {
+    "en": "convention",
+    "ko": "관습, 대회",
+    "example": "The annual comic convention attracted thousands of fans.",
+    "mnemonic": "con(함께) + vent(오다, venire) + ion = 함께 모이다 → 대회, 관습"
+  },
+  {
+    "en": "dull",
+    "ko": "둔한, 지루한, 흐릿한",
+    "example": "The knife was too dull to cut the bread.",
+    "mnemonic": "고대 영어 dol(어리석은, 둔한)에서 유래. 날카롭지 않은 → 둔한, 지루한"
+  },
+  {
+    "en": "stock",
+    "ko": "주식, 재고",
+    "example": "She invested in the stock market.",
+    "mnemonic": "고대 영어 stocc(나무 그루터기, 줄기)에서 유래. 쌓아둔 것 → 재고, 자본 → 주식"
+  },
+  {
+    "en": "instrument",
+    "ko": "악기, 도구",
+    "example": "She can play three different musical instruments.",
+    "mnemonic": "'인스트루먼트' → '인스트루(instru=도구)먼트' 악기 = 음악 도구!"
+  },
+  {
+    "en": "reputation",
+    "ko": "명성, 평판",
+    "example": "The restaurant has an excellent reputation.",
+    "mnemonic": "re(반복) + put(생각하다, putare) + ation = 반복해서 생각되는 것 → 평판. 관련어: compute"
+  },
+  {
+    "en": "sweat",
+    "ko": "땀, 땀을 흘리다",
+    "example": "He was sweating after running for an hour.",
+    "mnemonic": "고대 영어 swætan(땀 흘리다)에서 유래. 체온 조절을 위해 흘리는 것 → 땀"
+  },
+  {
+    "en": "mess",
+    "ko": "엉망, 어지른 상태",
+    "example": "His room was a complete mess.",
+    "mnemonic": "'메스' → '메스(mess)' 엉망진창!"
+  },
+  {
+    "en": "frank",
+    "ko": "솔직한",
+    "example": "To be frank, I don't agree with your plan.",
+    "mnemonic": "프랑크족(Franks)에서 유래. 자유민인 프랑크인처럼 자유롭게 말하는 → 솔직한"
+  },
+  {
+    "en": "molecule",
+    "ko": "분자",
+    "example": "Water molecules consist of hydrogen and oxygen.",
+    "mnemonic": "'몰레큘' → '몰(mole)+큘' 아주 작은 덩어리 = 분자!"
+  },
+  {
+    "en": "deal",
+    "ko": "거래, 다루다",
+    "example": "Let's make a deal and help each other.",
+    "mnemonic": "고대 영어 dǣlan(나누다)에서 유래. 나누어 주다 → 거래하다, 다루다"
+  },
+  {
+    "en": "royal",
+    "ko": "왕의, 왕실의",
+    "example": "The royal family lives in the palace.",
+    "mnemonic": "라틴어 regalis(왕의)에서 유래. reg(왕, rex). 왕에 관한 → 왕실의. 관련어: regal, reign"
+  },
+  {
+    "en": "highlight",
+    "ko": "강조하다, 하이라이트",
+    "example": "The report highlights the need for better education.",
+    "mnemonic": "'하이라이트' → '하이라이트(highlight)' 형광펜으로 강조!"
+  },
+  {
+    "en": "neglect",
+    "ko": "무시하다, 방치하다",
+    "example": "Don't neglect your health.",
+    "mnemonic": "'니글렉트' → 'neg(부정)+lect(고르다)' 골라주지 않다 = 무시!"
+  },
+  {
+    "en": "renew",
+    "ko": "갱신하다, 재개하다",
+    "example": "She renewed her library card.",
+    "mnemonic": "re(다시) + new(새로운) = 다시 새롭게 하다 → 갱신하다"
+  },
+  {
+    "en": "theme",
+    "ko": "주제, 테마",
+    "example": "The theme of the movie is love and sacrifice.",
+    "mnemonic": "그리스어 thema(놓인 것, 제시된 것)에서 유래. tithenai(놓다). 앞에 놓인 것 → 주제"
+  },
+  {
+    "en": "mild",
+    "ko": "온화한, 가벼운",
+    "example": "The weather was mild and pleasant.",
+    "mnemonic": "'마일드' → '마일드(mild)' 커피 = 순한 커피!"
+  },
+  {
+    "en": "petroleum",
+    "ko": "석유",
+    "example": "Petroleum is used to make gasoline and plastic.",
+    "mnemonic": "petra(바위, 돌) + oleum(기름) = 바위에서 나오는 기름 → 석유"
+  },
+  {
+    "en": "boundary",
+    "ko": "경계, 한계",
+    "example": "The river forms the boundary between the two countries.",
+    "mnemonic": "bound(경계, 한계) + ary(장소) = 한계가 있는 곳 → 경계. 관련어: bound(묶다)"
+  },
+  {
+    "en": "disorder",
+    "ko": "무질서, 장애",
+    "example": "The room was in complete disorder.",
+    "mnemonic": "dis(반대) + order(질서) = 질서의 반대 → 무질서, 장애"
+  },
+  {
+    "en": "article",
+    "ko": "기사, 조항",
+    "example": "She wrote an article about climate change.",
+    "mnemonic": "art(연결, artus) + icle(작은 것) = 작은 연결 단위 → 기사, 조항"
+  },
+  {
+    "en": "leisure",
+    "ko": "여가, 레저",
+    "example": "She enjoys reading during her leisure time.",
+    "mnemonic": "'레져' → '레저(leisure)' 여가 활동!"
+  },
+  {
+    "en": "charm",
+    "ko": "매력, 매혹하다",
+    "example": "The old town has a special charm.",
+    "mnemonic": "라틴어 carmen(노래, 주문)에서 유래. 주문을 걸듯 사로잡다 → 매력, 매혹하다"
+  },
+  {
+    "en": "commerce",
+    "ko": "상업, 무역",
+    "example": "E-commerce has grown rapidly in recent years.",
+    "mnemonic": "com(함께) + merce(상품, merx) = 상품을 함께 교환하다 → 상업. 관련어: merchant, mercury"
+  },
+  {
+    "en": "humble",
+    "ko": "겸손한, 소박한",
+    "example": "Despite his fame, he remained humble.",
+    "mnemonic": "'험블' → '험(humble)블' 험한 세상에서 겸손하게!"
+  },
+  {
+    "en": "retail",
+    "ko": "소매, 소매의",
+    "example": "The retail price is higher than the wholesale price.",
+    "mnemonic": "re(다시) + tail(자르다, tailler) = 다시 잘게 자르다 → 소매(작은 단위로 파는 것)"
+  },
+  {
+    "en": "fertile",
+    "ko": "비옥한, 풍요로운",
+    "example": "The fertile soil produced excellent crops.",
+    "mnemonic": "fert(나르다, 생산하다, ferre) + ile = 많이 생산하는 → 비옥한. 관련어: transfer, offer"
+  },
+  {
+    "en": "democracy",
+    "ko": "민주주의",
+    "example": "Democracy allows citizens to vote for their leaders.",
+    "mnemonic": "demo(민중, demos) + cracy(지배, kratos) = 민중이 지배하다 → 민주주의. 관련어: demography"
+  },
+  {
+    "en": "underline",
+    "ko": "밑줄 긋다, 강조하다",
+    "example": "The teacher underlined the important sentences.",
+    "mnemonic": "under(아래) + line(선) = 아래에 선을 긋다 → 밑줄 긋다, 강조하다"
+  },
+  {
+    "en": "fund",
+    "ko": "자금, 기금",
+    "example": "The government provided funds for the new hospital.",
+    "mnemonic": "라틴어 fundus(바닥, 기초, 토지)에서 유래. 기초가 되는 재산 → 자금. 관련어: foundation, fundamental"
+  },
+  {
+    "en": "insert",
+    "ko": "삽입하다, 넣다",
+    "example": "Insert the coin into the machine.",
+    "mnemonic": "'인서트' → 'in(안에)+sert(놓다)' 안에 넣다 = 삽입!"
+  },
+  {
+    "en": "reward",
+    "ko": "보상, 보답하다",
+    "example": "Hard work deserves a reward.",
+    "mnemonic": "re(뒤에) + ward(보다, 지키다) = 지켜본 후 되돌려주다 → 보상"
+  }
+]

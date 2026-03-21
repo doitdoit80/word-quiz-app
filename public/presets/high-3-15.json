@@ -1,0 +1,302 @@
+[
+  {
+    "en": "garrulous",
+    "ko": "수다스러운, 말이 많은",
+    "example": "The garrulous taxi driver talked nonstop during the entire ride.",
+    "mnemonic": "'개럴러스' → '개(개)+럴(럴럴)+러스' 개처럼 끊임없이 짖는 수다스러운!"
+  },
+  {
+    "en": "presumptuous",
+    "ko": "주제넘은, 건방진",
+    "example": "It would be presumptuous of me to offer advice to such an expert.",
+    "mnemonic": "pre(미리) + sumpt(잡다, 라틴어 sumere) + uous = 미리 잡아채는 → 주제넘은. sume(잡다): presume, assume, consume"
+  },
+  {
+    "en": "inculcate",
+    "ko": "주입하다, 가르치다",
+    "example": "Parents strive to inculcate good values in their children from an early age.",
+    "mnemonic": "in(안에) + culc(밟다, 라틴어 calcare) + ate = 안에 밟아 넣다 → 반복해서 주입하다"
+  },
+  {
+    "en": "sartorial",
+    "ko": "재봉의, 의복에 관한",
+    "example": "His sartorial elegance was admired by everyone at the gala.",
+    "mnemonic": "sartor(재봉사, 라틴어 sartor) + ial = 재봉사의 → 의복에 관한. sartor(재봉): sartorial, sartorius(재봉근=다리를 꼬는 근육)"
+  },
+  {
+    "en": "beguile",
+    "ko": "매혹하다, 속이다",
+    "example": "The storyteller beguiled the children with tales of magical adventures.",
+    "mnemonic": "be(완전히) + guile(속임수) = 완전히 속임수에 빠뜨리다 → 매혹하다. guile(속임수): wile(계략)과 관련"
+  },
+  {
+    "en": "saturnine",
+    "ko": "음침한, 우울한",
+    "example": "The saturnine man rarely smiled and preferred to be alone.",
+    "mnemonic": "Saturn(토성). 점성술에서 토성의 영향=우울한 기질 → 음침한. 토성(Saturn)=느리고 어두운 행성"
+  },
+  {
+    "en": "dossier",
+    "ko": "서류철, 관련 자료",
+    "example": "The detective compiled a dossier on the suspect's activities.",
+    "mnemonic": "프랑스어 dossier(등에 라벨이 붙은 서류철), dos(등, 라틴어 dorsum)에서 유래. 등에 라벨이 붙은 서류 → 서류철"
+  },
+  {
+    "en": "recondite",
+    "ko": "심오한, 난해한",
+    "example": "The professor's recondite lectures on quantum theory confused most students.",
+    "mnemonic": "re(뒤로) + cond(숨기다, 라틴어 condere) + ite = 깊이 숨겨진 → 심오한, 난해한"
+  },
+  {
+    "en": "impudent",
+    "ko": "뻔뻔한, 무례한",
+    "example": "The impudent student talked back to the teacher in front of the whole class.",
+    "mnemonic": "im(아닌) + pud(부끄러운, 라틴어 pudere) + ent = 부끄러움이 없는 → 뻔뻔한. pudor(수치심): impudence"
+  },
+  {
+    "en": "misnomer",
+    "ko": "잘못된 명칭",
+    "example": "Calling it a smartphone is a misnomer since most people rarely use it for calls.",
+    "mnemonic": "mis(잘못된) + nomer(이름, 라틴어 nomen) = 잘못된 이름 → 잘못된 명칭. nom(이름): nominal, nominate"
+  },
+  {
+    "en": "chagrin",
+    "ko": "분함, 무안함",
+    "example": "To her chagrin, she discovered she had been passed over for the promotion.",
+    "mnemonic": "프랑스어 chagrin(슬픔, 걱정). 기대가 빗나간 분함 → 무안함"
+  },
+  {
+    "en": "adverse",
+    "ko": "불리한, 역효과의",
+    "example": "The drug may cause adverse side effects in some patients.",
+    "mnemonic": "ad(~쪽으로) + verse(돌다) = 반대로 돌다 → 불리한. vers/vert(돌다): reverse, convert, adversary"
+  },
+  {
+    "en": "rescind",
+    "ko": "철회하다, 폐지하다",
+    "example": "The company rescinded the job offer after discovering falsified documents.",
+    "mnemonic": "re(뒤로) + scind(자르다, 라틴어 scindere) = 뒤로 잘라내다 → 철회하다. sciss/scind(자르다): scissors"
+  },
+  {
+    "en": "docile",
+    "ko": "유순한, 가르치기 쉬운",
+    "example": "The docile puppy followed its owner obediently throughout the park.",
+    "mnemonic": "doc(가르치다, 라틴어 docere) + ile = 가르치기 쉬운 → 유순한. doc(가르치다): doctor, doctrine, document"
+  },
+  {
+    "en": "extraneous",
+    "ko": "관계없는, 외부의",
+    "example": "Please remove all extraneous information that is not relevant to the report.",
+    "mnemonic": "extra(밖의) + neous = 외부의 → 관계없는. extra(밖): extraordinary, extravagant, extricate"
+  },
+  {
+    "en": "invidious",
+    "ko": "불쾌한, 부당한",
+    "example": "Making invidious comparisons between siblings can harm family relationships.",
+    "mnemonic": "in(향해) + vid(보다) + ious = 시기의 눈으로 보는 → 불쾌한. vid(보다): invidia(라틴어=시기), envious"
+  },
+  {
+    "en": "incandescent",
+    "ko": "백열의, 빛나는",
+    "example": "The incandescent light of the sunset painted the sky in shades of gold.",
+    "mnemonic": "in(안에서) + cand(빛나다, 라틴어 candere) + escent = 안에서 빛나는 → 백열의. cand(빛나다): candle, candid, candidate"
+  },
+  {
+    "en": "baleful",
+    "ko": "악의적인, 해로운",
+    "example": "The villain cast a baleful glare at the hero.",
+    "mnemonic": "bale(재앙, 고대 영어 bealu) + ful = 재앙으로 가득한 → 해로운, 악의적인"
+  },
+  {
+    "en": "vexation",
+    "ko": "짜증, 초조함",
+    "example": "The constant noise from the construction site was a source of great vexation.",
+    "mnemonic": "vex(괴롭히다, 라틴어 vexare) + ation = 괴로운 상태 → 짜증. vex(괴롭히다): vexatious"
+  },
+  {
+    "en": "oblivious",
+    "ko": "의식하지 못하는, 잊어버린",
+    "example": "He was completely oblivious to the danger lurking around the corner.",
+    "mnemonic": "ob(완전히) + liv(잊다, 라틴어 obliviscor) + ious = 완전히 잊은 → 의식하지 못하는"
+  },
+  {
+    "en": "lithe",
+    "ko": "유연한, 유순한",
+    "example": "The lithe gymnast performed an incredibly complex routine.",
+    "mnemonic": "고대 영어 lithe(부드러운, 유순한). 부드럽게 구부러지는 → 유연한"
+  },
+  {
+    "en": "somnolent",
+    "ko": "졸리운, 나른한",
+    "example": "The warm afternoon sun made the students somnolent during the lecture.",
+    "mnemonic": "somn(잠, 라틴어 somnus) + olent = 잠이 드는 → 졸리운. somn(잠): insomnia, somnambulism(몽유병)"
+  },
+  {
+    "en": "subliminal",
+    "ko": "잠재의식의, 의식 밖의",
+    "example": "Advertisers sometimes use subliminal messages to influence consumer behavior.",
+    "mnemonic": "sub(아래) + limin(문턱, 라틴어 limen) + al = 의식의 문턱 아래의 → 잠재의식의. limin(문턱): eliminate, preliminary"
+  },
+  {
+    "en": "splenetic",
+    "ko": "성미가 까다로운, 심술궂은",
+    "example": "The splenetic critic savaged every new production that opened in the city.",
+    "mnemonic": "splen(비장, 그리스어 splen) + etic = 비장의 → 심술궂은. 고대 의학: 비장이 화와 우울의 원인이라 믿음. spleen(비장, 울분)"
+  },
+  {
+    "en": "profligate",
+    "ko": "방탕한, 낭비하는",
+    "example": "The profligate spending habits of the government drew public criticism.",
+    "mnemonic": "pro(앞으로) + flig(때리다, 라틴어 fligere) + ate = 앞으로 내동댕이치는 → 방탕한. flig/flict(때리다): afflict, conflict"
+  },
+  {
+    "en": "arbitrate",
+    "ko": "중재하다",
+    "example": "A neutral party was called to arbitrate the labor dispute.",
+    "mnemonic": "arbiter(중재인, 라틴어) + ate = 중재인 역할을 하다 → 중재하다. 어근 arbit(판단하다): arbitrary"
+  },
+  {
+    "en": "germane",
+    "ko": "관련 있는, 적절한",
+    "example": "Please keep your comments germane to the topic under discussion.",
+    "mnemonic": "'저메인' → 'German(독일)+e' 독일처럼 정확하고 적절한!"
+  },
+  {
+    "en": "temerity",
+    "ko": "무모함, 만용",
+    "example": "He had the temerity to challenge the professor's theory in front of the class.",
+    "mnemonic": "temer(무모한, 라틴어 temerarius) + ity = 무모한 상태 → 만용. 라틴어 temere(무분별하게)"
+  },
+  {
+    "en": "decorous",
+    "ko": "예의 바른, 점잖은",
+    "example": "The guests maintained decorous behavior throughout the formal dinner.",
+    "mnemonic": "decor(장식, 적절함, 라틴어 decorum) + ous = 적절한 → 예의 바른. decor(적절함): decorum, decoration"
+  },
+  {
+    "en": "novice",
+    "ko": "초보자, 신참",
+    "example": "As a novice driver, she was very cautious on the highway.",
+    "mnemonic": "nov(새로운, 라틴어 novus) + ice = 새로 온 사람 → 초보자. nov(새로운): novel, innovate, renovate"
+  },
+  {
+    "en": "apocryphal",
+    "ko": "출처가 의심스러운, 허위의",
+    "example": "The apocryphal story about the president's childhood has been debunked by historians.",
+    "mnemonic": "apo(떨어져) + cryph(숨기다, 그리스어 kryptein) + al = 숨겨진 출처의 → 의심스러운. crypt(숨기다): crypt, cryptic, encrypt"
+  },
+  {
+    "en": "aberrant",
+    "ko": "비정상적인, 일탈적인",
+    "example": "The scientist investigated the aberrant data in the experiment.",
+    "mnemonic": "ab(벗어나) + err(방황하다) + ant = 벗어나 방황하는 → 비정상적인. err 어근: error, erratic, aberration"
+  },
+  {
+    "en": "sacrilege",
+    "ko": "신성 모독, 불경",
+    "example": "Many considered the demolition of the historic church to be an act of sacrilege.",
+    "mnemonic": "sacri(신성한, 라틴어 sacer) + lege(훔치다, legere) = 신성한 것을 훔치다 → 신성 모독. sacr(신성한): sacred, sacrifice, sacrament"
+  },
+  {
+    "en": "ambivalent",
+    "ko": "양면적인, 상반된 감정의",
+    "example": "She felt ambivalent about moving to a new city.",
+    "mnemonic": "ambi(양쪽) + val(가치, 힘) + ent = 양쪽에 가치가 있는 → 상반된 감정의. val(가치): value, valid, equivalent"
+  },
+  {
+    "en": "defile",
+    "ko": "더럽히다, 모독하다",
+    "example": "The vandals defiled the ancient temple with graffiti.",
+    "mnemonic": "de(완전히) + file(더럽히다, 고대 프랑스어 fouler=밟다) = 완전히 더럽히다 → 모독하다"
+  },
+  {
+    "en": "opprobrium",
+    "ko": "치욕, 오명",
+    "example": "The traitor faced universal opprobrium from the citizens of his country.",
+    "mnemonic": "ob(향해) + probr(수치, 라틴어 probrum) + ium = 수치를 향한 → 치욕. 공개적 비난과 불명예"
+  },
+  {
+    "en": "hackneyed",
+    "ko": "진부한, 낡은",
+    "example": "The essay was full of hackneyed phrases that lacked originality.",
+    "mnemonic": "'핵니드' → 'hackney(세놓는 말)' 너무 많이 탄 말처럼 진부한!"
+  },
+  {
+    "en": "denote",
+    "ko": "나타내다, 의미하다",
+    "example": "In mathematics, the symbol x often denotes an unknown variable.",
+    "mnemonic": "de(완전히) + note(표시하다, 라틴어 notare) = 완전히 표시하다 → 나타내다. not(표시): note, notation, notorious"
+  },
+  {
+    "en": "camaraderie",
+    "ko": "동지애, 전우애",
+    "example": "The camaraderie among the team members was evident in their celebrations.",
+    "mnemonic": "프랑스어 camarade(동료), 라틴어 camera(방). 같은 방을 쓰는 동료의 우정 → 동지애"
+  },
+  {
+    "en": "irascible",
+    "ko": "성질 급한, 화를 잘 내는",
+    "example": "The irascible old man yelled at children who walked on his lawn.",
+    "mnemonic": "ir(라틴어 ira=분노) + ascible = 화가 나기 쉬운. ira(분노): irate, ire"
+  },
+  {
+    "en": "procrustean",
+    "ko": "억지로 일률적으로 맞추는",
+    "example": "The procrustean education system forces all students into the same mold.",
+    "mnemonic": "Procrustes(프로크루스테스, 그리스 신화). 침대에 맞추어 사람을 늘이거나 자른 강도 → 억지로 맞추는"
+  },
+  {
+    "en": "impromptu",
+    "ko": "즉흥의, 준비 없는",
+    "example": "She gave an impromptu speech that captivated the entire audience.",
+    "mnemonic": "im(아닌) + promptu(준비된, 라틴어 promptus) = 준비되지 않은 → 즉흥의. prompt(준비된, 신속한)"
+  },
+  {
+    "en": "taciturn",
+    "ko": "과묵한, 말수가 적은",
+    "example": "The taciturn farmer rarely spoke more than a few words at a time.",
+    "mnemonic": "tacit(조용한) + urn = 항상 조용한 → 과묵한. tacere(조용히 하다): tacit, reticent"
+  },
+  {
+    "en": "embellish",
+    "ko": "꾸미다, 윤색하다",
+    "example": "He tends to embellish his stories to make them more exciting.",
+    "mnemonic": "'임벨리시' → 'em+bell(아름다운)+ish' 아름답게 꾸미다!"
+  },
+  {
+    "en": "eccentricity",
+    "ko": "기이함, 별남",
+    "example": "The professor's eccentricity made him both beloved and feared by students.",
+    "mnemonic": "ec(밖으로) + centr(중심) + icity = 중심에서 벗어남 → 기이함. centr(중심): center, concentrate, egocentric"
+  },
+  {
+    "en": "desultory",
+    "ko": "산만한, 체계 없는",
+    "example": "The meeting was desultory, jumping from topic to topic without resolution.",
+    "mnemonic": "de(아래로) + sult(뛰다, 라틴어 saltare) + ory = 여기저기 뛰어다니는 → 산만한. salt(뛰다): assault, result, insult"
+  },
+  {
+    "en": "canard",
+    "ko": "허위 보도, 유언비어",
+    "example": "The story about the politician turned out to be nothing but a canard.",
+    "mnemonic": "프랑스어 canard(오리). 반쯤 오리를 팔다(vendre un canard à moitié)=사기치다 → 유언비어"
+  },
+  {
+    "en": "corpulent",
+    "ko": "뚱뚱한, 비만한",
+    "example": "The corpulent man struggled to fit into the airplane seat.",
+    "mnemonic": "corpul(몸, 라틴어 corpus) + ent = 몸이 큰 → 뚱뚱한. corp(몸): corpse, corporation, incorporate"
+  },
+  {
+    "en": "rapacious",
+    "ko": "탐욕스러운, 약탈적인",
+    "example": "The rapacious corporation exploited natural resources without regard for the environment.",
+    "mnemonic": "rap(잡다, 라틴어 rapere) + acious = 잡아채는 → 탐욕스러운. rap(잡다): raptor, ravish, ravage"
+  },
+  {
+    "en": "bilingual",
+    "ko": "이중 언어의, 2개 국어를 하는",
+    "example": "Growing up in a bilingual household gave her a natural advantage.",
+    "mnemonic": "bi(둘) + lingu(언어, 라틴어 lingua) + al = 두 언어의. lingu(언어): language, linguist, linguistics"
+  }
+]

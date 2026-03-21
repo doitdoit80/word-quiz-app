@@ -1,0 +1,302 @@
+[
+  {
+    "en": "alarm",
+    "ko": "경보, 놀라게 하다",
+    "example": "The fire alarm went off in the building.",
+    "mnemonic": "이탈리아어 all'arme(무기를 들어라!)에서 유래. 위험 신호 → 경보"
+  },
+  {
+    "en": "folk",
+    "ko": "사람들, 민속의",
+    "example": "Folk music tells stories of ordinary people.",
+    "mnemonic": "고대 영어 folc(사람들, 민족)에서 유래. 게르만 공통어. 보통 사람들 → 민속의"
+  },
+  {
+    "en": "deposit",
+    "ko": "예금, 보증금, 예치하다",
+    "example": "She deposited money into her bank account.",
+    "mnemonic": "de(아래로) + posit(놓다, ponere) = 아래에 놓다 → 맡기다, 예금하다. 관련어: position, compose"
+  },
+  {
+    "en": "hostile",
+    "ko": "적대적인",
+    "example": "The crowd became hostile toward the speaker.",
+    "mnemonic": "'하스틸' → '호스(host=주인)틸' 주인에게 반항하는 적대적인!"
+  },
+  {
+    "en": "mercy",
+    "ko": "자비, 연민",
+    "example": "The judge showed mercy to the young offender.",
+    "mnemonic": "'머시' → '머시(mercy)' 자비를 베풀다!"
+  },
+  {
+    "en": "interval",
+    "ko": "간격, 사이",
+    "example": "Buses arrive at regular intervals of ten minutes.",
+    "mnemonic": "'인터벌' → '인터벌(interval)' 트레이닝 = 간격 운동!"
+  },
+  {
+    "en": "qualify",
+    "ko": "자격을 얻다, 자격이 되다",
+    "example": "She qualified for the national team.",
+    "mnemonic": "qual(어떤 종류의, qualis) + ify(만들다) = 자격 조건에 맞추다 → 자격을 얻다"
+  },
+  {
+    "en": "manual",
+    "ko": "수동의, 설명서",
+    "example": "Please read the manual before using the machine.",
+    "mnemonic": "'매뉴얼' → '매뉴얼(manual)' 사용 설명서!"
+  },
+  {
+    "en": "noble",
+    "ko": "고귀한, 귀족의",
+    "example": "He comes from a noble family.",
+    "mnemonic": "'노블' → '노블레스 오블리주' 고귀한 자의 의무!"
+  },
+  {
+    "en": "former",
+    "ko": "이전의, 전자의",
+    "example": "The former president gave a speech.",
+    "mnemonic": "form(앞의, 먼저)에서 유래. fore(앞)의 비교급. 앞에 있던 → 이전의. 관련어: first, before"
+  },
+  {
+    "en": "feast",
+    "ko": "축제, 잔치",
+    "example": "The family prepared a great feast for the holiday.",
+    "mnemonic": "라틴어 festum(축제, 기쁨)에서 유래. 관련어: festival, festive"
+  },
+  {
+    "en": "access",
+    "ko": "접근, 이용하다",
+    "example": "Students have access to the library all day.",
+    "mnemonic": "ac(~으로) + cess(가다, cedere) = ~으로 가다 → 접근하다"
+  },
+  {
+    "en": "carbon",
+    "ko": "탄소",
+    "example": "We need to reduce our carbon emissions.",
+    "mnemonic": "라틴어 carbo(숯, 석탄)에서 유래. 숯의 주성분 → 탄소"
+  },
+  {
+    "en": "facility",
+    "ko": "시설, 설비",
+    "example": "The school has excellent sports facilities.",
+    "mnemonic": "facil(쉬운, facilis) + ity = 쉽게 할 수 있게 해주는 것 → 시설. fac(하다)에서 유래. 관련어: facile"
+  },
+  {
+    "en": "vocabulary",
+    "ko": "어휘, 단어",
+    "example": "Reading helps you improve your vocabulary.",
+    "mnemonic": "라틴어 vocabulum(이름, 단어)에서 유래. voc(부르다, vocare). 부르는 것들 → 어휘. 관련어: vocal, voice"
+  },
+  {
+    "en": "supreme",
+    "ko": "최고의, 최상의",
+    "example": "The supreme court made the final decision.",
+    "mnemonic": "라틴어 supremus(가장 높은)에서 유래. super(위)의 최상급. 가장 위의 → 최고의"
+  },
+  {
+    "en": "sweep",
+    "ko": "쓸다, 휩쓸다",
+    "example": "She swept the floor before the guests arrived.",
+    "mnemonic": "고대 영어 swāpan(쓸다)에서 유래. 빗자루로 쓸어내다 → 쓸다, 휩쓸다"
+  },
+  {
+    "en": "portable",
+    "ko": "휴대용의",
+    "example": "I bought a portable speaker for the trip.",
+    "mnemonic": "port(나르다, portare) + able(할 수 있는) = 나를 수 있는 → 휴대용의"
+  },
+  {
+    "en": "rapid",
+    "ko": "빠른, 급속한",
+    "example": "The city experienced rapid growth.",
+    "mnemonic": "라틴어 rapidus(빠르게 끌어가는)에서 유래. rap(잡아 끌다, rapere). 관련어: rape(약탈)"
+  },
+  {
+    "en": "log",
+    "ko": "통나무, 기록",
+    "example": "She kept a log of all her daily activities.",
+    "mnemonic": "'로그' → '로그(log)인' 기록을 남기며 접속!"
+  },
+  {
+    "en": "poll",
+    "ko": "여론 조사, 투표",
+    "example": "The latest poll shows the candidate is ahead.",
+    "mnemonic": "중세 영어 polle(머리꼭대기)에서 유래. 머리 수를 세다 → 투표, 여론 조사"
+  },
+  {
+    "en": "refugee",
+    "ko": "난민",
+    "example": "The war forced millions of people to become refugees.",
+    "mnemonic": "re(뒤로) + fug(도망, fugere) + ee(사람) = 도망친 사람 → 난민. 관련어: refuge(피난처)"
+  },
+  {
+    "en": "cancel",
+    "ko": "취소하다",
+    "example": "They had to cancel the concert due to rain.",
+    "mnemonic": "라틴어 cancelli(격자, 빗금)에서 유래. 문서에 빗금을 긋다 → 취소하다"
+  },
+  {
+    "en": "tube",
+    "ko": "관, 튜브",
+    "example": "Toothpaste comes in a tube.",
+    "mnemonic": "라틴어 tubus(관, 파이프)에서 유래. 속이 빈 긴 통 → 관, 튜브"
+  },
+  {
+    "en": "organ",
+    "ko": "장기, 기관",
+    "example": "The heart is a vital organ in the human body.",
+    "mnemonic": "'오건' → '오건(organ)' 장기 기증!"
+  },
+  {
+    "en": "conquer",
+    "ko": "정복하다, 극복하다",
+    "example": "He conquered his fear of public speaking.",
+    "mnemonic": "con(완전히) + quer(찾다, quaerere) = 완전히 찾아 차지하다 → 정복하다. 관련어: acquire, quest"
+  },
+  {
+    "en": "moist",
+    "ko": "축축한, 습한",
+    "example": "The cake was soft and moist.",
+    "mnemonic": "'모이스트' → '모이스처(moisture)' 수분이 있는 = 축축한!"
+  },
+  {
+    "en": "curve",
+    "ko": "곡선, 커브",
+    "example": "The road has a sharp curve ahead.",
+    "mnemonic": "라틴어 curvus(구부러진)에서 유래. 구부러진 선 → 곡선"
+  },
+  {
+    "en": "strip",
+    "ko": "벗기다, 좁은 조각",
+    "example": "She stripped the paint off the old door.",
+    "mnemonic": "고대 영어 strypan(벗기다)에서 유래. 겉을 벗기다 → 벗기다. 좁은 조각(stripe와 관련)"
+  },
+  {
+    "en": "overlook",
+    "ko": "간과하다, 내려다보다",
+    "example": "Don't overlook the small details in your work.",
+    "mnemonic": "'오버룩' → 'over(넘어)+look(보다)' 넘겨보다 = 간과하다!"
+  },
+  {
+    "en": "campaign",
+    "ko": "캠페인, 운동",
+    "example": "The school launched a recycling campaign.",
+    "mnemonic": "camp(들판, campus) + aign = 들판에서 벌이는 군사활동 → 운동, 캠페인"
+  },
+  {
+    "en": "outstanding",
+    "ko": "뛰어난, 미해결의",
+    "example": "She received an award for outstanding performance.",
+    "mnemonic": "'아웃스탠딩' → 'out(밖으로)+standing(서있는)' 튀어나와 서있는 = 뛰어난!"
+  },
+  {
+    "en": "disable",
+    "ko": "무력화하다, 장애가 있게 하다",
+    "example": "The virus disabled the computer system.",
+    "mnemonic": "dis(반대) + able(할 수 있는) = 할 수 없게 만들다 → 무력화하다"
+  },
+  {
+    "en": "thorough",
+    "ko": "철저한, 완전한",
+    "example": "The police conducted a thorough investigation.",
+    "mnemonic": "고대 영어 thuruh(~을 통하여)에서 유래. through와 같은 어원. 끝까지 관통하는 → 철저한"
+  },
+  {
+    "en": "intimate",
+    "ko": "친밀한, 친한",
+    "example": "They are intimate friends who share everything.",
+    "mnemonic": "'인티밋' → '인티(inti=안쪽)밋' 안쪽까지 아는 친밀한!"
+  },
+  {
+    "en": "impact",
+    "ko": "영향, 충격",
+    "example": "The new law had a huge impact on society.",
+    "mnemonic": "'임팩트' → '임팩트(impact)' 강한 충격과 영향!"
+  },
+  {
+    "en": "exaggerate",
+    "ko": "과장하다",
+    "example": "He tends to exaggerate his achievements.",
+    "mnemonic": "ex(밖으로) + agger(쌓다, 더미) + ate = 더미 밖으로 넘치게 쌓다 → 과장하다"
+  },
+  {
+    "en": "fulfill",
+    "ko": "이행하다, 충족시키다",
+    "example": "She fulfilled her dream of becoming a teacher.",
+    "mnemonic": "full(가득) + fill(채우다) = 가득 채우다 → 이행하다, 충족시키다"
+  },
+  {
+    "en": "advance",
+    "ko": "전진하다, 발전",
+    "example": "Technology continues to advance rapidly.",
+    "mnemonic": "ad(앞으로) + vance(가다, abante) = 앞으로 가다 → 전진하다, 발전"
+  },
+  {
+    "en": "height",
+    "ko": "높이, 키",
+    "example": "What is your height in centimeters?",
+    "mnemonic": "'하이트' → '하이(high)트' 높은 것의 정도 = 높이!"
+  },
+  {
+    "en": "hostage",
+    "ko": "인질",
+    "example": "The criminals held three people hostage.",
+    "mnemonic": "고대 프랑스어 hostage(인질, 숙소)에서 유래. host(주인)와 관련. 담보로 잡힌 사람 → 인질"
+  },
+  {
+    "en": "sincere",
+    "ko": "진심의, 성실한",
+    "example": "She gave a sincere apology.",
+    "mnemonic": "라틴어 sincerus(순수한, 진짜의)에서 유래. sin(하나) + cerus(자라다). 순수한 → 진심의"
+  },
+  {
+    "en": "loan",
+    "ko": "대출, 빌려주다",
+    "example": "He took out a loan to buy a house.",
+    "mnemonic": "'론' → '론(loan)' 은행 대출!"
+  },
+  {
+    "en": "giant",
+    "ko": "거인, 거대한",
+    "example": "The giant building towers over the city.",
+    "mnemonic": "그리스어 gigas(거인)에서 유래. 그리스 신화의 거인족 기간테스 → 거인, 거대한"
+  },
+  {
+    "en": "income",
+    "ko": "수입, 소득",
+    "example": "His monthly income is enough to support his family.",
+    "mnemonic": "'인컴' → 'in(안에)+come(오다)' 안으로 들어오는 돈 = 소득!"
+  },
+  {
+    "en": "explode",
+    "ko": "폭발하다",
+    "example": "The fireworks exploded in the night sky.",
+    "mnemonic": "ex(밖으로) + plode(박수치다, plaudere) = 밖으로 쾅 터지다 → 폭발하다. 관련어: applaud"
+  },
+  {
+    "en": "output",
+    "ko": "생산량, 산출",
+    "example": "The factory increased its output by 20 percent.",
+    "mnemonic": "'아웃풋' → 'out(밖으로)+put(놓다)' 밖으로 내놓은 것 = 산출!"
+  },
+  {
+    "en": "knit",
+    "ko": "뜨개질하다, 짜다",
+    "example": "Grandma knitted a warm scarf for me.",
+    "mnemonic": "'닛' → '니트(knit)' 니트 스웨터를 짜다!"
+  },
+  {
+    "en": "insight",
+    "ko": "통찰력, 이해",
+    "example": "The book provides great insight into Korean culture.",
+    "mnemonic": "'인사이트' → 'in(안)+sight(보다)' 안을 보는 = 통찰!"
+  },
+  {
+    "en": "horizon",
+    "ko": "지평선, 수평선",
+    "example": "The sun sank below the horizon.",
+    "mnemonic": "'호라이즌' → '호라이즌(horizon)' 바다 끝 수평선!"
+  }
+]
