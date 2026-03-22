@@ -27,6 +27,7 @@ export default function WordBookPage() {
   const [isPlaying, setIsPlaying] = useState(false);
   const [playingIndex, setPlayingIndex] = useState<number>(-1);
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const wordRefs = useRef<(HTMLDivElement | null)[]>([]);
   const playingRef = useRef(false);
   const koVoiceRef = useRef<SpeechSynthesisVoice | null>(null);
 
@@ -47,6 +48,12 @@ export default function WordBookPage() {
     window.speechSynthesis.addEventListener('voiceschanged', pickKoVoice);
     return () => window.speechSynthesis.removeEventListener('voiceschanged', pickKoVoice);
   }, []);
+
+  useEffect(() => {
+    if (playingIndex >= 0 && wordRefs.current[playingIndex]) {
+      wordRefs.current[playingIndex]!.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }, [playingIndex]);
 
   const wordBook = data.wordBooks.find((wb) => wb.id === id);
 
@@ -382,6 +389,7 @@ export default function WordBookPage() {
             return (
               <div
                 key={word.id}
+                ref={(el) => { wordRefs.current[idx] = el; }}
                 className={`border rounded-xl p-4 shadow-sm transition-colors ${
                   isCurrentlyPlaying
                     ? 'bg-blue-50 border-blue-300'
