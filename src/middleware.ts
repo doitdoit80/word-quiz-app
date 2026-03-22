@@ -6,13 +6,29 @@ const PUBLIC_PATHS = ['/login', '/signup', '/find-account', '/reset-password', '
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
-  // Allow public paths and static assets
+  // Allow static assets
   if (
-    PUBLIC_PATHS.some((p) => pathname.startsWith(p)) ||
     pathname.startsWith('/_next') ||
     pathname.startsWith('/presets') ||
     pathname.includes('.')
   ) {
+    return NextResponse.next();
+  }
+
+  // Redirect logged-in users away from login/signup pages
+  if (pathname === '/login' || pathname === '/signup') {
+    const token = request.cookies.get(AUTH_COOKIE_NAME)?.value;
+    if (token) {
+      const payload = await verifyToken(token);
+      if (payload) {
+        return NextResponse.redirect(new URL('/', request.url));
+      }
+    }
+    return NextResponse.next();
+  }
+
+  // Allow public paths
+  if (PUBLIC_PATHS.some((p) => pathname.startsWith(p))) {
     return NextResponse.next();
   }
 
