@@ -3,7 +3,7 @@ import { jwtVerify } from 'jose';
 import { eq } from 'drizzle-orm';
 import { db } from '@/lib/db';
 import { users } from '@/lib/db/schema';
-import { signToken, setAuthCookie, getSecret, ADMIN_EMAIL } from '@/lib/auth';
+import { signToken, getAuthCookieOptions, AUTH_COOKIE_NAME, getSecret, ADMIN_EMAIL } from '@/lib/auth';
 
 export async function POST(request: NextRequest) {
   try {
@@ -61,7 +61,7 @@ export async function POST(request: NextRequest) {
       ok: true,
       user: { id: user.id, email: user.email, name: user.name, phone: user.phone, role: user.role, gems: user.gems, wordbookLimit: user.wordbookLimit },
     });
-    response.headers.set('Set-Cookie', setAuthCookie(authToken, payload.remember));
+    response.cookies.set(AUTH_COOKIE_NAME, authToken, getAuthCookieOptions(!!payload.remember));
     return response;
   } catch {
     return NextResponse.json({ error: '서버 오류가 발생했습니다.' }, { status: 500 });

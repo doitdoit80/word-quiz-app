@@ -3,7 +3,7 @@ import bcrypt from 'bcryptjs';
 import { eq } from 'drizzle-orm';
 import { db } from '@/lib/db';
 import { users } from '@/lib/db/schema';
-import { signToken, setAuthCookie } from '@/lib/auth';
+import { signToken, getAuthCookieOptions, AUTH_COOKIE_NAME } from '@/lib/auth';
 
 export async function POST(request: NextRequest) {
   try {
@@ -30,7 +30,7 @@ export async function POST(request: NextRequest) {
     const response = NextResponse.json({
       user: { id: user.id, email: user.email, name: user.name, phone: user.phone, role: user.role, gems: user.gems, wordbookLimit: user.wordbookLimit },
     });
-    response.headers.set('Set-Cookie', setAuthCookie(token, !!rememberMe));
+    response.cookies.set(AUTH_COOKIE_NAME, token, getAuthCookieOptions(!!rememberMe));
     return response;
   } catch {
     return NextResponse.json({ error: '서버 오류가 발생했습니다.' }, { status: 500 });

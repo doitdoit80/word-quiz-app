@@ -29,12 +29,13 @@ export async function verifyToken(token: string): Promise<JwtPayload | null> {
   }
 }
 
-export function setAuthCookie(token: string, rememberMe = true): string {
-  const secure = process.env.NODE_ENV === 'production' ? '; Secure' : '';
-  const maxAge = rememberMe ? `; Max-Age=${60 * 60 * 24 * 7}` : '';
-  return `${AUTH_COOKIE_NAME}=${token}; HttpOnly; SameSite=Lax; Path=/${maxAge}${secure}`;
-}
-
-export function removeAuthCookie(): string {
-  return `${AUTH_COOKIE_NAME}=; HttpOnly; SameSite=Lax; Path=/; Max-Age=0`;
+export function getAuthCookieOptions(rememberMe = true) {
+  return {
+    name: AUTH_COOKIE_NAME,
+    httpOnly: true,
+    sameSite: 'lax' as const,
+    path: '/',
+    secure: process.env.NODE_ENV === 'production',
+    ...(rememberMe ? { maxAge: 60 * 60 * 24 * 7 } : {}),
+  };
 }

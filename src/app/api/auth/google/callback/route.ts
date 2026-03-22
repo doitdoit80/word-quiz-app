@@ -3,7 +3,7 @@ import { SignJWT } from 'jose';
 import { eq } from 'drizzle-orm';
 import { db } from '@/lib/db';
 import { users } from '@/lib/db/schema';
-import { signToken, setAuthCookie, getSecret, ADMIN_EMAIL } from '@/lib/auth';
+import { signToken, getAuthCookieOptions, AUTH_COOKIE_NAME, getSecret, ADMIN_EMAIL } from '@/lib/auth';
 
 interface GoogleTokenResponse {
   access_token: string;
@@ -81,7 +81,7 @@ export async function GET(request: NextRequest) {
     const token = await signToken({ userId: user.id, email: user.email });
 
     const response = NextResponse.redirect(`${baseUrl}/`);
-    response.headers.set('Set-Cookie', setAuthCookie(token, rememberMe));
+    response.cookies.set(AUTH_COOKIE_NAME, token, getAuthCookieOptions(rememberMe));
     return response;
   } catch {
     return NextResponse.redirect(`${baseUrl}/login?error=google_failed`);

@@ -3,7 +3,7 @@ import bcrypt from 'bcryptjs';
 import { eq } from 'drizzle-orm';
 import { db } from '@/lib/db';
 import { users } from '@/lib/db/schema';
-import { signToken, setAuthCookie, ADMIN_EMAIL } from '@/lib/auth';
+import { signToken, getAuthCookieOptions, AUTH_COOKIE_NAME, ADMIN_EMAIL } from '@/lib/auth';
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -56,7 +56,7 @@ export async function POST(request: NextRequest) {
       { user: { id: user.id, email: user.email, name: user.name, phone: user.phone, role: user.role, gems: user.gems, wordbookLimit: user.wordbookLimit } },
       { status: 201 }
     );
-    response.headers.set('Set-Cookie', setAuthCookie(token));
+    response.cookies.set(AUTH_COOKIE_NAME, token, getAuthCookieOptions(true));
     return response;
   } catch {
     return NextResponse.json({ error: '서버 오류가 발생했습니다.' }, { status: 500 });
