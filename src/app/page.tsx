@@ -42,7 +42,13 @@ export default function HomePage() {
   async function addPreset(preset: Preset) {
     if (data.wordBooks.some((wb) => wb.name === preset.name)) return;
     if (isAtLimit) {
-      alert(`단어장은 최대 ${wordbookLimit}개까지 만들 수 있습니다.`);
+      if (!user) {
+        if (confirm('게스트는 단어장을 최대 5개까지 만들 수 있습니다.\n회원가입하면 10개까지 사용할 수 있어요!\n\n회원가입 페이지로 이동하시겠습니까?')) {
+          router.push('/signup');
+        }
+      } else {
+        alert(`단어장은 최대 ${wordbookLimit}개까지 만들 수 있습니다.`);
+      }
       return;
     }
     setLoadingPreset(preset.id);
@@ -57,14 +63,20 @@ export default function HomePage() {
     }
   }
 
-  const wordbookLimit = user?.wordbookLimit ?? 30;
+  const wordbookLimit = user?.wordbookLimit ?? 5;
   const isAtLimit = data.wordBooks.length >= wordbookLimit;
 
   function addWordBook() {
     const name = newBookName.trim();
     if (!name) return;
     if (isAtLimit) {
-      alert(`단어장은 최대 ${wordbookLimit}개까지 만들 수 있습니다.`);
+      if (!user) {
+        if (confirm('게스트는 단어장을 최대 5개까지 만들 수 있습니다.\n회원가입하면 10개까지 사용할 수 있어요!\n\n회원가입 페이지로 이동하시겠습니까?')) {
+          router.push('/signup');
+        }
+      } else {
+        alert(`단어장은 최대 ${wordbookLimit}개까지 만들 수 있습니다.`);
+      }
       return;
     }
     dispatch({ type: 'ADD_WORDBOOK', name });
