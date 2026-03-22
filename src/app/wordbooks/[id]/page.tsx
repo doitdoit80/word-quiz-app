@@ -73,7 +73,7 @@ export default function WordBookPage() {
     window.speechSynthesis?.cancel();
   }
 
-  function playAll() {
+  function playAll(withExample = false) {
     if (!wordBook || wordBook.words.length === 0) return;
     if (isPlaying) { stopPlayAll(); return; }
 
@@ -102,11 +102,24 @@ export default function WordBookPage() {
       koUtter.rate = 0.9;
       if (koVoiceRef.current) koUtter.voice = koVoiceRef.current;
 
-      koUtter.onend = () => {
+      const goNext = () => {
         if (!playingRef.current) return;
-        // 단어 사이 0.5초 간격
         setTimeout(() => playWord(index + 1), 500);
       };
+
+      if (withExample && word.example) {
+        const exUtter = new SpeechSynthesisUtterance(word.example);
+        exUtter.lang = 'en-US';
+        exUtter.rate = 0.85;
+        exUtter.onend = goNext;
+
+        koUtter.onend = () => {
+          if (!playingRef.current) return;
+          setTimeout(() => window.speechSynthesis.speak(exUtter), 300);
+        };
+      } else {
+        koUtter.onend = goNext;
+      }
 
       enUtter.onend = () => {
         if (!playingRef.current) return;
@@ -276,7 +289,7 @@ export default function WordBookPage() {
         )}
         <input ref={fileInputRef} type="file" accept=".json" className="hidden" onChange={importJSON} />
         <button
-          onClick={playAll}
+          onClick={() => playAll(false)}
           disabled={wordBook.words.length === 0}
           className={`border px-4 py-2 rounded-lg text-sm font-medium disabled:opacity-40 disabled:cursor-not-allowed transition-colors ${
             isPlaying
@@ -286,6 +299,15 @@ export default function WordBookPage() {
         >
           {isPlaying ? '⏹ 중지' : '▶ 전체 듣기'}
         </button>
+        {!isPlaying && (
+          <button
+            onClick={() => playAll(true)}
+            disabled={wordBook.words.length === 0}
+            className="border border-gray-300 text-gray-700 px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed"
+          >
+            ▶ 예문 포함 듣기
+          </button>
+        )}
         {weakWords.length > 0 && (
           <button
             onClick={() => setShowStats(!showStats)}
