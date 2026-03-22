@@ -136,6 +136,10 @@ export default function WordBookPage() {
     const en = addForm.en.trim();
     const ko = addForm.ko.trim();
     if (!en || !ko) return;
+    if (wordBook && wordBook.words.length >= 100) {
+      alert('단어장에는 최대 100개까지만 추가할 수 있어요.');
+      return;
+    }
     dispatch({
       type: 'ADD_WORD',
       wordBookId: id,
@@ -202,8 +206,19 @@ export default function WordBookPage() {
             mnemonic: item.mnemonic ? String(item.mnemonic).trim() : undefined,
           }));
         if (words.length === 0) throw new Error('유효한 단어가 없습니다');
-        dispatch({ type: 'IMPORT_WORDS', wordBookId: id, words });
-        alert(`${words.length}개 단어를 가져왔습니다!`);
+        const currentCount = wordBook?.words.length ?? 0;
+        const remaining = 100 - currentCount;
+        if (remaining <= 0) {
+          alert('단어장이 이미 100개로 가득 찼어요.');
+          return;
+        }
+        const toImport = words.slice(0, remaining);
+        dispatch({ type: 'IMPORT_WORDS', wordBookId: id, words: toImport });
+        if (toImport.length < words.length) {
+          alert(`100개 제한으로 ${toImport.length}개만 가져왔습니다. (${words.length - toImport.length}개 초과)`);
+        } else {
+          alert(`${toImport.length}개 단어를 가져왔습니다!`);
+        }
       } catch (err) {
         alert(`가져오기 실패: ${err instanceof Error ? err.message : '잘못된 형식'}`);
       }

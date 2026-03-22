@@ -56,7 +56,9 @@ function reducer(state: AppData, action: Action): AppData {
         ...state,
         wordBooks: state.wordBooks.map((wb) =>
           wb.id === action.wordBookId
-            ? { ...wb, words: [...wb.words, { ...action.word, id: generateId() }] }
+            ? wb.words.length >= 100
+              ? wb
+              : { ...wb, words: [...wb.words, { ...action.word, id: generateId() }] }
             : wb
         ),
       };
@@ -84,17 +86,13 @@ function reducer(state: AppData, action: Action): AppData {
     case 'IMPORT_WORDS':
       return {
         ...state,
-        wordBooks: state.wordBooks.map((wb) =>
-          wb.id === action.wordBookId
-            ? {
-                ...wb,
-                words: [
-                  ...wb.words,
-                  ...action.words.map((w) => ({ ...w, id: generateId() })),
-                ],
-              }
-            : wb
-        ),
+        wordBooks: state.wordBooks.map((wb) => {
+          if (wb.id !== action.wordBookId) return wb;
+          const remaining = 100 - wb.words.length;
+          if (remaining <= 0) return wb;
+          const toAdd = action.words.slice(0, remaining);
+          return { ...wb, words: [...wb.words, ...toAdd.map((w) => ({ ...w, id: generateId() }))] };
+        }),
       };
 
     case 'RESET_WORD_STAT': {
