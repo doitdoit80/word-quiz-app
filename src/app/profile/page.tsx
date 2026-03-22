@@ -369,7 +369,8 @@ export default function ProfilePage() {
                     body: JSON.stringify(localData),
                   });
                   if (res.ok) {
-                    setSyncMsg({ type: 'ok', text: '동기화 완료! 페이지를 새로고침합니다...' });
+                    localStorage.removeItem('word-quiz-app');
+                    setSyncMsg({ type: 'ok', text: '동기화 완료! 로컬 데이터를 삭제하고 새로고침합니다...' });
                     setTimeout(() => window.location.reload(), 1000);
                   } else {
                     const d = await res.json();
