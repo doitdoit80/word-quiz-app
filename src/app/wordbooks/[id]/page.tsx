@@ -411,9 +411,43 @@ export default function WordBookPage() {
       </div>
 
       {wordBook.words.length === 0 ? (
-        <div className="text-center py-12 text-gray-400 bg-white rounded-xl border border-gray-200">
+        <div className="text-center py-12 text-gray-400 bg-white rounded-xl border border-gray-200 px-6">
           <div className="text-4xl mb-3">✏️</div>
-          <p>단어가 없어요. 단어를 추가하거나 JSON을 가져오세요.</p>
+          <p className="mb-4">단어가 없어요. 단어를 추가하거나 JSON을 가져오세요.</p>
+          <div className="text-left max-w-xs mx-auto bg-gray-50 rounded-lg p-3 text-xs text-gray-500 border border-gray-200">
+            <div className="flex items-center justify-between mb-1.5">
+              <p className="font-medium text-gray-600">JSON 형식 예시</p>
+              <button
+                type="button"
+                onClick={() => {
+                  const example = JSON.stringify([
+                    { en: 'apple', ko: '사과', example: 'I ate an apple.', mnemonic: '애플 로고를 떠올려보세요.' },
+                    { en: 'identify', ko: '확인하다', example: 'Identify the problem.', mnemonic: 'ID로 확인!' },
+                    { en: 'sustain', ko: '유지하다', example: 'Sustain your effort.', mnemonic: 'sus(아래서) + tain(잡다) = 아래서 받쳐 유지하다' },
+                  ], null, 2);
+                  const blob = new Blob([example], { type: 'application/json' });
+                  const url = URL.createObjectURL(blob);
+                  const a = document.createElement('a');
+                  a.href = url;
+                  a.download = 'wordbook-example.json';
+                  a.click();
+                  URL.revokeObjectURL(url);
+                }}
+                className="text-blue-500 hover:text-blue-700 hover:underline"
+              >
+                샘플 다운로드
+              </button>
+            </div>
+            <pre className="whitespace-pre-wrap leading-relaxed">{`[
+  {
+    "en": "identify",
+    "ko": "확인하다",
+    "example": "Identify the problem.",
+    "mnemonic": "ID로 확인!"
+  }
+]`}</pre>
+            <p className="mt-1.5 text-gray-400">en, ko 필수 / example, mnemonic 선택</p>
+          </div>
         </div>
       ) : (
         <div className="space-y-2">

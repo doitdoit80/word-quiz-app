@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Geist } from 'next/font/google';
 import './globals.css';
 import { AppProvider } from '@/contexts/AppContext';
+import { AuthProvider } from '@/contexts/AuthContext';
 
 const geist = Geist({ subsets: ['latin'], variable: '--font-geist' });
 
@@ -14,7 +15,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ko">
       <body className={`${geist.variable} antialiased bg-gray-50 min-h-screen`}>
-        <AppProvider>{children}</AppProvider>
+        <AuthProvider>
+          <AppProvider>{children}</AppProvider>
+        </AuthProvider>
       </body>
     </html>
   );

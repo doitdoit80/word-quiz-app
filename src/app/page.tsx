@@ -2,7 +2,9 @@
 
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 import { useApp } from '@/contexts/AppContext';
+import { useAuth } from '@/contexts/AuthContext';
 import { formatDate } from '@/lib/utils';
 
 interface Preset {
@@ -16,6 +18,7 @@ interface Preset {
 
 export default function HomePage() {
   const { data, dispatch } = useApp();
+  const { user, logout } = useAuth();
   const router = useRouter();
   const [newBookName, setNewBookName] = useState('');
   const [showForm, setShowForm] = useState(false);
@@ -38,6 +41,10 @@ export default function HomePage() {
 
   async function addPreset(preset: Preset) {
     if (data.wordBooks.some((wb) => wb.name === preset.name)) return;
+    if (isAtLimit) {
+      alert(`단어장은 최대 ${wordbookLimit}개까지 만들 수 있습니다.`);
+      return;
+    }
     setLoadingPreset(preset.id);
     try {
       const res = await fetch(`/presets/${preset.fileName}`);
@@ -50,9 +57,16 @@ export default function HomePage() {
     }
   }
 
+  const wordbookLimit = user?.wordbookLimit ?? 30;
+  const isAtLimit = data.wordBooks.length >= wordbookLimit;
+
   function addWordBook() {
     const name = newBookName.trim();
     if (!name) return;
+    if (isAtLimit) {
+      alert(`단어장은 최대 ${wordbookLimit}개까지 만들 수 있습니다.`);
+      return;
+    }
     dispatch({ type: 'ADD_WORDBOOK', name });
     setNewBookName('');
     setShowForm(false);
@@ -106,6 +120,35 @@ export default function HomePage() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
+      {user ? (
+        <div className="flex items-center justify-end gap-3 mb-4 text-sm text-gray-500">
+          <span className="font-medium text-blue-600">💎 {user.gems}</span>
+          <Link href="/profile" className="hover:text-gray-700 hover:underline transition">
+            {user.name}
+          </Link>
+          {user.role === 'admin' && (
+            <Link
+              href="/admin"
+              className="px-2 py-0.5 bg-purple-100 text-purple-700 text-xs font-semibold rounded-full hover:bg-purple-200 transition"
+            >
+              관리자
+            </Link>
+          )}
+          <button
+            onClick={logout}
+            className="text-red-500 hover:text-red-600 font-medium transition"
+          >
+            로그아웃
+          </button>
+        </div>
+      ) : (
+        <div className="flex items-center justify-end gap-3 mb-4 text-sm text-gray-500">
+          <span>게스트 모드</span>
+          <Link href="/login" className="text-blue-600 hover:underline font-medium">
+            로그인
+          </Link>
+        </div>
+      )}
       <header className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900">📚 단어 테스트 앱</h1>
         <p className="text-gray-500 mt-1">단어장을 만들고 테스트해보세요</p>
@@ -141,12 +184,13 @@ export default function HomePage() {
             </button>
           </div>
         ) : (
-          <div className="flex gap-2">
+          <div className="flex gap-2 items-center">
             <button
-              onClick={() => setShowForm(true)}
-              className="bg-blue-600 text-white px-5 py-2.5 rounded-lg hover:bg-blue-700 font-medium"
+              onClick={() => isAtLimit ? null : setShowForm(true)}
+              disabled={isAtLimit}
+              className="bg-blue-600 text-white px-5 py-2.5 rounded-lg hover:bg-blue-700 font-medium disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              + 내 단어장 추가
+              + 내 단어장 추가 ({data.wordBooks.length}/{wordbookLimit})
             </button>
             <button
               onClick={() => setShowPresets(!showPresets)}
