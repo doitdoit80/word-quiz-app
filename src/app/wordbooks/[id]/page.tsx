@@ -97,7 +97,7 @@ export default function WordBookPage() {
       enUtter.lang = 'en-US';
       enUtter.rate = 0.85;
 
-      const koUtter = new SpeechSynthesisUtterance(word.ko);
+      const koUtter = new SpeechSynthesisUtterance(word.ko.replace(/~/g, '무엇무엇'));
       koUtter.lang = 'ko-KR';
       koUtter.rate = 0.9;
       if (koVoiceRef.current) koUtter.voice = koVoiceRef.current;
