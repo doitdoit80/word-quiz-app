@@ -441,7 +441,8 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     saveData(data);
   }, [data, isLoaded, isServerMode]);
 
-  // Dispatch wrapper that syncs to server + updates cache
+  // Sync queue to serialize server requests (prevents race conditions)
+  const syncQueueRef = useRef<Promise<void>>(Promise.resolve());
   const userIdRef = useRef(user?.id);
   userIdRef.current = user?.id;
 
@@ -449,8 +450,10 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     (action: Action) => {
       rawDispatch(action);
       if (isServerMode && action.type !== 'LOAD') {
-        // Use setTimeout to get updated state after reducer runs
-        setTimeout(async () => {
+        // Chain onto the sync queue so requests run in order
+        syncQueueRef.current = syncQueueRef.current.then(async () => {
+          // Wait for next tick to get post-reducer state
+          await new Promise((r) => setTimeout(r, 0));
           // Update local cache immediately
           if (userIdRef.current) {
             saveCache(userIdRef.current, dataRef.current);
@@ -460,7 +463,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
           if (!ok) {
             setSyncError('서버 동기화에 실패했습니다. 네트워크 연결을 확인해주세요.');
           }
-        }, 0);
+        });
       }
     },
     [isServerMode]
