@@ -29,13 +29,27 @@ export async function verifyToken(token: string): Promise<JwtPayload | null> {
   }
 }
 
-export function getAuthCookieOptions(rememberMe = true) {
-  return {
-    name: AUTH_COOKIE_NAME,
+export function getAuthCookieOptions(rememberMe = true): {
+  httpOnly: boolean;
+  sameSite: 'lax';
+  path: string;
+  secure: boolean;
+  maxAge?: number;
+} {
+  const options: {
+    httpOnly: boolean;
+    sameSite: 'lax';
+    path: string;
+    secure: boolean;
+    maxAge?: number;
+  } = {
     httpOnly: true,
-    sameSite: 'lax' as const,
+    sameSite: 'lax',
     path: '/',
     secure: process.env.NODE_ENV === 'production',
-    ...(rememberMe ? { maxAge: 60 * 60 * 24 * 7 } : {}),
   };
+  if (rememberMe) {
+    options.maxAge = 60 * 60 * 24 * 7; // 7 days
+  }
+  return options;
 }
